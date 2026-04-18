@@ -43,11 +43,19 @@ jobs:
       - name: Enrich pending articles
         run: python -m pipeline.run enrich --limit 50
 
-      - name: Export CSV + JSON + XLSX
+      - name: Export CSV + JSON + XLSX + HTML dashboard
         run: python -m pipeline.run export --format all
 
       - name: Report health
         run: python -m pipeline.run health || true
+
+      - name: Stage dashboard for GitHub Pages
+        run: |
+          mkdir -p docs
+          cp data/exports/dashboard.html docs/index.html
+          # Keep the latest CSV/JSON next to the dashboard for direct download
+          cp data/exports/rounds_*.csv  docs/rounds_latest.csv  2>/dev/null || true
+          cp data/exports/rounds_*.json docs/rounds_latest.json 2>/dev/null || true
 
       - name: Upload exports as artifact
         uses: actions/upload-artifact@v4
@@ -56,16 +64,16 @@ jobs:
           path: data/exports/
           retention-days: 30
 
-      - name: Commit refreshed sample exports
+      - name: Commit refreshed exports + dashboard
         run: |
           cp data/exports/rounds_*.csv  exports/sample_rounds.csv  2>/dev/null || true
           cp data/exports/rounds_*.json exports/sample_rounds.json 2>/dev/null || true
-          if [ -n "$(git status --porcelain exports/)" ]; then
+          if [ -n "$(git status --porcelain exports/ docs/)" ]; then
             git config user.name  "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add exports/
-            git commit -m "chore(exports): refresh sample exports [skip ci]"
+            git add exports/ docs/
+            git commit -m "chore(exports): refresh sample exports + dashboard [skip ci]"
             git push
           else
-            echo "No export changes to commit."
+            echo "No export or dashboard changes to commit."
           fi

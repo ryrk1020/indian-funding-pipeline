@@ -316,15 +316,16 @@ def enrich(
 
 @app.command()
 def export(
-    fmt: str = typer.Option("all", "--format", help="csv | json | xlsx | sheets | all"),
-    out_dir: str = typer.Option("data/exports", "--out", help="Directory for CSV/JSON."),
+    fmt: str = typer.Option("all", "--format", help="csv | json | xlsx | html | sheets | all"),
+    out_dir: str = typer.Option("data/exports", "--out", help="Directory for CSV/JSON/XLSX/HTML."),
     min_confidence: float = typer.Option(0.0, help="Skip rounds below this confidence."),
     log_level: str = typer.Option(settings.pipeline_log_level, "--log-level"),
 ) -> None:
-    """Export funding_rounds to CSV / JSON / Google Sheets."""
+    """Export funding_rounds to CSV / JSON / XLSX / HTML dashboard / Google Sheets."""
     _configure_logging(log_level)
     from pathlib import Path
 
+    from pipeline.dashboard import export_dashboard
     from pipeline.exporter import export_csv, export_json, export_xlsx
 
     storage = Storage()
@@ -344,6 +345,10 @@ def export(
         p = out_path / f"rounds_{stamp}.xlsx"
         n = export_xlsx(storage, p, min_confidence=min_confidence)
         results.append(("xlsx", str(p), n))
+    if fmt in ("html", "all"):
+        p = out_path / "dashboard.html"
+        n = export_dashboard(storage, p, min_confidence=min_confidence)
+        results.append(("html", str(p), n))
     if fmt in ("sheets", "all"):
         sa = settings.google_service_account_file
         sid = settings.google_sheet_id

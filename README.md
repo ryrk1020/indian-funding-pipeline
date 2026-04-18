@@ -1,8 +1,23 @@
 # Indian Startup Funding Intelligence Pipeline
 
-Production-grade data pipeline that scrapes Indian startup funding news from three sources, enriches raw article text into structured records via an LLM (with a deterministic regex fallback), validates and de-duplicates across sources, and exports to CSV / JSON / Excel. Runs unattended on a daily GitHub Actions cron.
+Production-grade data pipeline that scrapes Indian startup funding news from three sources, enriches raw article text into structured records via an LLM (with a deterministic regex fallback), validates and de-duplicates across sources, and exports to CSV / JSON / Excel plus a **single-file interactive dashboard**. Runs unattended on a daily GitHub Actions cron.
 
-**71 tests passing.** ~3x throughput vs sequential baseline. [Sample output](exports/sample_rounds.csv).
+**80 tests passing.** ~3x throughput vs sequential baseline. [Sample CSV](exports/sample_rounds.csv) · [Live dashboard](https://ryrk1020.github.io/indian-funding-pipeline/) (auto-refreshed daily).
+
+---
+
+## Dashboard
+
+The daily workflow generates a self-contained `docs/index.html` — zero server, opens on double-click — with:
+
+- **Real-time filters**: date range, stages, sectors, investor search, amount range, confidence threshold
+- **6 interactive charts** (Apache ECharts 5): funding timeline, stage distribution, top sectors, top investors, round-size histogram
+- **Sortable table** with row-level drawer showing summary, investor chips, and source links
+- **Dark mode** (persisted), **print CSS**, **mobile-responsive**, CSV download of the filtered view
+
+Stack: Jinja2 (templating) + ECharts 5 (charts) + Alpine.js 3 (reactivity) + Tailwind CSS 3 (styling). No build step.
+
+Generate locally: `python -m pipeline.run export --format html --out docs`
 
 ---
 
