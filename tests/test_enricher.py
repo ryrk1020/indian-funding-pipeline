@@ -20,6 +20,8 @@ from pipeline.enricher import (
 def _make_enricher_with_response(raw: str) -> OpenRouterEnricher:
     e = OpenRouterEnricher.__new__(OpenRouterEnricher)  # skip __init__ (no openai deps)
     e.cfg = EnricherConfig(api_key="test-key", model="m", referer="r", app_name="a")
+    e._models = ["m"]
+    e._model_idx = 0
     mock_client = MagicMock()
     completion = SimpleNamespace(
         choices=[SimpleNamespace(message=SimpleNamespace(content=raw))]
