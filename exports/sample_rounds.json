@@ -1,0 +1,317 @@
+[
+  {
+    "round_id": "362f6556f7a1843e",
+    "company_name": "GobbleCube",
+    "sector": null,
+    "stage": "series_a",
+    "amount": 15.0,
+    "currency": "USD",
+    "amount_usd": 15.0,
+    "announced_on": "2026-04-15",
+    "lead_investor": "Susquehanna Venture Capital",
+    "investors": [
+      "InfoEdge Ventures",
+      "Kae Capital",
+      "Susquehanna Venture Capital"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/04/funding-gobblecube-15-million-series-a-susquehanna-venture-capital"
+    ],
+    "summary": "GobbleCube, an AI startup based in Gurugram building agentic platforms for digital commerce, raised $15 million in a Series A round led by Susquehanna Venture Capital, with participation from InfoEdge Ventures and Kae Capital.",
+    "confidence": 0.96,
+    "extraction_method": "llm",
+    "created_at": "2026-04-18T08:27:58.218437",
+    "updated_at": "2026-04-18T08:27:58.218441"
+  },
+  {
+    "round_id": "aea4b3bd00d0ab1c",
+    "company_name": "TraqCheck",
+    "sector": null,
+    "stage": "series_a",
+    "amount": 8.0,
+    "currency": "USD",
+    "amount_usd": 8.0,
+    "announced_on": "2026-04-14",
+    "lead_investor": "IvyCap Ventures",
+    "investors": [
+      "IIFL",
+      "IvyCap Ventures"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/04/traqcheck-raises-8-million-led-by-ivycap-ventures"
+    ],
+    "summary": "TraqCheck, an HR tech startup, raised $8 million in a Series A round led by IvyCap Ventures with participation from IIFL to expand its AI-driven background screening and sourcing agents in Europe.",
+    "confidence": 0.96,
+    "extraction_method": "llm",
+    "created_at": "2026-04-18T08:27:52.624949",
+    "updated_at": "2026-04-18T08:27:52.624954"
+  },
+  {
+    "round_id": "97014efa93633a62",
+    "company_name": "The Hosteller",
+    "sector": null,
+    "stage": "series_b",
+    "amount": 1500000000.0,
+    "currency": "INR",
+    "amount_usd": 18072289.0,
+    "announced_on": "2026-04-16",
+    "lead_investor": "PROMAFT Partners",
+    "investors": [
+      "ITI Growth Opportunities Fund",
+      "Merisis Wealth Trust",
+      "PROMAFT Partners",
+      "V3 Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/news/the-hosteller-raises-rs-150-cr-in-series-b-round-led-by-promaft-and-v3-ventures-11730910",
+      "https://yourstory.com/2026/04/the-hosteller-raises-rs-150-cr-series-b-funding-promaft-partners"
+    ],
+    "summary": "The Hosteller raised Rs 150 crore in a Series B round co-led by PROMAFT Partners and V3 Ventures, with participation from ITI Growth Opportunities Fund and Merisis Wealth Trust, to fund expansion of its hostel network across India.",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "created_at": "2026-04-18T08:28:00.606162",
+    "updated_at": "2026-04-18T08:28:19.979083"
+  },
+  {
+    "round_id": "5fcec0a93251e182",
+    "company_name": "Cohoma Coffee",
+    "sector": null,
+    "stage": "seed",
+    "amount": 50000000.0,
+    "currency": "INR",
+    "amount_usd": 602409.64,
+    "announced_on": "2026-04-16",
+    "lead_investor": "Inflection Point Ventures",
+    "investors": [
+      "Inflection Point Ventures",
+      "Swishin VC"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/cohoma-coffee-raises-rs-5-cr-seed-round-led-by-ipv-11730918"
+    ],
+    "summary": "Cohoma Coffee, a specialty coffee roaster and machine manufacturer, raised Rs 5 crore in a seed round led by Inflection Point Ventures with participation from Swishin VC to scale manufacturing and expand internationally.",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "created_at": "2026-04-18T08:28:11.743814",
+    "updated_at": "2026-04-18T08:28:11.743818"
+  },
+  {
+    "round_id": "9f0a875bcda6d08c",
+    "company_name": "Polaris Smart Metering Private Limited",
+    "sector": null,
+    "stage": "debt",
+    "amount": 7100000000.0,
+    "currency": "INR",
+    "amount_usd": 85.5,
+    "announced_on": "2026-04-16",
+    "lead_investor": "British International Investment",
+    "investors": [
+      "British International Investment"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/polaris-raises-80-mn-from-british-international-investment-11731748"
+    ],
+    "summary": "Polaris Smart Metering Private Limited secured Rs 710 crore (≈$80‑$86 million) in financing from British International Investment to deploy 2.2 million smart meters in West Bengal and expand its AMI footprint.",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "created_at": "2026-04-18T08:28:22.212717",
+    "updated_at": "2026-04-18T08:28:22.212724"
+  },
+  {
+    "round_id": "c95a0833a3a77948",
+    "company_name": "Funding",
+    "sector": null,
+    "stage": "pre_series_a",
+    "amount": 129000000.0,
+    "currency": "USD",
+    "amount_usd": 129000000.0,
+    "announced_on": "2026-04-18",
+    "lead_investor": "PROMAFT Partners",
+    "investors": [
+      "IIFL. Aliste Technologies",
+      "PROMAFT Partners",
+      "YourNest VC"
+    ],
+    "sources": [
+      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startup-this-week-apr-13-apr-18-11739056"
+    ],
+    "summary": null,
+    "confidence": 0.85,
+    "extraction_method": "regex_fallback",
+    "created_at": "2026-04-18T08:33:24.675210",
+    "updated_at": "2026-04-18T08:33:24.675216"
+  },
+  {
+    "round_id": "56ed9cf75056e025",
+    "company_name": "The Hosteller",
+    "sector": null,
+    "stage": "undisclosed",
+    "amount": 150.0,
+    "currency": "INR",
+    "amount_usd": 1807.23,
+    "announced_on": "2026-04-17",
+    "lead_investor": null,
+    "investors": [
+      "ITI Growth Opportunities Fund",
+      "Merisis Wealth Trust",
+      "PROMAFT Partners",
+      "V3 Ventures",
+      "family offices"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/04/weekly-funding-roundup-april-11-17-steep-fall-in-vc-inflow-into-indian-startups"
+    ],
+    "summary": "The Hosteller raised Rs 150 crore (approximately $16 million) from a group of investors including PROMAFT Partners and V3 Ventures.",
+    "confidence": 0.85,
+    "extraction_method": "llm",
+    "created_at": "2026-04-18T08:28:06.821264",
+    "updated_at": "2026-04-18T08:28:06.821268"
+  },
+  {
+    "round_id": "c93a41cefa613334",
+    "company_name": "OTP Ventures",
+    "sector": null,
+    "stage": "pre_seed",
+    "amount": 63000000.0,
+    "currency": "INR",
+    "amount_usd": 759036.14,
+    "announced_on": "2026-04-17",
+    "lead_investor": "OTP Ventures",
+    "investors": [
+      "OTP Ventures",
+      "Sadev Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/otp-ventures-leads-pre-seed-round-in-fragrance-brand-fifth-sense-11735379"
+    ],
+    "summary": null,
+    "confidence": 0.85,
+    "extraction_method": "regex_fallback",
+    "created_at": "2026-04-18T08:33:23.964779",
+    "updated_at": "2026-04-18T08:33:23.964787"
+  },
+  {
+    "round_id": "f4a99bc84a71a288",
+    "company_name": "Unbound",
+    "sector": null,
+    "stage": "undisclosed",
+    "amount": 80000000.0,
+    "currency": "INR",
+    "amount_usd": 963855.42,
+    "announced_on": "2026-04-16",
+    "lead_investor": "Fireside Ventures",
+    "investors": [
+      "Fireside Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/mens-personal-care-brand-unbound-raises-rs-8-cr-led-by-fireside-ventures-11731565"
+    ],
+    "summary": "Unbound, a men's personal care brand, raised Rs 8 crore in a funding round led by Fireside Ventures to launch its first product range in India.",
+    "confidence": 0.85,
+    "extraction_method": "llm",
+    "created_at": "2026-04-18T08:28:21.636934",
+    "updated_at": "2026-04-18T08:28:21.636941"
+  },
+  {
+    "round_id": "8ed6eea904401214",
+    "company_name": "Bluestone",
+    "sector": null,
+    "stage": "grant",
+    "amount": 29000000.0,
+    "currency": "USD",
+    "amount_usd": 29000000.0,
+    "announced_on": "2026-04-17",
+    "lead_investor": null,
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/bluestone-grants-fresh-esops-worth-rs-11-cr-11735866"
+    ],
+    "summary": null,
+    "confidence": 0.8,
+    "extraction_method": "regex_fallback",
+    "created_at": "2026-04-18T08:33:24.276396",
+    "updated_at": "2026-04-18T08:33:24.276404"
+  },
+  {
+    "round_id": "0cce54043ac6430d",
+    "company_name": "Indigo",
+    "sector": null,
+    "stage": "undisclosed",
+    "amount": 13400000.0,
+    "currency": "USD",
+    "amount_usd": 13400000.0,
+    "announced_on": "2026-04-16",
+    "lead_investor": "Accel",
+    "investors": [
+      "Accel"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/04/indigo-invests-air-taxi-maker-sarla-aviation"
+    ],
+    "summary": null,
+    "confidence": 0.8,
+    "extraction_method": "regex_fallback",
+    "created_at": "2026-04-18T08:33:23.709290",
+    "updated_at": "2026-04-18T08:33:23.709298"
+  },
+  {
+    "round_id": "a6899a5613c5b1d6",
+    "company_name": "ZoloStays",
+    "sector": null,
+    "stage": "undisclosed",
+    "amount": 118000000.0,
+    "currency": "USD",
+    "amount_usd": 118000000.0,
+    "announced_on": "2026-04-17",
+    "lead_investor": null,
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/zolostays-reports-rs-342-cr-revenue-in-fy25-margins-improve-11736861"
+    ],
+    "summary": null,
+    "confidence": 0.6000000000000001,
+    "extraction_method": "regex_fallback",
+    "created_at": "2026-04-18T08:33:24.453552",
+    "updated_at": "2026-04-18T08:33:24.453556"
+  },
+  {
+    "round_id": "1c56ee20d974b81b",
+    "company_name": "Govt’s Fund",
+    "sector": null,
+    "stage": "undisclosed",
+    "amount": 100000000000.0,
+    "currency": "INR",
+    "amount_usd": 1204819277.11,
+    "announced_on": "2026-04-14",
+    "lead_investor": null,
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/04/govts-fund-of-funds-20-expand-newer-startup-segments"
+    ],
+    "summary": "The government announced a Rs 10,000 crore Fund of Funds 2.0 to support deep‑tech, manufacturing and early‑growth startups through segmented AIFs.",
+    "confidence": 0.24000000000000002,
+    "extraction_method": "llm+regex",
+    "created_at": "2026-04-18T08:27:50.032391",
+    "updated_at": "2026-04-18T08:27:50.032399"
+  },
+  {
+    "round_id": "0cb65a37ce196e05",
+    "company_name": "Masters’ Union",
+    "sector": null,
+    "stage": "undisclosed",
+    "amount": 1000000000.0,
+    "currency": "INR",
+    "amount_usd": 12048192.77,
+    "announced_on": "2026-04-09",
+    "lead_investor": null,
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
+    ],
+    "summary": "Masters’ Union launched a Rs 100 crore early‑stage investment platform, MU Ventures, to fund founders under 25 across various tracks.",
+    "confidence": 0.24000000000000002,
+    "extraction_method": "llm+regex",
+    "created_at": "2026-04-18T08:28:11.492947",
+    "updated_at": "2026-04-18T08:28:11.492952"
+  }
+]

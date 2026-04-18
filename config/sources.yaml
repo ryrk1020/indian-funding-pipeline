@@ -1,0 +1,57 @@
+# One entry per source. `enabled: false` skips it without removing the config.
+# `kind: static` → HTTPX + BeautifulSoup. `kind: dynamic` → Playwright.
+
+sources:
+  inc42:
+    enabled: true
+    kind: static
+    base_url: https://inc42.com
+    list_urls:
+      - https://inc42.com/post-sitemap54.xml
+    pagination:
+      strategy: sitemap
+      # Walk these sitemap files in order. Add older post-sitemapN.xml files
+      # for deeper archive coverage (Day 2+).
+      sitemaps:
+        - https://inc42.com/post-sitemap54.xml
+      max_pages: 5          # caps articles per run (×20 = max 100 candidates)
+    selectors:
+      # Inc42 detail pages use OpenGraph + .entry-content. Selectors kept for
+      # schema-drift monitoring in Day 4.
+      article_body: "div.entry-content"
+      og_title: 'meta[property="og:title"]'
+      og_published: 'meta[property="article:published_time"]'
+    rate_limit_per_sec: 1.0
+
+  entrackr:
+    enabled: true
+    kind: dynamic           # listing rendered by Playwright; detail static
+    base_url: https://entrackr.com
+    list_urls:
+      - https://entrackr.com/
+    pagination:
+      strategy: infinite_scroll
+      max_scrolls: 8
+      scroll_pause_ms: 1500
+      max_articles: 60
+    selectors:
+      article_body: "article"
+      og_title: 'meta[property="og:title"]'
+      author: ".author"
+    rate_limit_per_sec: 0.8
+
+  yourstory:
+    enabled: true
+    kind: dynamic
+    base_url: https://yourstory.com
+    list_urls:
+      - https://yourstory.com/category/funding
+    pagination:
+      strategy: infinite_scroll
+      max_scrolls: 8
+      scroll_pause_ms: 1500
+      max_articles: 40
+    selectors:
+      article_body: "article"
+      og_title: 'meta[property="og:title"]'
+    rate_limit_per_sec: 0.8
