@@ -97,12 +97,20 @@ def _coerce_json(raw: str) -> dict:
         return json.loads(m.group(0))
 
 
-def _retriable_openai_exc() -> tuple[type[Exception], ...]:
-    """Openai SDK errors worth retrying. Looked up lazily so tests don't need
-    the library to import this module."""
+def _transient_openai_exc() -> tuple[type[Exception], ...]:
+    """Transient errors worth retrying on the *same* model (network / 5xx)."""
     try:
-        from openai import APIConnectionError, APITimeoutError, InternalServerError, RateLimitError
-        return (RateLimitError, APITimeoutError, APIConnectionError, InternalServerError)
+        from openai import APIConnectionError, APITimeoutError, InternalServerError
+        return (APITimeoutError, APIConnectionError, InternalServerError)
+    except ImportError:
+        return ()
+
+
+def _exhausted_openai_exc() -> tuple[type[Exception], ...]:
+    """Errors that mean this model is done — switch to the next one."""
+    try:
+        from openai import NotFoundError, RateLimitError
+        return (RateLimitError, NotFoundError)
     except ImportError:
         return ()
 
@@ -117,8 +125,10 @@ class OpenRouterEnricher:
                 app_name=settings.openrouter_app_name,
             )
         self.cfg = config
-        # Import here so the regex-only path doesn't need openai installed at
-        # import time (keeps tests cheap).
+        self._models: list[str] = settings.model_chain
+        # Advances permanently when a model is exhausted so later articles skip it.
+        self._model_idx: int = 0
+
         from openai import AsyncOpenAI
 
         self._client = AsyncOpenAI(
@@ -131,22 +141,20 @@ class OpenRouterEnricher:
             timeout=config.request_timeout,
         )
 
+    @property
+    def active_model(self) -> str:
+        return self._models[self._model_idx]
+
     @retry(
-        stop=stop_after_attempt(4),
-        wait=wait_random_exponential(multiplier=1, max=30),
-        # Retry on transient issues: timeouts, rate-limits (429), server errors (5xx),
-        # network hiccups. Do NOT retry on auth / 400-level schema errors.
-        retry=retry_if_exception_type((
-            TimeoutError,
-            asyncio.TimeoutError,
-            _retriable_openai_exc(),
-        )),
+        stop=stop_after_attempt(3),
+        wait=wait_random_exponential(multiplier=1, max=20),
+        retry=retry_if_exception_type((TimeoutError, asyncio.TimeoutError, *_transient_openai_exc())),
         reraise=True,
     )
-    async def _chat(self, title: str, text: str) -> str:
+    async def _chat(self, model: str, title: str, text: str) -> str:
         user = USER_TEMPLATE.format(title=title, text=text[: self.cfg.max_text_chars])
         resp = await self._client.chat.completions.create(
-            model=self.cfg.model,
+            model=model,
             messages=[
                 {"role": "system", "content": SYSTEM_PROMPT},
                 {"role": "user", "content": user},
@@ -160,20 +168,38 @@ class OpenRouterEnricher:
     async def enrich(self, title: str, text: str) -> EnrichmentResult:
         if not self.cfg.api_key:
             raise EnrichmentError("OPENROUTER_API_KEY not set")
-        raw = await self._chat(title, text)
-        try:
-            payload = _coerce_json(raw)
-        except (json.JSONDecodeError, ValueError) as e:
-            logger.warning("enrich: JSON parse failed: {}", e)
-            raise EnrichmentError(f"json_parse_failed: {e}") from e
-        # Sanitize fields before handing to Pydantic: the LLM sometimes emits
-        # empty strings where we want null, or mixes types on numeric fields.
-        payload = _sanitize_llm_payload(payload)
-        try:
-            return EnrichmentResult(**payload, extraction_method="llm")
-        except Exception as e:  # pydantic validation error
-            logger.warning("enrich: pydantic coerce failed: {}", e)
-            raise EnrichmentError(f"schema_mismatch: {e}") from e
+
+        exhausted = _exhausted_openai_exc()
+        last_exc: Exception = EnrichmentError("no models configured")
+
+        while self._model_idx < len(self._models):
+            model = self.active_model
+            try:
+                raw = await self._chat(model, title, text)
+            except exhausted as e:
+                logger.warning("model {} exhausted ({}), switching to next", model, type(e).__name__)
+                self._model_idx += 1
+                last_exc = e
+                continue
+            except Exception as e:
+                raise EnrichmentError(f"chat_failed [{model}]: {e}") from e
+
+            try:
+                payload = _coerce_json(raw)
+            except (json.JSONDecodeError, ValueError) as e:
+                logger.warning("enrich: JSON parse failed on {}: {}", model, e)
+                raise EnrichmentError(f"json_parse_failed: {e}") from e
+
+            payload = _sanitize_llm_payload(payload)
+            try:
+                return EnrichmentResult(**payload, extraction_method="llm")
+            except Exception as e:
+                logger.warning("enrich: pydantic coerce failed: {}", e)
+                raise EnrichmentError(f"schema_mismatch: {e}") from e
+
+        raise EnrichmentError(
+            f"all {len(self._models)} model(s) exhausted — last error: {last_exc}"
+        ) from last_exc
 
 
 def _sanitize_llm_payload(p: dict) -> dict:

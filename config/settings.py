@@ -18,9 +18,28 @@ class Settings(BaseSettings):
     )
 
     openrouter_api_key: str = ""
-    openrouter_model: str = "deepseek/deepseek-chat-v3-0324:free"
+    openrouter_model: str = "openai/gpt-oss-120b:free"
+    # Comma-separated fallback chain tried in order when the primary is exhausted.
+    openrouter_fallback_models: str = (
+        "openai/gpt-oss-120b:free,"
+        "mistralai/mistral-7b-instruct:free,"
+        "meta-llama/llama-3.1-8b-instruct:free,"
+        "qwen/qwen-2.5-7b-instruct:free"
+    )
     openrouter_referer: str = "https://github.com/ryrk1020/funding-pipeline"
     openrouter_app_name: str = "funding-pipeline"
+
+    @property
+    def model_chain(self) -> list[str]:
+        """Ordered list of models to try; primary model is always first."""
+        seen: set[str] = set()
+        chain: list[str] = []
+        for m in [self.openrouter_model] + self.openrouter_fallback_models.split(","):
+            m = m.strip()
+            if m and m not in seen:
+                seen.add(m)
+                chain.append(m)
+        return chain
 
     google_service_account_file: str = ""
     google_sheet_id: str = ""
