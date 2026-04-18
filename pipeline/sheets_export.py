@@ -15,7 +15,7 @@ from pathlib import Path
 
 from loguru import logger
 
-from pipeline.exporter import EXPORT_COLUMNS, _fetch_rows
+from pipeline.exporter import PUBLIC_COLUMNS, _fetch_rows, build_public_rows
 from pipeline.storage import Storage
 
 _SCOPES = [
@@ -60,18 +60,18 @@ def export_sheets(
     try:
         ws = sheet.worksheet(worksheet_name)
     except gspread.WorksheetNotFound:
-        ws = sheet.add_worksheet(title=worksheet_name, rows=1000, cols=len(EXPORT_COLUMNS))
+        ws = sheet.add_worksheet(title=worksheet_name, rows=1000, cols=len(PUBLIC_COLUMNS))
 
-    rows = _fetch_rows(storage, min_confidence=min_confidence)
-    payload = [EXPORT_COLUMNS] + [
-        [_cell(r.get(c)) for c in EXPORT_COLUMNS] for r in rows
+    rows = build_public_rows(_fetch_rows(storage, min_confidence=min_confidence))
+    payload = [PUBLIC_COLUMNS] + [
+        [_cell(r.get(c)) for c in PUBLIC_COLUMNS] for r in rows
     ]
 
     ws.clear()
     if payload:
         ws.update(
             values=payload,
-            range_name=f"A1:{_col_letter(len(EXPORT_COLUMNS))}{len(payload)}",
+            range_name=f"A1:{_col_letter(len(PUBLIC_COLUMNS))}{len(payload)}",
         )
     logger.info("sheets: wrote {} rows to '{}' in sheet {}", len(rows), worksheet_name, sheet_id)
     return len(rows)
