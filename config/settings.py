@@ -34,7 +34,7 @@ class Settings(BaseSettings):
         """Ordered list of models to try; primary model is always first."""
         seen: set[str] = set()
         chain: list[str] = []
-        for m in [self.openrouter_model] + self.openrouter_fallback_models.split(","):
+        for m in [self.openrouter_model, *self.openrouter_fallback_models.split(",")]:
             m = m.strip()
             if m and m not in seen:
                 seen.add(m)
