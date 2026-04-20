@@ -26,37 +26,46 @@ from tenacity import (
 
 from config.schemas import EnrichmentResult
 from config.settings import settings
+from pipeline.sectors import normalize_sector, sector_choices_for_prompt
 
 
 class EnrichmentError(RuntimeError):
     pass
 
 
-SYSTEM_PROMPT = """You extract structured Indian startup funding data from news articles.
+_SECTOR_CHOICES = sector_choices_for_prompt()
 
-Return strict JSON matching this schema (no prose, no markdown fences):
-{
-  "company_name": "string | null",
-  "sector": "string | null",
-  "stage": "pre_seed | seed | pre_series_a | series_a | series_b | series_c | series_d | series_e_plus | bridge | debt | grant | ipo | acquisition | undisclosed",
-  "amount": "number | null",
-  "currency": "USD | INR | EUR | GBP | OTHER | null",
-  "amount_usd": "number | null",
-  "announced_on": "YYYY-MM-DD | null",
-  "investors": [{"name": "string", "lead": true}],
-  "location": "string | null",
-  "summary": "1-2 sentence factual summary",
-  "confidence": "0.0 to 1.0"
-}
-
-Rules:
-- If the article is NOT about a specific funding round, set company_name to null, stage to "undisclosed", and confidence to 0.1 or less.
-- Use the stated currency for "amount" and "currency". Convert to USD in "amount_usd" using: 1 USD = 83 INR, 1 USD = 1.08 EUR, 1 USD = 0.79 GBP.
-- "lead" is true only if the text explicitly says "led by" or "lead investor".
-- "investors" only lists named entities (VCs, angels, corporates). Skip vague phrases like "existing investors" unless specifically named.
-- "confidence" reflects how clearly the article conveys the funding details — 0.9+ only when company, amount, stage, and investors are all unambiguous.
-- Return ONLY the JSON object. No explanation, no markdown.
-"""
+SYSTEM_PROMPT = (
+    "You extract structured Indian startup funding data from news articles.\n\n"
+    "Return strict JSON matching this schema (no prose, no markdown fences):\n"
+    "{\n"
+    '  "company_name": "string | null",\n'
+    f'  "sector": "one of: {_SECTOR_CHOICES} | null",\n'
+    '  "stage": "pre_seed | seed | pre_series_a | series_a | series_b | series_c | series_d | '
+    'series_e_plus | bridge | debt | grant | ipo | acquisition | undisclosed",\n'
+    '  "amount": "number | null",\n'
+    '  "currency": "USD | INR | EUR | GBP | OTHER | null",\n'
+    '  "amount_usd": "number | null",\n'
+    '  "announced_on": "YYYY-MM-DD | null",\n'
+    '  "investors": [{"name": "string", "lead": true}],\n'
+    '  "location": "string | null",\n'
+    '  "summary": "1-2 sentence factual summary",\n'
+    '  "confidence": "0.0 to 1.0"\n'
+    "}\n\n"
+    "Rules:\n"
+    "- If the article is NOT about a specific funding round, set company_name to null, "
+    'stage to "undisclosed", and confidence to 0.1 or less.\n'
+    '- For "sector", pick the single best slug from the list above. If nothing fits, '
+    'use "other". Do NOT invent new sector names.\n'
+    '- Use the stated currency for "amount" and "currency". Convert to USD in "amount_usd" '
+    "using: 1 USD = 83 INR, 1 USD = 1.08 EUR, 1 USD = 0.79 GBP.\n"
+    '- "lead" is true only if the text explicitly says "led by" or "lead investor".\n'
+    '- "investors" only lists named entities (VCs, angels, corporates). Skip vague phrases '
+    'like "existing investors" unless specifically named.\n'
+    '- "confidence" reflects how clearly the article conveys the funding details — 0.9+ '
+    "only when company, amount, stage, and investors are all unambiguous.\n"
+    "- Return ONLY the JSON object. No explanation, no markdown.\n"
+)
 
 USER_TEMPLATE = """Article title: {title}
 
@@ -234,6 +243,9 @@ def _sanitize_llm_payload(p: dict) -> dict:
         out["stage"] = out["stage"].strip().lower()
     if isinstance(out.get("currency"), str):
         out["currency"] = out["currency"].strip().upper()
+    # sector: map free-text → canonical slug
+    if "sector" in out:
+        out["sector"] = normalize_sector(out["sector"])
     # confidence clamp
     c = out.get("confidence")
     if isinstance(c, (int, float)):

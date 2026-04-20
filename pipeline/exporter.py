@@ -23,6 +23,7 @@ from datetime import date, datetime
 from pathlib import Path
 from typing import Any
 
+from pipeline.sectors import sector_label
 from pipeline.storage import Storage
 
 # Columns that go out publicly (CSV / XLSX / Sheets). Dropped vs the DB:
@@ -197,9 +198,11 @@ def build_public_rows(raw_rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
     for r in raw_rows:
         stage_raw = (r.get("stage") or "").strip().lower() or None
         amount_usd_raw = _normalize_usd(r.get("amount_usd"))
+        sector_raw = (r.get("sector") or "").strip().lower() or None
         out.append({
             "company_name": r.get("company_name") or "",
-            "sector": r.get("sector") or "",
+            "sector": sector_label(sector_raw),
+            "sector_raw": sector_raw,
             "stage": _format_stage(stage_raw),
             "stage_raw": stage_raw,
             "amount": _format_amount(r.get("amount_usd"), r.get("amount"), r.get("currency")),
@@ -242,6 +245,7 @@ def export_json(storage: Storage, path: Path, min_confidence: float = 0.0) -> in
         out.append({
             "company_name": r["company_name"],
             "sector": r["sector"],
+            "sector_raw": r["sector_raw"],
             "stage": r["stage"],
             "stage_raw": r["stage_raw"],
             "amount": r["amount"],

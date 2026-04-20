@@ -8,6 +8,8 @@ import yaml
 from sources.base_scraper import BaseScraper, SourceConfig
 from sources.entrackr import EntrackrScraper
 from sources.inc42 import Inc42Scraper
+from sources.moneycontrol import MoneyControlScraper
+from sources.vccircle import VCCircleScraper
 from sources.yourstory import YourStoryScraper
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -17,6 +19,8 @@ REGISTRY: dict[str, type[BaseScraper]] = {
     "inc42": Inc42Scraper,
     "entrackr": EntrackrScraper,
     "yourstory": YourStoryScraper,
+    "moneycontrol": MoneyControlScraper,
+    "vccircle": VCCircleScraper,
 }
 
 

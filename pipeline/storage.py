@@ -21,7 +21,7 @@ from typing import Any
 
 from loguru import logger
 
-from config.schemas import ArticleRaw, FundingRound, RunRecord
+from config.schemas import ArticleRaw, FundingRound, Investor, RunRecord
 from config.settings import settings
 
 SCHEMA = """
@@ -97,6 +97,24 @@ CREATE TABLE IF NOT EXISTS schema_baselines (
     updated_at      TEXT NOT NULL,
     PRIMARY KEY (source, selector_key)
 );
+
+-- Entity resolution: map a raw/alternate spelling to the canonical name.
+-- `alias_norm` is the lowercased, suffix-stripped form used as the lookup key.
+CREATE TABLE IF NOT EXISTS company_aliases (
+    alias_norm   TEXT PRIMARY KEY,
+    canonical    TEXT NOT NULL,
+    created_at   TEXT NOT NULL
+);
+CREATE INDEX IF NOT EXISTS idx_company_aliases_canonical
+    ON company_aliases(canonical);
+
+CREATE TABLE IF NOT EXISTS investor_aliases (
+    alias_norm   TEXT PRIMARY KEY,
+    canonical    TEXT NOT NULL,
+    created_at   TEXT NOT NULL
+);
+CREATE INDEX IF NOT EXISTS idx_investor_aliases_canonical
+    ON investor_aliases(canonical);
 """
 
 
@@ -115,6 +133,9 @@ class Storage:
     def _init(self) -> None:
         with self.connect() as c:
             c.executescript(SCHEMA)
+            # Seed investor aliases once. Idempotent (INSERT OR IGNORE inside).
+            from pipeline.entity_resolution import seed_aliases
+            seed_aliases(c)
 
     @contextmanager
     def connect(self):
@@ -194,8 +215,38 @@ class Storage:
     ) -> str:
         """Insert or merge a round. Returns the effective round_id (may differ
         from r.round_id if fuzzy-merged into an existing row).
+
+        Canonicalizes company + investor names before insert so the same entity
+        is spelled the same way everywhere in the DB.
         """
         with self.connect() as c:
+            from pipeline.entity_resolution import resolve_company, resolve_investor
+
+            canonical_company = resolve_company(c, r.company.name)
+            if canonical_company != r.company.name:
+                logger.debug(
+                    "entity: company '{}' → '{}'", r.company.name, canonical_company,
+                )
+                new_company = r.company.model_copy(update={"name": canonical_company})
+                new_rid = FundingRound.compute_round_id(
+                    company_name=canonical_company,
+                    announced_on=r.announced_on,
+                    amount_usd=r.amount_usd,
+                )
+                r = r.model_copy(update={"company": new_company, "round_id": new_rid})
+
+            if r.investors:
+                canon_invs: list[Investor] = []
+                seen: set[str] = set()
+                for inv in r.investors:
+                    canon = resolve_investor(c, inv.name)
+                    key = canon.lower()
+                    if key in seen:
+                        continue
+                    seen.add(key)
+                    canon_invs.append(Investor(name=canon, lead=inv.lead))
+                r = r.model_copy(update={"investors": canon_invs})
+
             if dedup:
                 from pipeline.dedup import find_existing_round_id
                 existing = find_existing_round_id(c, r)

@@ -4,7 +4,7 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>Indian Startup Funding Intelligence</title>
-<meta name="description" content="Daily auto-refreshed Indian startup funding intelligence — 27 rounds tracked." />
+<meta name="description" content="Daily auto-refreshed Indian startup funding intelligence — 14 rounds tracked." />
 <script src="https://cdn.tailwindcss.com"></script>
 <script>
   tailwind.config = {
@@ -60,7 +60,7 @@
       <div class="min-w-0">
         <h1 class="text-sm sm:text-base font-semibold truncate">Indian Startup Funding Intelligence</h1>
         <p class="text-xs text-slate-500 dark:text-slate-400 truncate">
-          Updated Apr 20, 2026 05:05 UTC · <span x-text="filteredRows.length"></span> of 27 rounds
+          Updated Apr 20, 2026 11:23 UTC · <span x-text="filteredRows.length"></span> of 14 rounds
         </p>
       </div>
     </div>
@@ -84,6 +84,20 @@
 </header>
 
 <main class="max-w-[1440px] mx-auto px-4 sm:px-6 py-5 space-y-5">
+
+<!-- ========================= TABS ========================= -->
+<section class="flex items-center gap-1 border-b border-slate-200 dark:border-slate-800 no-print">
+  <template x-for="tab in tabs" :key="tab.id">
+    <button type="button" @click="view = tab.id"
+            :class="view === tab.id
+              ? 'border-brand-500 text-slate-900 dark:text-white'
+              : 'border-transparent text-slate-500 hover:text-slate-900 dark:hover:text-white'"
+            class="px-4 py-2 -mb-px text-sm font-medium border-b-2 transition-colors">
+      <span x-text="tab.label"></span>
+      <span class="ml-1.5 text-xs font-mono text-slate-400" x-text="tab.count"></span>
+    </button>
+  </template>
+</section>
 
 <!-- ========================= KPIs ========================= -->
 <section class="grid grid-cols-2 md:grid-cols-4 gap-3">
@@ -187,8 +201,8 @@
   <button @click="resetFilters()" class="mt-4 px-3 py-1.5 text-xs rounded-lg bg-brand-500 text-white hover:bg-brand-600">Reset filters</button>
 </div>
 
-<!-- ========================= CHARTS ========================= -->
-<section x-show="filteredRows.length > 0" class="space-y-3">
+<!-- ========================= CHARTS (rounds view) ========================= -->
+<section x-show="view === 'rounds' && filteredRows.length > 0" class="space-y-3">
   <!-- Timeline (full width) -->
   <div class="rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-4 shadow-card">
     <h2 class="text-sm font-semibold mb-2">Funding over time</h2>
@@ -201,9 +215,15 @@
       <div id="chart-stages" class="chart-box"></div>
     </div>
     <div class="rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-4 shadow-card">
-      <h2 class="text-sm font-semibold mb-2">Top sectors</h2>
+      <h2 class="text-sm font-semibold mb-2">Top sectors (by $ raised)</h2>
       <div id="chart-sectors" class="chart-box"></div>
     </div>
+  </div>
+
+  <!-- Sector mix over time (full width, stacked) -->
+  <div class="rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-4 shadow-card">
+    <h2 class="text-sm font-semibold mb-2">Sector mix over time (by round count)</h2>
+    <div id="chart-sector-time" class="chart-tall"></div>
   </div>
 
   <div class="grid grid-cols-1 lg:grid-cols-2 gap-3">
@@ -218,8 +238,140 @@
   </div>
 </section>
 
-<!-- ========================= TABLE ========================= -->
-<section x-show="filteredRows.length > 0" class="rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-card overflow-hidden">
+<!-- ========================= INVESTORS VIEW ========================= -->
+<section x-show="view === 'investors' && filteredRows.length > 0" class="space-y-3">
+  <div class="grid grid-cols-2 md:grid-cols-4 gap-3">
+    <div class="rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-4 shadow-card">
+      <div class="text-xs font-medium uppercase tracking-wide text-slate-500">Unique investors</div>
+      <div class="mt-1 text-2xl font-semibold" x-text="investorAgg.length"></div>
+    </div>
+    <div class="rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-4 shadow-card">
+      <div class="text-xs font-medium uppercase tracking-wide text-slate-500">Co-investment pairs</div>
+      <div class="mt-1 text-2xl font-semibold" x-text="coInvestmentAgg.length"></div>
+    </div>
+    <div class="rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-4 shadow-card">
+      <div class="text-xs font-medium uppercase tracking-wide text-slate-500">Most active</div>
+      <div class="mt-1 text-lg font-semibold truncate" x-text="investorAgg[0]?.name || '—'"></div>
+      <div class="text-xs text-slate-500" x-text="investorAgg[0] ? investorAgg[0].deals + ' deals' : ''"></div>
+    </div>
+    <div class="rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-4 shadow-card">
+      <div class="text-xs font-medium uppercase tracking-wide text-slate-500">Lead investors</div>
+      <div class="mt-1 text-2xl font-semibold" x-text="investorAgg.filter(i => i.leads > 0).length"></div>
+    </div>
+  </div>
+
+  <div class="grid grid-cols-1 lg:grid-cols-2 gap-3">
+    <div class="rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-card overflow-hidden">
+      <div class="px-4 py-3 border-b border-slate-200 dark:border-slate-800 flex items-center justify-between">
+        <h2 class="text-sm font-semibold">Top investors by deal count</h2>
+        <span class="text-xs text-slate-500" x-text="Math.min(25, investorAgg.length) + ' of ' + investorAgg.length"></span>
+      </div>
+      <div class="overflow-x-auto scrollbar-thin max-h-[520px] overflow-y-auto">
+        <table class="w-full text-sm">
+          <thead class="bg-slate-50 dark:bg-slate-800/50 text-xs uppercase tracking-wide text-slate-600 dark:text-slate-400 sticky top-0">
+            <tr>
+              <th class="px-3 py-2.5 text-left font-medium">Investor</th>
+              <th class="px-3 py-2.5 text-right font-medium">Deals</th>
+              <th class="px-3 py-2.5 text-right font-medium">Lead</th>
+              <th class="px-3 py-2.5 text-right font-medium">$ touched</th>
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-slate-100 dark:divide-slate-800">
+            <template x-for="inv in investorAgg.slice(0, 25)" :key="inv.name">
+              <tr class="hover:bg-slate-50 dark:hover:bg-slate-800/50 cursor-pointer"
+                  @click="filters.search = inv.name; view = 'rounds'">
+                <td class="px-3 py-2 font-medium" x-text="inv.name"></td>
+                <td class="px-3 py-2 text-right font-mono" x-text="inv.deals"></td>
+                <td class="px-3 py-2 text-right font-mono text-brand-600 dark:text-brand-400" x-text="inv.leads || '—'"></td>
+                <td class="px-3 py-2 text-right font-mono text-slate-500" x-text="formatUsd(inv.totalUsd)"></td>
+              </tr>
+            </template>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-card overflow-hidden">
+      <div class="px-4 py-3 border-b border-slate-200 dark:border-slate-800 flex items-center justify-between">
+        <h2 class="text-sm font-semibold">Co-investment pairs</h2>
+        <span class="text-xs text-slate-500">2+ shared deals</span>
+      </div>
+      <div class="overflow-x-auto scrollbar-thin max-h-[520px] overflow-y-auto">
+        <template x-if="coInvestmentAgg.length === 0">
+          <div class="p-8 text-center text-sm text-slate-400">No co-investment pairs detected in the filtered set.</div>
+        </template>
+        <table x-show="coInvestmentAgg.length" class="w-full text-sm">
+          <thead class="bg-slate-50 dark:bg-slate-800/50 text-xs uppercase tracking-wide text-slate-600 dark:text-slate-400 sticky top-0">
+            <tr>
+              <th class="px-3 py-2.5 text-left font-medium">Pair</th>
+              <th class="px-3 py-2.5 text-right font-medium">Shared deals</th>
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-slate-100 dark:divide-slate-800">
+            <template x-for="(pair, idx) in coInvestmentAgg.slice(0, 25)" :key="idx">
+              <tr class="hover:bg-slate-50 dark:hover:bg-slate-800/50">
+                <td class="px-3 py-2">
+                  <div class="flex items-center gap-1.5 flex-wrap">
+                    <span class="px-2 py-0.5 text-xs rounded bg-slate-100 dark:bg-slate-800" x-text="pair.a"></span>
+                    <span class="text-xs text-slate-400">+</span>
+                    <span class="px-2 py-0.5 text-xs rounded bg-slate-100 dark:bg-slate-800" x-text="pair.b"></span>
+                  </div>
+                </td>
+                <td class="px-3 py-2 text-right font-mono" x-text="pair.count"></td>
+              </tr>
+            </template>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ========================= COMPANIES VIEW ========================= -->
+<section x-show="view === 'companies' && filteredRows.length > 0" class="space-y-3">
+  <div class="rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-card overflow-hidden">
+    <div class="px-4 py-3 border-b border-slate-200 dark:border-slate-800 flex items-center justify-between">
+      <h2 class="text-sm font-semibold">Companies (round timeline)</h2>
+      <span class="text-xs text-slate-500" x-text="companyAgg.length + ' companies · most-active first'"></span>
+    </div>
+    <div class="divide-y divide-slate-100 dark:divide-slate-800 max-h-[720px] overflow-y-auto scrollbar-thin">
+      <template x-for="(co, idx) in companyAgg" :key="co.name + idx">
+        <div class="p-4 hover:bg-slate-50 dark:hover:bg-slate-800/30">
+          <div class="flex items-start justify-between gap-3 flex-wrap">
+            <div class="min-w-0">
+              <div class="flex items-center gap-2">
+                <h3 class="font-semibold truncate" x-text="co.name"></h3>
+                <span x-show="co.sector" class="px-2 py-0.5 text-[10px] rounded-full bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400" x-text="co.sector"></span>
+              </div>
+              <div class="text-xs text-slate-500 mt-0.5">
+                <span x-text="co.rounds.length + ' round' + (co.rounds.length > 1 ? 's' : '')"></span>
+                <span x-show="co.totalUsd"> · <span class="font-mono" x-text="formatUsd(co.totalUsd)"></span> total</span>
+              </div>
+            </div>
+            <button type="button" @click="filters.search = co.name; view = 'rounds'"
+                    class="text-xs text-brand-600 dark:text-brand-400 hover:underline shrink-0">See in rounds →</button>
+          </div>
+          <ol class="mt-3 relative border-l-2 border-slate-200 dark:border-slate-800 ml-2 space-y-3">
+            <template x-for="(r, i) in co.rounds" :key="i">
+              <li class="ml-4 relative">
+                <span class="absolute -left-[1.4rem] top-1.5 h-2.5 w-2.5 rounded-full" :class="stageDotClass(r.stage_raw)"></span>
+                <div class="flex items-center gap-2 flex-wrap">
+                  <span class="inline-flex items-center px-2 py-0.5 text-xs font-medium rounded-full" :class="stageBadgeClass(r.stage_raw)" x-text="r.stage || '—'"></span>
+                  <span class="font-mono text-xs" x-text="r.amount || '—'"></span>
+                  <span class="text-xs text-slate-500 font-mono" x-text="r.announced_on || ''"></span>
+                  <span x-show="r.lead_investor" class="text-xs text-slate-500">· led by <span class="text-slate-700 dark:text-slate-300" x-text="r.lead_investor"></span></span>
+                </div>
+              </li>
+            </template>
+          </ol>
+        </div>
+      </template>
+    </div>
+  </div>
+</section>
+
+<!-- ========================= TABLE (rounds view) ========================= -->
+<section x-show="view === 'rounds' && filteredRows.length > 0" class="rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-card overflow-hidden">
   <div class="flex items-center justify-between px-4 py-3 border-b border-slate-200 dark:border-slate-800">
     <h2 class="text-sm font-semibold">Rounds</h2>
     <div class="text-xs text-slate-500 dark:text-slate-400"><span x-text="filteredRows.length"></span> rows · click a row for details</div>
@@ -346,8 +498,8 @@
 </div>
 
 <script>
-  const ROUNDS = [{"company": "GobbleCube", "sector": "", "stage": "Series A", "stage_raw": "series_a", "amount": "$15M", "amount_usd": 15000000.0, "currency": "USD", "announced_on": "2026-04-15", "lead_investor": "Susquehanna Venture Capital", "investors": ["InfoEdge Ventures", "Kae Capital", "Susquehanna Venture Capital"], "sources": ["https://yourstory.com/2026/04/funding-gobblecube-15-million-series-a-susquehanna-venture-capital"], "confidence": 0.96, "summary": "GobbleCube, a Gurugram-based AI startup for digital commerce, raised $15 million in a Series A round led by Susquehanna Venture Capital, with participation from InfoEdge Ventures and Kae Capital.", "city": ""}, {"company": "The Hosteller", "sector": "", "stage": "Series B", "stage_raw": "series_b", "amount": "₹150 Cr ($18.1M)", "amount_usd": 18072289.16, "currency": "INR", "announced_on": "2026-04-15", "lead_investor": "PROMAFT Partners", "investors": ["ITI Growth Opportunities Fund", "Merisis Wealth Trust", "PROMAFT Partners", "V3 Ventures"], "sources": ["https://entrackr.com/news/the-hosteller-raises-rs-150-cr-in-series-b-round-led-by-promaft-and-v3-ventures-11730910", "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startup-this-week-apr-13-apr-18-11739056", "https://yourstory.com/2026/04/the-hosteller-raises-rs-150-cr-series-b-funding-promaft-partners"], "confidence": 0.96, "summary": "The Hosteller raised Rs 150 crore in a Series B round co-led by PROMAFT Partners and V3 Ventures.", "city": ""}, {"company": "FIFTH SENSE", "sector": "", "stage": "Pre-Seed", "stage_raw": "pre_seed", "amount": "₹6.3 Cr ($759K)", "amount_usd": 759036.14, "currency": "INR", "announced_on": "2026-04-17", "lead_investor": "OTP Ventures", "investors": ["Amit Damani", "ISV Capital", "OTP Ventures", "Rohit Kapoor", "Sadev Ventures"], "sources": ["https://entrackr.com/snippets/otp-ventures-leads-pre-seed-round-in-fragrance-brand-fifth-sense-11735379"], "confidence": 0.95, "summary": "FIFTH SENSE, a Gurugram-based D2C fragrance brand, raised Rs 6.3 crore in a pre‑seed round led by OTP Ventures with participation from Sadev Ventures, ISV Capital and angels Rohit Kapoor and Amit Damani.", "city": ""}, {"company": "Intellithink", "sector": "", "stage": "Seed", "stage_raw": "seed", "amount": "₹17 Cr ($2M)", "amount_usd": 2048192.77, "currency": "INR", "announced_on": "2026-04-16", "lead_investor": "Pentathlon Ventures", "investors": ["Anicut Capital", "Pentathlon Ventures", "Veltis Capital"], "sources": ["https://entrackr.com/snippets/pentathlon-ventures-leads-rs-17-cr-seed-round-in-industrial-ai-startup-intellithink-11730716"], "confidence": 0.95, "summary": "Intellithink raised Rs 17 crore in a seed round to expand its AI-driven predictive maintenance platform for industrial equipment, with Pentathlon Ventures leading the round.", "city": ""}, {"company": "Cohoma Coffee", "sector": "", "stage": "Seed", "stage_raw": "seed", "amount": "₹5.0 Cr ($602K)", "amount_usd": 602409.64, "currency": "INR", "announced_on": "2026-04-16", "lead_investor": "Inflection Point Ventures", "investors": ["Inflection Point Ventures", "Swishin VC"], "sources": ["https://entrackr.com/snippets/cohoma-coffee-raises-rs-5-cr-seed-round-led-by-ipv-11730918"], "confidence": 0.95, "summary": "Cohoma Coffee, a specialty coffee roaster and machine manufacturer, raised Rs 5 crore in a seed round to scale manufacturing and expand internationally.", "city": ""}, {"company": "Aliste Technologies", "sector": "", "stage": "Pre-Series A", "stage_raw": "pre_series_a", "amount": "₹30 Cr ($3.6M)", "amount_usd": 3614458.0, "currency": "INR", "announced_on": "2026-04-16", "lead_investor": "Big Global JSC", "investors": ["Big Global JSC", "HBeon Labs", "YourNest VC"], "sources": ["https://entrackr.com/snippets/aliste-technologies-raises-rs-30-cr-in-pre-series-a-led-by-big-global-jsc-11730913"], "confidence": 0.95, "summary": "Aliste Technologies raised Rs 30 crore in a pre-Series A round to fund research and expand distribution of its energy management and IoT solutions.", "city": ""}, {"company": "Palmonas", "sector": "", "stage": "Series B", "stage_raw": "series_b", "amount": "$40M", "amount_usd": 40000000.0, "currency": "USD", "announced_on": "2024-03-30", "lead_investor": "Xponentia Capital", "investors": ["Vertex Ventures", "Xponentia Capital"], "sources": ["https://entrackr.com/report/weekly-funding-report/funding-and-acquisitions-in-indian-startup-this-week-mar-30-apr-4-11452029"], "confidence": 0.94, "summary": "Palmonas, a demi-fine jewellery startup, raised $40 million (≈ Rs 373 crore) in a Series B round led by Xponentia Capital with participation from Vertex Ventures.", "city": ""}, {"company": "Polaris Smart Metering Private Limited", "sector": "", "stage": "Debt", "stage_raw": "debt", "amount": "₹710 Cr ($80M)", "amount_usd": 80000000.0, "currency": "INR", "announced_on": "2026-04-16", "lead_investor": "British International Investment", "investors": ["British International Investment"], "sources": ["https://entrackr.com/snippets/polaris-raises-80-mn-from-british-international-investment-11731748"], "confidence": 0.93, "summary": "Polaris Smart Metering Private Limited secured Rs 710 crore (≈ $80 million) in financing from British International Investment to expand its smart meter deployment in West Bengal and other Indian states.", "city": ""}, {"company": "Sarla Aviation", "sector": "", "stage": "Series A", "stage_raw": "series_a", "amount": "₹10 Cr ($1.2M)", "amount_usd": 1204819.0, "currency": "INR", "announced_on": "2026-04-16", "lead_investor": "", "investors": ["IndiGo Ventures Fund -I"], "sources": ["https://yourstory.com/2026/04/indigo-invests-air-taxi-maker-sarla-aviation"], "confidence": 0.85, "summary": "IndiGo Ventures Fund invested approximately Rs 10 crore in Sarla Aviation, an eVTOL startup, through equity shares and preference shares, providing capital for operations and expansion.", "city": ""}, {"company": "TraqCheck", "sector": "", "stage": "Series A", "stage_raw": "series_a", "amount": "$8M", "amount_usd": 8000000.0, "currency": "USD", "announced_on": "2026-04-14", "lead_investor": "IvyCap Ventures", "investors": ["IIFL. TraqCheck", "IvyCap Ventures"], "sources": ["https://yourstory.com/2026/04/traqcheck-raises-8-million-led-by-ivycap-ventures"], "confidence": 0.85, "summary": "", "city": ""}, {"company": "KreditBee", "sector": "", "stage": "Undisclosed", "stage_raw": "undisclosed", "amount": "$280M", "amount_usd": 280000000.0, "currency": "USD", "announced_on": "2026-04-10", "lead_investor": "", "investors": ["A.P. Moller Holding", "Advent International", "Dragon Funds", "Hornbill Capital", "Motilal Oswal Alternates", "Premji Invest", "WhiteOak Capital"], "sources": ["https://yourstory.com/2026/04/weekly-funding-roundup-april-4-10-vc-inflow-4x-rise-due-large-deals-kreditbee"], "confidence": 0.85, "summary": "Fintech startup KreditBee raised $280 million from a consortium of investors including Motilal Oswal Alternates and Advent International.", "city": ""}, {"company": "US", "sector": "", "stage": "Series D", "stage_raw": "series_d", "amount": "$135M", "amount_usd": 135000000.0, "currency": "USD", "announced_on": "2026-04-09", "lead_investor": "Singularity Growth Opportunities Fund. It", "investors": ["Singularity Growth Opportunities Fund. It"], "sources": ["https://entrackr.com/fintrackr/us-emerges-as-servifys-largest-market-in-fy25-with-rs-400-cr-revenue-11705208"], "confidence": 0.85, "summary": "", "city": ""}, {"company": "SILA", "sector": "", "stage": "Undisclosed", "stage_raw": "undisclosed", "amount": "$100M", "amount_usd": 100000000.0, "currency": "USD", "announced_on": "2026-04-08", "lead_investor": "Permira", "investors": ["Permira"], "sources": ["https://yourstory.com/2026/04/business-services-platform-sila-raises-usd-100m-from-permira"], "confidence": 0.85, "summary": "SILA, a{ business services platform operating in real estate, raised $100 million from private equity firm Permira to fund expansion and technology upgrades across \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  ", "city": ""}, {"company": "Funding", "sector": "", "stage": "Undisclosed", "stage_raw": "undisclosed", "amount": "", "amount_usd": null, "currency": "", "announced_on": "", "lead_investor": "Motilal Oswal Alternates", "investors": ["BNP Paribas", "Motilal Oswal Alternates"], "sources": ["https://entrackr.com/report/weekly-funding-report", "https://entrackr.com/report/weekly-funding-report/funding-and-acquisitions-in-indian-startup-this-week-apr-6-apr-11-11714653"], "confidence": 0.85, "summary": "The article does not contain any information about a specific funding round.", "city": ""}, {"company": "The Hosteller", "sector": "", "stage": "Undisclosed", "stage_raw": "undisclosed", "amount": "₹150 ($18.1M)", "amount_usd": 18070000.0, "currency": "INR", "announced_on": "2026-04-17", "lead_investor": "", "investors": ["ITI Growth Opportunities Fund", "Merisis Wealth Trust", "PROMAFT Partners", "V3 Ventures", "family offices"], "sources": ["https://yourstory.com/2026/04/weekly-funding-roundup-april-11-17-steep-fall-in-vc-inflow-into-indian-startups"], "confidence": 0.7, "summary": "The Hosteller raised Rs 150 crore (approximately $18 million) from a group of investors including PROMAFT Partners and V3 Ventures.", "city": ""}, {"company": "Unbound", "sector": "", "stage": "Undisclosed", "stage_raw": "undisclosed", "amount": "₹8.0 Cr ($964K)", "amount_usd": 963855.42, "currency": "INR", "announced_on": "2026-04-16", "lead_investor": "Fireside Ventures", "investors": ["Fireside Ventures"], "sources": ["https://entrackr.com/snippets/mens-personal-care-brand-unbound-raises-rs-8-cr-led-by-fireside-ventures-11731565"], "confidence": 0.7, "summary": "Unbound, a men's personal care brand, raised Rs 8 crore in a funding round led by Fireside Ventures to launch its product range in India.", "city": ""}, {"company": "ZoloStays", "sector": "", "stage": "Undisclosed", "stage_raw": "undisclosed", "amount": "$118M", "amount_usd": 118000000.0, "currency": "USD", "announced_on": "2026-04-17", "lead_investor": "", "investors": [], "sources": ["https://entrackr.com/fintrackr/zolostays-reports-rs-342-cr-revenue-in-fy25-margins-improve-11736861"], "confidence": 0.6, "summary": "", "city": ""}, {"company": "Pluckk", "sector": "", "stage": "Undisclosed", "stage_raw": "undisclosed", "amount": "$26M", "amount_usd": 26000000.0, "currency": "USD", "announced_on": "2026-04-09", "lead_investor": "", "investors": [], "sources": ["https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"], "confidence": 0.6, "summary": "", "city": ""}, {"company": "Indian", "sector": "", "stage": "Undisclosed", "stage_raw": "undisclosed", "amount": "$4.0B", "amount_usd": 4000000000.0, "currency": "USD", "announced_on": "2026-04-02", "lead_investor": "Entrackr", "investors": ["Entrackr", "Mozark"], "sources": ["https://entrackr.com/report/quarterly-funding-report/indian-startup-funding-climbs-to-nearly-4-bn-in-q1-2026-powered-by-neysa-and-early-stage-deals-11445029"], "confidence": 0.315, "summary": "The article reports that Indian startups raised about $3.9 billion in Q1 2026, highlighting large growth-stage deals such as Neysa's $1.2 billion Series B and overall trends in funding, layoffs and M&A.", "city": ""}, {"company": "Bluestone", "sector": "", "stage": "Undisclosed", "stage_raw": "undisclosed", "amount": "$29M", "amount_usd": 29000000.0, "currency": "USD", "announced_on": "2026-04-17", "lead_investor": "", "investors": [], "sources": ["https://entrackr.com/snippets/bluestone-grants-fresh-esops-worth-rs-11-cr-11735866"], "confidence": 0.3, "summary": "BlueStone granted employee stock options worth about Rs 11 crore under its ESOP 2014 scheme.", "city": ""}, {"company": "Bijak’s GMV", "sector": "", "stage": "Undisclosed", "stage_raw": "undisclosed", "amount": "$33M", "amount_usd": 33000000.0, "currency": "USD", "announced_on": "2026-04-10", "lead_investor": "Peak XV", "investors": ["Peak XV"], "sources": ["https://entrackr.com/fintrackr/bijaks-gmv-drop-25-to-rs-551-cr-in-fy25-losses-stand-at-rs-61-cr-11710860"], "confidence": 0.285, "summary": "The article reports Bijak's FY25 financial performance, noting a 25% drop in GMV to Rs 551 crore and increased losses of Rs 61 crore, without mentioning a new funding round.", "city": ""}, {"company": "Astranova Mobility", "sector": "", "stage": "Series A", "stage_raw": "series_a", "amount": "₹60 Cr ($7.2M)", "amount_usd": 7228915.66, "currency": "INR", "announced_on": "2026-04-09", "lead_investor": "IvyCap Ventures", "investors": ["AdvantEdge Founders", "Asian Development Bank", "IvyCap Ventures", "Trucks Venture Capital"], "sources": ["https://yourstory.com/2026/04/astranova-mobility-raises-rs-60-cr-funding-round-ivycap-ventures"], "confidence": 0.255, "summary": "", "city": ""}, {"company": "Atlas", "sector": "", "stage": "Seed", "stage_raw": "seed", "amount": "$6M", "amount_usd": 6000000.0, "currency": "USD", "announced_on": "2026-04-08", "lead_investor": "", "investors": ["Accel"], "sources": ["https://yourstory.com/2026/04/atlas-raises-seed-funding-round-led-by-stellaris-and-accel"], "confidence": 0.255, "summary": "", "city": ""}, {"company": "Digital", "sector": "", "stage": "Undisclosed", "stage_raw": "undisclosed", "amount": "₹2290 Cr ($275.9M)", "amount_usd": 275903614.46, "currency": "INR", "announced_on": "2026-04-20", "lead_investor": "", "investors": [], "sources": ["https://entrackr.com/news/digital-gold-via-upi-hits-record-254-mn-transactions-in-march-11744848"], "confidence": 0.24, "summary": "The article reports record digital gold transactions via UPI in March 2026, with 254.44 million transactions valued at Rs 3,171.96 crore.", "city": ""}, {"company": "Govt’s Fund", "sector": "", "stage": "Undisclosed", "stage_raw": "undisclosed", "amount": "₹10000 Cr ($1.2B)", "amount_usd": 1204819277.11, "currency": "INR", "announced_on": "2026-04-14", "lead_investor": "", "investors": [], "sources": ["https://yourstory.com/2026/04/govts-fund-of-funds-20-expand-newer-startup-segments"], "confidence": 0.24, "summary": "The Government announced a Rs 10,000 crore Fund of Funds 2.0 to support deep‑tech, manufacturing and early‑growth startups through segmented AIFs.", "city": ""}, {"company": "Masters’ Union", "sector": "", "stage": "Undisclosed", "stage_raw": "undisclosed", "amount": "₹100 Cr ($12M)", "amount_usd": 12048192.77, "currency": "INR", "announced_on": "2026-04-09", "lead_investor": "", "investors": [], "sources": ["https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"], "confidence": 0.24, "summary": "Masters’ Union launched a Rs 100 crore early-stage investment platform, MU Ventures, to fund founders under 25 across various tracks.", "city": ""}, {"company": "Info Edge", "sector": "", "stage": "Undisclosed", "stage_raw": "undisclosed", "amount": "$7.1B", "amount_usd": 7100000000.0, "currency": "USD", "announced_on": "2026-04-09", "lead_investor": "", "investors": [], "sources": ["https://entrackr.com/news/info-edge-posts-rs-1057-cr-q4-billings-growth-slows-to-75-11704031"], "confidence": 0.21, "summary": "Info Edge reported a 7.5% year-on-year increase in Q4 FY26 billings to Rs 1,057 crore, with details on its business segments and leadership changes.", "city": ""}];
-  const META = {"generated_at": "Apr 20, 2026 05:05 UTC", "total_rounds": 27, "total_usd": 13515335060.13, "stages_present": ["debt", "pre_seed", "pre_series_a", "seed", "series_a", "series_b", "series_d", "undisclosed"], "sectors_present": [], "max_amount_usd": 7100000000.0};
+  const ROUNDS = [{"company": "GobbleCube", "sector": "AI/ML", "sector_raw": "ai_ml", "stage": "Series A", "stage_raw": "series_a", "amount": "$15M", "amount_usd": 15000000.0, "currency": "USD", "announced_on": "2026-04-15", "lead_investor": "Susquehanna Venture Capital", "investors": ["InfoEdge Ventures", "Kae Capital", "Susquehanna Venture Capital"], "sources": ["https://yourstory.com/2026/04/funding-gobblecube-15-million-series-a-susquehanna-venture-capital"], "confidence": 0.96, "summary": "GobbleCube, an AI startup based in Gurugram building agentic platforms for digital commerce, raised $15 million in a Series A round led by Susquehanna Venture Capital, with participation from InfoEdge Ventures and Kae Capital.", "city": ""}, {"company": "TraqCheck", "sector": "HRTech", "sector_raw": "hrtech", "stage": "Series A", "stage_raw": "series_a", "amount": "$8M", "amount_usd": 8000000.0, "currency": "USD", "announced_on": "2026-04-14", "lead_investor": "IvyCap Ventures", "investors": ["IIFL", "IvyCap Ventures"], "sources": ["https://yourstory.com/2026/04/traqcheck-raises-8-million-led-by-ivycap-ventures"], "confidence": 0.96, "summary": "TraqCheck, an HR tech startup, raised $8 million in a Series A round led by IvyCap Ventures with participation from IIFL to expand its AI-driven background screening and sourcing agents in Europe.", "city": ""}, {"company": "The Hosteller", "sector": "TravelTech", "sector_raw": "traveltech", "stage": "Series B", "stage_raw": "series_b", "amount": "₹150 Cr ($18.1M)", "amount_usd": 18072289.0, "currency": "INR", "announced_on": "2026-04-16", "lead_investor": "PROMAFT Partners", "investors": ["ITI Growth Opportunities Fund", "Merisis Wealth Trust", "PROMAFT Partners", "V3 Ventures"], "sources": ["https://entrackr.com/news/the-hosteller-raises-rs-150-cr-in-series-b-round-led-by-promaft-and-v3-ventures-11730910", "https://yourstory.com/2026/04/the-hosteller-raises-rs-150-cr-series-b-funding-promaft-partners"], "confidence": 0.95, "summary": "The Hosteller raised Rs 150 crore in a Series B round co-led by PROMAFT Partners and V3 Ventures, with participation from ITI Growth Opportunities Fund and Merisis Wealth Trust, to fund expansion of its hostel network across India.", "city": ""}, {"company": "Cohoma Coffee", "sector": "FoodTech", "sector_raw": "foodtech", "stage": "Seed", "stage_raw": "seed", "amount": "₹5.0 Cr ($602K)", "amount_usd": 602409.64, "currency": "INR", "announced_on": "2026-04-16", "lead_investor": "Inflection Point Ventures", "investors": ["Inflection Point Ventures", "Swishin VC"], "sources": ["https://entrackr.com/snippets/cohoma-coffee-raises-rs-5-cr-seed-round-led-by-ipv-11730918"], "confidence": 0.95, "summary": "Cohoma Coffee, a specialty coffee roaster and machine manufacturer, raised Rs 5 crore in a seed round led by Inflection Point Ventures with participation from Swishin VC to scale manufacturing and expand internationally.", "city": ""}, {"company": "Polaris Smart Metering Private Limited", "sector": "ClimateTech", "sector_raw": "climatetech", "stage": "Debt", "stage_raw": "debt", "amount": "₹710 Cr ($85.5M)", "amount_usd": 85500000.0, "currency": "INR", "announced_on": "2026-04-16", "lead_investor": "British International Investment", "investors": ["British International Investment"], "sources": ["https://entrackr.com/snippets/polaris-raises-80-mn-from-british-international-investment-11731748"], "confidence": 0.95, "summary": "Polaris Smart Metering Private Limited secured Rs 710 crore (≈$80‑$86 million) in financing from British International Investment to deploy 2.2 million smart meters in West Bengal and expand its AMI footprint.", "city": ""}, {"company": "Funding", "sector": "", "sector_raw": null, "stage": "Pre-Series A", "stage_raw": "pre_series_a", "amount": "$129M", "amount_usd": 129000000.0, "currency": "USD", "announced_on": "2026-04-18", "lead_investor": "PROMAFT Partners", "investors": ["IIFL", "PROMAFT Partners", "YourNest VC"], "sources": ["https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startup-this-week-apr-13-apr-18-11739056"], "confidence": 0.85, "summary": "", "city": ""}, {"company": "The Hosteller", "sector": "TravelTech", "sector_raw": "traveltech", "stage": "Undisclosed", "stage_raw": "undisclosed", "amount": "₹150 ($2K)", "amount_usd": 1807.23, "currency": "INR", "announced_on": "2026-04-17", "lead_investor": "", "investors": ["ITI Growth Opportunities Fund", "Merisis Wealth Trust", "PROMAFT Partners", "V3 Ventures", "family offices"], "sources": ["https://yourstory.com/2026/04/weekly-funding-roundup-april-11-17-steep-fall-in-vc-inflow-into-indian-startups"], "confidence": 0.85, "summary": "The Hosteller raised Rs 150 crore (approximately $16 million) from a group of investors including PROMAFT Partners and V3 Ventures.", "city": ""}, {"company": "OTP Ventures", "sector": "", "sector_raw": null, "stage": "Pre-Seed", "stage_raw": "pre_seed", "amount": "₹6.3 Cr ($759K)", "amount_usd": 759036.14, "currency": "INR", "announced_on": "2026-04-17", "lead_investor": "OTP Ventures", "investors": ["OTP Ventures", "Sadev Ventures"], "sources": ["https://entrackr.com/snippets/otp-ventures-leads-pre-seed-round-in-fragrance-brand-fifth-sense-11735379"], "confidence": 0.85, "summary": "", "city": ""}, {"company": "Unbound", "sector": "D2C", "sector_raw": "d2c", "stage": "Undisclosed", "stage_raw": "undisclosed", "amount": "₹8.0 Cr ($964K)", "amount_usd": 963855.42, "currency": "INR", "announced_on": "2026-04-16", "lead_investor": "Fireside Ventures", "investors": ["Fireside Ventures"], "sources": ["https://entrackr.com/snippets/mens-personal-care-brand-unbound-raises-rs-8-cr-led-by-fireside-ventures-11731565"], "confidence": 0.85, "summary": "Unbound, a men's personal care brand, raised Rs 8 crore in a funding round led by Fireside Ventures to launch its first product range in India.", "city": ""}, {"company": "Bluestone", "sector": "", "sector_raw": null, "stage": "Grant", "stage_raw": "grant", "amount": "$29M", "amount_usd": 29000000.0, "currency": "USD", "announced_on": "2026-04-17", "lead_investor": "", "investors": [], "sources": ["https://entrackr.com/snippets/bluestone-grants-fresh-esops-worth-rs-11-cr-11735866"], "confidence": 0.8, "summary": "", "city": ""}, {"company": "Indigo", "sector": "", "sector_raw": null, "stage": "Undisclosed", "stage_raw": "undisclosed", "amount": "$13.4M", "amount_usd": 13400000.0, "currency": "USD", "announced_on": "2026-04-16", "lead_investor": "Accel", "investors": ["Accel"], "sources": ["https://yourstory.com/2026/04/indigo-invests-air-taxi-maker-sarla-aviation"], "confidence": 0.8, "summary": "", "city": ""}, {"company": "ZoloStays", "sector": "", "sector_raw": null, "stage": "Undisclosed", "stage_raw": "undisclosed", "amount": "$118M", "amount_usd": 118000000.0, "currency": "USD", "announced_on": "2026-04-17", "lead_investor": "", "investors": [], "sources": ["https://entrackr.com/fintrackr/zolostays-reports-rs-342-cr-revenue-in-fy25-margins-improve-11736861"], "confidence": 0.6, "summary": "", "city": ""}, {"company": "Govt’s Fund", "sector": "", "sector_raw": null, "stage": "Undisclosed", "stage_raw": "undisclosed", "amount": "₹10000 Cr ($1.2B)", "amount_usd": 1204819277.11, "currency": "INR", "announced_on": "2026-04-14", "lead_investor": "", "investors": [], "sources": ["https://yourstory.com/2026/04/govts-fund-of-funds-20-expand-newer-startup-segments"], "confidence": 0.24, "summary": "The government announced a Rs 10,000 crore Fund of Funds 2.0 to support deep‑tech, manufacturing and early‑growth startups through segmented AIFs.", "city": ""}, {"company": "Masters’ Union", "sector": "", "sector_raw": null, "stage": "Undisclosed", "stage_raw": "undisclosed", "amount": "₹100 Cr ($12M)", "amount_usd": 12048192.77, "currency": "INR", "announced_on": "2026-04-09", "lead_investor": "", "investors": [], "sources": ["https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"], "confidence": 0.24, "summary": "Masters’ Union launched a Rs 100 crore early‑stage investment platform, MU Ventures, to fund founders under 25 across various tracks.", "city": ""}];
+  const META = {"generated_at": "Apr 20, 2026 11:23 UTC", "total_rounds": 14, "total_usd": 1635166867.31, "stages_present": ["debt", "grant", "pre_seed", "pre_series_a", "seed", "series_a", "series_b", "undisclosed"], "sectors_present": ["AI/ML", "ClimateTech", "D2C", "FoodTech", "HRTech", "TravelTech"], "max_amount_usd": 1204819277.11, "top_investors": [{"name": "PROMAFT Partners", "deals": 3, "leads": 2}, {"name": "IIFL", "deals": 2, "leads": 0}, {"name": "ITI Growth Opportunities Fund", "deals": 2, "leads": 0}, {"name": "Merisis Wealth Trust", "deals": 2, "leads": 0}, {"name": "V3 Ventures", "deals": 2, "leads": 0}, {"name": "InfoEdge Ventures", "deals": 1, "leads": 0}, {"name": "Kae Capital", "deals": 1, "leads": 0}, {"name": "Susquehanna Venture Capital", "deals": 1, "leads": 1}, {"name": "IvyCap Ventures", "deals": 1, "leads": 1}, {"name": "Inflection Point Ventures", "deals": 1, "leads": 1}, {"name": "Swishin VC", "deals": 1, "leads": 0}, {"name": "British International Investment", "deals": 1, "leads": 1}, {"name": "YourNest VC", "deals": 1, "leads": 0}, {"name": "family offices", "deals": 1, "leads": 0}, {"name": "OTP Ventures", "deals": 1, "leads": 1}, {"name": "Sadev Ventures", "deals": 1, "leads": 0}, {"name": "Fireside Ventures", "deals": 1, "leads": 1}, {"name": "Accel", "deals": 1, "leads": 1}], "co_investments": [{"pair": ["ITI Growth Opportunities Fund", "Merisis Wealth Trust"], "count": 2}, {"pair": ["ITI Growth Opportunities Fund", "PROMAFT Partners"], "count": 2}, {"pair": ["ITI Growth Opportunities Fund", "V3 Ventures"], "count": 2}, {"pair": ["Merisis Wealth Trust", "PROMAFT Partners"], "count": 2}, {"pair": ["Merisis Wealth Trust", "V3 Ventures"], "count": 2}, {"pair": ["PROMAFT Partners", "V3 Ventures"], "count": 2}], "companies": [{"name": "The Hosteller", "rounds": [{"stage": "Series B", "stage_raw": "series_b", "amount": "₹150 Cr ($18.1M)", "amount_usd": 18072289.0, "announced_on": "2026-04-16", "lead_investor": "PROMAFT Partners", "confidence": 0.95}, {"stage": "Undisclosed", "stage_raw": "undisclosed", "amount": "₹150 ($2K)", "amount_usd": 1807.23, "announced_on": "2026-04-17", "lead_investor": "", "confidence": 0.85}], "total_usd": 18074096.23, "sector": "TravelTech"}, {"name": "GobbleCube", "rounds": [{"stage": "Series A", "stage_raw": "series_a", "amount": "$15M", "amount_usd": 15000000.0, "announced_on": "2026-04-15", "lead_investor": "Susquehanna Venture Capital", "confidence": 0.96}], "total_usd": 15000000.0, "sector": "AI/ML"}, {"name": "TraqCheck", "rounds": [{"stage": "Series A", "stage_raw": "series_a", "amount": "$8M", "amount_usd": 8000000.0, "announced_on": "2026-04-14", "lead_investor": "IvyCap Ventures", "confidence": 0.96}], "total_usd": 8000000.0, "sector": "HRTech"}, {"name": "Cohoma Coffee", "rounds": [{"stage": "Seed", "stage_raw": "seed", "amount": "₹5.0 Cr ($602K)", "amount_usd": 602409.64, "announced_on": "2026-04-16", "lead_investor": "Inflection Point Ventures", "confidence": 0.95}], "total_usd": 602409.64, "sector": "FoodTech"}, {"name": "Polaris Smart Metering Private Limited", "rounds": [{"stage": "Debt", "stage_raw": "debt", "amount": "₹710 Cr ($85.5M)", "amount_usd": 85500000.0, "announced_on": "2026-04-16", "lead_investor": "British International Investment", "confidence": 0.95}], "total_usd": 85500000.0, "sector": "ClimateTech"}, {"name": "Funding", "rounds": [{"stage": "Pre-Series A", "stage_raw": "pre_series_a", "amount": "$129M", "amount_usd": 129000000.0, "announced_on": "2026-04-18", "lead_investor": "PROMAFT Partners", "confidence": 0.85}], "total_usd": 129000000.0, "sector": ""}, {"name": "OTP Ventures", "rounds": [{"stage": "Pre-Seed", "stage_raw": "pre_seed", "amount": "₹6.3 Cr ($759K)", "amount_usd": 759036.14, "announced_on": "2026-04-17", "lead_investor": "OTP Ventures", "confidence": 0.85}], "total_usd": 759036.14, "sector": ""}, {"name": "Unbound", "rounds": [{"stage": "Undisclosed", "stage_raw": "undisclosed", "amount": "₹8.0 Cr ($964K)", "amount_usd": 963855.42, "announced_on": "2026-04-16", "lead_investor": "Fireside Ventures", "confidence": 0.85}], "total_usd": 963855.42, "sector": "D2C"}, {"name": "Bluestone", "rounds": [{"stage": "Grant", "stage_raw": "grant", "amount": "$29M", "amount_usd": 29000000.0, "announced_on": "2026-04-17", "lead_investor": "", "confidence": 0.8}], "total_usd": 29000000.0, "sector": ""}, {"name": "Indigo", "rounds": [{"stage": "Undisclosed", "stage_raw": "undisclosed", "amount": "$13.4M", "amount_usd": 13400000.0, "announced_on": "2026-04-16", "lead_investor": "Accel", "confidence": 0.8}], "total_usd": 13400000.0, "sector": ""}, {"name": "ZoloStays", "rounds": [{"stage": "Undisclosed", "stage_raw": "undisclosed", "amount": "$118M", "amount_usd": 118000000.0, "announced_on": "2026-04-17", "lead_investor": "", "confidence": 0.6}], "total_usd": 118000000.0, "sector": ""}, {"name": "Govt’s Fund", "rounds": [{"stage": "Undisclosed", "stage_raw": "undisclosed", "amount": "₹10000 Cr ($1.2B)", "amount_usd": 1204819277.11, "announced_on": "2026-04-14", "lead_investor": "", "confidence": 0.24}], "total_usd": 1204819277.11, "sector": ""}, {"name": "Masters’ Union", "rounds": [{"stage": "Undisclosed", "stage_raw": "undisclosed", "amount": "₹100 Cr ($12M)", "amount_usd": 12048192.77, "announced_on": "2026-04-09", "lead_investor": "", "confidence": 0.24}], "total_usd": 12048192.77, "sector": ""}], "unique_companies": 13, "unique_investors": 18};
   const STAGE_ORDER = ["pre_seed","seed","pre_series_a","series_a","series_b","series_c","series_d","series_e_plus","bridge","debt","grant","ipo","acquisition","undisclosed"];
 
   const charts = {};
@@ -358,6 +510,7 @@
       rounds: ROUNDS,
       dark: (localStorage.getItem('funding-dark') ?? (window.matchMedia('(prefers-color-scheme: dark)').matches ? '1' : '0')) === '1',
       selected: null,
+      view: 'rounds',
       page: 1,
       pageSize: 25,
       sort: { key: 'announced_on', dir: 'desc' },
@@ -383,6 +536,12 @@
           this.renderCharts();
         });
         this.$watch('filteredRows', () => { this.page = 1; this.renderCharts(); });
+        this.$watch('view', (v) => {
+          // Charts only exist in the 'rounds' view. Remount when we come back.
+          if (v === 'rounds') {
+            this.$nextTick(() => { this.mountCharts(); this.renderCharts(); });
+          }
+        });
         this.$watch('dark', (v) => {
           localStorage.setItem('funding-dark', v ? '1' : '0');
           document.documentElement.classList.toggle('dark', v);
@@ -390,6 +549,14 @@
         });
         window.addEventListener('resize', () => Object.values(charts).forEach(c => c && c.resize()));
         window.addEventListener('keydown', (e) => { if (e.key === 'Escape') this.selected = null; });
+      },
+
+      get tabs() {
+        return [
+          { id: 'rounds',    label: 'Rounds',    count: this.filteredRows.length },
+          { id: 'investors', label: 'Investors', count: this.investorAgg.length },
+          { id: 'companies', label: 'Companies', count: this.companyAgg.length },
+        ];
       },
 
       toggleDark() { this.dark = !this.dark; },
@@ -455,6 +622,63 @@
       setSort(key) {
         if (this.sort.key === key) this.sort.dir = this.sort.dir === 'asc' ? 'desc' : 'asc';
         else this.sort = { key, dir: 'desc' };
+      },
+
+      get investorAgg() {
+        const map = new Map();
+        this.filteredRows.forEach(r => {
+          (r.investors || []).forEach(name => {
+            let it = map.get(name);
+            if (!it) { it = { name, deals: 0, leads: 0, totalUsd: 0 }; map.set(name, it); }
+            it.deals += 1;
+            if (name === r.lead_investor) it.leads += 1;
+            it.totalUsd += r.amount_usd || 0;
+          });
+        });
+        return [...map.values()].sort((a, b) => b.deals - a.deals || b.totalUsd - a.totalUsd);
+      },
+
+      get coInvestmentAgg() {
+        const pairs = new Map();
+        this.filteredRows.forEach(r => {
+          const invs = r.investors || [];
+          for (let i = 0; i < invs.length; i++) {
+            for (let j = i + 1; j < invs.length; j++) {
+              const [a, b] = [invs[i], invs[j]].sort();
+              const key = a + ' || ' + b;
+              pairs.set(key, (pairs.get(key) || 0) + 1);
+            }
+          }
+        });
+        return [...pairs.entries()]
+          .filter(([, c]) => c >= 2)
+          .map(([k, c]) => { const [a, b] = k.split(' || '); return { a, b, count: c }; })
+          .sort((x, y) => y.count - x.count);
+      },
+
+      get companyAgg() {
+        const map = new Map();
+        this.filteredRows.forEach(r => {
+          let co = map.get(r.company);
+          if (!co) { co = { name: r.company, rounds: [], totalUsd: 0, sector: r.sector || '' }; map.set(r.company, co); }
+          co.rounds.push(r);
+          co.totalUsd += r.amount_usd || 0;
+          if (!co.sector && r.sector) co.sector = r.sector;
+        });
+        const out = [...map.values()];
+        out.forEach(co => co.rounds.sort((a, b) => (a.announced_on || '').localeCompare(b.announced_on || '')));
+        return out.sort((a, b) => b.rounds.length - a.rounds.length || b.totalUsd - a.totalUsd);
+      },
+
+      stageDotClass(raw) {
+        const p = {
+          pre_seed:'bg-slate-400', seed:'bg-emerald-500', pre_series_a:'bg-lime-500',
+          series_a:'bg-blue-500', series_b:'bg-indigo-500', series_c:'bg-violet-500',
+          series_d:'bg-purple-500', series_e_plus:'bg-fuchsia-500',
+          bridge:'bg-amber-500', debt:'bg-orange-500', grant:'bg-teal-500',
+          ipo:'bg-rose-500', acquisition:'bg-pink-500',
+        };
+        return p[raw] || 'bg-slate-400';
       },
       sortIndicator(key) {
         if (this.sort.key !== key) return '';
@@ -536,7 +760,7 @@
       },
 
       mountCharts() {
-        ['timeline','stages','sectors','investors','distribution'].forEach(id => {
+        ['timeline','stages','sectors','sector-time','investors','distribution'].forEach(id => {
           const el = document.getElementById('chart-' + id);
           if (el && !charts[id]) charts[id] = echarts.init(el, this.dark ? 'dark' : null, { renderer: 'canvas' });
         });
@@ -609,6 +833,54 @@
           xAxis: { type: 'value', axisLabel: { formatter: (v) => this.formatUsd(v), color: textCol }, splitLine: { lineStyle: { color: axisCol } } },
           yAxis: { type: 'category', data: sectors.map(s => s[0]), axisLine: { lineStyle: { color: axisCol } }, axisLabel: { color: textCol, fontSize: 11 } },
           series: [{ type: 'bar', data: sectors.map(s => s[1]), itemStyle: { color: '#3b82f6', borderRadius: [0,4,4,0] }, barWidth: '60%' }],
+        }, { notMerge: true });
+
+        // ----- Sector mix over time (stacked bar by month, by sector count) -----
+        const sectorCountByMonth = {};  // month -> { sector -> count }
+        const allSectors = new Set();
+        rows.forEach(r => {
+          if (!r.announced_on) return;
+          const m = r.announced_on.slice(0, 7);
+          const sec = r.sector || 'Unknown';
+          sectorCountByMonth[m] = sectorCountByMonth[m] || {};
+          sectorCountByMonth[m][sec] = (sectorCountByMonth[m][sec] || 0) + 1;
+          allSectors.add(sec);
+        });
+        const stMonths = Object.keys(sectorCountByMonth).sort();
+        // Pick top 8 sectors overall for readability; rest collapsed into "Other"
+        const totalPerSector = {};
+        rows.forEach(r => {
+          const sec = r.sector || 'Unknown';
+          totalPerSector[sec] = (totalPerSector[sec] || 0) + 1;
+        });
+        const topSectors = Object.entries(totalPerSector).sort((a,b) => b[1]-a[1]).slice(0, 8).map(x => x[0]);
+        const seriesPalette = ['#22c55e','#3b82f6','#8b5cf6','#f59e0b','#06b6d4','#ec4899','#84cc16','#f97316','#64748b'];
+        const bucketed = (sec) => topSectors.includes(sec) ? sec : 'Other';
+        const hasOther = [...allSectors].some(s => !topSectors.includes(s));
+        const finalSectors = hasOther ? [...topSectors, 'Other'] : [...topSectors];
+        const sectorTimeSeries = finalSectors.map((sec, i) => ({
+          name: sec,
+          type: 'bar',
+          stack: 'total',
+          emphasis: { focus: 'series' },
+          itemStyle: { color: seriesPalette[i % seriesPalette.length] },
+          data: stMonths.map(m => {
+            const counts = sectorCountByMonth[m] || {};
+            let total = 0;
+            for (const [s, c] of Object.entries(counts)) {
+              if (bucketed(s) === sec) total += c;
+            }
+            return total;
+          }),
+        }));
+        charts['sector-time'] && charts['sector-time'].setOption({
+          ...baseOpts,
+          tooltip: { ...baseOpts.tooltip, trigger: 'axis', axisPointer: { type: 'shadow' } },
+          legend: { data: finalSectors, textStyle: { color: textCol, fontSize: 11 }, top: 0 },
+          grid: { top: 40, right: 20, bottom: 40, left: 50, containLabel: true },
+          xAxis: { type: 'category', data: stMonths, axisLine: { lineStyle: { color: axisCol } }, axisLabel: { color: textCol } },
+          yAxis: { type: 'value', minInterval: 1, splitLine: { lineStyle: { color: axisCol } }, axisLabel: { color: textCol } },
+          series: sectorTimeSeries,
         }, { notMerge: true });
 
         // ----- Investors bar -----

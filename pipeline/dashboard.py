@@ -33,6 +33,7 @@ def _dashboard_rows(raw_rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
         out.append({
             "company": r["company_name"],
             "sector": r["sector"],
+            "sector_raw": r["sector_raw"],
             "stage": r["stage"],
             "stage_raw": r["stage_raw"],
             "amount": r["amount"],
@@ -53,6 +54,59 @@ def _meta(rows: list[dict[str, Any]]) -> dict[str, Any]:
     stages = sorted({r["stage_raw"] for r in rows if r.get("stage_raw")})
     sectors = sorted({r["sector"] for r in rows if r.get("sector")})
     amounts = [r["amount_usd"] for r in rows if r.get("amount_usd")]
+    # Precompute investor aggregates so the template doesn't need to loop in JS.
+    inv_counts: dict[str, int] = {}
+    inv_leads: dict[str, int] = {}
+    co_pairs: dict[str, int] = {}
+    for r in rows:
+        names = r.get("investors") or []
+        lead = r.get("lead_investor") or ""
+        for n in names:
+            inv_counts[n] = inv_counts.get(n, 0) + 1
+            if n == lead:
+                inv_leads[n] = inv_leads.get(n, 0) + 1
+        for i, a in enumerate(names):
+            for b in names[i + 1:]:
+                key = " || ".join(sorted([a, b]))
+                co_pairs[key] = co_pairs.get(key, 0) + 1
+    top_investors = [
+        {"name": n, "deals": c, "leads": inv_leads.get(n, 0)}
+        for n, c in sorted(inv_counts.items(), key=lambda x: -x[1])[:25]
+    ]
+    co_investments = [
+        {"pair": k.split(" || "), "count": v}
+        for k, v in sorted(co_pairs.items(), key=lambda x: -x[1])[:25]
+        if v >= 2
+    ]
+    # Companies grouped: one row per company with round list (stage progression).
+    by_company: dict[str, list[dict[str, Any]]] = {}
+    for r in rows:
+        by_company.setdefault(r["company"], []).append(r)
+    companies = [
+        {
+            "name": name,
+            "rounds": sorted(
+                [
+                    {
+                        "stage": rr["stage"],
+                        "stage_raw": rr["stage_raw"],
+                        "amount": rr["amount"],
+                        "amount_usd": rr["amount_usd"],
+                        "announced_on": rr["announced_on"],
+                        "lead_investor": rr["lead_investor"],
+                        "confidence": rr["confidence"],
+                    }
+                    for rr in rs
+                ],
+                key=lambda x: x["announced_on"] or "",
+            ),
+            "total_usd": sum(
+                (rr["amount_usd"] or 0) for rr in rs if rr.get("amount_usd")
+            ),
+            "sector": rs[0]["sector"] if rs else "",
+        }
+        for name, rs in sorted(by_company.items(), key=lambda x: -len(x[1]))
+    ]
     return {
         "generated_at": datetime.now(UTC).strftime("%b %d, %Y %H:%M UTC"),
         "total_rounds": len(rows),
@@ -60,6 +114,11 @@ def _meta(rows: list[dict[str, Any]]) -> dict[str, Any]:
         "stages_present": stages,
         "sectors_present": sectors,
         "max_amount_usd": max(amounts) if amounts else 0,
+        "top_investors": top_investors,
+        "co_investments": co_investments,
+        "companies": companies,
+        "unique_companies": len(by_company),
+        "unique_investors": len(inv_counts),
     }
 
 

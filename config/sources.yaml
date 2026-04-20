@@ -55,3 +55,34 @@ sources:
       article_body: "article"
       og_title: 'meta[property="og:title"]'
     rate_limit_per_sec: 0.8
+
+  moneycontrol:
+    enabled: true
+    kind: static
+    base_url: https://www.moneycontrol.com
+    list_urls:
+      - https://www.moneycontrol.com/news/business/startup
+    pagination:
+      strategy: page_number
+      max_pages: 3
+      max_articles: 60
+    selectors:
+      article_body: ".content_wrapper"
+      og_title: 'meta[property="og:title"]'
+    rate_limit_per_sec: 0.8
+
+  vccircle:
+    enabled: true
+    kind: static
+    base_url: https://www.vccircle.com
+    list_urls:
+      - https://www.vccircle.com/sector/tmt
+      - https://www.vccircle.com/sector/consumer
+    pagination:
+      strategy: page_number
+      max_pages: 3
+      max_articles: 40
+    selectors:
+      article_body: ".field--name-body"
+      og_title: 'meta[property="og:title"]'
+    rate_limit_per_sec: 0.8

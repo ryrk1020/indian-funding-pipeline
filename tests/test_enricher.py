@@ -65,6 +65,18 @@ def test_sanitize_confidence_clamp() -> None:
     assert _sanitize_llm_payload({"confidence": -0.3})["confidence"] == 0.0
 
 
+def test_sanitize_sector_normalized_to_taxonomy() -> None:
+    # LLM may emit "HR tech" / "Financial services" / "AI" — sanitizer maps
+    # them to canonical slugs before pydantic sees the value.
+    assert _sanitize_llm_payload({"sector": "HR tech", "confidence": 0.5})["sector"] == "hrtech"
+    assert _sanitize_llm_payload({"sector": "Financial Services", "confidence": 0.5})["sector"] == "fintech"
+    assert _sanitize_llm_payload({"sector": "Artificial Intelligence", "confidence": 0.5})["sector"] == "ai_ml"
+    # Unknown still yields "other", not null
+    assert _sanitize_llm_payload({"sector": "unknown industry", "confidence": 0.5})["sector"] == "other"
+    # Absent stays absent
+    assert _sanitize_llm_payload({"confidence": 0.5}).get("sector") is None
+
+
 @pytest.mark.asyncio
 async def test_enrich_parses_valid_response() -> None:
     raw = (
