@@ -1,8 +1,32 @@
 [
   {
+    "company_name": "The Hosteller",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "₹150 Cr ($18.1M)",
+    "amount_usd": 18072048.19,
+    "currency": "INR",
+    "announced_on": "2026-04-16",
+    "lead_investor": "PROMAFT Partners",
+    "investors": [
+      "ITI Growth Opportunities Fund",
+      "Merisis Wealth Trust",
+      "PROMAFT Partners",
+      "V3 Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/news/the-hosteller-raises-rs-150-cr-in-series-b-round-led-by-promaft-and-v3-ventures-11730910"
+    ],
+    "confidence": 0.95,
+    "summary": "The Hosteller raised Rs 150 crore in a Series B round co-led by PROMAFT Partners and V3 Ventures, with participation from ITI Growth Opportunities Fund and Merisis Wealth Trust, to fund expansion of its hostel network across India.",
+    "city": ""
+  },
+  {
     "company_name": "GobbleCube",
-    "sector": "AI/ML",
-    "sector_raw": "ai_ml",
+    "sector": "",
+    "sector_raw": null,
     "stage": "Series A",
     "stage_raw": "series_a",
     "amount": "$15M",
@@ -18,102 +42,186 @@
     "sources": [
       "https://yourstory.com/2026/04/funding-gobblecube-15-million-series-a-susquehanna-venture-capital"
     ],
-    "confidence": 0.96,
-    "summary": "GobbleCube, an AI startup based in Gurugram building agentic platforms for digital commerce, raised $15 million in a Series A round led by Susquehanna Venture Capital, with participation from InfoEdge Ventures and Kae Capital.",
+    "confidence": 0.95,
+    "summary": "GobbleCube, a Gurugram-based AI startup for digital commerce, raised $15 million in a Series A round led by Susquehanna Venture Capital, with participation from InfoEdge Ventures and Kae Capital.",
     "city": ""
   },
   {
-    "company_name": "TraqCheck",
-    "sector": "HRTech",
-    "sector_raw": "hrtech",
+    "company_name": "KreditBee",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series E+",
+    "stage_raw": "series_e_plus",
+    "amount": "$280M",
+    "amount_usd": 280000000.0,
+    "currency": "USD",
+    "announced_on": "2026-04-11",
+    "lead_investor": "Motilal Oswal Alternates",
+    "investors": [
+      "Motilal Oswal Alternates"
+    ],
+    "sources": [
+      "https://entrackr.com/report/weekly-funding-report/funding-and-acquisitions-in-indian-startup-this-week-apr-6-apr-11-11714653"
+    ],
+    "confidence": 0.95,
+    "summary": "Digital lending platform KreditBee raised $280 million in a Series E round, led by Motilal Oswal Alternates, achieving unicorn status with a $1.5 billion post‑money valuation.",
+    "city": ""
+  },
+  {
+    "company_name": "Astranova Mobility",
+    "sector": "",
+    "sector_raw": null,
     "stage": "Series A",
     "stage_raw": "series_a",
-    "amount": "$8M",
-    "amount_usd": 8000000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-14",
+    "amount": "₹60 Cr ($7.2M)",
+    "amount_usd": 7228915.66,
+    "currency": "INR",
+    "announced_on": "2026-04-09",
     "lead_investor": "IvyCap Ventures",
     "investors": [
-      "IIFL",
-      "IvyCap Ventures"
+      "AdvantEdge Founders",
+      "Asian Development Bank",
+      "IvyCap Ventures",
+      "Trucks Venture Capital"
     ],
     "sources": [
-      "https://yourstory.com/2026/04/traqcheck-raises-8-million-led-by-ivycap-ventures"
-    ],
-    "confidence": 0.96,
-    "summary": "TraqCheck, an HR tech startup, raised $8 million in a Series A round led by IvyCap Ventures with participation from IIFL to expand its AI-driven background screening and sourcing agents in Europe.",
-    "city": ""
-  },
-  {
-    "company_name": "The Hosteller",
-    "sector": "TravelTech",
-    "sector_raw": "traveltech",
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "₹150 Cr ($18.1M)",
-    "amount_usd": 18072289.0,
-    "currency": "INR",
-    "announced_on": "2026-04-16",
-    "lead_investor": "PROMAFT Partners",
-    "investors": [
-      "ITI Growth Opportunities Fund",
-      "Merisis Wealth Trust",
-      "PROMAFT Partners",
-      "V3 Ventures"
-    ],
-    "sources": [
-      "https://entrackr.com/news/the-hosteller-raises-rs-150-cr-in-series-b-round-led-by-promaft-and-v3-ventures-11730910",
-      "https://yourstory.com/2026/04/the-hosteller-raises-rs-150-cr-series-b-funding-promaft-partners"
+      "https://yourstory.com/2026/04/astranova-mobility-raises-rs-60-cr-funding-round-ivycap-ventures"
     ],
     "confidence": 0.95,
-    "summary": "The Hosteller raised Rs 150 crore in a Series B round co-led by PROMAFT Partners and V3 Ventures, with participation from ITI Growth Opportunities Fund and Merisis Wealth Trust, to fund expansion of its hostel network across India.",
+    "summary": "Astranova Mobility raised Rs 60 crore in a Series A round to expand its EV financing and asset management platform, with IvyCap Ventures leading the round.",
     "city": ""
   },
   {
-    "company_name": "Cohoma Coffee",
-    "sector": "FoodTech",
-    "sector_raw": "foodtech",
+    "company_name": "Pluckk",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "₹100 Cr ($12M)",
+    "amount_usd": 12048193.0,
+    "currency": "INR",
+    "announced_on": "2026-04-09",
+    "lead_investor": "Euro Gulf Investment",
+    "investors": [
+      "Euro Gulf Investment"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
+    ],
+    "confidence": 0.95,
+    "summary": "Pluckk, a digital-first fresh food and clean-label FMCG brand, raised Rs 100 crore in a Series A round led by Euro Gulf Investment to expand offline retail, enter international markets, and enhance its AI-driven supply chain.",
+    "city": ""
+  },
+  {
+    "company_name": "Atlas",
+    "sector": "",
+    "sector_raw": null,
     "stage": "Seed",
     "stage_raw": "seed",
-    "amount": "₹5.0 Cr ($602K)",
-    "amount_usd": 602409.64,
-    "currency": "INR",
-    "announced_on": "2026-04-16",
-    "lead_investor": "Inflection Point Ventures",
+    "amount": "$6M",
+    "amount_usd": 6000000.0,
+    "currency": "USD",
+    "announced_on": "2026-04-08",
+    "lead_investor": "Accel",
     "investors": [
-      "Inflection Point Ventures",
-      "Swishin VC"
+      "Accel",
+      "Stellaris"
     ],
     "sources": [
-      "https://entrackr.com/snippets/cohoma-coffee-raises-rs-5-cr-seed-round-led-by-ipv-11730918"
+      "https://yourstory.com/2026/04/atlas-raises-seed-funding-round-led-by-stellaris-and-accel"
     ],
     "confidence": 0.95,
-    "summary": "Cohoma Coffee, a specialty coffee roaster and machine manufacturer, raised Rs 5 crore in a seed round led by Inflection Point Ventures with participation from Swishin VC to scale manufacturing and expand internationally.",
+    "summary": "Atlas, a Singapore-based startup, raised $6 million in a seed round co‑led by Accel and Stellaris to expand its AI platform for independent accounting firms in North America.",
     "city": ""
   },
   {
-    "company_name": "Polaris Smart Metering Private Limited",
-    "sector": "ClimateTech",
-    "sector_raw": "climatetech",
-    "stage": "Debt",
-    "stage_raw": "debt",
-    "amount": "₹710 Cr ($85.5M)",
-    "amount_usd": 85500000.0,
-    "currency": "INR",
-    "announced_on": "2026-04-16",
-    "lead_investor": "British International Investment",
+    "company_name": "Palmonas",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$40M",
+    "amount_usd": 40000000.0,
+    "currency": "USD",
+    "announced_on": "2026-04-04",
+    "lead_investor": "Vertex Ventures",
     "investors": [
-      "British International Investment"
+      "Vertex Ventures",
+      "Xponentia Capital"
     ],
     "sources": [
-      "https://entrackr.com/snippets/polaris-raises-80-mn-from-british-international-investment-11731748"
+      "https://entrackr.com/report/weekly-funding-report/funding-and-acquisitions-in-indian-startup-this-week-mar-30-apr-4-11452029"
     ],
     "confidence": 0.95,
-    "summary": "Polaris Smart Metering Private Limited secured Rs 710 crore (≈$80‑$86 million) in financing from British International Investment to deploy 2.2 million smart meters in West Bengal and expand its AMI footprint.",
+    "summary": "Palmonas, a demi-fine jewellery startup, raised $40 million in a Series B round.",
     "city": ""
   },
   {
-    "company_name": "Funding",
+    "company_name": "Servify",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series D",
+    "stage_raw": "series_d",
+    "amount": "$7.8M",
+    "amount_usd": 7800000.0,
+    "currency": "USD",
+    "announced_on": "2025-03-01",
+    "lead_investor": "BEENEXT",
+    "investors": [
+      "BEENEXT",
+      "Singularity Growth Opportunities Fund"
+    ],
+    "sources": [
+      "https://entrackr.com/fintrackr/us-emerges-as-servifys-largest-market-in-fy25-with-rs-400-cr-revenue-11705208"
+    ],
+    "confidence": 0.95,
+    "summary": "Servify raised $7.8 million in an ongoing Series D round in March 2025, led by BEENEXT, after previously raising $65 million Series D led by Singularity Growth Opportunities Fund.",
+    "city": ""
+  },
+  {
+    "company_name": "Sarla Aviation",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "₹10 Cr ($1.2M)",
+    "amount_usd": 1204819.0,
+    "currency": "INR",
+    "announced_on": "2026-04-16",
+    "lead_investor": "",
+    "investors": [
+      "IndiGo Ventures Fund -I"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/04/indigo-invests-air-taxi-maker-sarla-aviation"
+    ],
+    "confidence": 0.92,
+    "summary": "IndiGo Ventures Fund invested about Rs 10 crore in air-taxi startup Sarla Aviation, which will use the funds for operations and expansion.",
+    "city": ""
+  },
+  {
+    "company_name": "Artha Venture",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "₹4.0 Cr ($482K)",
+    "amount_usd": 481927.71,
+    "currency": "INR",
+    "announced_on": "2026-04-20",
+    "lead_investor": "Artha Venture Fund II",
+    "investors": [
+      "Artha Venture Fund II"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/artha-venture-leads-seed-round-in-personal-care-brand-clarity-labs-11745014"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Weekly Funding Report",
     "sector": "",
     "sector_raw": null,
     "stage": "Pre-Series A",
@@ -124,40 +232,16 @@
     "announced_on": "2026-04-18",
     "lead_investor": "PROMAFT Partners",
     "investors": [
-      "IIFL",
+      "IIFL. Aliste Technologies",
       "PROMAFT Partners",
       "YourNest VC"
     ],
     "sources": [
+      "https://entrackr.com/report/weekly-funding-report",
       "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startup-this-week-apr-13-apr-18-11739056"
     ],
     "confidence": 0.85,
     "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "The Hosteller",
-    "sector": "TravelTech",
-    "sector_raw": "traveltech",
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹150 ($2K)",
-    "amount_usd": 1807.23,
-    "currency": "INR",
-    "announced_on": "2026-04-17",
-    "lead_investor": "",
-    "investors": [
-      "ITI Growth Opportunities Fund",
-      "Merisis Wealth Trust",
-      "PROMAFT Partners",
-      "V3 Ventures",
-      "family offices"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/04/weekly-funding-roundup-april-11-17-steep-fall-in-vc-inflow-into-indian-startups"
-    ],
-    "confidence": 0.85,
-    "summary": "The Hosteller raised Rs 150 crore (approximately $16 million) from a group of investors including PROMAFT Partners and V3 Ventures.",
     "city": ""
   },
   {
@@ -184,8 +268,8 @@
   },
   {
     "company_name": "Unbound",
-    "sector": "D2C",
-    "sector_raw": "d2c",
+    "sector": "",
+    "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
     "amount": "₹8.0 Cr ($964K)",
@@ -200,7 +284,116 @@
       "https://entrackr.com/snippets/mens-personal-care-brand-unbound-raises-rs-8-cr-led-by-fireside-ventures-11731565"
     ],
     "confidence": 0.85,
-    "summary": "Unbound, a men's personal care brand, raised Rs 8 crore in a funding round led by Fireside Ventures to launch its first product range in India.",
+    "summary": "Men's personal care brand Unbound raised Rs 8 crore in a funding round led by Fireside Ventures to launch its first product range across skin, hair, and body care.",
+    "city": ""
+  },
+  {
+    "company_name": "The Hosteller",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$100M",
+    "amount_usd": 100000000.0,
+    "currency": "USD",
+    "announced_on": "2026-04-16",
+    "lead_investor": "PROMAFT Partners",
+    "investors": [
+      "ITI Growth Opportunities Fund",
+      "PROMAFT Partners"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/04/the-hosteller-raises-rs-150-cr-series-b-funding-promaft-partners"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "TraqCheck",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$8M",
+    "amount_usd": 8000000.0,
+    "currency": "USD",
+    "announced_on": "2026-04-14",
+    "lead_investor": "IvyCap Ventures",
+    "investors": [
+      "IIFL. TraqCheck",
+      "IvyCap Ventures"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/04/traqcheck-raises-8-million-led-by-ivycap-ventures"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Axten Hospitals",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹2.5 Cr ($301K)",
+    "amount_usd": 301204.82,
+    "currency": "INR",
+    "announced_on": "2026-04-20",
+    "lead_investor": "PedalStart",
+    "investors": [
+      "PedalStart"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/axten-hospitals-raises-rs-25-cr-led-by-pedalstart-11745815"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Groww",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "₹3 L ($4K)",
+    "amount_usd": 3614.46,
+    "currency": "INR",
+    "announced_on": "2026-04-20",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news-analysis/groww-crosses-rs-3-lakh-cr-in-customer-assets-to-deploy-profits-and-fresh-funds-into-lending-biz-11746510"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "The Hosteller",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹150 ($16M)",
+    "amount_usd": 16000000.0,
+    "currency": "INR",
+    "announced_on": "2026-04-17",
+    "lead_investor": "",
+    "investors": [
+      "ITI Growth Opportunities Fund",
+      "Merisis Wealth Trust",
+      "PROMAFT Partners",
+      "V3 Ventures",
+      "family offices"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/04/weekly-funding-roundup-april-11-17-steep-fall-in-vc-inflow-into-indian-startups"
+    ],
+    "confidence": 0.8,
+    "summary": "The Hosteller raised Rs 150 crore (approximately $16 million) from a group of investors including PROMAFT Partners and V3 Ventures.",
     "city": ""
   },
   {
@@ -223,23 +416,80 @@
     "city": ""
   },
   {
-    "company_name": "Indigo",
+    "company_name": "Polaris",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$80M",
+    "amount_usd": 80000000.0,
+    "currency": "USD",
+    "announced_on": "2026-04-16",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/polaris-raises-80-mn-from-british-international-investment-11731748"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "SILA",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "$13.4M",
-    "amount_usd": 13400000.0,
+    "amount": "$100M",
+    "amount_usd": 100000000.0,
     "currency": "USD",
-    "announced_on": "2026-04-16",
-    "lead_investor": "Accel",
+    "announced_on": "2026-04-08",
+    "lead_investor": "",
     "investors": [
-      "Accel"
+      "Permira"
     ],
     "sources": [
-      "https://yourstory.com/2026/04/indigo-invests-air-taxi-maker-sarla-aviation"
+      "https://yourstory.com/2026/04/business-services-platform-sila-raises-usd-100m-from-permira"
     ],
-    "confidence": 0.8,
+    "confidence": 0.7,
+    "summary": "SILA, a Mumbai-based real‑estate business services platform, raised $100 million from private equity firm Permira to fund expansion and technology upgrades across India.",
+    "city": ""
+  },
+  {
+    "company_name": "Digital",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹2290 Cr ($275.9M)",
+    "amount_usd": 275903614.46,
+    "currency": "INR",
+    "announced_on": "2026-04-20",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/digital-gold-via-upi-hits-record-254-mn-transactions-in-march-11744848"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Groww",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$13.4B",
+    "amount_usd": 13400000000.0,
+    "currency": "USD",
+    "announced_on": "2026-04-20",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/groww-reports-rs-686-cr-profit-on-rs-1500-cr-revenue-in-q4-fy26-11745719"
+    ],
+    "confidence": 0.6,
     "summary": "",
     "city": ""
   },
@@ -263,6 +513,46 @@
     "city": ""
   },
   {
+    "company_name": "Neysa",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$1.2B",
+    "amount_usd": 1200000000.0,
+    "currency": "USD",
+    "announced_on": "2026-04-02",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/report/quarterly-funding-report/indian-startup-funding-climbs-to-nearly-4-bn-in-q1-2026-powered-by-neysa-and-early-stage-deals-11445029"
+    ],
+    "confidence": 0.45,
+    "summary": "Neysa raised a $1.2 billion Series B round for its AI infrastructure platform, the largest growth-stage deal in Q1 2026.",
+    "city": ""
+  },
+  {
+    "company_name": "Bijak’s GMV",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$33M",
+    "amount_usd": 33000000.0,
+    "currency": "USD",
+    "announced_on": "2026-04-10",
+    "lead_investor": "Peak XV Partners",
+    "investors": [
+      "Peak XV Partners"
+    ],
+    "sources": [
+      "https://entrackr.com/fintrackr/bijaks-gmv-drop-25-to-rs-551-cr-in-fy25-losses-stand-at-rs-61-cr-11710860"
+    ],
+    "confidence": 0.315,
+    "summary": "The article reports Bijak's FY25 financial performance, noting a 25% drop in GMV to Rs 551 crore and increased losses of Rs 61 crore, without announcing a new funding round.",
+    "city": ""
+  },
+  {
     "company_name": "Govt’s Fund",
     "sector": "",
     "sector_raw": null,
@@ -278,7 +568,7 @@
       "https://yourstory.com/2026/04/govts-fund-of-funds-20-expand-newer-startup-segments"
     ],
     "confidence": 0.24,
-    "summary": "The government announced a Rs 10,000 crore Fund of Funds 2.0 to support deep‑tech, manufacturing and early‑growth startups through segmented AIFs.",
+    "summary": "The Indian government announced a Rs 10,000 crore Fund of Funds 2.0 to support deep-tech, manufacturing and early-growth startups through segmented AIFs.",
     "city": ""
   },
   {
@@ -297,7 +587,7 @@
       "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
     ],
     "confidence": 0.24,
-    "summary": "Masters’ Union launched a Rs 100 crore early‑stage investment platform, MU Ventures, to fund founders under 25 across various tracks.",
+    "summary": "Masters’ Union launched a Rs 100 crore early-stage investment platform, MU Ventures, to fund founders under 25 across various sectors.",
     "city": ""
   }
 ]
