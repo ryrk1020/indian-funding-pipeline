@@ -85,6 +85,20 @@
 
 <main class="max-w-[1440px] mx-auto px-4 sm:px-6 py-5 space-y-5">
 
+<!-- ========================= TABS ========================= -->
+<section class="flex items-center gap-1 border-b border-slate-200 dark:border-slate-800 no-print">
+  <template x-for="tab in tabs" :key="tab.id">
+    <button type="button" @click="view = tab.id"
+            :class="view === tab.id
+              ? 'border-brand-500 text-slate-900 dark:text-white'
+              : 'border-transparent text-slate-500 hover:text-slate-900 dark:hover:text-white'"
+            class="px-4 py-2 -mb-px text-sm font-medium border-b-2 transition-colors">
+      <span x-text="tab.label"></span>
+      <span class="ml-1.5 text-xs font-mono text-slate-400" x-text="tab.count"></span>
+    </button>
+  </template>
+</section>
+
 <!-- ========================= KPIs ========================= -->
 <section class="grid grid-cols-2 md:grid-cols-4 gap-3">
   <template x-for="kpi in kpis" :key="kpi.label">
@@ -187,8 +201,8 @@
   <button @click="resetFilters()" class="mt-4 px-3 py-1.5 text-xs rounded-lg bg-brand-500 text-white hover:bg-brand-600">Reset filters</button>
 </div>
 
-<!-- ========================= CHARTS ========================= -->
-<section x-show="filteredRows.length > 0" class="space-y-3">
+<!-- ========================= CHARTS (rounds view) ========================= -->
+<section x-show="view === 'rounds' && filteredRows.length > 0" class="space-y-3">
   <!-- Timeline (full width) -->
   <div class="rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-4 shadow-card">
     <h2 class="text-sm font-semibold mb-2">Funding over time</h2>
@@ -201,9 +215,15 @@
       <div id="chart-stages" class="chart-box"></div>
     </div>
     <div class="rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-4 shadow-card">
-      <h2 class="text-sm font-semibold mb-2">Top sectors</h2>
+      <h2 class="text-sm font-semibold mb-2">Top sectors (by $ raised)</h2>
       <div id="chart-sectors" class="chart-box"></div>
     </div>
+  </div>
+
+  <!-- Sector mix over time (full width, stacked) -->
+  <div class="rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-4 shadow-card">
+    <h2 class="text-sm font-semibold mb-2">Sector mix over time (by round count)</h2>
+    <div id="chart-sector-time" class="chart-tall"></div>
   </div>
 
   <div class="grid grid-cols-1 lg:grid-cols-2 gap-3">
@@ -218,8 +238,140 @@
   </div>
 </section>
 
-<!-- ========================= TABLE ========================= -->
-<section x-show="filteredRows.length > 0" class="rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-card overflow-hidden">
+<!-- ========================= INVESTORS VIEW ========================= -->
+<section x-show="view === 'investors' && filteredRows.length > 0" class="space-y-3">
+  <div class="grid grid-cols-2 md:grid-cols-4 gap-3">
+    <div class="rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-4 shadow-card">
+      <div class="text-xs font-medium uppercase tracking-wide text-slate-500">Unique investors</div>
+      <div class="mt-1 text-2xl font-semibold" x-text="investorAgg.length"></div>
+    </div>
+    <div class="rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-4 shadow-card">
+      <div class="text-xs font-medium uppercase tracking-wide text-slate-500">Co-investment pairs</div>
+      <div class="mt-1 text-2xl font-semibold" x-text="coInvestmentAgg.length"></div>
+    </div>
+    <div class="rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-4 shadow-card">
+      <div class="text-xs font-medium uppercase tracking-wide text-slate-500">Most active</div>
+      <div class="mt-1 text-lg font-semibold truncate" x-text="investorAgg[0]?.name || '—'"></div>
+      <div class="text-xs text-slate-500" x-text="investorAgg[0] ? investorAgg[0].deals + ' deals' : ''"></div>
+    </div>
+    <div class="rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-4 shadow-card">
+      <div class="text-xs font-medium uppercase tracking-wide text-slate-500">Lead investors</div>
+      <div class="mt-1 text-2xl font-semibold" x-text="investorAgg.filter(i => i.leads > 0).length"></div>
+    </div>
+  </div>
+
+  <div class="grid grid-cols-1 lg:grid-cols-2 gap-3">
+    <div class="rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-card overflow-hidden">
+      <div class="px-4 py-3 border-b border-slate-200 dark:border-slate-800 flex items-center justify-between">
+        <h2 class="text-sm font-semibold">Top investors by deal count</h2>
+        <span class="text-xs text-slate-500" x-text="Math.min(25, investorAgg.length) + ' of ' + investorAgg.length"></span>
+      </div>
+      <div class="overflow-x-auto scrollbar-thin max-h-[520px] overflow-y-auto">
+        <table class="w-full text-sm">
+          <thead class="bg-slate-50 dark:bg-slate-800/50 text-xs uppercase tracking-wide text-slate-600 dark:text-slate-400 sticky top-0">
+            <tr>
+              <th class="px-3 py-2.5 text-left font-medium">Investor</th>
+              <th class="px-3 py-2.5 text-right font-medium">Deals</th>
+              <th class="px-3 py-2.5 text-right font-medium">Lead</th>
+              <th class="px-3 py-2.5 text-right font-medium">$ touched</th>
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-slate-100 dark:divide-slate-800">
+            <template x-for="inv in investorAgg.slice(0, 25)" :key="inv.name">
+              <tr class="hover:bg-slate-50 dark:hover:bg-slate-800/50 cursor-pointer"
+                  @click="filters.search = inv.name; view = 'rounds'">
+                <td class="px-3 py-2 font-medium" x-text="inv.name"></td>
+                <td class="px-3 py-2 text-right font-mono" x-text="inv.deals"></td>
+                <td class="px-3 py-2 text-right font-mono text-brand-600 dark:text-brand-400" x-text="inv.leads || '—'"></td>
+                <td class="px-3 py-2 text-right font-mono text-slate-500" x-text="formatUsd(inv.totalUsd)"></td>
+              </tr>
+            </template>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-card overflow-hidden">
+      <div class="px-4 py-3 border-b border-slate-200 dark:border-slate-800 flex items-center justify-between">
+        <h2 class="text-sm font-semibold">Co-investment pairs</h2>
+        <span class="text-xs text-slate-500">2+ shared deals</span>
+      </div>
+      <div class="overflow-x-auto scrollbar-thin max-h-[520px] overflow-y-auto">
+        <template x-if="coInvestmentAgg.length === 0">
+          <div class="p-8 text-center text-sm text-slate-400">No co-investment pairs detected in the filtered set.</div>
+        </template>
+        <table x-show="coInvestmentAgg.length" class="w-full text-sm">
+          <thead class="bg-slate-50 dark:bg-slate-800/50 text-xs uppercase tracking-wide text-slate-600 dark:text-slate-400 sticky top-0">
+            <tr>
+              <th class="px-3 py-2.5 text-left font-medium">Pair</th>
+              <th class="px-3 py-2.5 text-right font-medium">Shared deals</th>
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-slate-100 dark:divide-slate-800">
+            <template x-for="(pair, idx) in coInvestmentAgg.slice(0, 25)" :key="idx">
+              <tr class="hover:bg-slate-50 dark:hover:bg-slate-800/50">
+                <td class="px-3 py-2">
+                  <div class="flex items-center gap-1.5 flex-wrap">
+                    <span class="px-2 py-0.5 text-xs rounded bg-slate-100 dark:bg-slate-800" x-text="pair.a"></span>
+                    <span class="text-xs text-slate-400">+</span>
+                    <span class="px-2 py-0.5 text-xs rounded bg-slate-100 dark:bg-slate-800" x-text="pair.b"></span>
+                  </div>
+                </td>
+                <td class="px-3 py-2 text-right font-mono" x-text="pair.count"></td>
+              </tr>
+            </template>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ========================= COMPANIES VIEW ========================= -->
+<section x-show="view === 'companies' && filteredRows.length > 0" class="space-y-3">
+  <div class="rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-card overflow-hidden">
+    <div class="px-4 py-3 border-b border-slate-200 dark:border-slate-800 flex items-center justify-between">
+      <h2 class="text-sm font-semibold">Companies (round timeline)</h2>
+      <span class="text-xs text-slate-500" x-text="companyAgg.length + ' companies · most-active first'"></span>
+    </div>
+    <div class="divide-y divide-slate-100 dark:divide-slate-800 max-h-[720px] overflow-y-auto scrollbar-thin">
+      <template x-for="(co, idx) in companyAgg" :key="co.name + idx">
+        <div class="p-4 hover:bg-slate-50 dark:hover:bg-slate-800/30">
+          <div class="flex items-start justify-between gap-3 flex-wrap">
+            <div class="min-w-0">
+              <div class="flex items-center gap-2">
+                <h3 class="font-semibold truncate" x-text="co.name"></h3>
+                <span x-show="co.sector" class="px-2 py-0.5 text-[10px] rounded-full bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400" x-text="co.sector"></span>
+              </div>
+              <div class="text-xs text-slate-500 mt-0.5">
+                <span x-text="co.rounds.length + ' round' + (co.rounds.length > 1 ? 's' : '')"></span>
+                <span x-show="co.totalUsd"> · <span class="font-mono" x-text="formatUsd(co.totalUsd)"></span> total</span>
+              </div>
+            </div>
+            <button type="button" @click="filters.search = co.name; view = 'rounds'"
+                    class="text-xs text-brand-600 dark:text-brand-400 hover:underline shrink-0">See in rounds →</button>
+          </div>
+          <ol class="mt-3 relative border-l-2 border-slate-200 dark:border-slate-800 ml-2 space-y-3">
+            <template x-for="(r, i) in co.rounds" :key="i">
+              <li class="ml-4 relative">
+                <span class="absolute -left-[1.4rem] top-1.5 h-2.5 w-2.5 rounded-full" :class="stageDotClass(r.stage_raw)"></span>
+                <div class="flex items-center gap-2 flex-wrap">
+                  <span class="inline-flex items-center px-2 py-0.5 text-xs font-medium rounded-full" :class="stageBadgeClass(r.stage_raw)" x-text="r.stage || '—'"></span>
+                  <span class="font-mono text-xs" x-text="r.amount || '—'"></span>
+                  <span class="text-xs text-slate-500 font-mono" x-text="r.announced_on || ''"></span>
+                  <span x-show="r.lead_investor" class="text-xs text-slate-500">· led by <span class="text-slate-700 dark:text-slate-300" x-text="r.lead_investor"></span></span>
+                </div>
+              </li>
+            </template>
+          </ol>
+        </div>
+      </template>
+    </div>
+  </div>
+</section>
+
+<!-- ========================= TABLE (rounds view) ========================= -->
+<section x-show="view === 'rounds' && filteredRows.length > 0" class="rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-card overflow-hidden">
   <div class="flex items-center justify-between px-4 py-3 border-b border-slate-200 dark:border-slate-800">
     <h2 class="text-sm font-semibold">Rounds</h2>
     <div class="text-xs text-slate-500 dark:text-slate-400"><span x-text="filteredRows.length"></span> rows · click a row for details</div>
@@ -358,6 +510,7 @@
       rounds: ROUNDS,
       dark: (localStorage.getItem('funding-dark') ?? (window.matchMedia('(prefers-color-scheme: dark)').matches ? '1' : '0')) === '1',
       selected: null,
+      view: 'rounds',
       page: 1,
       pageSize: 25,
       sort: { key: 'announced_on', dir: 'desc' },
@@ -383,6 +536,12 @@
           this.renderCharts();
         });
         this.$watch('filteredRows', () => { this.page = 1; this.renderCharts(); });
+        this.$watch('view', (v) => {
+          // Charts only exist in the 'rounds' view. Remount when we come back.
+          if (v === 'rounds') {
+            this.$nextTick(() => { this.mountCharts(); this.renderCharts(); });
+          }
+        });
         this.$watch('dark', (v) => {
           localStorage.setItem('funding-dark', v ? '1' : '0');
           document.documentElement.classList.toggle('dark', v);
@@ -390,6 +549,14 @@
         });
         window.addEventListener('resize', () => Object.values(charts).forEach(c => c && c.resize()));
         window.addEventListener('keydown', (e) => { if (e.key === 'Escape') this.selected = null; });
+      },
+
+      get tabs() {
+        return [
+          { id: 'rounds',    label: 'Rounds',    count: this.filteredRows.length },
+          { id: 'investors', label: 'Investors', count: this.investorAgg.length },
+          { id: 'companies', label: 'Companies', count: this.companyAgg.length },
+        ];
       },
 
       toggleDark() { this.dark = !this.dark; },
@@ -455,6 +622,63 @@
       setSort(key) {
         if (this.sort.key === key) this.sort.dir = this.sort.dir === 'asc' ? 'desc' : 'asc';
         else this.sort = { key, dir: 'desc' };
+      },
+
+      get investorAgg() {
+        const map = new Map();
+        this.filteredRows.forEach(r => {
+          (r.investors || []).forEach(name => {
+            let it = map.get(name);
+            if (!it) { it = { name, deals: 0, leads: 0, totalUsd: 0 }; map.set(name, it); }
+            it.deals += 1;
+            if (name === r.lead_investor) it.leads += 1;
+            it.totalUsd += r.amount_usd || 0;
+          });
+        });
+        return [...map.values()].sort((a, b) => b.deals - a.deals || b.totalUsd - a.totalUsd);
+      },
+
+      get coInvestmentAgg() {
+        const pairs = new Map();
+        this.filteredRows.forEach(r => {
+          const invs = r.investors || [];
+          for (let i = 0; i < invs.length; i++) {
+            for (let j = i + 1; j < invs.length; j++) {
+              const [a, b] = [invs[i], invs[j]].sort();
+              const key = a + ' || ' + b;
+              pairs.set(key, (pairs.get(key) || 0) + 1);
+            }
+          }
+        });
+        return [...pairs.entries()]
+          .filter(([, c]) => c >= 2)
+          .map(([k, c]) => { const [a, b] = k.split(' || '); return { a, b, count: c }; })
+          .sort((x, y) => y.count - x.count);
+      },
+
+      get companyAgg() {
+        const map = new Map();
+        this.filteredRows.forEach(r => {
+          let co = map.get(r.company);
+          if (!co) { co = { name: r.company, rounds: [], totalUsd: 0, sector: r.sector || '' }; map.set(r.company, co); }
+          co.rounds.push(r);
+          co.totalUsd += r.amount_usd || 0;
+          if (!co.sector && r.sector) co.sector = r.sector;
+        });
+        const out = [...map.values()];
+        out.forEach(co => co.rounds.sort((a, b) => (a.announced_on || '').localeCompare(b.announced_on || '')));
+        return out.sort((a, b) => b.rounds.length - a.rounds.length || b.totalUsd - a.totalUsd);
+      },
+
+      stageDotClass(raw) {
+        const p = {
+          pre_seed:'bg-slate-400', seed:'bg-emerald-500', pre_series_a:'bg-lime-500',
+          series_a:'bg-blue-500', series_b:'bg-indigo-500', series_c:'bg-violet-500',
+          series_d:'bg-purple-500', series_e_plus:'bg-fuchsia-500',
+          bridge:'bg-amber-500', debt:'bg-orange-500', grant:'bg-teal-500',
+          ipo:'bg-rose-500', acquisition:'bg-pink-500',
+        };
+        return p[raw] || 'bg-slate-400';
       },
       sortIndicator(key) {
         if (this.sort.key !== key) return '';
@@ -536,7 +760,7 @@
       },
 
       mountCharts() {
-        ['timeline','stages','sectors','investors','distribution'].forEach(id => {
+        ['timeline','stages','sectors','sector-time','investors','distribution'].forEach(id => {
           const el = document.getElementById('chart-' + id);
           if (el && !charts[id]) charts[id] = echarts.init(el, this.dark ? 'dark' : null, { renderer: 'canvas' });
         });
@@ -609,6 +833,54 @@
           xAxis: { type: 'value', axisLabel: { formatter: (v) => this.formatUsd(v), color: textCol }, splitLine: { lineStyle: { color: axisCol } } },
           yAxis: { type: 'category', data: sectors.map(s => s[0]), axisLine: { lineStyle: { color: axisCol } }, axisLabel: { color: textCol, fontSize: 11 } },
           series: [{ type: 'bar', data: sectors.map(s => s[1]), itemStyle: { color: '#3b82f6', borderRadius: [0,4,4,0] }, barWidth: '60%' }],
+        }, { notMerge: true });
+
+        // ----- Sector mix over time (stacked bar by month, by sector count) -----
+        const sectorCountByMonth = {};  // month -> { sector -> count }
+        const allSectors = new Set();
+        rows.forEach(r => {
+          if (!r.announced_on) return;
+          const m = r.announced_on.slice(0, 7);
+          const sec = r.sector || 'Unknown';
+          sectorCountByMonth[m] = sectorCountByMonth[m] || {};
+          sectorCountByMonth[m][sec] = (sectorCountByMonth[m][sec] || 0) + 1;
+          allSectors.add(sec);
+        });
+        const stMonths = Object.keys(sectorCountByMonth).sort();
+        // Pick top 8 sectors overall for readability; rest collapsed into "Other"
+        const totalPerSector = {};
+        rows.forEach(r => {
+          const sec = r.sector || 'Unknown';
+          totalPerSector[sec] = (totalPerSector[sec] || 0) + 1;
+        });
+        const topSectors = Object.entries(totalPerSector).sort((a,b) => b[1]-a[1]).slice(0, 8).map(x => x[0]);
+        const seriesPalette = ['#22c55e','#3b82f6','#8b5cf6','#f59e0b','#06b6d4','#ec4899','#84cc16','#f97316','#64748b'];
+        const bucketed = (sec) => topSectors.includes(sec) ? sec : 'Other';
+        const hasOther = [...allSectors].some(s => !topSectors.includes(s));
+        const finalSectors = hasOther ? [...topSectors, 'Other'] : [...topSectors];
+        const sectorTimeSeries = finalSectors.map((sec, i) => ({
+          name: sec,
+          type: 'bar',
+          stack: 'total',
+          emphasis: { focus: 'series' },
+          itemStyle: { color: seriesPalette[i % seriesPalette.length] },
+          data: stMonths.map(m => {
+            const counts = sectorCountByMonth[m] || {};
+            let total = 0;
+            for (const [s, c] of Object.entries(counts)) {
+              if (bucketed(s) === sec) total += c;
+            }
+            return total;
+          }),
+        }));
+        charts['sector-time'] && charts['sector-time'].setOption({
+          ...baseOpts,
+          tooltip: { ...baseOpts.tooltip, trigger: 'axis', axisPointer: { type: 'shadow' } },
+          legend: { data: finalSectors, textStyle: { color: textCol, fontSize: 11 }, top: 0 },
+          grid: { top: 40, right: 20, bottom: 40, left: 50, containLabel: true },
+          xAxis: { type: 'category', data: stMonths, axisLine: { lineStyle: { color: axisCol } }, axisLabel: { color: textCol } },
+          yAxis: { type: 'value', minInterval: 1, splitLine: { lineStyle: { color: axisCol } }, axisLabel: { color: textCol } },
+          series: sectorTimeSeries,
         }, { notMerge: true });
 
         // ----- Investors bar -----
