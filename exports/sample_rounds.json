@@ -1,99 +1,236 @@
 [
   {
-    "company_name": "Oolka",
+    "company_name": "Blue Tokai Coffee Roasters",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series D",
+    "stage_raw": "series_d",
+    "amount": "₹175 Cr ($21.1M)",
+    "amount_usd": 21084337.0,
+    "currency": "INR",
+    "announced_on": "2026-05-04",
+    "lead_investor": "Anicut Capital",
+    "investors": [
+      "12 Flags",
+      "A91 Emerging Fund",
+      "Anicut Capital",
+      "Bhoruka Supply Chain",
+      "Concatenate Advest",
+      "Prudent Advisors",
+      "Rama Advisors",
+      "Verlinvest",
+      "Waterfield Fund"
+    ],
+    "sources": [
+      "https://entrackr.com/exclusive/exclusive-blue-tokai-to-raise-rs-175-cr-in-its-extended-series-d-round-11797068"
+    ],
+    "confidence": 0.95,
+    "summary": "Blue Tokai Coffee Roasters is raising Rs 175 crore ($19 million) in an extension of its Series D round, led by Anicut Capital with participation from several investors.",
+    "city": ""
+  },
+  {
+    "company_name": "HealthFab",
     "sector": "",
     "sector_raw": null,
     "stage": "Series A",
     "stage_raw": "series_a",
-    "amount": "$14M",
-    "amount_usd": 14000000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-30",
-    "lead_investor": "Accel",
-    "investors": [
-      "Accel",
-      "Lightspeed",
-      "Z47"
-    ],
-    "sources": [
-      "https://entrackr.com/news/credit-lifecycle-platform-oolka-raises-14-mn-in-series-a-led-by-accel-11780445"
-    ],
-    "confidence": 0.95,
-    "summary": "Bengaluru-based fintech startup Oolka raised $14 million in a Series A round led by Accel, with participation from Lightspeed and Z47, to expand its AI-powered credit health platform.",
-    "city": ""
-  },
-  {
-    "company_name": "Ctruh",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$2.5M",
-    "amount_usd": 2500000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-30",
-    "lead_investor": "Avinya Ventures",
-    "investors": [
-      "Anthill Ventures",
-      "Avinya Ventures",
-      "Finvolve",
-      "Founder’s Avenue",
-      "India Accelerator",
-      "Inflection Point Ventures",
-      "LVX",
-      "Shivakumar Ganesan",
-      "Vivek Sinha"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/deep-tech-startup-ctruh-secures-25-mn-in-seed-funding-11781538"
-    ],
-    "confidence": 0.95,
-    "summary": "Ctruh, a deep‑tech startup building a browser‑native 3D/XR engine, raised $2.5 million in a seed round co‑led by Inflection Point Ventures and Avinya Ventures to fund R&D and international expansion.",
-    "city": ""
-  },
-  {
-    "company_name": "Ubiqedge",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "₹10 Cr ($1.2M)",
-    "amount_usd": 1204819.28,
+    "amount": "₹20 Cr ($2.4M)",
+    "amount_usd": 2409638.0,
     "currency": "INR",
-    "announced_on": "2026-04-30",
-    "lead_investor": "Piper Serica",
+    "announced_on": "2026-05-04",
+    "lead_investor": "Atomic Capital",
     "investors": [
-      "Piper Serica",
-      "Shibam Das",
-      "Sumit Chhazed"
+      "Atomic Capital"
     ],
     "sources": [
-      "https://entrackr.com/snippets/piper-serica-leads-rs-10-cr-seed-round-in-aiot-startup-ubiqedge-11782019"
+      "https://entrackr.com/snippets/healthfab-raises-rs-20-cr-in-series-a-led-by-atomic-capital-11797182"
     ],
     "confidence": 0.95,
-    "summary": "Ubiqedge raised Rs 10 crore in a seed round led by Piper Serica, with participation from Atomberg CEO Shibam Das and Sumit Chhazed, to enhance its AIoT platform for industrial infrastructure.",
+    "summary": "HealthFab, a menstrual hygiene startup, raised Rs 20 crore in a Series A round led by Atomic Capital to expand its product portfolio and distribution.",
     "city": ""
   },
   {
-    "company_name": "Vikra Ocean Tech",
+    "company_name": "CHOSEN",
     "sector": "",
     "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$5M",
+    "amount_usd": 5000000.0,
+    "currency": "USD",
+    "announced_on": "2026-05-04",
+    "lead_investor": "Fireside Ventures",
+    "investors": [
+      "Alkemi Growth Capital",
+      "Avnish Anand",
+      "BOLD",
+      "Dr. Chandan Asokan",
+      "Fireside Ventures",
+      "KC Nischal",
+      "Mikki Singh",
+      "Nishita Ranka",
+      "Punit Saraogi"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/fireside-ventures-leads-5-mn-series-a-round-in-skincare-brand-chosen-11786191"
+    ],
+    "confidence": 0.95,
+    "summary": "CHOSEN, a Chennai-based D2C skincare brand, raised $5 million in a Series A round led by Fireside Ventures with participation from BOLD, Alkemi Growth Capital and several angel investors.",
+    "city": ""
+  },
+  {
+    "company_name": "Tsavorite",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$5M",
+    "amount_usd": 5000000.0,
+    "currency": "USD",
+    "announced_on": "2026-05-04",
+    "lead_investor": "Pavestone",
+    "investors": [
+      "Pavestone"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/ai-computing-solutions-provider-tsavorite-raises-5-mn-led-by-pavestone-11797773"
+    ],
+    "confidence": 0.95,
+    "summary": "Tsavorite, an AI computing solutions provider, raised $5 million in a Series A round led by Pavestone to fund product development and growth initiatives.",
+    "city": ""
+  },
+  {
+    "company_name": "Kisah",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "₹36 ($4.3M)",
+    "amount_usd": 4325301.0,
+    "currency": "INR",
+    "announced_on": "2026-05-04",
+    "lead_investor": "Fireside Ventures",
+    "investors": [
+      "Fireside Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/news/fireside-ventures-leads-kisahs-series-a-round-valuation-jumps-to-rs-211-cr-11797334"
+    ],
+    "confidence": 0.95,
+    "summary": "Kisah, a men's and kids' ethnic wear brand, raised Rs 35.9 crore in a Series A round led by Fireside Ventures, bringing its post‑money valuation to about Rs 211 crore.",
+    "city": ""
+  },
+  {
+    "company_name": "Banza",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Seed",
+    "stage_raw": "pre_seed",
     "amount": "$1M",
     "amount_usd": 1000000.0,
     "currency": "USD",
-    "announced_on": "2026-04-29",
-    "lead_investor": "Finvolve",
+    "announced_on": "2026-05-04",
+    "lead_investor": "Campus Fund",
     "investors": [
-      "Finvolve",
-      "India Accelerator"
+      "Avalanche",
+      "Campus Fund"
     ],
     "sources": [
-      "https://entrackr.com/snippets/vikra-ocean-tech-raises-1-mn-from-finvolve-and-india-accelerator-11779394"
+      "https://entrackr.com/snippets/data-sharing-startup-banza-raises-pre-seed-round-led-by-campus-fund-11798690"
     ],
     "confidence": 0.95,
-    "summary": "Vikra Ocean Tech, a Chennai-based deeptech startup developing modular ocean robotics, raised $1 million in a seed round co-led by Finvolve and India Accelerator to scale manufacturing and sales for defence and public sector applications.",
+    "summary": "AI-driven data-sharing startup Banza raised $1 million in a pre‑seed round led by Campus Fund, with participation from Avalanche and angel investors, to develop its personal AI Twin platform.",
+    "city": ""
+  },
+  {
+    "company_name": "Milky Mist",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Bridge",
+    "stage_raw": "bridge",
+    "amount": "₹482 Cr ($58.1M)",
+    "amount_usd": 58072289.0,
+    "currency": "INR",
+    "announced_on": "2026-05-04",
+    "lead_investor": "Jongsong Investments Pte Ltd",
+    "investors": [
+      "Jongsong Investments Pte Ltd"
+    ],
+    "sources": [
+      "https://entrackr.com/news/milky-mist-raises-rs-482-cr-in-pre-ipo-round-led-by-temasek-arm-11799542"
+    ],
+    "confidence": 0.95,
+    "summary": "Milky Mist raised around Rs 482 crore in a pre-IPO funding round, primarily from Jongsong Investments, a Temasek subsidiary, to fund debt repayment, capacity expansion and modernization ahead of its planned IPO.",
+    "city": ""
+  },
+  {
+    "company_name": "Aurm",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "₹42 Cr ($5.1M)",
+    "amount_usd": 5060241.0,
+    "currency": "INR",
+    "announced_on": "2026-05-04",
+    "lead_investor": "Earth Fund",
+    "investors": [
+      "Earth Fund",
+      "Magnifiq Capital Trust",
+      "Prime Venture Partners",
+      "Sattva Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/aurm-raises-rs-42-cr-in-series-a-round-led-by-earth-fund-and-sattva-ventures-11799095"
+    ],
+    "confidence": 0.95,
+    "summary": "Aurm, a Bengaluru-based startup offering automated high-security lockers for gated communities and corporate campuses, raised Rs 42 crore in a seed round co-led by Earth Fund and Sattva Ventures, with participation from Prime Venture Partners and Magnifiq Capital Trust.",
+    "city": ""
+  },
+  {
+    "company_name": "Snabbit",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series D",
+    "stage_raw": "series_d",
+    "amount": "$56M",
+    "amount_usd": 56000000.0,
+    "currency": "USD",
+    "announced_on": "2026-04-27",
+    "lead_investor": "Susquehanna VC",
+    "investors": [
+      "Bertelsmann India Investments",
+      "Mirae Asset Venture Investments",
+      "Susquehanna VC"
+    ],
+    "sources": [
+      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startup-this-week-apr-27-may-02-11788965"
+    ],
+    "confidence": 0.95,
+    "summary": "Snabbit secured $56 million in a Series D round led by Susquehanna VC, with participation from Mirae Asset Venture Investments and Bertelsmann India Investments.",
+    "city": ""
+  },
+  {
+    "company_name": "STCH",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$5.5M",
+    "amount_usd": 5500000.0,
+    "currency": "USD",
+    "announced_on": "2026-04-23",
+    "lead_investor": "Omnivore",
+    "investors": [
+      "Kae Capital",
+      "Omnivore",
+      "WVC"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/04/textile-tech-startup-stch-raises-pre-series-a-round-led-by-omnivore"
+    ],
+    "confidence": 0.95,
+    "summary": "STCH, a Bengaluru-based textile tech startup, raised $5.5 million in a pre-Series A round led by Omnivore with participation from Kae Capital and WVC to expand its AI-driven fabric R&D and manufacturing platform.",
     "city": ""
   },
   {
@@ -124,7 +261,7 @@
       "https://yourstory.com/2026/04/ms-dhoni-hardik-pandya-bumrah-others-invest-11m-game-tech-firm-lightfury"
     ],
     "confidence": 0.95,
-    "summary": "LightFury Games raised $11 million in a pre‑Series A round from investors including Blume, V3 Ventures, MIXI, Times Internet and several Indian cricketers, to fund development and live‑ops of its AAA mobile cricket title eCricket.",
+    "summary": "LightFury Games raised $11 million in a pre-Series A round from investors including Blume, V3 Ventures, MIXI, Times Internet and several Indian cricketers, to fund development and live operations of its AAA mobile cricket game eCricket.",
     "city": ""
   },
   {
@@ -134,7 +271,7 @@
     "stage": "Seed",
     "stage_raw": "seed",
     "amount": "₹108 Cr ($13M)",
-    "amount_usd": 13012048.0,
+    "amount_usd": 13012048.19,
     "currency": "INR",
     "announced_on": "2026-04-22",
     "lead_investor": "Peak XV Partners",
@@ -147,7 +284,7 @@
       "https://yourstory.com/2026/04/kabeer-biswass-new-startup-raises-rs-108-cr-from-peakxv-blume"
     ],
     "confidence": 0.95,
-    "summary": "Consumer AI startup M (Curious Digital Pvt Ltd) raised about Rs 108 crore (~$13 million) in a Series Seed round led by Peak XV Partners with participation from Blume Ventures and CRED.",
+    "summary": "Consumer AI startup Curious Digital (operating as M) raised about Rs 108 crore (~$13 million) in a Series Seed round led by Peak XV Partners with participation from Blume Ventures and CRED.",
     "city": ""
   },
   {
@@ -159,7 +296,7 @@
     "amount": "$15M",
     "amount_usd": 15000000.0,
     "currency": "USD",
-    "announced_on": "2026-04-18",
+    "announced_on": "2026-04-15",
     "lead_investor": "Susquehanna Venture Capital",
     "investors": [
       "InfoEdge Ventures",
@@ -167,11 +304,53 @@
       "Susquehanna Venture Capital"
     ],
     "sources": [
-      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startup-this-week-apr-13-apr-18-11739056",
       "https://yourstory.com/2026/04/funding-gobblecube-15-million-series-a-susquehanna-venture-capital"
     ],
     "confidence": 0.95,
-    "summary": "GobbleCube, an AI-driven brand analytics platform, raised $15 million in a Series A round led by Susquehanna Venture Capital.",
+    "summary": "GobbleCube, a Gurugram-based AI SaaS startup for digital commerce, raised $15 million in a Series A round led by Susquehanna Venture Capital, with participation from InfoEdge Ventures and Kae Capital.",
+    "city": ""
+  },
+  {
+    "company_name": "TraqCheck",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$8M",
+    "amount_usd": 8000000.0,
+    "currency": "USD",
+    "announced_on": "2026-04-14",
+    "lead_investor": "IvyCap Ventures",
+    "investors": [
+      "IIFL Fintech Fund",
+      "IvyCap Ventures"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/04/traqcheck-raises-8-million-led-by-ivycap-ventures"
+    ],
+    "confidence": 0.95,
+    "summary": "TraqCheck, an HR tech startup, raised $8 million in a Series A round led by IvyCap Ventures with participation from IIFL Fintech Fund to expand its AI-driven background screening and sourcing agents in Europe.",
+    "city": ""
+  },
+  {
+    "company_name": "Pluckk",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "₹100 Cr ($12M)",
+    "amount_usd": 12048192.77,
+    "currency": "INR",
+    "announced_on": "2026-04-09",
+    "lead_investor": "Euro Gulf Investment",
+    "investors": [
+      "Euro Gulf Investment"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
+    ],
+    "confidence": 0.95,
+    "summary": "Pluckk, a digital-first fresh food and clean-label FMCG brand, raised Rs 100 crore in a Series A round led by Euro Gulf Investment to expand offline retail, enter international markets, and enhance its AI-driven supply chain.",
     "city": ""
   },
   {
@@ -191,110 +370,8 @@
     "sources": [
       "https://yourstory.com/2026/04/indigo-invests-air-taxi-maker-sarla-aviation"
     ],
-    "confidence": 0.95,
-    "summary": "IndiGo Ventures Fund invested approximately Rs 10 crore in Sarla Aviation, an eVTOL air-taxi startup, as a minority equity stake to support its operating and expansion needs.",
-    "city": ""
-  },
-  {
-    "company_name": "The Hosteller",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "₹150 Cr ($18.1M)",
-    "amount_usd": 18072289.0,
-    "currency": "INR",
-    "announced_on": "2026-04-16",
-    "lead_investor": "PROMAFT Partners",
-    "investors": [
-      "ITI Growth Opportunities Fund",
-      "Merisis Wealth Trust",
-      "PROMAFT Partners",
-      "V3 Ventures"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/04/the-hosteller-raises-rs-150-cr-series-b-funding-promaft-partners"
-    ],
-    "confidence": 0.95,
-    "summary": "The Hosteller, a Mumbai-based hostel chain, raised Rs 150 crore in a Series B round led by PROMAFT Partners and V3 Ventures, with participation from ITI Growth Opportunities Fund and Merisis Wealth Trust. The funds will be used to expand across travel destinations, improve operations, and develop a travel super app.",
-    "city": ""
-  },
-  {
-    "company_name": "Kissht",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Bridge",
-    "stage_raw": "bridge",
-    "amount": "₹278 Cr ($33.5M)",
-    "amount_usd": 33500000.0,
-    "currency": "INR",
-    "announced_on": "2025-04-29",
-    "lead_investor": "",
-    "investors": [
-      "BNP Paribas",
-      "Bandhan",
-      "Citigroup",
-      "Goldman Sachs",
-      "HDFC MF",
-      "ICICI Prudential",
-      "Quant MF",
-      "Sundaram MF",
-      "Tata Banking & Financial Services",
-      "WhiteOak Capital"
-    ],
-    "sources": [
-      "https://entrackr.com/news/kissht-secures-rs-278-cr-from-anchor-investors-11780617"
-    ],
-    "confidence": 0.95,
-    "summary": "Kissht raised Rs 278 crore from 22 anchor investors, including domestic mutual funds and global banks, ahead of its IPO opening on April 30, 2025.",
-    "city": ""
-  },
-  {
-    "company_name": "KreditBee",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$280M",
-    "amount_usd": 280000000.0,
-    "currency": "USD",
-    "announced_on": "2024-04-10",
-    "lead_investor": "",
-    "investors": [
-      "A.P. Moller Holding",
-      "Advent International",
-      "Dragon Funds",
-      "Hornbill Capital",
-      "Motilal Oswal Alternates",
-      "Premji Invest",
-      "WhiteOak Capital"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/04/weekly-funding-roundup-april-4-10-vc-inflow-4x-rise-due-large-deals-kreditbee"
-    ],
     "confidence": 0.92,
-    "summary": "KreditBee raised $280 million in a funding round involving multiple investors including Motilal Oswal Alternates and Advent International.",
-    "city": ""
-  },
-  {
-    "company_name": "Climate-tech startup Prithu",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "₹10 Cr ($1.2M)",
-    "amount_usd": 1204819.28,
-    "currency": "INR",
-    "announced_on": "2026-04-29",
-    "lead_investor": "Transition VC. Prior",
-    "investors": [
-      "Transition VC. Prior"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/climate-tech-startup-prithu-raises-rs-10-cr-in-seed-round-led-by-transition-vc-11777909"
-    ],
-    "confidence": 0.85,
-    "summary": "",
+    "summary": "IndiGo Ventures Fund invested about Rs 10 crore in Sarla Aviation, an eVTOL air-taxi startup, issuing equity and preference shares to support its operating and expansion needs.",
     "city": ""
   },
   {
@@ -319,47 +396,105 @@
     "city": ""
   },
   {
-    "company_name": "Textile tech startup STCH",
+    "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
     "stage": "Pre-Series A",
     "stage_raw": "pre_series_a",
-    "amount": "$5.5M",
-    "amount_usd": 5500000.0,
+    "amount": "$129M",
+    "amount_usd": 129000000.0,
     "currency": "USD",
-    "announced_on": "2026-04-23",
-    "lead_investor": "Omnivore. The",
+    "announced_on": "2026-04-18",
+    "lead_investor": "PROMAFT Partners",
     "investors": [
-      "Kae Capital",
-      "Omnivore. The"
+      "IIFL. Aliste Technologies",
+      "PROMAFT Partners",
+      "YourNest VC"
     ],
     "sources": [
-      "https://yourstory.com/2026/04/textile-tech-startup-stch-raises-pre-series-a-round-led-by-omnivore"
+      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startup-this-week-apr-13-apr-18-11739056"
     ],
     "confidence": 0.85,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "TraqCheck",
+    "company_name": "The Hosteller",
     "sector": "",
     "sector_raw": null,
     "stage": "Series A",
     "stage_raw": "series_a",
-    "amount": "$8M",
-    "amount_usd": 8000000.0,
+    "amount": "$100M",
+    "amount_usd": 100000000.0,
     "currency": "USD",
-    "announced_on": "2026-04-14",
-    "lead_investor": "IvyCap Ventures",
+    "announced_on": "2026-04-16",
+    "lead_investor": "PROMAFT Partners",
     "investors": [
-      "IIFL. TraqCheck",
-      "IvyCap Ventures"
+      "ITI Growth Opportunities Fund",
+      "PROMAFT Partners"
     ],
     "sources": [
-      "https://yourstory.com/2026/04/traqcheck-raises-8-million-led-by-ivycap-ventures"
+      "https://yourstory.com/2026/04/the-hosteller-raises-rs-150-cr-series-b-funding-promaft-partners"
     ],
     "confidence": 0.85,
     "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "CashKaro",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹600 Cr ($72.3M)",
+    "amount_usd": 72289156.63,
+    "currency": "INR",
+    "announced_on": "2026-05-05",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/cashkaro-revenue-grows-72-to-rs-600-cr-in-fy26-narrows-losses-11800662"
+    ],
+    "confidence": 0.3,
+    "summary": "CashKaro reported FY26 revenue of Rs 600 crore, a 72% YoY increase, and noted it has raised over Rs 250 crore to date from investors such as Kalaari Capital and Affle Global.",
+    "city": ""
+  },
+  {
+    "company_name": "Krutrim",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹300 Cr ($36.1M)",
+    "amount_usd": 36144578.31,
+    "currency": "INR",
+    "announced_on": "2026-05-05",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/krutrim-pivots-to-ai-cloud-clocks-rs-300-cr-revenue-in-fy26-11800907"
+    ],
+    "confidence": 0.24,
+    "summary": "Krutrim, an AI startup founded by Bhavish Aggarwal, pivoted to AI cloud services, reported Rs 300 crore revenue for FY26 and turned profitable, indicating no immediate need for fresh funding.",
+    "city": ""
+  },
+  {
+    "company_name": "Ather Energy",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$3.7B",
+    "amount_usd": 3730000000.0,
+    "currency": "USD",
+    "announced_on": "2026-05-04",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/ather-energy-crosses-rs-1100-cr-revenue-in-q4-fy26-losses-trim-57-11797110"
+    ],
+    "confidence": 0.24,
+    "summary": "Ather Energy reported Q4 FY26 revenue of Rs 1,175 crore and a 57% reduction in losses, with details on sales and expenses.",
     "city": ""
   },
   {
@@ -377,50 +512,8 @@
     "sources": [
       "https://entrackr.com/fintrackr/square-yards-crosses-rs-2000-cr-revenue-in-fy26-ebitda-jumps-37x-11785646"
     ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Pluckk",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$26M",
-    "amount_usd": 26000000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-09",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Funding",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$187.2M",
-    "amount_usd": 187200000.0,
-    "currency": "USD",
-    "announced_on": "2026-05-02",
-    "lead_investor": "Accel",
-    "investors": [
-      "Accel",
-      "Elevation Capital. Smart",
-      "Lightspeed"
-    ],
-    "sources": [
-      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startup-this-week-apr-27-may-02-11788965"
-    ],
-    "confidence": 0.315,
-    "summary": "The article lists multiple funding rounds and acquisitions across various Indian startups without focusing on a single specific deal.",
+    "confidence": 0.24,
+    "summary": "Square Yards reported FY26 revenue of Rs 2,086 crore and EBITDA of Rs 176 crore, highlighting strong growth and profitability.",
     "city": ""
   },
   {
@@ -443,44 +536,6 @@
     "city": ""
   },
   {
-    "company_name": "Eternal’s",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$26.0B",
-    "amount_usd": 26000000000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-28",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/eternals-profits-jumps-45x-to-rs-174-cr-in-q4-fy26-11774781"
-    ],
-    "confidence": 0.24,
-    "summary": "Eternal reported a 4.5X profit increase to Rs 174 crore in Q4 FY26, with revenue growth driven by its quick commerce arm Blinkit.",
-    "city": ""
-  },
-  {
-    "company_name": "Go Digit’s",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$3.1B",
-    "amount_usd": 3100000000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-28",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/go-digits-profit-rises-28-yoy-to-rs-149-cr-in-q4-fy26-11775334"
-    ],
-    "confidence": 0.24,
-    "summary": "Go Digit General Insurance reported a 28% year‑on‑year profit increase to Rs 149 crore in Q4 FY26, with flat revenue and higher net premiums.",
-    "city": ""
-  },
-  {
     "company_name": "Govt’s Fund",
     "sector": "",
     "sector_raw": null,
@@ -496,7 +551,7 @@
       "https://yourstory.com/2026/04/govts-fund-of-funds-20-expand-newer-startup-segments"
     ],
     "confidence": 0.24,
-    "summary": "The Indian government announced a Rs 10,000 crore Fund of Funds 2.0 to support deep‑tech, manufacturing and early‑growth startups through segmented AIFs.",
+    "summary": "The Indian government announced a Rs 10,000 crore Fund of Funds 2.0 to support deep-tech, manufacturing and early-growth startups through segmented AIFs.",
     "city": ""
   },
   {
@@ -515,26 +570,26 @@
       "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
     ],
     "confidence": 0.24,
-    "summary": "Masters’ Union launched a Rs 100 crore early-stage investment platform called MU Ventures to fund founders aged under 25.",
+    "summary": "Masters’ Union launched a Rs 100 crore early-stage investment platform, MU Ventures, to fund founders under 25 across sectors.",
     "city": ""
   },
   {
-    "company_name": "Unicommerce",
+    "company_name": "Go Digit’s",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "$133M",
-    "amount_usd": 133000000.0,
+    "amount": "$3.1B",
+    "amount_usd": 3100000000.0,
     "currency": "USD",
-    "announced_on": "2026-04-27",
+    "announced_on": "2026-04-28",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/fintrackr/unicommerce-posts-rs-52-cr-revenue-and-rs-3-cr-profit-in-q4-fy26-11772258"
+      "https://entrackr.com/fintrackr/go-digits-profit-rises-28-yoy-to-rs-149-cr-in-q4-fy26-11775334"
     ],
     "confidence": 0.21,
-    "summary": "The article reports Unicommerce's Q4 FY26 revenue of Rs 52.8 crore and profit of Rs 3.4 crore, with no mention of a funding round.",
+    "summary": "Go Digit General Insurance reported a 28% YoY profit increase to Rs 149 crore in Q4 FY26, with flat revenue and details of premiums and expenses.",
     "city": ""
   }
 ]
