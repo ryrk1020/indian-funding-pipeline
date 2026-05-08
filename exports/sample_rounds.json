@@ -21,32 +21,28 @@
       "https://entrackr.com/news/pronto-raises-additional-20-mn-in-series-b-round-at-200-mn-valuation-11807841"
     ],
     "confidence": 0.95,
-    "summary": "Pronto, an instant household services platform, extended its Series B round with a fresh $20 million investment, bringing the round total to $45 million and valuing the company at $200 million.",
+    "summary": "Pronto, an instant household services startup, extended its Series B round with a fresh $20 million investment, bringing the round total to $45 million and valuing the company at $200 million.",
     "city": ""
   },
   {
-    "company_name": "BazaarNow",
+    "company_name": "Blunav",
     "sector": "",
     "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "₹72 Cr ($8.7M)",
-    "amount_usd": 8708433.0,
-    "currency": "INR",
-    "announced_on": "2026-05-06",
-    "lead_investor": "Peak XV Partners",
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "$1M",
+    "amount_usd": 1000000.0,
+    "currency": "USD",
+    "announced_on": "2026-05-07",
+    "lead_investor": "Piper Serica",
     "investors": [
-      "Antler",
-      "Nirman Ventures",
-      "Peak XV Partners",
-      "Vidit Aatrey",
-      "Whiteboard Capital"
+      "Piper Serica"
     ],
     "sources": [
-      "https://entrackr.com/exclusive/exclusive-bazaarnow-set-to-raise-around-8-mn-led-by-peak-xv-11804453"
+      "https://entrackr.com/snippets/piper-serica-leads-1-mn-seed-round-in-airport-operations-tech-company-blunav-11808501"
     ],
     "confidence": 0.95,
-    "summary": "BazaarNow, a quick commerce startup, is raising about Rs 72.3 crore (~$7.8 million) in a Series A round led by Peak XV Partners with participation from Whiteboard Capital, Antler, Nirman Ventures and angel investor Vidit Aatrey.",
+    "summary": "Blunav, an airport operations technology startup, raised $1 million in a seed round led by Piper Serica to expand its team and scale its Airport Operating System across India and abroad.",
     "city": ""
   },
   {
@@ -73,37 +69,6 @@
     "city": ""
   },
   {
-    "company_name": "LightFury Games",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$11M",
-    "amount_usd": 11000000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-23",
-    "lead_investor": "",
-    "investors": [
-      "Blume Ventures",
-      "Hardik Pandya",
-      "Jasprit Bumrah",
-      "MIXI",
-      "MS Dhoni",
-      "Ravindra Jadeja",
-      "Sai Sudharsan",
-      "Shreyas Iyer",
-      "Tilak Varma",
-      "Times Internet",
-      "V3 Ventures"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/04/ms-dhoni-hardik-pandya-bumrah-others-invest-11m-game-tech-firm-lightfury"
-    ],
-    "confidence": 0.95,
-    "summary": "LightFury Games raised $11 million in a pre-Series A round backed by Blume, V3 Ventures, MIXI, Times Internet and several Indian cricketers to fund development of its AAA mobile cricket game eCricket.",
-    "city": ""
-  },
-  {
     "company_name": "GobbleCube",
     "sector": "",
     "sector_raw": null,
@@ -112,7 +77,7 @@
     "amount": "$15M",
     "amount_usd": 15000000.0,
     "currency": "USD",
-    "announced_on": "2026-04-15",
+    "announced_on": "2026-04-13",
     "lead_investor": "Susquehanna Venture Capital",
     "investors": [
       "InfoEdge Ventures",
@@ -120,31 +85,11 @@
       "Susquehanna Venture Capital"
     ],
     "sources": [
+      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startup-this-week-apr-13-apr-18-11739056",
       "https://yourstory.com/2026/04/funding-gobblecube-15-million-series-a-susquehanna-venture-capital"
     ],
     "confidence": 0.95,
-    "summary": "GobbleCube, a Gurugram-based AI startup for digital commerce, raised $15 million in a Series A round led by Susquehanna Venture Capital, with participation from InfoEdge Ventures and Kae Capital.",
-    "city": ""
-  },
-  {
-    "company_name": "Pluckk",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "₹100 Cr ($12M)",
-    "amount_usd": 12048192.77,
-    "currency": "INR",
-    "announced_on": "2026-04-09",
-    "lead_investor": "Euro Gulf Investment",
-    "investors": [
-      "Euro Gulf Investment"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
-    ],
-    "confidence": 0.95,
-    "summary": "Pluckk, a digital-first fresh food and clean-label FMCG brand, raised Rs 100 crore in a Series A1 round led by Euro Gulf Investment to expand offline retail, international markets, and AI-driven supply chain capabilities.",
+    "summary": "GobbleCube, an AI-driven brand analytics platform, raised $15 million in a Series A round backed by Susquehanna Venture Capital.",
     "city": ""
   },
   {
@@ -165,171 +110,34 @@
       "https://entrackr.com/snippets/ecofy-secures-15-mn-debt-from-mirova-11806321"
     ],
     "confidence": 0.93,
-    "summary": "Ecofy, a Mumbai-based NBFC focused on climate solutions, secured a $15 million debt facility from Mirova to fund lending for rooftop solar and electric mobility projects.",
+    "summary": "Ecofy, a Mumbai-based NBFC focused on climate solutions, secured a $15 million debt facility from Mirova to fund lending for rooftop solar, EVs and other sustainable projects.",
     "city": ""
   },
   {
-    "company_name": "Curious Digital Pvt Ltd",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "₹102 Cr ($12.3M)",
-    "amount_usd": 12289155.42,
-    "currency": "INR",
-    "announced_on": "2026-04-22",
-    "lead_investor": "Peak XV Partners",
-    "investors": [
-      "Blume Ventures",
-      "CRED",
-      "Peak XV Partners"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/04/kabeer-biswass-new-startup-raises-rs-108-cr-from-peakxv-blume"
-    ],
-    "confidence": 0.93,
-    "summary": "Consumer AI startup Curious Digital (operating as M) raised about Rs 102 crore (~$12.3 million USD) in a Series Seed round led by Peak XV Partners with participation from Blume Ventures and CRED.",
-    "city": ""
-  },
-  {
-    "company_name": "Coral",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$12.5M",
-    "amount_usd": 12500000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-20",
-    "lead_investor": "Z47",
-    "investors": [
-      "Lightspeed",
-      "Z47"
-    ],
-    "sources": [
-      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startup-this-week-apr-20-apr-25-11763906"
-    ],
-    "confidence": 0.93,
-    "summary": "Healthcare automation startup Coral raised $12.5 million in a pre-Series A round backed by Z47 and Lightspeed Venture Partners.",
-    "city": ""
-  },
-  {
-    "company_name": "The Hosteller",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "₹150 ($1.8M)",
-    "amount_usd": 1807220.48,
-    "currency": "INR",
-    "announced_on": "2024-04-17",
-    "lead_investor": "",
-    "investors": [
-      "ITI Growth Opportunities Fund",
-      "Merisis Wealth Trust",
-      "PROMAFT Partners",
-      "V3 Ventures",
-      "family offices"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/04/weekly-funding-roundup-april-11-17-steep-fall-in-vc-inflow-into-indian-startups"
-    ],
-    "confidence": 0.92,
-    "summary": "The Hosteller raised Rs 150 crore (approximately $16 million) from a group of investors including PROMAFT Partners and V3 Ventures.",
-    "city": ""
-  },
-  {
-    "company_name": "KreditBee",
+    "company_name": "Skyroot Aerospace",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "$280M",
-    "amount_usd": 280000000.0,
-    "currency": "USD",
-    "announced_on": "2024-04-10",
-    "lead_investor": "",
-    "investors": [
-      "A.P. Moller Holding",
-      "Advent International",
-      "Dragon Funds",
-      "Hornbill Capital",
-      "Motilal Oswal Alternates",
-      "Premji Invest",
-      "WhiteOak Capital"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/04/weekly-funding-roundup-april-4-10-vc-inflow-4x-rise-due-large-deals-kreditbee"
-    ],
-    "confidence": 0.92,
-    "summary": "Fintech startup KreditBee raised $280 million from a consortium of investors including Motilal Oswal Alternates and Advent International.",
-    "city": ""
-  },
-  {
-    "company_name": "Skyroot",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series C",
-    "stage_raw": "series_c",
     "amount": "$60M",
     "amount_usd": 60000000.0,
     "currency": "USD",
     "announced_on": "2026-05-07",
-    "lead_investor": "Sherpalo Ventures",
+    "lead_investor": "GIC",
     "investors": [
+      "Arkam Ventures",
       "BlackRock",
+      "Founders of Greenko Group",
+      "GIC",
+      "Playbook Partners",
+      "Shanghvi Family Office",
       "Sherpalo Ventures"
     ],
     "sources": [
       "https://entrackr.com/news/skyroot-becomes-indias-first-spacetech-unicorn-after-60-mn-funding-round-11808488"
     ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "MochaTrade",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Seed",
-    "stage_raw": "pre_seed",
-    "amount": "",
-    "amount_usd": null,
-    "currency": "",
-    "announced_on": "2026-05-06",
-    "lead_investor": "",
-    "investors": [
-      "Pioneer Fund",
-      "Y Combinator"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/mochatrade-raises-pre-seed-funding-from-y-combinator-pioneer-fund-11804894"
-    ],
-    "confidence": 0.85,
-    "summary": "MochaTrade, a global trading platform for perpetual futures on US stocks and commodities, raised an undisclosed pre‑seed round from Y Combinator and Pioneer Fund to build its trading engine, compliance infrastructure and go‑to‑market efforts.",
-    "city": ""
-  },
-  {
-    "company_name": "Funding",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$187.2M",
-    "amount_usd": 187200000.0,
-    "currency": "USD",
-    "announced_on": "2026-05-02",
-    "lead_investor": "Accel",
-    "investors": [
-      "Accel",
-      "Elevation Capital. Smart",
-      "Lightspeed"
-    ],
-    "sources": [
-      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startup-this-week-apr-27-may-02-11788965"
-    ],
-    "confidence": 0.85,
-    "summary": "",
+    "confidence": 0.9,
+    "summary": "Skyroot Aerospace raised $60 million in a funding round co-led by Sherpalo Ventures and Singapore's sovereign wealth fund GIC, pushing its valuation above $1.1 billion and making it India’s first spacetech unicorn.",
     "city": ""
   },
   {
@@ -377,41 +185,116 @@
     "city": ""
   },
   {
-    "company_name": "AI Library",
+    "company_name": "Figtree Pharmacy",
     "sector": "",
     "sector_raw": null,
-    "stage": "Pre-Seed",
-    "stage_raw": "pre_seed",
-    "amount": "$7.5M",
-    "amount_usd": 7500000.0,
-    "currency": "USD",
-    "announced_on": "2026-05-06",
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "",
+    "amount_usd": null,
+    "currency": "",
+    "announced_on": "2026-05-08",
+    "lead_investor": "",
+    "investors": [
+      "AJVC Fund"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/figtree-pharmacy-raises-seed-funding-from-ajvc-fund-11812221"
+    ],
+    "confidence": 0.8,
+    "summary": "Figtree Pharmacy, a Mumbai-based neighbourhood pharmacy startup, raised seed funding from AJVC Fund and other investors to expand its store network and strengthen logistics and technology.",
+    "city": ""
+  },
+  {
+    "company_name": "InCred",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "₹290 Cr ($34.9M)",
+    "amount_usd": 34939759.04,
+    "currency": "INR",
+    "announced_on": "2026-05-07",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/snippets/ai-library-raises-pre-seed-funding-round-11805670"
+      "https://entrackr.com/fintrackr/incred-posts-rs-1849-cr-revenue-in-first-9-months-of-fy26-11809765"
     ],
     "confidence": 0.8,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "MedVital",
+    "company_name": "InMobi",
     "sector": "",
     "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$1.9M",
-    "amount_usd": 1890000.0,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "$350M",
+    "amount_usd": 350000000.0,
     "currency": "USD",
-    "announced_on": "2026-05-06",
-    "lead_investor": "Alkemi Growth Capital Follow Us",
-    "investors": [
-      "Alkemi Growth Capital Follow Us",
-      "Sanjay Arora"
-    ],
+    "announced_on": "2026-05-07",
+    "lead_investor": "",
+    "investors": [],
     "sources": [
-      "https://entrackr.com/snippets/medvital-raises-rs-18-cr-led-by-alkemi-growth-capital-11804997"
+      "https://entrackr.com/news/inmobi-acquires-mobileaction-to-strengthen-ios-advertising-business-11810115"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "InCred",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "₹1250 Cr ($150.6M)",
+    "amount_usd": 150602409.64,
+    "currency": "INR",
+    "announced_on": "2026-05-07",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/incred-files-updated-drhp-plans-rs-1250-cr-fresh-issue-11809051"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "MS Dhoni, Hardik Pandya, Bumrah",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$11M",
+    "amount_usd": 11000000.0,
+    "currency": "USD",
+    "announced_on": "2026-04-23",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/04/ms-dhoni-hardik-pandya-bumrah-others-invest-11m-game-tech-firm-lightfury"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Kabeer Biswas's",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "$11M",
+    "amount_usd": 11000000.0,
+    "currency": "USD",
+    "announced_on": "2026-04-22",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/04/kabeer-biswass-new-startup-raises-rs-108-cr-from-peakxv-blume"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -439,83 +322,44 @@
     "city": ""
   },
   {
-    "company_name": "Freshworks",
+    "company_name": "Pluckk",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "$228.6M",
-    "amount_usd": 228600000.0,
+    "amount": "$26M",
+    "amount_usd": 26000000.0,
     "currency": "USD",
-    "announced_on": "2026-05-06",
+    "announced_on": "2026-04-09",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/fintrackr/freshworks-posts-2286-mn-revenue-and-48-mn-loss-in-q1-cy26-11804719"
+      "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
     ],
     "confidence": 0.6,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "JobsUPI",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Seed",
-    "stage_raw": "pre_seed",
-    "amount": "",
-    "amount_usd": null,
-    "currency": "",
-    "announced_on": "2026-05-06",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/jobsupi-raises-pre-seed-round-from-iima-ventures-and-others-11806024"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Meesho",
+    "company_name": "Coral",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "$9.5B",
-    "amount_usd": 9500000000.0,
+    "amount": "$12.5M",
+    "amount_usd": 12500000.0,
     "currency": "USD",
-    "announced_on": "2026-05-06",
+    "announced_on": "2026-04-25",
     "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/meesho-posts-rs-3531-cr-revenue-in-q4-fy26-losses-trim-88-11806751"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Funding",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$129M",
-    "amount_usd": 129000000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-18",
-    "lead_investor": "PROMAFT Partners",
     "investors": [
-      "IIFL. Aliste Technologies",
-      "PROMAFT Partners",
-      "YourNest VC"
+      "Lightspeed",
+      "Z47"
     ],
     "sources": [
-      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startup-this-week-apr-13-apr-18-11739056"
+      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startup-this-week-apr-20-apr-25-11763906"
     ],
-    "confidence": 0.315,
-    "summary": "The article provides a weekly roundup of multiple Indian startup funding events, acquisitions, and other news without focusing on a single specific funding round.",
+    "confidence": 0.6,
+    "summary": "Healthcare automation startup Coral raised $12.5 million from Z47 and Lightspeed Venture Partners.",
     "city": ""
   },
   {
@@ -534,26 +378,106 @@
       "https://entrackr.com/snippets/chiratae-backs-5-startups-in-sonic-deeptech-batch-with-10-mn-commitment-11808134"
     ],
     "confidence": 0.3,
-    "summary": "Chiratae Ventures announced a Sonic DeepTech batch, committing up to $10 million across five startups, but the article does not detail a specific funding round for any single company.",
+    "summary": "Chiratae Ventures announced its Sonic DeepTech batch, committing up to $10 million to five startups across various deeptech sectors.",
     "city": ""
   },
   {
-    "company_name": "Capillary Technologies",
+    "company_name": "PB Fintech",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "$20M",
-    "amount_usd": 20000000.0,
+    "amount": "$5.1M",
+    "amount_usd": 5100000.0,
     "currency": "USD",
-    "announced_on": "2026-05-06",
+    "announced_on": "2026-05-07",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/fintrackr/capillary-technologies-posts-rs-191-cr-revenue-and-rs-43-cr-profit-in-q4-fy26-11805457"
+      "https://entrackr.com/snippets/fintech-startup-freo-acquires-indialends-11809015"
     ],
     "confidence": 0.3,
-    "summary": "Capillary Technologies reported Q4 FY26 revenue of Rs 191 crore and profit of Rs 43 crore, noting a one-time gain and a prior $20 million investment in its overseas arm.",
+    "summary": "Fintech startup Freo announced the acquisition of digital lending marketplace IndiaLends, gaining full ownership and planning a future capital raise.",
+    "city": ""
+  },
+  {
+    "company_name": "Emami",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹321 Cr ($39K)",
+    "amount_usd": 38674.7,
+    "currency": "INR",
+    "announced_on": "2026-05-07",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/emami-acquires-60-stake-in-vedix-skinkraft-parent-incnut-for-rs-321-cr-11809401"
+    ],
+    "confidence": 0.3,
+    "summary": "Emami Ltd agreed to acquire a 60% stake in IncNut Digital, the parent of Vedix and SkinKraft, for Rs 321 crore, with performance-linked adjustments and future tranche purchases.",
+    "city": ""
+  },
+  {
+    "company_name": "Snabbit",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$187.2M",
+    "amount_usd": 187200000.0,
+    "currency": "USD",
+    "announced_on": "2026-05-02",
+    "lead_investor": "Accel",
+    "investors": [
+      "Accel",
+      "Elevation Capital. Smart",
+      "Lightspeed"
+    ],
+    "sources": [
+      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startup-this-week-apr-27-may-02-11788965"
+    ],
+    "confidence": 0.255,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "CarTrade",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$1.0B",
+    "amount_usd": 1030000000.0,
+    "currency": "USD",
+    "announced_on": "2026-05-07",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/cartrade-crosses-rs-200-cr-revenue-in-q4-fy26-profit-rises-54-11808882"
+    ],
+    "confidence": 0.24,
+    "summary": "CarTrade reported Q4 FY26 revenue of over Rs 200 crore and a 54% profit increase, but no funding round was announced.",
+    "city": ""
+  },
+  {
+    "company_name": "Ola Cabs’",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹2000 Cr ($241M)",
+    "amount_usd": 240963855.42,
+    "currency": "INR",
+    "announced_on": "2026-05-07",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/ola-cabs-revenue-plunges-42-to-rs-1171-cr-in-fy25-losses-double-11810114"
+    ],
+    "confidence": 0.24,
+    "summary": "Ola Consumer (formerly Ola Cabs) reported a 42% drop in revenue to Rs 1,171 crore in FY25 and a doubling of losses, with cash reserves falling over 50%.",
     "city": ""
   },
   {
@@ -572,7 +496,7 @@
       "https://entrackr.com/fintrackr/pb-fintech-reports-rs-2061-cr-revenue-in-q4-fy26-profit-rises-54-11806481"
     ],
     "confidence": 0.24,
-    "summary": "PB Fintech, the parent of PolicyBazaar, reported Q4 FY26 revenue of Rs 2,061 crore and a 54% profit increase.",
+    "summary": "PB Fintech reported Q4 FY26 revenue of Rs 2,061 crore and a 54% profit increase, with no mention of a new funding round.",
     "city": ""
   },
   {
@@ -591,7 +515,7 @@
       "https://entrackr.com/fintrackr/paytm-reports-rs-2264-cr-revenue-and-rs-183-cr-profit-in-q4-fy26-11807473"
     ],
     "confidence": 0.24,
-    "summary": "Paytm reported Q4 FY26 revenue of Rs 2,264 crore and profit of Rs 183 crore, achieving full-year profitability.",
+    "summary": "Paytm reported Q4 FY26 revenue of Rs 2,264 crore and profit of Rs 183 crore, achieving full-year profitability for FY26.",
     "city": ""
   },
   {
@@ -600,8 +524,8 @@
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "₹10000 Cr ($1.2B)",
-    "amount_usd": 1204819277.11,
+    "amount": "₹100000 Cr ($12M)",
+    "amount_usd": 12048192.77,
     "currency": "INR",
     "announced_on": "2026-04-14",
     "lead_investor": "",
@@ -610,7 +534,26 @@
       "https://yourstory.com/2026/04/govts-fund-of-funds-20-expand-newer-startup-segments"
     ],
     "confidence": 0.24,
-    "summary": "The government announced a Rs 10,000 crore Fund of Funds 2.0 to support deep‑tech, manufacturing and early‑growth startups through segmented AIFs.",
+    "summary": "The Indian government announced a Rs 10,000 crore Fund of Funds 2.0 to support deep-tech, manufacturing and early-growth startups through segmented AIFs.",
+    "city": ""
+  },
+  {
+    "company_name": "Meesho",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$9.5B",
+    "amount_usd": 9500000000.0,
+    "currency": "USD",
+    "announced_on": "2026-05-06",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/meesho-posts-rs-3531-cr-revenue-in-q4-fy26-losses-trim-88-11806751"
+    ],
+    "confidence": 0.18,
+    "summary": "",
     "city": ""
   },
   {
@@ -628,8 +571,8 @@
     "sources": [
       "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
     ],
-    "confidence": 0.24,
-    "summary": "Masters’ Union launched a Rs 100 crore early-stage investment platform called MU Ventures to fund founders under 25 across various sectors.",
+    "confidence": 0.18,
+    "summary": "Masters’ Union launched a Rs 100 crore early-stage investment platform, MU Ventures, to fund{...}young founders across sectors in India.",
     "city": ""
   }
 ]
