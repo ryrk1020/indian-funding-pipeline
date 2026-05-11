@@ -1,28 +1,5 @@
 [
   {
-    "company_name": "Snabbit",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series D",
-    "stage_raw": "series_d",
-    "amount": "$56M",
-    "amount_usd": 56000000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-27",
-    "lead_investor": "Susquehanna VC",
-    "investors": [
-      "Bertelsmann India Investments",
-      "Mirae Asset Venture Investments",
-      "Susquehanna VC"
-    ],
-    "sources": [
-      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startup-this-week-apr-27-may-02-11788965"
-    ],
-    "confidence": 0.95,
-    "summary": "Snabbit secured $56 million in a Series D round led by Susquehanna VC, with participation from Mirae Asset Venture Investments and Bertelsmann India Investments.",
-    "city": ""
-  },
-  {
     "company_name": "STCH",
     "sector": "",
     "sector_raw": null,
@@ -73,76 +50,29 @@
       "https://yourstory.com/2026/04/ms-dhoni-hardik-pandya-bumrah-others-invest-11m-game-tech-firm-lightfury"
     ],
     "confidence": 0.95,
-    "summary": "LightFury Games raised $11 million in a pre-Series A round from investors including Blume, V3 Ventures, MIXI, Times Internet and several Indian cricketers, to fund development and live operations of its AAA mobile cricket game eCricket.",
+    "summary": "LightFury Games raised $11 million in a pre‑Series A round from investors including Blume, V3 Ventures, MIXI, Times Internet and several Indian cricketers. The funds will be used to complete development of its AAA mobile cricket title eCricket.",
     "city": ""
   },
   {
-    "company_name": "Curious Digital Pvt Ltd",
+    "company_name": "TraqCheck",
     "sector": "",
     "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "₹102 Cr ($12.3M)",
-    "amount_usd": 12289156.63,
-    "currency": "INR",
-    "announced_on": "2026-04-22",
-    "lead_investor": "Peak XV Partners",
-    "investors": [
-      "Blume Ventures",
-      "CRED",
-      "Peak XV Partners"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/04/kabeer-biswass-new-startup-raises-rs-108-cr-from-peakxv-blume"
-    ],
-    "confidence": 0.95,
-    "summary": "Consumer AI startup M (Curious Digital Pvt Ltd) raised Rs 102 crore in a Series Seed round led by Peak XV Partners with participation from Blume Ventures and CRED.",
-    "city": ""
-  },
-  {
-    "company_name": "Coral",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$12.5M",
-    "amount_usd": 12500000.0,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$8M",
+    "amount_usd": 8000000.0,
     "currency": "USD",
-    "announced_on": "2026-04-20",
-    "lead_investor": "Z47",
+    "announced_on": "2026-04-14",
+    "lead_investor": "IvyCap Ventures",
     "investors": [
-      "Lightspeed",
-      "Z47"
+      "IIFL",
+      "IvyCap Ventures"
     ],
     "sources": [
-      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startup-this-week-apr-20-apr-25-11763906"
+      "https://yourstory.com/2026/04/traqcheck-raises-8-million-led-by-ivycap-ventures"
     ],
     "confidence": 0.95,
-    "summary": "Healthcare automation startup Coral raised $12.5 million in a pre-Series A round from Z47 and Lightspeed Venture Partners.",
-    "city": ""
-  },
-  {
-    "company_name": "The Hosteller",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "₹150 Cr ($18.1M)",
-    "amount_usd": 18072289.16,
-    "currency": "INR",
-    "announced_on": "2026-04-16",
-    "lead_investor": "PROMAFT Partners",
-    "investors": [
-      "ITI Growth Opportunities Fund",
-      "Merisis Wealth Trust",
-      "PROMAFT Partners",
-      "V3 Ventures"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/04/the-hosteller-raises-rs-150-cr-series-b-funding-promaft-partners"
-    ],
-    "confidence": 0.95,
-    "summary": "The Hosteller secured Rs 150 crore in a Series B round led by PROMAFT Partners and V3 Ventures, with participation from ITI Growth Opportunities Fund and Merisis Wealth Trust, to expand its hostel network across India.",
+    "summary": "TraqCheck, an HR tech startup now based in London, raised $8 million in a Series A round led by IvyCap Ventures with participation from IIFL to expand its AI‑driven background screening and sourcing agents in Europe.",
     "city": ""
   },
   {
@@ -154,7 +84,7 @@
     "amount": "$15M",
     "amount_usd": 15000000.0,
     "currency": "USD",
-    "announced_on": "2026-04-13",
+    "announced_on": "2026-04-18",
     "lead_investor": "Susquehanna Venture Capital",
     "investors": [
       "Susquehanna Venture Capital"
@@ -162,33 +92,53 @@
     "sources": [
       "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startup-this-week-apr-13-apr-18-11739056"
     ],
-    "confidence": 0.95,
+    "confidence": 0.92,
     "summary": "GobbleCube, an AI-driven brand analytics platform, raised $15 million in a Series A round backed by Susquehanna Venture Capital.",
     "city": ""
   },
   {
-    "company_name": "InCred",
+    "company_name": "Wingreens",
     "sector": "",
     "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "₹1,250 ($150.6M)",
-    "amount_usd": 150600000.0,
-    "currency": "INR",
-    "announced_on": "2026-05-07",
-    "lead_investor": "KKR",
+    "stage": "Series D",
+    "stage_raw": "series_d",
+    "amount": "$17M",
+    "amount_usd": 17000000.0,
+    "currency": "USD",
+    "announced_on": "2026-05-11",
+    "lead_investor": "Investcorp. Follow Us Packaged",
     "investors": [
-      "KKR",
-      "MNI Ventures",
-      "Mohandas Pai Family",
-      "Moore Strategic",
-      "V’Ocean Investments"
+      "Alchemy Fund. With",
+      "Investcorp. Follow Us Packaged"
     ],
     "sources": [
-      "https://entrackr.com/news/incred-files-updated-drhp-plans-rs-1250-cr-fresh-issue-11809051"
+      "https://entrackr.com/news/wingreens-acquires-safe-harvest-raises-rs-120-cr-in-series-d-round-11821412"
     ],
-    "confidence": 0.94,
-    "summary": "InCred Holdings plans to raise Rs 1,250 crore (~$150.6 million) through a fresh issue of shares as part of its IPO, with KKR leading the share sale and several other investors participating in the offer for sale.",
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Funding",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$187.2M",
+    "amount_usd": 187200000.0,
+    "currency": "USD",
+    "announced_on": "2026-05-02",
+    "lead_investor": "Accel",
+    "investors": [
+      "Accel",
+      "Elevation Capital. Smart",
+      "Lightspeed"
+    ],
+    "sources": [
+      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startup-this-week-apr-27-may-02-11788965"
+    ],
+    "confidence": 0.85,
+    "summary": "",
     "city": ""
   },
   {
@@ -197,16 +147,16 @@
     "sector_raw": null,
     "stage": "Pre-Series A",
     "stage_raw": "pre_series_a",
-    "amount": "$158.8M",
-    "amount_usd": 158800000.0,
+    "amount": "$47M",
+    "amount_usd": 47000000.0,
     "currency": "USD",
-    "announced_on": "2026-05-09",
-    "lead_investor": "Sherpalo Ventures",
+    "announced_on": "2026-04-25",
+    "lead_investor": "Omnivore. Mobile",
     "investors": [
-      "Sherpalo Ventures"
+      "Omnivore. Mobile"
     ],
     "sources": [
-      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startup-this-week-may-04-may-09-11815849"
+      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startup-this-week-apr-20-apr-25-11763906"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -234,28 +184,6 @@
     "city": ""
   },
   {
-    "company_name": "TraqCheck",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$8M",
-    "amount_usd": 8000000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-14",
-    "lead_investor": "IvyCap Ventures",
-    "investors": [
-      "IIFL. TraqCheck",
-      "IvyCap Ventures"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/04/traqcheck-raises-8-million-led-by-ivycap-ventures"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Figtree Pharmacy",
     "sector": "",
     "sector_raw": null,
@@ -265,12 +193,31 @@
     "amount_usd": null,
     "currency": "",
     "announced_on": "2026-05-08",
-    "lead_investor": "Aviral Bhatnagar",
+    "lead_investor": "",
     "investors": [
-      "Aviral Bhatnagar"
+      "AJVC Fund"
     ],
     "sources": [
       "https://entrackr.com/snippets/figtree-pharmacy-raises-seed-funding-from-ajvc-fund-11812221"
+    ],
+    "confidence": 0.8,
+    "summary": "Figtree Pharmacy, a Mumbai-based neighbourhood pharmacy startup, raised an undisclosed amount in a seed round from AJVC Fund and other investors to expand its logistics, technology, private-label medicines, and store network.",
+    "city": ""
+  },
+  {
+    "company_name": "InMobi",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "$350M",
+    "amount_usd": 350000000.0,
+    "currency": "USD",
+    "announced_on": "2026-05-07",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/inmobi-acquires-mobileaction-to-strengthen-ios-advertising-business-11810115"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -296,40 +243,78 @@
     "city": ""
   },
   {
-    "company_name": "Indigo",
+    "company_name": "Emami",
     "sector": "",
     "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$13.4M",
-    "amount_usd": 13400000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-16",
-    "lead_investor": "Accel",
-    "investors": [
-      "Accel"
-    ],
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "₹321 Cr ($38.7M)",
+    "amount_usd": 38674698.8,
+    "currency": "INR",
+    "announced_on": "2026-05-07",
+    "lead_investor": "",
+    "investors": [],
     "sources": [
-      "https://yourstory.com/2026/04/indigo-invests-air-taxi-maker-sarla-aviation"
+      "https://entrackr.com/snippets/emami-acquires-60-stake-in-vedix-skinkraft-parent-incnut-for-rs-321-cr-11809401"
     ],
     "confidence": 0.8,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Ola Cabs’",
+    "company_name": "Kabeer Biswas's",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "$11M",
+    "amount_usd": 11000000.0,
+    "currency": "USD",
+    "announced_on": "2026-04-22",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/04/kabeer-biswass-new-startup-raises-rs-108-cr-from-peakxv-blume"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Sarla Aviation",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "₹1.0 Cr ($120K)",
+    "amount_usd": 120481.93,
+    "currency": "INR",
+    "announced_on": "2026-04-16",
+    "lead_investor": "",
+    "investors": [
+      "IndiGo Ventures Fund -I"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/04/indigo-invests-air-taxi-maker-sarla-aviation"
+    ],
+    "confidence": 0.8,
+    "summary": "IndiGo Ventures Fund invested about Rs 10 crore in air-taxi startup Sarla Aviation, which develops eVTOL aircraft, to support its operating and expansion needs.",
+    "city": ""
+  },
+  {
+    "company_name": "Govt’s Fund",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "₹2000 Cr ($241M)",
-    "amount_usd": 240963855.42,
+    "amount": "₹10000 Cr ($1.2B)",
+    "amount_usd": 1204819277.11,
     "currency": "INR",
-    "announced_on": "2026-05-07",
+    "announced_on": "2026-04-14",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/fintrackr/ola-cabs-revenue-plunges-42-to-rs-1171-cr-in-fy25-losses-double-11810114"
+      "https://yourstory.com/2026/04/govts-fund-of-funds-20-expand-newer-startup-segments"
     ],
     "confidence": 0.6,
     "summary": "",
@@ -355,22 +340,24 @@
     "city": ""
   },
   {
-    "company_name": "Masters’ Union",
+    "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "₹100 Cr ($12M)",
-    "amount_usd": 12048192.77,
-    "currency": "INR",
-    "announced_on": "2026-04-09",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
+    "amount": "$158.8M",
+    "amount_usd": 158800000.0,
+    "currency": "USD",
+    "announced_on": "2026-05-09",
+    "lead_investor": "Sherpalo Ventures",
+    "investors": [
+      "Sherpalo Ventures"
     ],
-    "confidence": 0.6,
-    "summary": "",
+    "sources": [
+      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startup-this-week-may-04-may-09-11815849"
+    ],
+    "confidence": 0.315,
+    "summary": "The article provides a weekly roundup of Indian startup funding, acquisitions, layoffs and other news, but does not focus on a specific funding round for a single company.",
     "city": ""
   },
   {
@@ -393,25 +380,6 @@
     "city": ""
   },
   {
-    "company_name": "Emami",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹321 Cr ($38.7M)",
-    "amount_usd": 38674626.51,
-    "currency": "INR",
-    "announced_on": "2026-05-07",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/emami-acquires-60-stake-in-vedix-skinkraft-parent-incnut-for-rs-321-cr-11809401"
-    ],
-    "confidence": 0.3,
-    "summary": "Emami Ltd agreed to acquire a 60% stake in IncNut Digital, the parent of Vedix and SkinKraft, for Rs 321 crore, with performance-linked adjustments and future tranche purchases.",
-    "city": ""
-  },
-  {
     "company_name": "InCred",
     "sector": "",
     "sector_raw": null,
@@ -427,45 +395,29 @@
       "https://entrackr.com/fintrackr/incred-posts-rs-1849-cr-revenue-in-first-9-months-of-fy26-11809765"
     ],
     "confidence": 0.3,
-    "summary": "InCred filed a draft prospectus to raise Rs 1,250 crore through an IPO and reported revenue of Rs 1,849 crore for the first nine months of FY26.",
+    "summary": "InCred filed a draft prospectus to raise Rs 1,250 crore through an IPO and reported revenue growth for FY26.",
     "city": ""
   },
   {
-    "company_name": "Urban Company’s",
+    "company_name": "The Hosteller",
     "sector": "",
     "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$2.2B",
-    "amount_usd": 2230000000.0,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$100M",
+    "amount_usd": 100000000.0,
     "currency": "USD",
-    "announced_on": "2026-05-08",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/urban-companys-losses-balloon-to-rs-100-cr-in-q4-fy26-amid-instahelp-push-11813655"
+    "announced_on": "2026-04-16",
+    "lead_investor": "PROMAFT Partners",
+    "investors": [
+      "ITI Growth Opportunities Fund",
+      "PROMAFT Partners"
     ],
-    "confidence": 0.24,
-    "summary": "Urban Company reported Q4 FY26 financial results showing revenue growth but a significant increase in losses.",
-    "city": ""
-  },
-  {
-    "company_name": "Swiggy",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹6383 Cr ($769M)",
-    "amount_usd": 769036144.58,
-    "currency": "INR",
-    "announced_on": "2026-05-08",
-    "lead_investor": "",
-    "investors": [],
     "sources": [
-      "https://entrackr.com/fintrackr/swiggy-posts-rs-6383-cr-revenue-and-rs-800-cr-loss-in-q4-fy26-11813850"
+      "https://yourstory.com/2026/04/the-hosteller-raises-rs-150-cr-series-b-funding-promaft-partners"
     ],
-    "confidence": 0.24,
-    "summary": "Swiggy reported Q4 FY26 revenue of Rs 6,383 crore and a loss of Rs 800 crore, with year‑on‑year growth in revenue and reduced losses.",
+    "confidence": 0.255,
+    "summary": "",
     "city": ""
   },
   {
@@ -484,45 +436,83 @@
       "https://entrackr.com/fintrackr/cartrade-crosses-rs-200-cr-revenue-in-q4-fy26-profit-rises-54-11808882"
     ],
     "confidence": 0.24,
-    "summary": "CarTrade reported Q4 FY26 revenue of over Rs 200 crore and a 54% rise in profit to Rs 71 crore.",
+    "summary": "CarTrade reported Q4 FY26 revenue of over Rs 200 crore and a 54% profit increase, detailing segment performance and financial metrics.",
     "city": ""
   },
   {
-    "company_name": "Govt’s Fund",
+    "company_name": "Masters’ Union",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "₹10000 Cr ($1.2B)",
-    "amount_usd": 1204819277.11,
+    "amount": "₹100 Cr ($12M)",
+    "amount_usd": 12048192.77,
     "currency": "INR",
-    "announced_on": "2026-04-14",
+    "announced_on": "2026-04-09",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://yourstory.com/2026/04/govts-fund-of-funds-20-expand-newer-startup-segments"
+      "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
     ],
     "confidence": 0.24,
-    "summary": "The Indian government announced a Rs 10,000 crore Fund of Funds 2.0 to support deep-tech, manufacturing and early-growth startups through segmented AIFs.",
+    "summary": "Masters’ Union launched a Rs 100 crore early-stage investment platform, MU Ventures, to fund founders under 25 across various sectors.",
     "city": ""
   },
   {
-    "company_name": "InMobi",
+    "company_name": "Urban Company’s",
     "sector": "",
     "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "$350M",
-    "amount_usd": 350000000.0,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$2.2B",
+    "amount_usd": 2230000000.0,
     "currency": "USD",
+    "announced_on": "2026-05-08",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/urban-companys-losses-balloon-to-rs-100-cr-in-q4-fy26-amid-instahelp-push-11813655"
+    ],
+    "confidence": 0.21,
+    "summary": "Urban Company reported Q4 FY26 financial results, showing revenue growth but increased losses, with no mention of a new funding round.",
+    "city": ""
+  },
+  {
+    "company_name": "Swiggy",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹6383 Cr ($769M)",
+    "amount_usd": 769036144.58,
+    "currency": "INR",
+    "announced_on": "2026-05-08",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/swiggy-posts-rs-6383-cr-revenue-and-rs-800-cr-loss-in-q4-fy26-11813850"
+    ],
+    "confidence": 0.21,
+    "summary": "Swiggy reported Q4 FY26 revenue of Rs 6,383 crore and a loss of Rs 800 crore, with year‑on‑year growth in revenue and narrowed losses.",
+    "city": ""
+  },
+  {
+    "company_name": "Ola Cabs’",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹2000 Cr ($241M)",
+    "amount_usd": 240963855.42,
+    "currency": "INR",
     "announced_on": "2026-05-07",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/news/inmobi-acquires-mobileaction-to-strengthen-ios-advertising-business-11810115"
+      "https://entrackr.com/fintrackr/ola-cabs-revenue-plunges-42-to-rs-1171-cr-in-fy25-losses-double-11810114"
     ],
-    "confidence": 0.24,
-    "summary": "",
+    "confidence": 0.21,
+    "summary": "Ola Consumer (formerly Ola Cabs) reported a 42% drop in revenue to Rs 1,171 crore in FY25 and a doubling of losses, with cash reserves falling over 50%.",
     "city": ""
   }
 ]
