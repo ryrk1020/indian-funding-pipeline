@@ -1,28 +1,48 @@
 [
   {
-    "company_name": "Legend of Toys",
+    "company_name": "Rapido",
     "sector": "",
     "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "₹21 Cr ($2.5M)",
-    "amount_usd": 2531325.3,
-    "currency": "INR",
-    "announced_on": "2026-05-15",
-    "lead_investor": "",
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$240M",
+    "amount_usd": 240000000.0,
+    "currency": "USD",
+    "announced_on": "2024-05-15",
+    "lead_investor": "Prosus",
     "investors": [
-      "Atrium Angels",
-      "DeVC",
-      "Enzia Ventures",
-      "Singularity Early Opportunities Fund",
-      "Stride",
-      "Veltis Capital"
+      "Prosus"
     ],
     "sources": [
-      "https://entrackr.com/snippets/legend-of-toys-raises-rs-21-cr-in-pre-series-a-round-11836971"
+      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-may-11-may-16-11840734"
+    ],
+    "confidence": 0.96,
+    "summary": "Ride‑hailing platform Rapido raised $240 million in a growth‑stage round led by Prosus, bringing its valuation to $3 billion.",
+    "city": ""
+  },
+  {
+    "company_name": "ElevenLabs",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series D",
+    "stage_raw": "series_d",
+    "amount": "",
+    "amount_usd": null,
+    "currency": "",
+    "announced_on": "2026-05-14",
+    "lead_investor": "Andreessen Horowitz",
+    "investors": [
+      "Activate",
+      "Andreessen Horowitz",
+      "BlackRock",
+      "ICONIQ Capital",
+      "Nvidia"
+    ],
+    "sources": [
+      "https://www.moneycontrol.com/news/business/funding/ai-fund-activate-invests-in-voice-ai-firm-elevenlabs-at-11-billion-valuation-13918500.html"
     ],
     "confidence": 0.95,
-    "summary": "Legend of Toys, a character-led toy brand, raised Rs 21 crore in a pre-Series A round from multiple investors to expand product categories, marketing, digital presence, manufacturing and international markets.",
+    "summary": "ElevenLabs raised a Series D round led by ICONIQ Capital and Andreessen Horowitz, with strategic investors including Nvidia, BlackRock and Activate, valuing the voice AI startup at $11 billion.",
     "city": ""
   },
   {
@@ -45,7 +65,7 @@
       "https://yourstory.com/2026/04/textile-tech-startup-stch-raises-pre-series-a-round-led-by-omnivore"
     ],
     "confidence": 0.95,
-    "summary": "STCH, a Bengaluru-based textile tech startup, raised $5.5 million in a pre-Series A round led by Omnivore with participation from Kae Capital and WVC to expand its AI-driven fabric R&D and manufacturing platform.",
+    "summary": "STCH, a Bengaluru-based textile tech startup, raised $5.5 million in a pre‑Series A round led by Omnivore with participation from Kae Capital and WVC to expand its AI‑driven fabric R&D and manufacturing platform.",
     "city": ""
   },
   {
@@ -68,50 +88,237 @@
       "https://yourstory.com/2026/04/funding-gobblecube-15-million-series-a-susquehanna-venture-capital"
     ],
     "confidence": 0.95,
-    "summary": "GobbleCube, an AI-driven digital commerce platform based in Gurugram, raised $15 million in a Series A round led by Susquehanna Venture Capital, with participation from InfoEdge Ventures and Kae Capital.",
+    "summary": "GobbleCube, an AI-driven platform for digital commerce, raised $15 million in a Series A round led by Susquehanna Venture Capital, with participation from InfoEdge Ventures and Kae Capital.",
     "city": ""
   },
   {
-    "company_name": "Skyroot Aerospace",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series C",
-    "stage_raw": "series_c",
-    "amount": "$60M",
-    "amount_usd": 60000000.0,
-    "currency": "USD",
-    "announced_on": "2026-05-09",
-    "lead_investor": "GIC",
-    "investors": [
-      "GIC",
-      "Sherpalo Ventures"
-    ],
-    "sources": [
-      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startup-this-week-may-04-may-09-11815849"
-    ],
-    "confidence": 0.92,
-    "summary": "Skyroot Aerospace raised $60 million in a growth-stage round co-led by Sherpalo Ventures and GIC, achieving unicorn status.",
-    "city": ""
-  },
-  {
-    "company_name": "Sarla Aviation",
+    "company_name": "TraqCheck",
     "sector": "",
     "sector_raw": null,
     "stage": "Series A",
     "stage_raw": "series_a",
-    "amount": "₹10 Cr ($1.2M)",
-    "amount_usd": 1204819.28,
-    "currency": "INR",
-    "announced_on": "2026-04-16",
-    "lead_investor": "",
+    "amount": "$8M",
+    "amount_usd": 8000000.0,
+    "currency": "USD",
+    "announced_on": "2026-04-14",
+    "lead_investor": "IvyCap Ventures",
     "investors": [
-      "IndiGo Ventures Fund -I"
+      "IIFL Fintech Fund",
+      "IvyCap Ventures"
     ],
     "sources": [
-      "https://yourstory.com/2026/04/indigo-invests-air-taxi-maker-sarla-aviation"
+      "https://yourstory.com/2026/04/traqcheck-raises-8-million-led-by-ivycap-ventures"
+    ],
+    "confidence": 0.95,
+    "summary": "TraqCheck, a HR tech startup founded in New Delhi and now based in London, raised $8 million in a Series A round led by IvyCap Ventures with participation from IIFL Fintech Fund to expand its AI‑driven background screening and sourcing agents in Europe.",
+    "city": ""
+  },
+  {
+    "company_name": "Pluckk",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "₹100 Cr ($12M)",
+    "amount_usd": 12048192.77,
+    "currency": "INR",
+    "announced_on": "2026-04-09",
+    "lead_investor": "Euro Gulf Investment",
+    "investors": [
+      "Euro Gulf Investment"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
+    ],
+    "confidence": 0.95,
+    "summary": "Pluckk, a digital-first fresh food and clean-label FMCG brand, raised Rs 100 crore in a Series A round led by Euro Gulf Investment to expand offline retail, enter international markets, and enhance its AI-driven supply chain.",
+    "city": ""
+  },
+  {
+    "company_name": "Rapido",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$240M",
+    "amount_usd": 240000000.0,
+    "currency": "USD",
+    "announced_on": "2026-05-15",
+    "lead_investor": "Prosus",
+    "investors": [
+      "Accel",
+      "Prosus",
+      "WestBridge Capital"
+    ],
+    "sources": [
+      "https://www.moneycontrol.com/news/business/startup/rapido-raises-240-million-led-by-prosus-at-3-billion-valuation-13920241.html"
+    ],
+    "confidence": 0.93,
+    "summary": "Ride-hailing platform Rapido raised $240 million in primary funding led by Prosus, valuing the company at $3 billion post‑money, to scale its mobility services across Indian cities.",
+    "city": ""
+  },
+  {
+    "company_name": "AI",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$300M",
+    "amount_usd": 300000000.0,
+    "currency": "USD",
+    "announced_on": "2026-05-14",
+    "lead_investor": "HCLTech",
+    "investors": [
+      "Activate",
+      "Bessemer Venture Partners",
+      "Glade Brook",
+      "HCLTech",
+      "Nvidia",
+      "Prosperity7"
+    ],
+    "sources": [
+      "https://www.moneycontrol.com/news/business/startup/hcltech-to-lead-300-million-sarvam-ai-round-with-150-million-bet-at-1-5-billion-valuation-13918719.html"
+    ],
+    "confidence": 0.93,
+    "summary": "Sarvam AI is raising a $300 million round, led by HCLTech with $150 million, alongside Bessemer Venture Partners, Nvidia and other investors, valuing the startup at $1.5 billion post‑money.",
+    "city": ""
+  },
+  {
+    "company_name": "upGrad",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Bridge",
+    "stage_raw": "bridge",
+    "amount": "₹360 Cr ($43K)",
+    "amount_usd": 43373.49,
+    "currency": "INR",
+    "announced_on": "2026-05-13",
+    "lead_investor": "Ronnie Screwvala",
+    "investors": [
+      "360 One",
+      "IFC",
+      "Ronnie Screwvala",
+      "Temasek"
+    ],
+    "sources": [
+      "https://www.moneycontrol.com/news/business/funding/ronnie-screwvala-led-upgrad-closes-rs-360-crore-internal-funding-round-13917847.html"
     ],
     "confidence": 0.92,
-    "summary": "IndiGo Ventures Fund invested approximately Rs 10 crore in air-taxi startup Sarla Aviation, which will be used for working capital and expansion.",
+    "summary": "upGrad raised Rs 360 crore in an internal funding round, led by founder Ronnie Screwvala, with participation from Temasek, IFC and 360 One, to fund its planned Unacademy acquisition and AI-driven learning expansion.",
+    "city": ""
+  },
+  {
+    "company_name": "Nazara Technologies",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Bridge",
+    "stage_raw": "bridge",
+    "amount": "₹500 Cr ($60.2M)",
+    "amount_usd": 60240964.0,
+    "currency": "INR",
+    "announced_on": "2024-05-12",
+    "lead_investor": "",
+    "investors": [
+      "Classic Enterprises",
+      "Founders Collective Fund",
+      "Plutus Investment and Holding",
+      "Riambel Capital PCC",
+      "S Gupta Family Investments"
+    ],
+    "sources": [
+      "https://www.moneycontrol.com/news/business/startup/nazara-s-fy26-revenue-up-13-to-rs-1-829-crore-ebitda-jumps-66-13917053.html"
+    ],
+    "confidence": 0.86,
+    "summary": "Nazara Technologies announced a Rs 500 crore preferential issue of warrants to fund its global expansion, with participation from Riambel Capital PCC, S Gupta Family Investments, Classic Enterprises, Founders Collective Fund and Plutus Investment and Holding.",
+    "city": ""
+  },
+  {
+    "company_name": "Exclusive: Scripbox",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$55M",
+    "amount_usd": 55000000.0,
+    "currency": "USD",
+    "announced_on": "2026-05-15",
+    "lead_investor": "Entrackr",
+    "investors": [
+      "Entrackr"
+    ],
+    "sources": [
+      "https://entrackr.com/exclusive/exclusive-scripbox-plans-rs-170-cr-debt-and-equity-raise-gears-up-for-ipo-11836622"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Rapido",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "$730M",
+    "amount_usd": 730000000.0,
+    "currency": "USD",
+    "announced_on": "2026-05-15",
+    "lead_investor": "Prosus",
+    "investors": [
+      "Prosus",
+      "WestBridge Capital"
+    ],
+    "sources": [
+      "https://entrackr.com/news/rapido-raises-240-mn-led-by-prosus-at-3-bn-valuation-11837442"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Pronto",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$20M",
+    "amount_usd": 20000000.0,
+    "currency": "USD",
+    "announced_on": "2026-05-07",
+    "lead_investor": "Mirae Asset",
+    "investors": [
+      "Mirae Asset"
+    ],
+    "sources": [
+      "https://www.moneycontrol.com/news/business/funding/pronto-raises-20-million-from-lachy-groom-in-extended-funding-round-valuation-doubles-to-200-million-13911093.html"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Infra.Market",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Bridge",
+    "stage_raw": "bridge",
+    "amount": "₹500 Cr ($60.2M)",
+    "amount_usd": 60240964.0,
+    "currency": "INR",
+    "announced_on": "2026-05-07",
+    "lead_investor": "",
+    "investors": [
+      "Aaditya Sharda",
+      "Accel",
+      "Nexus Venture Partners",
+      "Souvik Sengupta",
+      "Tiger Global"
+    ],
+    "sources": [
+      "https://www.moneycontrol.com/news/business/funding/infra-market-to-raise-rs-500-crore-in-pre-ipo-round-at-rs-25-000-crore-valuation-13911817.html"
+    ],
+    "confidence": 0.85,
+    "summary": "Infra.Market is planning to raise about Rs 500 crore in a pre-IPO Series H bridge round, with participation from existing investors such as Tiger Global, Accel and Nexus Venture Partners, as well as its founders. The funds will be used to reduce debt and strengthen the balance sheet ahead of a planned IPO within the next 4-6 months.",
     "city": ""
   },
   {
@@ -141,31 +348,6 @@
     "company_name": "The Hosteller",
     "sector": "",
     "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹150 Cr ($16M)",
-    "amount_usd": 16000000.0,
-    "currency": "INR",
-    "announced_on": "2026-04-17",
-    "lead_investor": "",
-    "investors": [
-      "ITI Growth Opportunities Fund",
-      "Merisis Wealth Trust",
-      "PROMAFT Partners",
-      "V3 Ventures",
-      "family offices"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/04/weekly-funding-roundup-april-11-17-steep-fall-in-vc-inflow-into-indian-startups"
-    ],
-    "confidence": 0.85,
-    "summary": "The Hosteller raised Rs 150 crore (approximately $16 million) from a group of investors including PROMAFT Partners and V3 Ventures.",
-    "city": ""
-  },
-  {
-    "company_name": "The Hosteller",
-    "sector": "",
-    "sector_raw": null,
     "stage": "Series A",
     "stage_raw": "series_a",
     "amount": "$100M",
@@ -185,24 +367,120 @@
     "city": ""
   },
   {
-    "company_name": "TraqCheck",
+    "company_name": "Sarla Aviation",
     "sector": "",
     "sector_raw": null,
     "stage": "Series A",
     "stage_raw": "series_a",
-    "amount": "$8M",
-    "amount_usd": 8000000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-14",
-    "lead_investor": "IvyCap Ventures",
+    "amount": "₹10 Cr ($1.2M)",
+    "amount_usd": 1204819.0,
+    "currency": "INR",
+    "announced_on": "2026-04-16",
+    "lead_investor": "",
     "investors": [
-      "IIFL. TraqCheck",
-      "IvyCap Ventures"
+      "IndiGo Ventures Fund -I"
     ],
     "sources": [
-      "https://yourstory.com/2026/04/traqcheck-raises-8-million-led-by-ivycap-ventures"
+      "https://yourstory.com/2026/04/indigo-invests-air-taxi-maker-sarla-aviation"
     ],
     "confidence": 0.85,
+    "summary": "IndiGo Ventures Fund invested about Rs 10 crore in air‑taxi startup Sarla Aviation, giving it a minority equity stake to support working capital and expansion.",
+    "city": ""
+  },
+  {
+    "company_name": "Lightrock",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series E+",
+    "stage_raw": "series_e_plus",
+    "amount": "$10M",
+    "amount_usd": 10000000.0,
+    "currency": "USD",
+    "announced_on": "2026-05-15",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/lightrock-launches-500-mn-accelerate7-fund-for-clean-energy-mobility-startups-11837624"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Former Peak XV",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$350M",
+    "amount_usd": 350000000.0,
+    "currency": "USD",
+    "announced_on": "2026-05-14",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/former-peak-xv-executives-float-mettle-capital-with-350400-mn-target-report-11832863"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Lighthouse Canton",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "$130M",
+    "amount_usd": 130000000.0,
+    "currency": "USD",
+    "announced_on": "2026-05-14",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/lighthouse-canton-launches-rs-1200-cr-lc-luminere-credit-fund-11833793"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Skyroot Aerospace",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$60M",
+    "amount_usd": 60000000.0,
+    "currency": "USD",
+    "announced_on": "2026-05-07",
+    "lead_investor": "Sherpalo",
+    "investors": [
+      "Sherpalo"
+    ],
+    "sources": [
+      "https://www.moneycontrol.com/news/business/startup/skyroot-aerospace-becomes-india-s-first-space-tech-unicorn-raises-60-million-from-ram-shriram-s-sherpalo-gic-and-blackrock-13911305.html"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "MS Dhoni, Hardik Pandya, Bumrah",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$11M",
+    "amount_usd": 11000000.0,
+    "currency": "USD",
+    "announced_on": "2026-04-23",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/04/ms-dhoni-hardik-pandya-bumrah-others-invest-11m-game-tech-firm-lightfury"
+    ],
+    "confidence": 0.8,
     "summary": "",
     "city": ""
   },
@@ -226,164 +504,100 @@
     "city": ""
   },
   {
-    "company_name": "Rapido",
+    "company_name": "Gautam Adani",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "$240M",
-    "amount_usd": 240000000.0,
+    "amount": "$6M",
+    "amount_usd": 6000000.0,
     "currency": "USD",
     "announced_on": "2026-05-15",
-    "lead_investor": "Prosus",
-    "investors": [
-      "Accel",
-      "Prosus",
-      "WestBridge Capital"
-    ],
-    "sources": [
-      "https://entrackr.com/news/rapido-raises-240-mn-led-by-prosus-at-3-bn-valuation-11837442"
-    ],
-    "confidence": 0.72,
-    "summary": "Rapido raised $240 million in a primary round led by Prosus, with participation from WestBridge Capital and Accel, to expand its ride‑hailing operations across India.",
-    "city": ""
-  },
-  {
-    "company_name": "ED",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹1154 Cr ($139M)",
-    "amount_usd": 139036144.58,
-    "currency": "INR",
-    "announced_on": "2026-05-14",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/news/ed-freezes-rs-526-cr-assets-in-gameskraft-probe-alleges-rs-1154-cr-user-losses-11835112"
+      "https://www.moneycontrol.com/news/business/companies/gautam-adani-agrees-to-pay-6-million-to-settle-sec-fraud-case-13919916.html"
     ],
     "confidence": 0.6,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Zoho",
+    "company_name": "PB Fintech",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "₹70 Cr ($8.4M)",
-    "amount_usd": 8433734.94,
+    "amount": "₹261 Cr ($31.4M)",
+    "amount_usd": 31445783.13,
     "currency": "INR",
-    "announced_on": "2026-05-13",
+    "announced_on": "2026-05-06",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/snippets/zoho-invests-rs-70-cr-in-ondc-to-support-msmes-11830900"
+      "https://www.moneycontrol.com/news/business/earnings/pb-fintech-net-profit-jumps-115-in-fy26-to-rs-670-crore-revenue-up-37-13910756.html"
     ],
     "confidence": 0.6,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Pluckk",
+    "company_name": "Zepto",
     "sector": "",
     "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$26M",
-    "amount_usd": 26000000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-09",
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "",
+    "amount_usd": null,
+    "currency": "",
+    "announced_on": "2026-05-08",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Scripbox",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Debt",
-    "stage_raw": "debt",
-    "amount": "₹170 Cr ($20.5M)",
-    "amount_usd": 20481951.81,
-    "currency": "INR",
-    "announced_on": "2026-05-15",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/exclusive/exclusive-scripbox-plans-rs-170-cr-debt-and-equity-raise-gears-up-for-ipo-11836622"
+      "https://www.moneycontrol.com/news/business/ipo/zepto-gets-sebi-nod-for-1-billion-ipo-13913248.html"
     ],
     "confidence": 0.4,
-    "summary": "Bengaluru-based wealthtech startup Scripbox plans to raise up to Rs 170 crore through a combination of equity and debt to fund growth, strengthen its balance sheet, and prepare for an IPO.",
+    "summary": "Quick commerce startup Ze{...} has received SEBI approval to proceed with an IPO, aiming to raise between $800 million and $1 billion.",
     "city": ""
   },
   {
-    "company_name": "Lightrock",
+    "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "$500M",
-    "amount_usd": 500000000.0,
+    "amount": "$158.8M",
+    "amount_usd": 158800000.0,
+    "currency": "USD",
+    "announced_on": "2026-05-09",
+    "lead_investor": "Sherpalo Ventures",
+    "investors": [
+      "Sherpalo Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startup-this-week-may-04-may-09-11815849"
+    ],
+    "confidence": 0.315,
+    "summary": "The article lists multiple funding rounds and acquisitions across Indian startups during the week of May 4-9, without focusing on a single specific funding event.",
+    "city": ""
+  },
+  {
+    "company_name": "Walmart-owned Flipkart",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$1.0B",
+    "amount_usd": 1000000000.0,
     "currency": "USD",
     "announced_on": "2026-05-15",
     "lead_investor": "",
-    "investors": [
-      "Equinor",
-      "LGT",
-      "Shell",
-      "TotalEnergies"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/lightrock-launches-500-mn-accelerate7-fund-for-clean-energy-mobility-startups-11837624"
-    ],
-    "confidence": 0.33,
-    "summary": "Lightrock launched a $500 million Accelerate7 fund to invest in growth-stage clean energy, clean cooking and electric mobility startups across South Asia, Southeast Asia and Sub‑Saharan Africa.",
-    "city": ""
-  },
-  {
-    "company_name": "Former Peak XV",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$350M",
-    "amount_usd": 350000000.0,
-    "currency": "USD",
-    "announced_on": "2026-05-14",
-    "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/snippets/former-peak-xv-executives-float-mettle-capital-with-350400-mn-target-report-11832863"
+      "https://www.moneycontrol.com/news/business/startup/walmart-owned-flipkart-to-defer-ipo-prioritise-profitability-this-financial-year-13920125.html"
     ],
     "confidence": 0.3,
-    "summary": "Former Peak XV Partners executives Ashish Agrawal, Ishaan Mittal, and Tejeshwi Sharma have launched a new venture capital firm called Mettle Capital, aiming to raise a $350‑400 million fund to invest in Indian startups.",
-    "city": ""
-  },
-  {
-    "company_name": "Lighthouse Canton",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹1,200 ($130M)",
-    "amount_usd": 130000000.0,
-    "currency": "INR",
-    "announced_on": "2026-05-14",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/lighthouse-canton-launches-rs-1200-cr-lc-luminere-credit-fund-11833793"
-    ],
-    "confidence": 0.3,
-    "summary": "Lighthouse Canton announced the launch of the Rs 1,200 crore LC Luminere Credit Fund, a Category II AIF targeting private credit investments in India.",
+    "summary": "Walmart has asked Flipkart to postpone its planned IPO and focus on achieving EBITDA breakeven by FY 2027, delaying any pre-IPO financing.",
     "city": ""
   },
   {
@@ -404,7 +618,7 @@
       "https://entrackr.com/fintrackr/matrimonycom-posts-rs-117-cr-revenue-and-rs-10-cr-profit-in-q4-fy26-11834596"
     ],
     "confidence": 0.3,
-    "summary": "Matrimony.com Ltd reported Q4 FY26 revenue of Rs 116.8 crore and profit of Rs 9.7 crore, noting an 8% revenue growth and 18% profit increase.",
+    "summary": "Matrimony.com Ltd reported Q4 FY26 revenue of Rs 116.8 crore and profit of Rs 9.7 crore, with overall FY26 revenue flat at Rs 460 crore and profit declining to Rs 34 crore.",
     "city": ""
   },
   {
@@ -427,6 +641,85 @@
     "city": ""
   },
   {
+    "company_name": "Family",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$35.0B",
+    "amount_usd": 35000000000.0,
+    "currency": "USD",
+    "announced_on": "2026-05-11",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://www.moneycontrol.com/news/business/startup/family-offices-and-the-next-phase-of-india-s-investment-cycle-13915114.html"
+    ],
+    "confidence": 0.3,
+    "summary": "The article discusses the growing role of family offices in India’s investment ecosystem, highlighting their increasing assets, professionalization, and participation across startup funding cycles.",
+    "city": ""
+  },
+  {
+    "company_name": "Meesho Q4",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹166 Cr ($20M)",
+    "amount_usd": 20036144.58,
+    "currency": "INR",
+    "announced_on": "2026-05-06",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://www.moneycontrol.com/news/business/earnings/meesho-q4-results-loss-narrows-88-yoy-to-rs-166-crore-revenue-up-47-13910670.html"
+    ],
+    "confidence": 0.3,
+    "summary": "Meesho reported its Q4 FY26 financial results, showing a narrowed net loss and higher revenue.",
+    "city": ""
+  },
+  {
+    "company_name": "Legend of Toys",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$1M",
+    "amount_usd": 1000000.0,
+    "currency": "USD",
+    "announced_on": "2026-05-15",
+    "lead_investor": "Growth Sense Venture Fund. In",
+    "investors": [
+      "Growth Sense Venture Fund. In",
+      "Singularity Early Opportunities Fund"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/legend-of-toys-raises-rs-21-cr-in-pre-series-a-round-11836971"
+    ],
+    "confidence": 0.255,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Ola Electric",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹2000 Cr ($241M)",
+    "amount_usd": 240963855.42,
+    "currency": "INR",
+    "announced_on": "2026-05-15",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://www.moneycontrol.com/news/business/startup/ola-electric-to-infuse-rs-2-000-crore-into-ev-and-battery-subsidiaries-13920375.html"
+    ],
+    "confidence": 0.24,
+    "summary": "Ola Electric announced a board-approved internal investment of Rs 2,000 crore into its subsidiaries Ola Electric Technologies and Ola Cell Technologies.",
+    "city": ""
+  },
+  {
     "company_name": "Ola Electric",
     "sector": "",
     "sector_raw": null,
@@ -442,7 +735,7 @@
       "https://entrackr.com/news/ola-electric-to-infuse-rs-2000-cr-into-subsidiaries-oet-and-oct-11837813"
     ],
     "confidence": 0.24,
-    "summary": "Ola Electric approved an internal infusion of Rs 2,000 crore into its subsidiaries OET and OCT via convertible preference shares.",
+    "summary": "Ola Electric approved a Rs 2,000 crore infusion into its subsidiaries OET and OCT via convertible preference shares.",
     "city": ""
   },
   {
@@ -461,26 +754,121 @@
       "https://entrackr.com/fintrackr/shadowfax-crosses-rs-1200-cr-revenue-and-rs-56-cr-profit-in-q4-fy26-11834956"
     ],
     "confidence": 0.24,
-    "summary": "Shadowfax Technologies reported Q4 FY26 revenue of Rs 1,253 crore and profit of Rs 56 crore, marking strong growth and profitability.",
+    "summary": "Shadowfax Technologies reported Q4 FY26 revenue of Rs 1,253 crore and profit of Rs 56 crore, highlighting strong growth in its last-mile logistics business.",
     "city": ""
   },
   {
-    "company_name": "Mobikwik",
+    "company_name": "ED",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "$183M",
-    "amount_usd": 183000000.0,
-    "currency": "USD",
-    "announced_on": "2026-05-12",
+    "amount": "₹1154 Cr ($139M)",
+    "amount_usd": 139036144.58,
+    "currency": "INR",
+    "announced_on": "2026-05-14",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/fintrackr/mobikwik-reports-rs-289-cr-revenue-and-rs-44-cr-profit-in-q4-fy26-11825634"
+      "https://entrackr.com/news/ed-freezes-rs-526-cr-assets-in-gameskraft-probe-alleges-rs-1154-cr-user-losses-11835112"
     ],
     "confidence": 0.24,
-    "summary": "MobiKwik reported Q4 FY26 revenue of Rs 289 crore and a profit of Rs 4.4 crore, with its early backer Peak XV Partners exiting its stake in a block deal.",
+    "summary": "The Enforcement Directorate froze assets of Gameskraft Technologies amid a probe into alleged real‑money gaming fraud, seizing assets worth about Rs 526 crore.",
+    "city": ""
+  },
+  {
+    "company_name": "AI",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$1.3B",
+    "amount_usd": 1300000000.0,
+    "currency": "USD",
+    "announced_on": "2026-05-13",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://www.moneycontrol.com/news/business/startup/ai-can-add-1-trillion-to-india-s-gdp-by-2035-funding-for-ai-companies-doubles-to-1-3-billion-openai-z47-report-13917198.html"
+    ],
+    "confidence": 0.24,
+    "summary": "A joint report by OpenAI and Z47 states AI funding in India doubled to about $1.3 billion year‑on‑year and projects AI could add $1 trillion to India's GDP by 2035.",
+    "city": ""
+  },
+  {
+    "company_name": "Urban Company Q4: Net",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹159 Cr ($19.2M)",
+    "amount_usd": 19156626.51,
+    "currency": "INR",
+    "announced_on": "2026-05-08",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://www.moneycontrol.com/news/business/startup/urban-company-q4-net-loss-widens-to-rs-159-crore-driven-by-losses-in-instahelp-revenue-climbs-43-13913070.html"
+    ],
+    "confidence": 0.24,
+    "summary": "Urban Company reported a widened net loss of Rs 159 crore in Q4 FY26 while revenue grew 43%, highlighting increased spending on its InstaHelp service.",
+    "city": ""
+  },
+  {
+    "company_name": "Ola Consumer’s FY25",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹1171 Cr ($141.1M)",
+    "amount_usd": 141084337.35,
+    "currency": "INR",
+    "announced_on": "2026-05-07",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://www.moneycontrol.com/news/business/startup/ola-consumer-s-fy25-revenue-drops-42-losses-double-to-rs-662-crores-13912040.html"
+    ],
+    "confidence": 0.24,
+    "summary": "Ola Consumer reported a 42% drop in FY25 revenue to Rs 1,171 crore and a doubling of losses to Rs 662 crore amid increased competition in the ride‑hailing market.",
+    "city": ""
+  },
+  {
+    "company_name": "Freshworks",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$8M",
+    "amount_usd": 8000000.0,
+    "currency": "USD",
+    "announced_on": "2026-05-06",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://www.moneycontrol.com/news/business/startup/freshworks-to-cut-500-jobs-to-take-8-million-restructuring-charge-13909802.html"
+    ],
+    "confidence": 0.24,
+    "summary": "Freshworks announced a restructuring plan that will cut about 500 jobs and incur a one-time charge of approximately $8 million.",
+    "city": ""
+  },
+  {
+    "company_name": "Freshworks",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$228.6M",
+    "amount_usd": 228600000.0,
+    "currency": "USD",
+    "announced_on": "2026-05-06",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://www.moneycontrol.com/news/business/startup/freshworks-q1-2026-revenue-rises-to-228-6-million-announces-layoffs-as-margins-decline-sequentially-13909798.html"
+    ],
+    "confidence": 0.24,
+    "summary": "Freshworks reported Q1 2026 revenue of $228.6 million, a 16% YoY increase, and announced layoffs affecting about 500 jobs.",
     "city": ""
   },
   {
@@ -518,35 +906,72 @@
       "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
     ],
     "confidence": 0.24,
-    "summary": "Masters’ Union launched a Rs 100 crore early-stage investment platform called MU Ventures to fund founders under 25 across various sectors.",
+    "summary": "Masters’ Union launched a Rs 100 crore early-stage investment platform, MU Ventures, to fund founders under 25 across various tracks.",
     "city": ""
   },
   {
-    "company_name": "LightFury Games",
+    "company_name": "Zoho",
     "sector": "",
     "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$11M",
-    "amount_usd": 11000000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-23",
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹70 ($840K)",
+    "amount_usd": 840000.0,
+    "currency": "INR",
+    "announced_on": "2024-05-13",
     "lead_investor": "",
-    "investors": [
-      "Blume Ventures",
-      "Hardik Pandya\\\", \\\"",
-      "Jasprit Bumrah",
-      "MIXI",
-      "MS Dhoni",
-      "Times Internet",
-      "V3 Ventures",
-      "}"
-    ],
+    "investors": [],
     "sources": [
-      "https://yourstory.com/2026/04/ms-dhoni-hardik-pandya-bumrah-others-invest-11m-game-tech-firm-lightfury"
+      "https://www.moneycontrol.com/news/business/startup/zoho-invests-rs-70-crore-on-ondc-to-expand-digital-commerce-access-for-msmes-13917724.html"
     ],
     "confidence": 0.24,
-    "summary": "",
+    "summary": "Zoho Corporation invested Rs 70 crore in the Open Network for Digital Commerce (ONDC) to support its development and expand digital commerce access for MSMEs in India.",
+    "city": ""
+  },
+  {
+    "company_name": "Delhivery Q4",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹73 Cr ($8.8M)",
+    "amount_usd": 8843373.49,
+    "currency": "INR",
+    "announced_on": "2026-05-16",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://www.moneycontrol.com/news/business/earnings/delhivery-q4-results-profit-flat-at-rs-73-4-crore-revenue-jumps-30-13921121.html"
+    ],
+    "confidence": 0.21,
+    "summary": "Delhivery reported flat Q4 profit of Rs 73.4 crore and a 30% revenue increase, with FY26 profit at Rs 152.5 crore and revenue of Rs 10,508.3 crore.",
+    "city": ""
+  },
+  {
+    "company_name": "KreditBee",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$280M",
+    "amount_usd": 280000000.0,
+    "currency": "USD",
+    "announced_on": "2024-04-10",
+    "lead_investor": "",
+    "investors": [
+      "A.P. Moller Holding",
+      "Advent International",
+      "Dragon Funds",
+      "Hornbill Capital",
+      "Motilal Oswal Alternates",
+      "Premji Invest",
+      "WhiteOak Capital"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/04/weekly-funding-roundup-april-4-10-vc-inflow-4x-rise-due-large-deals-kreditbee"
+    ],
+    "confidence": 0.18,
+    "summary": "Fintech startup KreditBee raised $280 million from a consortium of investors including Mot{",
     "city": ""
   }
 ]
