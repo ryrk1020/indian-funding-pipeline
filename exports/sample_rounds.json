@@ -1,24 +1,292 @@
 [
   {
-    "company_name": "Funding",
+    "company_name": "StrainX Bioworks",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$13M",
+    "amount_usd": 13000000.0,
+    "currency": "USD",
+    "announced_on": "2026-05-25",
+    "lead_investor": "Leo Capital",
+    "investors": [
+      "Dhoka Ventures",
+      "Good Startup",
+      "Leo Capital",
+      "Prime Venture Partners",
+      "Sparrow Capital",
+      "Sun Icon Ventures",
+      "WTF (India) Delhi Angels"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/strainx-bioworks-raises-13-mn-led-by-prime-venture-partners-and-leo-capital-11870790"
+    ],
+    "confidence": 0.95,
+    "summary": "StrainX Bioworks, a synthetic biology startup focused on alternative proteins, raised $13 million in a series A round co-led by Prime Venture Partners and Leo Capital, with participation from several other investors.",
+    "city": ""
+  },
+  {
+    "company_name": "Meta Fashion",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Seed",
+    "stage_raw": "pre_seed",
+    "amount": "$400K",
+    "amount_usd": 400000.0,
+    "currency": "USD",
+    "announced_on": "2026-05-21",
+    "lead_investor": "Lumikai",
+    "investors": [
+      "Akshat Rathee",
+      "Big Bets",
+      "Lumikai",
+      "Pratham Mittal"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/lumikai-leads-pre-seed-round-in-new-age-digital-fashion-platform-meta-fashion-11856385"
+    ],
+    "confidence": 0.95,
+    "summary": "Meta Fashion raised approximately $400K in a pre‑seed round led by Lumikai, with participation from angel investors Big Bets, Ak{shat Rathee and Pratham Mittal, to scale its virtual fashion business and expand its IP game \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  ",
+    "city": ""
+  },
+  {
+    "company_name": "Giva",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Debt",
+    "stage_raw": "debt",
+    "amount": "₹270 Cr ($28M)",
+    "amount_usd": 28000000.0,
+    "currency": "INR",
+    "announced_on": "2026-05-21",
+    "lead_investor": "BlackSoil Capital",
+    "investors": [
+      "BlackSoil Capital",
+      "InCred Credit Fund",
+      "Nuvama Crossover Yield Opportunities Fund",
+      "Stride Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/exclusive/exclusive-jewelry-startup-giva-set-to-raise-28-mn-debt-11858162"
+    ],
+    "confidence": 0.95,
+    "summary": "Omnichannel jewelry startup Giva is raising Rs 270 crore (≈$28 million) through a multi‑tranche debt round, led by BlackSoil Capital with participation from InCred Credit Fund, Stride Ventures and Nuvama Crossover Yield Opportunities Fund.",
+    "city": ""
+  },
+  {
+    "company_name": "STCH",
     "sector": "",
     "sector_raw": null,
     "stage": "Pre-Series A",
     "stage_raw": "pre_series_a",
-    "amount": "$128.4M",
-    "amount_usd": 128360000.0,
+    "amount": "$5.5M",
+    "amount_usd": 5500000.0,
     "currency": "USD",
-    "announced_on": "2026-05-23",
-    "lead_investor": "General Catalyst. Online",
+    "announced_on": "2026-04-23",
+    "lead_investor": "Omnivore",
     "investors": [
-      "General Catalyst. Online",
-      "InfoEdge Ventures. Audio"
+      "Kae Capital",
+      "Omnivore",
+      "WVC"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/04/textile-tech-startup-stch-raises-pre-series-a-round-led-by-omnivore"
+    ],
+    "confidence": 0.95,
+    "summary": "STCH, a Bengaluru-based textile tech startup, raised $5.5 million in a pre-Series A round led by Omnivore with participation from Kae Capital and WVC to expand its AI-driven fabric R&D and manufacturing platform.",
+    "city": ""
+  },
+  {
+    "company_name": "LightFury Games",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$11M",
+    "amount_usd": 11000000.0,
+    "currency": "USD",
+    "announced_on": "2026-04-23",
+    "lead_investor": "",
+    "investors": [
+      "Blume Ventures",
+      "Hardik Pandya",
+      "Jasprit Bumrah",
+      "MIXI",
+      "MS Dhoni",
+      "Ravindra Jadeja",
+      "Sai Sudharsan",
+      "Shreyas Iyer",
+      "Tilak Varma",
+      "Times Internet",
+      "V3 Ventures"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/04/ms-dhoni-hardik-pandya-bumrah-others-invest-11m-game-tech-firm-lightfury"
+    ],
+    "confidence": 0.95,
+    "summary": "LightFury Games raised $11 million in a pre-Series A round from investors including Blume, V3 Ventures, MIXI, Times Internet and several Indian cricketers to fund development of its AAA mobile cricket title eCricket.",
+    "city": ""
+  },
+  {
+    "company_name": "Curious Digital Pvt Ltd",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "₹102 Cr ($12.3M)",
+    "amount_usd": 12290000.0,
+    "currency": "INR",
+    "announced_on": "2026-04-22",
+    "lead_investor": "Peak XV Partners",
+    "investors": [
+      "Blume Ventures",
+      "CRED",
+      "Peak XV Partners"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/04/kabeer-biswass-new-startup-raises-rs-108-cr-from-peakxv-blume"
+    ],
+    "confidence": 0.95,
+    "summary": "Consumer AI startup M (Curious Digital Pvt Ltd) raised about Rs 102 crore in a Series Seed round led by Peak XV Partners with participation from Blume Ventures and CRED.",
+    "city": ""
+  },
+  {
+    "company_name": "The Hosteller",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "₹150 Cr ($18.1M)",
+    "amount_usd": 18072289.16,
+    "currency": "INR",
+    "announced_on": "2026-04-16",
+    "lead_investor": "PROMAFT Partners",
+    "investors": [
+      "ITI Growth Opportunities Fund",
+      "Merisis Wealth Trust",
+      "PROMAFT Partners",
+      "V3 Ventures"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/04/the-hosteller-raises-rs-150-cr-series-b-funding-promaft-partners"
+    ],
+    "confidence": 0.95,
+    "summary": "The Hosteller raised Rs 150 crore in a Series B round led by PROMAFT Partners, with participation from V3 Ventures, ITI Growth Opportunities Fund and Merisis Wealth Trust, to expand its hostel network across India.",
+    "city": ""
+  },
+  {
+    "company_name": "GobbleCube",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$15M",
+    "amount_usd": 15000000.0,
+    "currency": "USD",
+    "announced_on": "2026-04-15",
+    "lead_investor": "Susquehanna Venture Capital",
+    "investors": [
+      "InfoEdge Ventures",
+      "Kae Capital",
+      "Susquehanna Venture Capital"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/04/funding-gobblecube-15-million-series-a-susquehanna-venture-capital"
+    ],
+    "confidence": 0.95,
+    "summary": "GobbleCube, a Gurugram-based AI SaaS platform for digital commerce, raised $15 million in a Series A round led by Susquehanna Venture Capital, with participation from InfoEdge Ventures and Kae Capital.",
+    "city": ""
+  },
+  {
+    "company_name": "TraqCheck",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$8M",
+    "amount_usd": 8000000.0,
+    "currency": "USD",
+    "announced_on": "2026-04-14",
+    "lead_investor": "IvyCap Ventures",
+    "investors": [
+      "IIFL Fintech Fund",
+      "IvyCap Ventures"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/04/traqcheck-raises-8-million-led-by-ivycap-ventures"
+    ],
+    "confidence": 0.95,
+    "summary": "TraqCheck, an HR tech startup, raised $8 million in a Series A round led by IvyCap Ventures with participation from IIFL Fintech Fund to expand its AI‑driven background screening and sourcing agents in Europe.",
+    "city": ""
+  },
+  {
+    "company_name": "Pluckk",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "₹100 Cr ($12M)",
+    "amount_usd": 12048192.77,
+    "currency": "INR",
+    "announced_on": "2026-04-09",
+    "lead_investor": "Euro Gulf Investment",
+    "investors": [
+      "Euro Gulf Investment"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
+    ],
+    "confidence": 0.95,
+    "summary": "Pluckk raised Rs 100 crore in a Series A1 round led by Euro Gulf Investment to expand offline retail, enter international markets, and enhance its AI-driven supply chain.",
+    "city": ""
+  },
+  {
+    "company_name": "Scapia",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$63M",
+    "amount_usd": 63000000.0,
+    "currency": "USD",
+    "announced_on": "2024-05-20",
+    "lead_investor": "General Catalyst",
+    "investors": [
+      "General Catalyst"
     ],
     "sources": [
       "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-may-18-may-23-11865322"
     ],
-    "confidence": 0.85,
-    "summary": "",
+    "confidence": 0.92,
+    "summary": "Travel fintech firm Scapia raised $63 million in a growth-stage round led by General Catalyst.",
+    "city": ""
+  },
+  {
+    "company_name": "KreditBee",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$280M",
+    "amount_usd": 280000000.0,
+    "currency": "USD",
+    "announced_on": "2024-04-07",
+    "lead_investor": "",
+    "investors": [
+      "A.P. Moller Holding",
+      "Advent International",
+      "Dragon Funds",
+      "Hornbill Capital",
+      "Motilal Oswal Alternates",
+      "Premji Invest",
+      "WhiteOak Capital"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/04/weekly-funding-roundup-april-4-10-vc-inflow-4x-rise-due-large-deals-kreditbee"
+    ],
+    "confidence": 0.92,
+    "summary": "Fintech startup KreditBee raised $280 million in a funding round involving multiple investors.",
     "city": ""
   },
   {
@@ -37,71 +305,6 @@
     ],
     "sources": [
       "https://entrackr.com/fintrackr/pratilipi-claims-revenue-more-than-doubled-to-rs-185-cr-in-fy26-11860900"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Travel-fintech startup Scapia",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$63M",
-    "amount_usd": 63000000.0,
-    "currency": "USD",
-    "announced_on": "2026-05-21",
-    "lead_investor": "General Catalyst",
-    "investors": [
-      "Elevation Capital",
-      "General Catalyst"
-    ],
-    "sources": [
-      "https://entrackr.com/news/travel-fintech-startup-scapia-raises-63-mn-led-by-general-catalyst-11857734"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Exclusive: Jewelry",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series C",
-    "stage_raw": "series_c",
-    "amount": "$28M",
-    "amount_usd": 28000000.0,
-    "currency": "USD",
-    "announced_on": "2026-05-21",
-    "lead_investor": "BlackSoil Capital",
-    "investors": [
-      "BlackSoil Capital",
-      "InCred Credit Fund"
-    ],
-    "sources": [
-      "https://entrackr.com/exclusive/exclusive-jewelry-startup-giva-set-to-raise-28-mn-debt-11858162"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Shastra VC",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "$100M",
-    "amount_usd": 100000000.0,
-    "currency": "USD",
-    "announced_on": "2026-05-21",
-    "lead_investor": "Vasant Rao",
-    "investors": [
-      "Vasant Rao"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/shastra-vc-launches-100-mn-fund-for-deeptech-and-ai-startups-11858284"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -151,11 +354,74 @@
     "city": ""
   },
   {
+    "company_name": "Sarla Aviation",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "₹10 Cr ($1.2M)",
+    "amount_usd": 1204819.28,
+    "currency": "INR",
+    "announced_on": "2026-04-16",
+    "lead_investor": "",
+    "investors": [
+      "IndiGo Ventures Fund -I"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/04/indigo-invests-air-taxi-maker-sarla-aviation"
+    ],
+    "confidence": 0.85,
+    "summary": "IndiGo Ventures Fund invested approximately Rs 10 crore in air-taxi startup Sarla Aviation, which will use the funds for working capital and expansion.",
+    "city": ""
+  },
+  {
+    "company_name": "Paytm",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹964 Cr ($116.1M)",
+    "amount_usd": 116144578.0,
+    "currency": "INR",
+    "announced_on": "2026-05-23",
+    "lead_investor": "",
+    "investors": [
+      "Elevation Capital"
+    ],
+    "sources": [
+      "https://entrackr.com/news/elevation-capital-leads-100-mn-paytm-block-deals-11865497"
+    ],
+    "confidence": 0.36,
+    "summary": "Paytm saw secondary market block deals totaling about Rs 964 crore (~$100 million) as existing investors SAIF Partners and Elevation Capital sold shares to various buyers.",
+    "city": ""
+  },
+  {
+    "company_name": "Shastra VC",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$100M",
+    "amount_usd": 100000000.0,
+    "currency": "USD",
+    "announced_on": "2026-05-21",
+    "lead_investor": "Vasant Rao",
+    "investors": [
+      "Vasant Rao"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/shastra-vc-launches-100-mn-fund-for-deeptech-and-ai-startups-11858284"
+    ],
+    "confidence": 0.315,
+    "summary": "Shastra VC launched a $100 million fund to invest in early-stage deeptech, AI, climate tech, spacetech, defence and renewable science startups.",
+    "city": ""
+  },
+  {
     "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
     "amount": "$158.8M",
     "amount_usd": 158800000.0,
     "currency": "USD",
@@ -167,114 +433,48 @@
     "sources": [
       "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startup-this-week-may-04-may-09-11815849"
     ],
-    "confidence": 0.85,
-    "summary": "",
+    "confidence": 0.315,
+    "summary": "The article provides a weekly roundup of multiple Indian startup funding events, acquisitions, and other news, without focusing on a single specific funding round.",
     "city": ""
   },
   {
-    "company_name": "Textile tech startup STCH",
+    "company_name": "JM Financial Asset Management",
     "sector": "",
     "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$5.5M",
-    "amount_usd": 5500000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-23",
-    "lead_investor": "Omnivore. The",
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹1000 Cr ($120.5M)",
+    "amount_usd": 120481927.71,
+    "currency": "INR",
+    "announced_on": "2026-05-25",
+    "lead_investor": "Amit Dharod",
     "investors": [
-      "Kae Capital",
-      "Omnivore. The"
+      "Amit Dharod"
     ],
     "sources": [
-      "https://yourstory.com/2026/04/textile-tech-startup-stch-raises-pre-series-a-round-led-by-omnivore"
+      "https://entrackr.com/snippets/jm-financial-asset-management-launches-rs-1000-cr-select-credit-fund-ii-11871204"
     ],
-    "confidence": 0.85,
-    "summary": "",
+    "confidence": 0.3,
+    "summary": "JM Financial Asset Management launched its second credit AIF, JM Financial Select Credit Fund II, with a base corpus of Rs 1,000 crore and a greenshoe option of another Rs 1,000 crore.",
     "city": ""
   },
   {
-    "company_name": "The Hosteller",
+    "company_name": "Info Edge",
     "sector": "",
     "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$100M",
-    "amount_usd": 100000000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-16",
-    "lead_investor": "PROMAFT Partners",
-    "investors": [
-      "ITI Growth Opportunities Fund",
-      "PROMAFT Partners"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/04/the-hosteller-raises-rs-150-cr-series-b-funding-promaft-partners"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "GobbleCube",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$15M",
-    "amount_usd": 15000000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-15",
-    "lead_investor": "Susquehanna Venture Capital. The",
-    "investors": [
-      "Susquehanna Venture Capital. The"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/04/funding-gobblecube-15-million-series-a-susquehanna-venture-capital"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "TraqCheck",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$8M",
-    "amount_usd": 8000000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-14",
-    "lead_investor": "IvyCap Ventures",
-    "investors": [
-      "IIFL. TraqCheck",
-      "IvyCap Ventures"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/04/traqcheck-raises-8-million-led-by-ivycap-ventures"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Elevation Capital",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "$100M",
-    "amount_usd": 100000000.0,
-    "currency": "USD",
-    "announced_on": "2026-05-23",
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹3296 Cr ($397.1M)",
+    "amount_usd": 397108433.73,
+    "currency": "INR",
+    "announced_on": "2026-05-22",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/news/elevation-capital-leads-100-mn-paytm-block-deals-11865497"
+      "https://entrackr.com/news/info-edge-reports-over-rs-8000-cr-q4-valuation-hit-on-eternal-pb-fintech-holdings-11863234"
     ],
-    "confidence": 0.8,
-    "summary": "",
+    "confidence": 0.3,
+    "summary": "The article discusses valuation fluctuations of Info Edge's stakes in Eternal and PB Fintech, not a specific funding event.",
     "city": ""
   },
   {
@@ -294,56 +494,16 @@
     "sources": [
       "https://entrackr.com/fintrackr/info-edge-posts-rs-756-cr-pat-in-q4-fy26-other-income-stands-at-rs-497-cr-11862692"
     ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Info Edge",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "₹3296 Cr ($397.1M)",
-    "amount_usd": 397108433.73,
-    "currency": "INR",
-    "announced_on": "2026-05-22",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/info-edge-reports-over-rs-8000-cr-q4-valuation-hit-on-eternal-pb-fintech-holdings-11863234"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Lumikai",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Seed",
-    "stage_raw": "pre_seed",
-    "amount": "",
-    "amount_usd": null,
-    "currency": "",
-    "announced_on": "2026-05-21",
-    "lead_investor": "Lumikai",
-    "investors": [
-      "Lumikai"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/lumikai-leads-pre-seed-round-in-new-age-digital-fashion-platform-meta-fashion-11856385"
-    ],
-    "confidence": 0.8,
-    "summary": "",
+    "confidence": 0.27,
+    "summary": "Info Edge reported Q4 FY26 profit of Rs 756 crore and revenue growth, with no mention of a funding round.",
     "city": ""
   },
   {
     "company_name": "Nykaa",
     "sector": "",
     "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
     "amount": "₹2648 Cr ($319M)",
     "amount_usd": 319036144.58,
     "currency": "INR",
@@ -353,86 +513,8 @@
     "sources": [
       "https://entrackr.com/fintrackr/nykaa-profit-zooms-over-4x-to-79-cr-in-q4-fy26-revenue-grows-28-11859207"
     ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "MS Dhoni, Hardik Pandya, Bumrah",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$11M",
-    "amount_usd": 11000000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-23",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/04/ms-dhoni-hardik-pandya-bumrah-others-invest-11m-game-tech-firm-lightfury"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Kabeer Biswas's",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$11M",
-    "amount_usd": 11000000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-22",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/04/kabeer-biswass-new-startup-raises-rs-108-cr-from-peakxv-blume"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Indigo",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$13.4M",
-    "amount_usd": 13400000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-16",
-    "lead_investor": "Accel",
-    "investors": [
-      "Accel"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/04/indigo-invests-air-taxi-maker-sarla-aviation"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "WeWork India",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹696 Cr ($83.9M)",
-    "amount_usd": 83855421.69,
-    "currency": "INR",
-    "announced_on": "2026-05-21",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/wework-india-posts-rs-696-cr-revenue-in-q4-fy26-profits-surge-80-11858395"
-    ],
-    "confidence": 0.6,
-    "summary": "",
+    "confidence": 0.27,
+    "summary": "Nykaa reported a 4.1x increase in quarterly profit to Rs 78.8 crore and a 28.4% rise in revenue for Q4 FY26, and announced plans to acquire a 24.17% stake in Earth Rhythm Private Limited.",
     "city": ""
   },
   {
@@ -450,8 +532,27 @@
     "sources": [
       "https://entrackr.com/fintrackr/mamaearth-parent-reports-rs-69-cr-profit-on-rs-657-cr-revenue-in-q4-fy26-11859309"
     ],
-    "confidence": 0.6,
-    "summary": "",
+    "confidence": 0.24,
+    "summary": "Honasa Consumer, the parent of Mamaearth, reported Q4 FY26 revenue of Rs 657 crore and profit of Rs 69.4 crore, along with a dividend payout.",
+    "city": ""
+  },
+  {
+    "company_name": "WeWork India",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹696 Cr ($83.9M)",
+    "amount_usd": 83855421.69,
+    "currency": "INR",
+    "announced_on": "2026-05-21",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/wework-india-posts-rs-696-cr-revenue-in-q4-fy26-profits-surge-80-11858395"
+    ],
+    "confidence": 0.24,
+    "summary": "WeWork India reported Q4 FY26 revenue of Rs 696 crore and an 80% profit increase, with overall FY26 revenue of Rs 2,440 crore.",
     "city": ""
   },
   {
@@ -469,8 +570,8 @@
     "sources": [
       "https://entrackr.com/fintrackr/ixigo-posts-rs-308-cr-revenue-profit-jumps-92-in-q4-fy26-11859548"
     ],
-    "confidence": 0.6,
-    "summary": "",
+    "confidence": 0.24,
+    "summary": "The article reports Ixigo's Q4 FY26 revenue of Rs 308 crore and a 92% profit increase, without mentioning any funding round.",
     "city": ""
   },
   {
@@ -488,16 +589,16 @@
     "sources": [
       "https://entrackr.com/fintrackr/wakefit-reports-rs-344-cr-revenue-q4-fy26-deferred-tax-gain-lifts-profit-11860519"
     ],
-    "confidence": 0.6,
-    "summary": "",
+    "confidence": 0.24,
+    "summary": "Wakefit Innovations reported a 13.5% YoY revenue increase to Rs 344 crore in Q4 FY26 and posted a profit of Rs 121.7 crore, boosted by a deferred tax gain.",
     "city": ""
   },
   {
     "company_name": "Skydo",
     "sector": "",
     "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
     "amount": "",
     "amount_usd": null,
     "currency": "",
@@ -507,8 +608,8 @@
     "sources": [
       "https://entrackr.com/snippets/skydo-secures-gift-city-psp-licence-and-rbi-outward-payments-license-11854851"
     ],
-    "confidence": 0.6,
-    "summary": "",
+    "confidence": 0.24,
+    "summary": "Skydo received in-principle approval to operate as a Payment Service Provider at GIFT City IFSC and RBI outward payments licence, expanding its cross-border payment capabilities.",
     "city": ""
   },
   {
@@ -526,8 +627,8 @@
     "sources": [
       "https://yourstory.com/2026/04/govts-fund-of-funds-20-expand-newer-startup-segments"
     ],
-    "confidence": 0.6,
-    "summary": "",
+    "confidence": 0.24,
+    "summary": "The government announced a Rs 10,000 crore Fund of Funds 2.0 to support deep-tech, manufacturing and early-growth startups through segmented AIFs.",
     "city": ""
   },
   {
@@ -545,27 +646,8 @@
     "sources": [
       "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
     ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Pluckk",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$26M",
-    "amount_usd": 26000000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-09",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
-    ],
-    "confidence": 0.6,
-    "summary": "",
+    "confidence": 0.24,
+    "summary": "Masters’ Union launched a Rs 100 crore early-stage investment platform, MU Ventures, to fund founders under 25 across various sectors.",
     "city": ""
   }
 ]
