@@ -1,49 +1,5 @@
 [
   {
-    "company_name": "Flexprice",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$1.5M",
-    "amount_usd": 1500000.0,
-    "currency": "USD",
-    "announced_on": "2026-05-26",
-    "lead_investor": "Shastra VC",
-    "investors": [
-      "Anupam Mittal",
-      "Shastra VC",
-      "TDV Partners"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/flexprice-raises-15-mn-seed-round-led-by-shastra-vc-11874628"
-    ],
-    "confidence": 0.95,
-    "summary": "Flexprice, a usage-based billing startup, raised $1.5 million in a seed round led by Shastra VC with participation from TDV Partners and Anupam Mittal to expand globally and broaden its product suite.",
-    "city": ""
-  },
-  {
-    "company_name": "Yes Madam",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "₹50 Cr ($6M)",
-    "amount_usd": 6024096.0,
-    "currency": "INR",
-    "announced_on": "2026-05-25",
-    "lead_investor": "Info Edge",
-    "investors": [
-      "Info Edge"
-    ],
-    "sources": [
-      "https://entrackr.com/news/yes-madam-raises-maiden-rs-50-cr-funding-at-rs-750-cr-valuation-11871481"
-    ],
-    "confidence": 0.95,
-    "summary": "Yes Madam, a home salon services platform, raised a maiden Series A funding of Rs 50 crore from Info Edge's B8 Fund, valuing the company at Rs 750 crore.",
-    "city": ""
-  },
-  {
     "company_name": "Rapido",
     "sector": "",
     "sector_raw": null,
@@ -52,7 +8,7 @@
     "amount": "$240M",
     "amount_usd": 240000000.0,
     "currency": "USD",
-    "announced_on": "2026-05-16",
+    "announced_on": "2024-05-15",
     "lead_investor": "Prosus",
     "investors": [
       "Prosus"
@@ -60,39 +16,54 @@
     "sources": [
       "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-may-11-may-16-11840734"
     ],
-    "confidence": 0.95,
-    "summary": "Ride-hailing company Rapido{ }raised $240 million in a growth-stage round led by Prosus.",
+    "confidence": 0.96,
+    "summary": "Ride‑hailing platform Rapido raised $240 million in a Series D round led by Prosus, valuing the company at $3 billion.",
     "city": ""
   },
   {
-    "company_name": "LightFury Games",
+    "company_name": "Tiea Connectors",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "₹77 Cr ($9.3M)",
+    "amount_usd": 9277108.0,
+    "currency": "INR",
+    "announced_on": "2026-05-27",
+    "lead_investor": "IvyCap Ventures",
+    "investors": [
+      "8X Ventures",
+      "IvyCap Ventures",
+      "Jamwant Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/tiea-connectors-raises-rs-77-cr-series-a-led-by-ivycap-ventures-11878893"
+    ],
+    "confidence": 0.95,
+    "summary": "Tiea Connectors raised Rs 77 crore in a Series A round led by IvyCap Ventures, with participation from Jamwant Ventures and 8X Ventures, to expand manufacturing and R&D for high‑performance connectors.",
+    "city": ""
+  },
+  {
+    "company_name": "STCH",
     "sector": "",
     "sector_raw": null,
     "stage": "Pre-Series A",
     "stage_raw": "pre_series_a",
-    "amount": "$11M",
-    "amount_usd": 11000000.0,
+    "amount": "$5.5M",
+    "amount_usd": 5500000.0,
     "currency": "USD",
     "announced_on": "2026-04-23",
-    "lead_investor": "",
+    "lead_investor": "Omnivore",
     "investors": [
-      "Blume Ventures",
-      "Hardik Pandya",
-      "Jasprit Bumrah",
-      "MIXI",
-      "MS Dhoni",
-      "Ravindra Jadeja",
-      "Sai Sudharsan",
-      "Shreyas Iyer",
-      "Tilak Varma",
-      "Times Internet",
-      "V3 Ventures"
+      "Kae Capital",
+      "Omnivore",
+      "WVC"
     ],
     "sources": [
-      "https://yourstory.com/2026/04/ms-dhoni-hardik-pandya-bumrah-others-invest-11m-game-tech-firm-lightfury"
+      "https://yourstory.com/2026/04/textile-tech-startup-stch-raises-pre-series-a-round-led-by-omnivore"
     ],
     "confidence": 0.95,
-    "summary": "LightFury Games raised $11 million in a pre‑Series A round from investors including Blume, V3 Ventures, MIXI, Times Internet and several Indian cricketers. The funds will be used to complete development of its AAA mobile cricket title eCricket.",
+    "summary": "STCH, a Bengaluru-based textile tech startup, raised $5.5 million in a pre-Series A round led by Omnivore with participation from Kae Capital and WVC to expand its AI-driven fabric R&D and manufacturing platform.",
     "city": ""
   },
   {
@@ -101,8 +72,8 @@
     "sector_raw": null,
     "stage": "Seed",
     "stage_raw": "seed",
-    "amount": "₹108 Cr ($13M)",
-    "amount_usd": 13012048.19,
+    "amount": "₹102 Cr ($12.3M)",
+    "amount_usd": 12289156.63,
     "currency": "INR",
     "announced_on": "2026-04-22",
     "lead_investor": "Peak XV Partners",
@@ -115,33 +86,7 @@
       "https://yourstory.com/2026/04/kabeer-biswass-new-startup-raises-rs-108-cr-from-peakxv-blume"
     ],
     "confidence": 0.95,
-    "summary": "Consumer AI startup Curious Digital (M) is raising about Rs 108 crore (~$13 million) in a Series Seed round led by Peak XV Partners with participation from Blume Ventures and CRED.",
-    "city": ""
-  },
-  {
-    "company_name": "The Hosteller",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹150 Cr ($18.1M)",
-    "amount_usd": 18072200.0,
-    "currency": "INR",
-    "announced_on": "2026-04-17",
-    "lead_investor": "PROMAFT Partners",
-    "investors": [
-      "ITI Growth Opportunities Fund",
-      "Merisis Wealth Trust",
-      "PROMAFT Partners",
-      "V3 Ventures",
-      "family offices"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/04/the-hosteller-raises-rs-150-cr-series-b-funding-promaft-partners",
-      "https://yourstory.com/2026/04/weekly-funding-roundup-april-11-17-steep-fall-in-vc-inflow-into-indian-startups"
-    ],
-    "confidence": 0.95,
-    "summary": "The Hosteller raised Rs 150 crore (approximately $16 million) from a group of investors including PROMAFT Partners and V3 Ventures.",
+    "summary": "Consumer AI startup Curious Digital (M) raised Rs 102 crore in a seed round led by Peak XV Partners with participation from Blume Ventures and CRED.",
     "city": ""
   },
   {
@@ -186,7 +131,7 @@
       "https://yourstory.com/2026/04/traqcheck-raises-8-million-led-by-ivycap-ventures"
     ],
     "confidence": 0.95,
-    "summary": "TraqCheck, an HR tech startup, raised $8 million in a Series A round led by IvyCap Ventures with participation from IIFL Fintech Fund to expand its AI-driven background screening and sourcing agents in Europe.",
+    "summary": "TraqCheck, an HR tech startup, raised $8 million in a Series A round led by IvyCap Ventures with participation from IIFL Fintech Fund to expand its AI‑driven background screening and sourcing agents in Europe.",
     "city": ""
   },
   {
@@ -207,100 +152,72 @@
       "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
     ],
     "confidence": 0.95,
-    "summary": "Pluckk, a digital-first fresh food and clean-label FMCG brand, raised Rs 100 crore in a Series A1 round led by Euro Gulf Investment to expand offline retail, international markets and AI-driven supply chain capabilities.",
+    "summary": "Pluckk, a digital-first fresh food and clean-label FMCG brand, raised Rs 100 crore in a Series A round led by Euro Gulf Investment to expand offline retail, enter international markets, and enhance its AI-driven supply chain.",
     "city": ""
   },
   {
-    "company_name": "BII",
+    "company_name": "Leverage Edu",
     "sector": "",
     "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$15M",
-    "amount_usd": 15000000.0,
-    "currency": "USD",
+    "stage": "Series D",
+    "stage_raw": "series_d",
+    "amount": "₹200 Cr ($24.1M)",
+    "amount_usd": 24096385.0,
+    "currency": "INR",
     "announced_on": "2026-05-26",
-    "lead_investor": "Bertelsmann India Investments",
+    "lead_investor": "Aditum Fund",
     "investors": [
-      "Bertelsmann India Investments",
-      "WaterBridge Ventures"
+      "Aditum Fund",
+      "IDFC FIRST Bank"
     ],
     "sources": [
-      "https://entrackr.com/news/bii-leads-15-mn-series-a-round-in-b2b-quick-commerce-platform-fairdealmarket-11874646"
+      "https://entrackr.com/exclusive/exclusive-leverage-edu-set-to-raise-over-20-mn-series-d-at-300-mn-valuation-11877155"
     ],
-    "confidence": 0.85,
-    "summary": "",
+    "confidence": 0.94,
+    "summary": "Leverage Edu, a study-abroad platform, is set to raise around Rs 200 crore (~$24 million) in a Series D round comprising equity led by Aditum Fund and venture debt from IDFC FIRST Bank, valuing the company at about $300 million.",
     "city": ""
   },
   {
-    "company_name": "abcoffee",
+    "company_name": "Skyroot Aerospace",
     "sector": "",
     "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$6.4M",
-    "amount_usd": 6390000.0,
+    "stage": "Series C",
+    "stage_raw": "series_c",
+    "amount": "$60M",
+    "amount_usd": 60000000.0,
     "currency": "USD",
-    "announced_on": "2026-05-25",
-    "lead_investor": "Kliff Ventures. The",
+    "announced_on": "2026-05-09",
+    "lead_investor": "GIC",
     "investors": [
-      "Hero Enterprise Partner Ventures",
-      "Kliff Ventures. The"
+      "GIC",
+      "Sherpalo Ventures"
     ],
     "sources": [
-      "https://entrackr.com/snippets/abcoffee-raises-rs-61-cr-in-pre-series-b-round-led-by-kliff-ventures-11871812"
+      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startup-this-week-may-04-may-09-11815849"
     ],
-    "confidence": 0.85,
-    "summary": "",
+    "confidence": 0.92,
+    "summary": "Skyroot Aerospace raised $60 million in a growth-stage round co-led by Sherpalo Ventures and GIC, propelling the company into the unicorn club.",
     "city": ""
   },
   {
-    "company_name": "Textile tech startup STCH",
+    "company_name": "Scapia",
     "sector": "",
     "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$5.5M",
-    "amount_usd": 5500000.0,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$63M",
+    "amount_usd": 63000000.0,
     "currency": "USD",
-    "announced_on": "2026-04-23",
-    "lead_investor": "Omnivore. The",
+    "announced_on": "2024-05-20",
+    "lead_investor": "General Catalyst",
     "investors": [
-      "Kae Capital",
-      "Omnivore. The"
+      "General Catalyst"
     ],
     "sources": [
-      "https://yourstory.com/2026/04/textile-tech-startup-stch-raises-pre-series-a-round-led-by-omnivore"
+      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-may-18-may-23-11865322"
     ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "StrainX Bioworks",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$13M",
-    "amount_usd": 13000000.0,
-    "currency": "USD",
-    "announced_on": "2026-05-25",
-    "lead_investor": "Leo Capital",
-    "investors": [
-      "Dhoka Ventures",
-      "Good Startup",
-      "Leo Capital",
-      "Prime Venture Partners",
-      "Sparrow Capital",
-      "Sun Icon Ventures",
-      "WTF (India) Delhi Angels"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/strainx-bioworks-raises-13-mn-led-by-prime-venture-partners-and-leo-capital-11870790"
-    ],
-    "confidence": 0.8,
-    "summary": "StrainX Bioworks, a synthetic biology startup developing alternative proteins, raised $13 million in a funding round co-led by Prime Venture Partners and Leo Capital.",
+    "confidence": 0.92,
+    "summary": "Travel fintech firm Scapia raised $63 million in a growth-stage round led by General Catalyst.",
     "city": ""
   },
   {
@@ -320,112 +237,153 @@
     "sources": [
       "https://yourstory.com/2026/04/indigo-invests-air-taxi-maker-sarla-aviation"
     ],
+    "confidence": 0.85,
+    "summary": "IndiGo Ventures Fund invested approximately Rs 10 crore in Sarla Aviation, an eVTOL air-taxi startup, to support its operating and expansion needs.",
+    "city": ""
+  },
+  {
+    "company_name": "PhysicsWallah",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$3.4B",
+    "amount_usd": 3400000000.0,
+    "currency": "USD",
+    "announced_on": "2026-05-27",
+    "lead_investor": "Alakh Pandey",
+    "investors": [
+      "Alakh Pandey"
+    ],
+    "sources": [
+      "https://entrackr.com/fintrackr/physicswallah-posts-rs-919-cr-revenue-in-q4-fy26-narrows-losses-by-76-11880597"
+    ],
     "confidence": 0.8,
-    "summary": "IndiGo Ventures Fund invested approximately Rs 10 crore in air-taxi startup Sarla Aviation, which develops eVTOL aircraft, to support its operating and expansion needs.",
+    "summary": "",
     "city": ""
   },
   {
-    "company_name": "Funding",
+    "company_name": "MS Dhoni, Hardik Pandya, Bumrah",
     "sector": "",
     "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$128.4M",
-    "amount_usd": 128360000.0,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$11M",
+    "amount_usd": 11000000.0,
     "currency": "USD",
-    "announced_on": "2026-05-23",
-    "lead_investor": "General Catalyst. Online",
-    "investors": [
-      "General Catalyst. Online",
-      "InfoEdge Ventures. Audio"
-    ],
-    "sources": [
-      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-may-18-may-23-11865322"
-    ],
-    "confidence": 0.315,
-    "summary": "The article lists multiple funding events for various Indian startups during the week of May 18‑23, without focusing on a single round.",
-    "city": ""
-  },
-  {
-    "company_name": "Shastra VC",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$100M",
-    "amount_usd": 100000000.0,
-    "currency": "USD",
-    "announced_on": "2026-05-21",
-    "lead_investor": "Vasant Rao",
-    "investors": [
-      "Vasant Rao"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/shastra-vc-launches-100-mn-fund-for-deeptech-and-ai-startups-11858284"
-    ],
-    "confidence": 0.315,
-    "summary": "Shastra VC launched a $100 million fund to invest in early-stage deeptech, AI, climate tech, spacetech, defence and renewable science startups.",
-    "city": ""
-  },
-  {
-    "company_name": "Funding",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$158.8M",
-    "amount_usd": 158800000.0,
-    "currency": "USD",
-    "announced_on": "2026-05-09",
-    "lead_investor": "Sherpalo Ventures",
-    "investors": [
-      "Sherpalo Ventures"
-    ],
-    "sources": [
-      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startup-this-week-may-04-may-09-11815849"
-    ],
-    "confidence": 0.315,
-    "summary": "The article lists multiple funding events for Indian startups during the week of May 4-9, but does not focus on a single specific round.",
-    "city": ""
-  },
-  {
-    "company_name": "JM Financial Asset Management",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹1000 Cr ($120.5M)",
-    "amount_usd": 120481927.71,
-    "currency": "INR",
-    "announced_on": "2026-05-25",
-    "lead_investor": "Amit Dharod",
-    "investors": [
-      "Amit Dharod"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/jm-financial-asset-management-launches-rs-1000-cr-select-credit-fund-ii-11871204"
-    ],
-    "confidence": 0.3,
-    "summary": "JM Financial Asset Management launched a Rs 1,000 crore Category II AIF called Select Credit Fund II, with an additional greenshoe option of Rs 1,000 crore.",
-    "city": ""
-  },
-  {
-    "company_name": "Slovic",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹200 Cr ($24.1M)",
-    "amount_usd": 24096385.54,
-    "currency": "INR",
-    "announced_on": "2026-05-25",
+    "announced_on": "2026-04-23",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/fintrackr/slovic-claims-rs-200-cr-arr-turns-ebitda-positive-11872372"
+      "https://yourstory.com/2026/04/ms-dhoni-hardik-pandya-bumrah-others-invest-11m-game-tech-firm-lightfury"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Masters’ Union",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹100 Cr ($12M)",
+    "amount_usd": 12048192.77,
+    "currency": "INR",
+    "announced_on": "2026-04-09",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "FinZ Finance",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹120 Cr ($14.5M)",
+    "amount_usd": 14457831.33,
+    "currency": "INR",
+    "announced_on": "2026-05-27",
+    "lead_investor": "",
+    "investors": [
+      "PhysicsWallah"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/physicswallah-invests-rs-120-cr-in-its-nbfc-arm-finzfinance-11879385"
+    ],
+    "confidence": 0.6,
+    "summary": "PhysicsWallah approved a Rs 120 crore equity investment into its wholly-owned NBFC subsidiary FinZ Finance to fund working capital and expansion of its financial services business.",
+    "city": ""
+  },
+  {
+    "company_name": "The Hosteller",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹150 Cr ($18.1M)",
+    "amount_usd": 18072289.16,
+    "currency": "INR",
+    "announced_on": "2026-04-17",
+    "lead_investor": "",
+    "investors": [
+      "ITI Growth Opportunities Fund",
+      "Merisis Wealth Trust",
+      "PROMAFT Partners",
+      "V3 Ventures",
+      "family offices"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/04/weekly-funding-roundup-april-11-17-steep-fall-in-vc-inflow-into-indian-startups"
+    ],
+    "confidence": 0.6,
+    "summary": "The Hosteller raised Rs 150 crore (approximately $16 million) from a group of investors including PROMAFT Partners and V3 Ventures.",
+    "city": ""
+  },
+  {
+    "company_name": "Physis Capital",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$1M",
+    "amount_usd": 1000000.0,
+    "currency": "USD",
+    "announced_on": "2026-05-27",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/physis-capital-announces-final-close-of-rs-400-cr-maiden-fund-11878805"
     ],
     "confidence": 0.3,
-    "summary": "Slovic, a sports and fitness gear brand, reported Rs 200 crore ARR and EBITDA positivity, noting it has raised about Rs 28 crore in equity funding to date.",
+    "summary": "Physis Capital announced the final close of its maiden Rs 400 crore fund, targeting investments in startups from Pre-Series A to Series B across sectors like consumer tech, fintech, and deeptech.",
+    "city": ""
+  },
+  {
+    "company_name": "Gaming",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹21000 Cr ($2.5B)",
+    "amount_usd": 2530120481.93,
+    "currency": "INR",
+    "announced_on": "2026-05-27",
+    "lead_investor": "Justices JB Pardiwala",
+    "investors": [
+      "Justices JB Pardiwala"
+    ],
+    "sources": [
+      "https://entrackr.com/news/gaming-firms-to-face-over-rs-1-lakh-cr-tax-blow-as-supreme-court-backs-28-gst-11880150"
+    ],
+    "confidence": 0.3,
+    "summary": "The Supreme Court upheld a 28% GST on online gaming firms, reviving tax notices totaling over Rs 1 lakh crore, impacting companies like Dream11 and Gameskraft.",
     "city": ""
   },
   {
@@ -448,100 +406,82 @@
     "city": ""
   },
   {
-    "company_name": "Elevation Capital",
+    "company_name": "KollegeApply",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
+    "amount": "₹15 Cr ($1.8M)",
+    "amount_usd": 1807228.92,
+    "currency": "INR",
+    "announced_on": "2026-05-27",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/kollegeapply-crosses-600-institutions-posts-rs-15-cr-revenue-in-fy26-11879998"
+    ],
+    "confidence": 0.27,
+    "summary": "KollegeApply, a Gurugram-based startup simplifying college admissions, reported over Rs 15 crore revenue and profit in its first fiscal year ending March 2026.",
+    "city": ""
+  },
+  {
+    "company_name": "The Hosteller",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
     "amount": "$100M",
     "amount_usd": 100000000.0,
     "currency": "USD",
-    "announced_on": "2026-05-23",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/elevation-capital-leads-100-mn-paytm-block-deals-11865497"
-    ],
-    "confidence": 0.3,
-    "summary": "Paytm saw secondary market block deals totaling about Rs 964 crore (~$100 million) with shares sold by SAIF Partners and Elevation Capital entities to various buyers.",
-    "city": ""
-  },
-  {
-    "company_name": "Info Edge",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹3296 Cr ($397.1M)",
-    "amount_usd": 397108433.73,
-    "currency": "INR",
-    "announced_on": "2026-05-22",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/info-edge-reports-over-rs-8000-cr-q4-valuation-hit-on-eternal-pb-fintech-holdings-11863234"
-    ],
-    "confidence": 0.3,
-    "summary": "Info Edge reported large unrealised gains and losses on its stakes in Eternal and PB Fintech during FY26, highlighting volatility in its investment portfolio.",
-    "city": ""
-  },
-  {
-    "company_name": "Info Edge",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹756 Cr ($91.1M)",
-    "amount_usd": 91084337.35,
-    "currency": "INR",
-    "announced_on": "2026-05-22",
-    "lead_investor": "Naukri",
+    "announced_on": "2026-04-16",
+    "lead_investor": "PROMAFT Partners",
     "investors": [
-      "Naukri"
+      "ITI Growth Opportunities Fund",
+      "PROMAFT Partners"
     ],
     "sources": [
-      "https://entrackr.com/fintrackr/info-edge-posts-rs-756-cr-pat-in-q4-fy26-other-income-stands-at-rs-497-cr-11862692"
+      "https://yourstory.com/2026/04/the-hosteller-raises-rs-150-cr-series-b-funding-promaft-partners"
     ],
-    "confidence": 0.27,
-    "summary": "Info Edge reported Q4 FY26 profit of Rs 756 crore and revenue growth, with no mention of a specific funding round.",
+    "confidence": 0.255,
+    "summary": "",
     "city": ""
   },
   {
-    "company_name": "Ziptrrip",
+    "company_name": "Fundamentum",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "",
-    "amount_usd": null,
-    "currency": "",
-    "announced_on": "2026-05-25",
+    "amount": "₹2000 Cr ($241M)",
+    "amount_usd": 240963855.42,
+    "currency": "INR",
+    "announced_on": "2026-05-26",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/snippets/ziptrrip-acquires-hellotravel-to-expand-presence-across-business-travel-segments-11872041"
+      "https://entrackr.com/snippets/fundamentum-co-founder-ashish-kumar-launches-f2a-with-rs-3000-cr-corpus-11875618"
     ],
     "confidence": 0.24,
-    "summary": "Ziptrrip acquired HelloTravel Online to expand its presence in business travel, leisure, MICE, and experiential travel segments.",
+    "summary": "Ashish Kumar launched the F2A frontier-tech investment platform with a target corpus of Rs 2,000 crore for its fund and up to Rs 1,000 crore for co‑investments, focusing on AI and deeptech startups.",
     "city": ""
   },
   {
-    "company_name": "Awfis",
+    "company_name": "FirstCry",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "$270M",
-    "amount_usd": 270000000.0,
+    "amount": "$1.3B",
+    "amount_usd": 1300000000.0,
     "currency": "USD",
-    "announced_on": "2026-05-25",
+    "announced_on": "2026-05-26",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/fintrackr/awfis-crosses-rs-400-cr-revenue-in-q4-fy26-doubles-profit-11872901"
+      "https://entrackr.com/fintrackr/firstcry-reports-rs-2163-cr-revenue-in-q4-fy26-narrows-losses-by-57-11876827"
     ],
     "confidence": 0.24,
-    "summary": "Awfis reported Q4 FY26 revenue of Rs 410.1 crore and doubled its profit, with a market cap of about $270 million.",
+    "summary": "FirstCry reported Q{4} FY26 revenue of Rs 2,163 crore and narrowed its losses by 57% to Rs 48 crore,  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  ",
     "city": ""
   },
   {
@@ -564,22 +504,41 @@
     "city": ""
   },
   {
-    "company_name": "Masters’ Union",
+    "company_name": "Kissht",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "$472M",
+    "amount_usd": 472000000.0,
+    "currency": "USD",
+    "announced_on": "2026-05-28",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/kissht-crosses-rs-600-cr-revenue-in-q4-fy26-profit-jumps-52-11882063"
+    ],
+    "confidence": 0.24,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Venture Catalysts++",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "₹100 Cr ($12M)",
-    "amount_usd": 12048192.77,
-    "currency": "INR",
-    "announced_on": "2026-04-09",
+    "amount": "$20M",
+    "amount_usd": 20000000.0,
+    "currency": "USD",
+    "announced_on": "2026-05-26",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
+      "https://entrackr.com/snippets/venture-catalysts-to-showcase-12-startups-seeking-46-mn-at-demo-day-7-11876061"
     ],
-    "confidence": 0.24,
-    "summary": "Masters’ Union launched a Rs 100 crore early-stage investment platform called MU Ventures to support founders under 25.",
+    "confidence": 0.18,
+    "summary": "",
     "city": ""
   }
 ]
