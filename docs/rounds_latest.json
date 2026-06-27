@@ -1,189 +1,5 @@
 [
   {
-    "company_name": "Ikin Global",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$2M",
-    "amount_usd": 2000000.0,
-    "currency": "USD",
-    "announced_on": "2026-06-24",
-    "lead_investor": "AWE Funds",
-    "investors": [
-      "AWE Funds",
-      "Callapina Capital",
-      "Unicorn India Ventures"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/iot-smart-lock-startup-ikin-global-raises-2-mn-in-pre-series-a2-round-12067511"
-    ],
-    "confidence": 0.95,
-    "summary": "Ikin Global, a Mumbai-based IoT smart lock startup, raised $2 million in a Pre-Series A2 round led by Unicorn India Ventures, Callapina Capital and AWE Funds to expand globally and develop new products.",
-    "city": ""
-  },
-  {
-    "company_name": "Bodycraft",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "₹120 Cr ($14.5M)",
-    "amount_usd": 14457831.33,
-    "currency": "INR",
-    "announced_on": "2026-06-24",
-    "lead_investor": "Singularity AMC",
-    "investors": [
-      "Singularity AMC"
-    ],
-    "sources": [
-      "https://entrackr.com/news/clinic-and-salon-chain-bodycraft-raises-rs-120-cr-in-series-a-led-by-singularity-amc-12067573"
-    ],
-    "confidence": 0.95,
-    "summary": "Bodycraft, a clinic and salon chain, raised Rs 120 crore in a Series A round led by Singularity AMC to expand its presence and invest in clinical technology.",
-    "city": ""
-  },
-  {
-    "company_name": "Mitigata",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$15M",
-    "amount_usd": 15000000.0,
-    "currency": "USD",
-    "announced_on": "2026-06-23",
-    "lead_investor": "Bessemer Venture Partners",
-    "investors": [
-      "Bessemer Venture Partners",
-      "Nexus Venture Partners",
-      "Titan Capital",
-      "WEH Ventures"
-    ],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/startup/mitigata-raises-15-million-in-series-b-round-led-by-bessemer-venture-partners-13956135.html"
-    ],
-    "confidence": 0.95,
-    "summary": "Mitigata, a Bengaluru-based cyber resilience startup, raised $15 million in a Series B round led by Bessemer Venture Partners with participation from Nexus Venture Partners, Titan Capital and WEH Ventures to expand globally and enhance its AI-native cybersecurity platform.",
-    "city": ""
-  },
-  {
-    "company_name": "Sarvam AI",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$234M",
-    "amount_usd": 234000000.0,
-    "currency": "USD",
-    "announced_on": "2026-06-15",
-    "lead_investor": "Bessemer Venture Partners",
-    "investors": [
-      "Bessemer Venture Partners",
-      "HCLTech",
-      "Khosla Ventures",
-      "Peak XV Partners"
-    ],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/startup/funding-will-help-us-attract-superstar-talent-needed-to-go-to-next-level-vivek-raghavan-and-pratyush-kumar-cofounders-of-sarvam-ai-13950265.html"
-    ],
-    "confidence": 0.95,
-    "summary": "Sarvam AI raised $234 million in the first close of its $300 million Series B round, led by HCLTech and Bessemer Venture Partners, to expand compute infrastructure, talent, and product offerings.",
-    "city": ""
-  },
-  {
-    "company_name": "Coram AI",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$35M",
-    "amount_usd": 35000000.0,
-    "currency": "USD",
-    "announced_on": "2026-06-11",
-    "lead_investor": "Ansa Capital",
-    "investors": [
-      "8VC",
-      "Ansa Capital",
-      "Battery Ventures",
-      "Mosaic Ventures",
-      "UP. Partners"
-    ],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/startup/coram-ai-raises-35-million-in-series-b-funding-led-by-ansa-capital-battery-ventures-13947418.html"
-    ],
-    "confidence": 0.95,
-    "summary": "Coram AI raised $35 million in a Series B round co-led by Ansa Capital and Battery Ventures to accelerate AI product development and expand its presence in India.",
-    "city": ""
-  },
-  {
-    "company_name": "Ethereal Machines",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$28.5M",
-    "amount_usd": 28500000.0,
-    "currency": "USD",
-    "announced_on": "2026-06-11",
-    "lead_investor": "Avataar Ventures",
-    "investors": [
-      "Avataar Ventures",
-      "Peak XV Partners"
-    ],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/startup/ethereal-machines-raises-28-5-million-in-series-b-round-led-by-avataar-ventures-13946562.html"
-    ],
-    "confidence": 0.95,
-    "summary": "Precision manufacturing startup Ethereal Machines raised $28.5 million in a Series B round led by Avataar Ventures, with participation from Peak XV Partners, to expand its CNC production capacity and AI-powered factory software.",
-    "city": ""
-  },
-  {
-    "company_name": "STCH",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$5.5M",
-    "amount_usd": 5500000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-23",
-    "lead_investor": "Omnivore",
-    "investors": [
-      "Kae Capital",
-      "Omnivore",
-      "WVC"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/04/textile-tech-startup-stch-raises-pre-series-a-round-led-by-omnivore"
-    ],
-    "confidence": 0.95,
-    "summary": "STCH, a Bengaluru-based textile tech startup, raised $5.5 million in a pre-Series A round led by Omnivore, with participation from Kae Capital and WVC, to expand its AI-driven fabric R&D and manufacturing platform.",
-    "city": ""
-  },
-  {
-    "company_name": "TraqCheck",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$8M",
-    "amount_usd": 8000000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-14",
-    "lead_investor": "IvyCap Ventures",
-    "investors": [
-      "IIFL Fintech Fund",
-      "IvyCap Ventures"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/04/traqcheck-raises-8-million-led-by-ivycap-ventures"
-    ],
-    "confidence": 0.95,
-    "summary": "TraqCheck, an HR tech startup now based in London, raised $8 million in a Series A round led by IvyCap Ventures with participation from IIFL Fintech Fund to expand its AI‑driven background screening and sourcing agents in Europe.",
-    "city": ""
-  },
-  {
     "company_name": "Pluckk",
     "sector": "",
     "sector_raw": null,
@@ -201,111 +17,119 @@
       "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
     ],
     "confidence": 0.95,
-    "summary": "Pluckk, a digital-first fresh food and clean-label FMCG brand, raised Rs 100 crore in a Series A1 round led by Euro Gulf Investment to expand offline retail, enter international markets, and enhance its AI-driven supply chain.",
+    "summary": "Pluckk, a digital-first fresh food and clean-label FMCG brand, raised Rs 100 crore in a Series A1 round led by Euro Gulf Investment to expand offline retail, international markets, and AI-driven supply chain capabilities.",
     "city": ""
   },
   {
-    "company_name": "Euler Motors",
+    "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
-    "stage": "Series D",
-    "stage_raw": "series_d",
-    "amount": "₹638 Cr ($76.9M)",
-    "amount_usd": 76870000.0,
-    "currency": "INR",
-    "announced_on": "2025-05-01",
-    "lead_investor": "Hero MotoCorp",
-    "investors": [
-      "Hero MotoCorp"
-    ],
-    "sources": [
-      "https://entrackr.com/fintrackr/euler-motors-revenue-doubles-to-rs-402-cr-in-fy26-losses-jump-20-12000698"
-    ],
-    "confidence": 0.95,
-    "summary": "Euler Motors raised a Rs 638 crore (≈$77 million) Series D round in May 2025, led by Hero MotoCorp, to scale its electric vehicle operations.",
-    "city": ""
-  },
-  {
-    "company_name": "Equal AI",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$30M",
-    "amount_usd": 30000000.0,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$1.1B",
+    "amount_usd": 1110000000.0,
     "currency": "USD",
-    "announced_on": "2024-06-13",
-    "lead_investor": "",
+    "announced_on": "2026-06-27",
+    "lead_investor": "Meta",
     "investors": [
-      "Prosus Ventures",
-      "Tomales Bay Capital"
+      "Aramco Ventures",
+      "Meta",
+      "Nexus Venture Partners",
+      "Panthera Growth Partners. Other"
     ],
     "sources": [
-      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-june-8-june-13-12033344"
-    ],
-    "confidence": 0.93,
-    "summary": "Consumer AI startup Equal AI secured $30 million in a Series B round co-led by Prosus Ventures and Tomales Bay Capital.",
-    "city": ""
-  },
-  {
-    "company_name": "SaffronStays",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$3.5M",
-    "amount_usd": 3500000.0,
-    "currency": "USD",
-    "announced_on": "2026-06-24",
-    "lead_investor": "Infinity Ventures",
-    "investors": [
-      "Infinity Ventures",
-      "Sixth Sense Ventures"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/saffronstays-raises-35-mn-led-by-infinity-ventures-12068176"
-    ],
-    "confidence": 0.85,
-    "summary": "Managed holiday-home platform SaffronStays raised $3.5 million in a funding round led by Infinity Ventures, with participation from family offices and a partial secondary sale by Sixth Sense Ventures.",
-    "city": ""
-  },
-  {
-    "company_name": "SaaS",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series E+",
-    "stage_raw": "series_e_plus",
-    "amount": "$280M",
-    "amount_usd": 280000000.0,
-    "currency": "USD",
-    "announced_on": "2026-06-24",
-    "lead_investor": "ChrysCapital",
-    "investors": [
-      "ChrysCapital"
-    ],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/startup/saas-firm-moengage-acquires-ai-startup-aampe-in-all-cash-deal-13957052.html"
+      "https://entrackr.com/report/weekly-funding-report",
+      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-june-1-june-6-12007025",
+      "https://entrackr.com/report/weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-june-22-june-27-12110860"
     ],
     "confidence": 0.85,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Kunal Shah",
+    "company_name": "PharmEasy",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$21M",
+    "amount_usd": 21000000.0,
+    "currency": "USD",
+    "announced_on": "2026-06-26",
+    "lead_investor": "Bessemer Venture Partners",
+    "investors": [
+      "Bessemer Venture Partners",
+      "Strides"
+    ],
+    "sources": [
+      "https://entrackr.com/news/pharmeasy-co-founderss-startup-allhome-raises-rs-200-cr-at-rs-2000-cr-valuation-12108264"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Lightspeed",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$7M",
+    "amount_usd": 7000000.0,
+    "currency": "USD",
+    "announced_on": "2026-06-25",
+    "lead_investor": "Lightspeed",
+    "investors": [
+      "All In Capital",
+      "Lightspeed"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/lightspeed-leads-7-mn-series-a-round-in-superliving-12098012"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Shopping assistant startup Zave",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Bridge",
+    "stage_raw": "bridge",
+    "amount": "₹4.7 Cr ($566K)",
+    "amount_usd": 566265.06,
+    "currency": "INR",
+    "announced_on": "2026-06-25",
+    "lead_investor": "Inflection Point Ventures",
+    "investors": [
+      "Inflection Point Ventures",
+      "Mucker Capital. Follow Us AI",
+      "Mucker Capital. The"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/shopping-assistant-startup-zave-raises-bridge-round-led-by-ipv-12103687"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Former Infosys CEO Vishal Sikka's",
     "sector": "",
     "sector_raw": null,
     "stage": "Seed",
     "stage_raw": "seed",
-    "amount": "$900M",
-    "amount_usd": 900000000.0,
+    "amount": "$32M",
+    "amount_usd": 32000000.0,
     "currency": "USD",
-    "announced_on": "2026-06-22",
-    "lead_investor": "Miten Sampat",
+    "announced_on": "2026-06-24",
+    "lead_investor": "Mayfield",
     "investors": [
-      "Miten Sampat"
+      "Aramco Ventures",
+      "Mayfield"
     ],
     "sources": [
-      "https://www.moneycontrol.com/news/business/startup/kunal-shah-to-become-global-head-of-whatsapp-meta-invests-nearly-1-billion-in-cred-13955883.html"
+      "https://entrackr.com/news/former-infosys-ceo-vishal-sikkas-hang-ten-systems-raises-32-mn-seed-round-12069612"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -336,87 +160,90 @@
     "city": ""
   },
   {
-    "company_name": "SolarSquare",
+    "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$53M",
-    "amount_usd": 53000000.0,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$253.3M",
+    "amount_usd": 253340000.0,
     "currency": "USD",
-    "announced_on": "2026-06-16",
-    "lead_investor": "B Capital",
+    "announced_on": "2026-06-13",
+    "lead_investor": "GPS Renewables",
     "investors": [
-      "B Capital"
+      "GPS Renewables",
+      "Peak XV Partners"
     ],
     "sources": [
-      "https://www.moneycontrol.com/news/business/startup/solarsquare-raises-53-million-in-series-c-round-led-by-b-capital-13950439.html"
+      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-june-8-june-13-12033344"
     ],
     "confidence": 0.85,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "HCLTech's",
+    "company_name": "Euler Motors’",
     "sector": "",
     "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$300M",
-    "amount_usd": 300000000.0,
+    "stage": "Series D",
+    "stage_raw": "series_d",
+    "amount": "$200M",
+    "amount_usd": 200000000.0,
     "currency": "USD",
-    "announced_on": "2026-06-15",
-    "lead_investor": "HCLTech",
+    "announced_on": "2026-06-04",
+    "lead_investor": "Hero MotoCorp",
     "investors": [
-      "HCLTech"
+      "Hero MotoCorp"
     ],
     "sources": [
-      "https://www.moneycontrol.com/news/business/startup/hcltech-s-investment-in-sarvam-shows-india-now-has-the-capital-structure-to-build-sovereign-ai-pratyush-kumar-and-vivek-raghavan-cofounders-of-sarvam-ai-13950271.html"
+      "https://entrackr.com/fintrackr/euler-motors-revenue-doubles-to-rs-402-cr-in-fy26-losses-jump-20-12000698"
     ],
     "confidence": 0.85,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Pratilipi",
+    "company_name": "Textile tech startup STCH",
     "sector": "",
     "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "$20M",
-    "amount_usd": 20000000.0,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$5.5M",
+    "amount_usd": 5500000.0,
     "currency": "USD",
-    "announced_on": "2026-06-12",
-    "lead_investor": "Jungle Ventures",
+    "announced_on": "2026-04-23",
+    "lead_investor": "Omnivore. The",
     "investors": [
-      "Jungle Ventures"
+      "Kae Capital",
+      "Omnivore. The"
     ],
     "sources": [
-      "https://www.moneycontrol.com/news/business/startup/pratilipi-to-end-fy27-at-rs-400-crore-revenue-driven-by-literature-westland-13948248.html"
+      "https://yourstory.com/2026/04/textile-tech-startup-stch-raises-pre-series-a-round-led-by-omnivore"
     ],
     "confidence": 0.85,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Sarla Aviation",
+    "company_name": "The Hosteller",
     "sector": "",
     "sector_raw": null,
     "stage": "Series A",
     "stage_raw": "series_a",
-    "amount": "₹10 Cr ($1.2M)",
-    "amount_usd": 1204819.0,
-    "currency": "INR",
+    "amount": "$100M",
+    "amount_usd": 100000000.0,
+    "currency": "USD",
     "announced_on": "2026-04-16",
-    "lead_investor": "",
+    "lead_investor": "PROMAFT Partners",
     "investors": [
-      "IndiGo Ventures Fund -I"
+      "ITI Growth Opportunities Fund",
+      "PROMAFT Partners"
     ],
     "sources": [
-      "https://yourstory.com/2026/04/indigo-invests-air-taxi-maker-sarla-aviation"
+      "https://yourstory.com/2026/04/the-hosteller-raises-rs-150-cr-series-b-funding-promaft-partners"
     ],
     "confidence": 0.85,
-    "summary": "IndiGo Ventures Fund invested approximately Rs 10 crore in air-taxi startup Sarla Aviation, which will use the funds for operating expenses and business expansion.",
+    "summary": "",
     "city": ""
   },
   {
@@ -441,114 +268,117 @@
     "city": ""
   },
   {
-    "company_name": "QOSMIC",
+    "company_name": "TraqCheck",
     "sector": "",
     "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$3.3M",
-    "amount_usd": 3300000.0,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$8M",
+    "amount_usd": 8000000.0,
     "currency": "USD",
-    "announced_on": "2026-06-24",
+    "announced_on": "2026-04-14",
+    "lead_investor": "IvyCap Ventures",
+    "investors": [
+      "IIFL. TraqCheck",
+      "IvyCap Ventures"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/04/traqcheck-raises-8-million-led-by-ivycap-ventures"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "QSR and beverage brand Alienkind",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$3.2M",
+    "amount_usd": 3200000.0,
+    "currency": "USD",
+    "announced_on": "2026-06-26",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/snippets/qosmic-raises-33-mn-in-seed-funding-from-prosus-accel-south-park-commons-12067227"
+      "https://entrackr.com/snippets/qsr-and-beverage-brand-alienkind-raises-32-mn-in-pre-series-a-round-12108898"
     ],
     "confidence": 0.8,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Nandan Nilekani-backed Fundamentum",
+    "company_name": "Finnovate",
     "sector": "",
     "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$100M",
-    "amount_usd": 100000000.0,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$2M",
+    "amount_usd": 2000000.0,
     "currency": "USD",
-    "announced_on": "2026-06-22",
+    "announced_on": "2026-06-26",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://www.moneycontrol.com/news/business/startup/nandan-nilekani-backed-fundamentum-plans-rs-1-800-2-500-crore-fund-iii-to-double-down-on-growth-stage-startups-13955551.html"
+      "https://entrackr.com/snippets/finnovate-secures-2-mn-in-pre-series-a-funding-from-angel-investors-12109203"
     ],
     "confidence": 0.8,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Meta",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series E+",
-    "stage_raw": "series_e_plus",
-    "amount": "$900M",
-    "amount_usd": 900000000.0,
-    "currency": "USD",
-    "announced_on": "2026-06-22",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/startup/meta-won-t-get-access-to-cred-users-financial-data-despite-900-million-investment-13955930.html"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Meta",
+    "company_name": "Sofina Ventures",
     "sector": "",
     "sector_raw": null,
     "stage": "Acquisition",
     "stage_raw": "acquisition",
-    "amount": "$4.0B",
-    "amount_usd": 4000000000.0,
+    "amount": "$1.5B",
+    "amount_usd": 1510000000.0,
     "currency": "USD",
-    "announced_on": "2026-06-19",
+    "announced_on": "2026-06-25",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://www.moneycontrol.com/news/business/startup/meta-in-talks-to-invest-in-kunal-shah-s-cred-13953624.html"
+      "https://entrackr.com/news/sofina-ventures-offloads-rs-177-cr-worth-stake-in-mamaearth-parent-12107188"
     ],
     "confidence": 0.8,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Zetwerk's FY26",
+    "company_name": "Mirae Asset",
     "sector": "",
     "sector_raw": null,
     "stage": "IPO",
     "stage_raw": "ipo",
-    "amount": "$450M",
-    "amount_usd": 450000000.0,
-    "currency": "USD",
-    "announced_on": "2026-06-15",
+    "amount": "₹120 Cr ($14.5M)",
+    "amount_usd": 14457831.33,
+    "currency": "INR",
+    "announced_on": "2026-06-24",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://www.moneycontrol.com/news/business/startup/zetwerk-s-fy26-revenue-rises-to-rs-15-900-crore-order-book-crosses-rs-12-000-crore-13949652.html"
+      "https://entrackr.com/news/mirae-asset-trims-shadowfax-stake-by-097-for-rs-120-cr-12069628"
     ],
     "confidence": 0.8,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Razorpay",
+    "company_name": "Zepto",
     "sector": "",
     "sector_raw": null,
     "stage": "IPO",
     "stage_raw": "ipo",
-    "amount": "$600M",
-    "amount_usd": 600000000.0,
-    "currency": "USD",
-    "announced_on": "2026-06-14",
+    "amount": "₹5905 Cr ($711.4M)",
+    "amount_usd": 711445783.13,
+    "currency": "INR",
+    "announced_on": "2026-06-09",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://www.moneycontrol.com/news/business/startup/razorpay-confidentially-files-ipo-papers-with-sebi-issue-size-likely-to-be-around-600-million-13949286.html"
+      "https://entrackr.com/fintrackr/zepto-doubles-revenue-in-fy26-losses-widen-to-rs-5905-cr-12016560"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -593,19 +423,40 @@
     "city": ""
   },
   {
-    "company_name": "Update: Alpha Wave",
+    "company_name": "Indigo",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "$3.8B",
-    "amount_usd": 3760000000.0,
+    "amount": "$13.4M",
+    "amount_usd": 13400000.0,
     "currency": "USD",
+    "announced_on": "2026-04-16",
+    "lead_investor": "Accel",
+    "investors": [
+      "Accel"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/04/indigo-invests-air-taxi-maker-sarla-aviation"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Prashant Pitti’s Optimo Capital",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹68 Cr ($8.3M)",
+    "amount_usd": 8253012.05,
+    "currency": "INR",
     "announced_on": "2026-06-24",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/news/alpha-wave-halves-its-stake-in-delhivery-with-rs-332-cr-bulk-deal-12069567"
+      "https://entrackr.com/fintrackr/prashant-pittis-optimo-capital-claims-5x-revenue-growth-in-fy26-pat-climbs-to-rs-105-cr-12067248"
     ],
     "confidence": 0.6,
     "summary": "",
@@ -631,49 +482,11 @@
     "city": ""
   },
   {
-    "company_name": "Rapido",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series E+",
-    "stage_raw": "series_e_plus",
-    "amount": "$240M",
-    "amount_usd": 240000000.0,
-    "currency": "USD",
-    "announced_on": "2026-06-01",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/report/indian-startup-funding-plummets-to-630-mn-in-may-despite-rapidos-240-mn-round-11895083"
-    ],
-    "confidence": 0.6,
-    "summary": "Rapido raised $240 million in a Series F round, the largest single funding event in India for May 2026.",
-    "city": ""
-  },
-  {
-    "company_name": "CERT-In's",
+    "company_name": "Skyroot's",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "",
-    "amount_usd": null,
-    "currency": "",
-    "announced_on": "2026-06-16",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/startup/cert-in-s-new-guidelines-may-raise-compliance-costs-but-are-inevitable-in-ai-era-says-industry-13950737.html"
-    ],
-    "confidence": 0.4,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Skyroot Aerospace",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
     "amount": "$60M",
     "amount_usd": 60000000.0,
     "currency": "USD",
@@ -683,189 +496,8 @@
     "sources": [
       "https://entrackr.com/fintrackr/skyroots-provisional-fy26-financials-show-rs-101-cr-revenue-projects-rs-13205-cr-by-fy32-11898512"
     ],
-    "confidence": 0.4,
-    "summary": "Skyroot Aerospace became India's first spacetech unicorn after a $60 million funding round, valuing the company at about $1.1 billion.",
-    "city": ""
-  },
-  {
-    "company_name": "Actis",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$82M",
-    "amount_usd": 82000000.0,
-    "currency": "USD",
-    "announced_on": "2026-06-24",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/actis-continues-pine-labs-exit-with-rs-371-cr-bulk-deal-12069587"
-    ],
-    "confidence": 0.3,
-    "summary": "Actis sold a 2% stake in Pine Labs for Rs 371 crore via a bulk deal on the BSE.",
-    "city": ""
-  },
-  {
-    "company_name": "Innovist, L’Oreal",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹3000 Cr ($361.4M)",
-    "amount_usd": 361445783.13,
-    "currency": "INR",
-    "announced_on": "2026-06-19",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/startup/innovist-loreal-deal-to-give-founders-rs-1800-crore-payout-falguni-nayar-sauce-vc-icici-venture-set-for-outsized-returns-13953815.html"
-    ],
-    "confidence": 0.3,
-    "summary": "L'Oréal is acquiring Indian D2C startup Innovist in a deal valued at roughly Rs 4,000‑4,100 crore ($420‑$430 million), creating large payouts for founders and early investors.",
-    "city": ""
-  },
-  {
-    "company_name": "FirstClub",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$55M",
-    "amount_usd": 55000000.0,
-    "currency": "USD",
-    "announced_on": "2026-06-06",
-    "lead_investor": "",
-    "investors": [
-      "Peak XV Partners"
-    ],
-    "sources": [
-      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-june-1-june-6-12007025"
-    ],
-    "confidence": 0.255,
+    "confidence": 0.6,
     "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "The Hosteller",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$100M",
-    "amount_usd": 100000000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-16",
-    "lead_investor": "PROMAFT Partners",
-    "investors": [
-      "ITI Growth Opportunities Fund",
-      "PROMAFT Partners"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/04/the-hosteller-raises-rs-150-cr-series-b-funding-promaft-partners"
-    ],
-    "confidence": 0.255,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Sarvam AI",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$234M",
-    "amount_usd": 234000000.0,
-    "currency": "USD",
-    "announced_on": "2024-06-15",
-    "lead_investor": "HCLTech",
-    "investors": [
-      "Bessemer Venture Partners",
-      "HCLTech",
-      "Khosla Ventures",
-      "Peak XV Partners"
-    ],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/startup/sarvam-turns-unicorn-after-raising-234-million-as-part-of-300-million-round-from-hcltech-bessemer-venture-partners-others-13950164.html"
-    ],
-    "confidence": 0.255,
-    "summary": "Sarvam raised $234 million in the first close of its $300 million Series B round, led by HCLTech with participation from Bessemer Venture Partners, K{hosla Ventures                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {\"lead\": false}]",
-    "city": ""
-  },
-  {
-    "company_name": "Prashant Pitti’s Optimo Capital",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹68 Cr ($8.3M)",
-    "amount_usd": 8253012.05,
-    "currency": "INR",
-    "announced_on": "2026-06-24",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/prashant-pittis-optimo-capital-claims-5x-revenue-growth-in-fy26-pat-climbs-to-rs-105-cr-12067248"
-    ],
-    "confidence": 0.24,
-    "summary": "Optimo Capital, an NBFC focused on MSME lending, reported strong revenue and profit growth in FY26 and has raised a total of Rs 228 crore in equity funding to date.",
-    "city": ""
-  },
-  {
-    "company_name": "Bharat Innovates",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹1800 Cr ($216.9M)",
-    "amount_usd": 216867469.88,
-    "currency": "INR",
-    "announced_on": "2026-06-18",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/startup/bharat-innovates-opens-doors-to-european-customers-investors-for-indian-deeptech-startups-13952998.html"
-    ],
-    "confidence": 0.24,
-    "summary": "The article describes Bharat Innovates 2026, an event in France that connected Indian deep‑tech startups with European customers, investors and partners, highlighting growing interest in sectors like AI, semiconductors, space and advanced manufacturing.",
-    "city": ""
-  },
-  {
-    "company_name": "Nearly",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "",
-    "amount_usd": null,
-    "currency": "",
-    "announced_on": "2026-06-17",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/startup/nearly-half-of-india-s-crypto-investors-limit-portfolio-exposure-to-below-10-mudrex-report-13952003.html"
-    ],
-    "confidence": 0.24,
-    "summary": "The article reports a Mudrex survey showing that nearly half of Indian crypto investors keep crypto exposure below 10% of their portfolio.",
-    "city": ""
-  },
-  {
-    "company_name": "IN-SPACe",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "",
-    "amount_usd": null,
-    "currency": "",
-    "announced_on": "2026-06-11",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/startup/in-space-selects-3-startups-for-funding-under-its-technology-adoption-fund-scheme-13947388.html"
-    ],
-    "confidence": 0.24,
-    "summary": "IN-SPACe selected three Indian space startups—Astrobase, SatSure Analytics India, and TM2SPACE—for funding under its Technology Adoption Fund to develop rocket engines, Earth observation AI, and AI-powered star trackers.",
     "city": ""
   },
   {
@@ -883,8 +515,8 @@
     "sources": [
       "https://yourstory.com/2026/04/govts-fund-of-funds-20-expand-newer-startup-segments"
     ],
-    "confidence": 0.24,
-    "summary": "The Indian government announced a Rs 10,000 crore Fund of Funds 2.0 to support deep-tech, manufacturing and early-growth startups through segmented AIFs.",
+    "confidence": 0.6,
+    "summary": "",
     "city": ""
   },
   {
@@ -902,87 +534,7 @@
     "sources": [
       "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
     ],
-    "confidence": 0.24,
-    "summary": "Masters’ Union launched a Rs 100 crore early-stage investment platform, MU Ventures, to fund founders aged under 25 across various sectors.",
-    "city": ""
-  },
-  {
-    "company_name": "Venture",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$5.4B",
-    "amount_usd": 5400000000.0,
-    "currency": "USD",
-    "announced_on": "2026-06-18",
-    "lead_investor": "AI. While",
-    "investors": [
-      "AI. While"
-    ],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/startup/venture-capital-firms-face-tougher-fundraising-as-rupee-weakens-return-expectations-rise-13952859.html"
-    ],
-    "confidence": 0.24,
-    "summary": "The article discusses how a weakening rupee is making it harder for Indian venture capital firms to raise new funds, as global limited partners demand higher{",
-    "city": ""
-  },
-  {
-    "company_name": "Vetic",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$40M",
-    "amount_usd": 40000000.0,
-    "currency": "USD",
-    "announced_on": "2026-06-18",
-    "lead_investor": "Bessemer Venture Partners Funds",
-    "investors": [
-      "Bessemer Venture Partners Funds"
-    ],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/startup/vetic-raises-40-million-to-scale-pet-clinics-home-vet-care-and-insurance-play-13952427.html"
-    ],
-    "confidence": 0.24,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Zepto",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "₹8,010 ($96.5M)",
-    "amount_usd": 96506024.1,
-    "currency": "INR",
-    "announced_on": "2026-06-09",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/zepto-doubles-revenue-in-fy26-losses-widen-to-rs-5905-cr-12016560"
-    ],
-    "confidence": 0.24,
-    "summary": "Zepto filed a draft red herring prospectus to{",
-    "city": ""
-  },
-  {
-    "company_name": "Karo Sambhav",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "₹56 Cr ($6.7M)",
-    "amount_usd": 6746987.0,
-    "currency": "INR",
-    "announced_on": "2024-06-18",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/startup/karo-sambhav-raises-rs-56-crore-from-rainmatter-to-scale-critical-mineral-recovery-13953338.html"
-    ],
-    "confidence": 0.24,
+    "confidence": 0.6,
     "summary": "",
     "city": ""
   }
