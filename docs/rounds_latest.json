@@ -1,26 +1,5 @@
 [
   {
-    "company_name": "Pluckk",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "₹100 Cr ($12M)",
-    "amount_usd": 12048193.0,
-    "currency": "INR",
-    "announced_on": "2026-04-09",
-    "lead_investor": "Euro Gulf Investment",
-    "investors": [
-      "Euro Gulf Investment"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
-    ],
-    "confidence": 0.95,
-    "summary": "Pluckk, a digital-first fresh food and clean-label FMCG brand, raised Rs 100 crore in a Series A1 round led by Euro Gulf Investment to expand offline retail, international markets, and AI-driven supply chain capabilities.",
-    "city": ""
-  },
-  {
     "company_name": "Bajaj Finserv Ventures",
     "sector": "",
     "sector_raw": null,
@@ -63,42 +42,44 @@
     "city": ""
   },
   {
-    "company_name": "Co-working startup Incuspaze",
+    "company_name": "Exclusive: Apna Mart",
     "sector": "",
     "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "$15.8M",
-    "amount_usd": 15800000.0,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$12.7M",
+    "amount_usd": 12700000.0,
     "currency": "USD",
-    "announced_on": "2026-06-29",
-    "lead_investor": "Bharat Value Fund",
+    "announced_on": "2026-06-30",
+    "lead_investor": "Fundamentum",
     "investors": [
-      "Bharat Value Fund"
+      "Fundamentum",
+      "Peak XV Partners. Follow Us",
+      "Peak XV Partners. This"
     ],
     "sources": [
-      "https://entrackr.com/news/co-working-startup-incuspaze-raises-rs-150-cr-led-by-bharat-value-fund-12116135"
+      "https://entrackr.com/exclusive/exclusive-apna-mart-to-raise-fresh-funds-in-series-c-from-accel-fundamentum-peak-xv-12119875"
     ],
     "confidence": 0.85,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Boundless Ventures",
+    "company_name": "Edtech platform YoLearn ai",
     "sector": "",
     "sector_raw": null,
     "stage": "Pre-Seed",
     "stage_raw": "pre_seed",
-    "amount": "₹5.0 Cr ($602K)",
-    "amount_usd": 602409.64,
-    "currency": "INR",
-    "announced_on": "2026-06-29",
-    "lead_investor": "Boundless Ventures. The",
+    "amount": "$5M",
+    "amount_usd": 5000000.0,
+    "currency": "USD",
+    "announced_on": "2026-06-30",
+    "lead_investor": "DataAlpha.ai",
     "investors": [
-      "Boundless Ventures. The"
+      "DataAlpha.ai"
     ],
     "sources": [
-      "https://entrackr.com/snippets/boundless-ventures-leads-pre-seed-round-in-lytmus-ai-12116594"
+      "https://entrackr.com/snippets/edtech-platform-yolearn-ai-raises-pre-seed-round-12120052"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -198,27 +179,6 @@
     "city": ""
   },
   {
-    "company_name": "Euler Motors’",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series D",
-    "stage_raw": "series_d",
-    "amount": "$200M",
-    "amount_usd": 200000000.0,
-    "currency": "USD",
-    "announced_on": "2026-06-04",
-    "lead_investor": "Hero MotoCorp",
-    "investors": [
-      "Hero MotoCorp"
-    ],
-    "sources": [
-      "https://entrackr.com/fintrackr/euler-motors-revenue-doubles-to-rs-402-cr-in-fy26-losses-jump-20-12000698"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Textile tech startup STCH",
     "sector": "",
     "sector_raw": null,
@@ -306,6 +266,44 @@
     "city": ""
   },
   {
+    "company_name": "Data Science Wizards",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$5M",
+    "amount_usd": 5000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-01",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/data-science-wizards-raises-5-mn-in-pre-series-a-round-12122203"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Ananta Capital",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "₹100 Cr ($12M)",
+    "amount_usd": 12048192.77,
+    "currency": "INR",
+    "announced_on": "2026-07-01",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/ananta-capital-acquires-majority-stake-in-phitku-in-rs-100-cr-deal-12122678"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "OYO",
     "sector": "",
     "sector_raw": null,
@@ -325,19 +323,57 @@
     "city": ""
   },
   {
-    "company_name": "The Func. Lab",
+    "company_name": "OYO",
     "sector": "",
     "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$1.5M",
-    "amount_usd": 1500000.0,
-    "currency": "USD",
-    "announced_on": "2026-06-29",
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "₹748 Cr ($90.1M)",
+    "amount_usd": 90120481.93,
+    "currency": "INR",
+    "announced_on": "2026-06-30",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/snippets/the-func-lab-raises-15-mn-seed-round-from-nisaba-godrej-anand-piramal-and-others-12116447"
+      "https://entrackr.com/fintrackr/oyo-parent-prism-posts-rs-6941-cr-revenue-and-rs-748-cr-profit-in-9m-fy26-12119871"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Fibe",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "₹750 Cr ($90.4M)",
+    "amount_usd": 90361445.78,
+    "currency": "INR",
+    "announced_on": "2026-06-30",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/fibe-files-drhp-to-raise-rs-750-cr-through-fresh-issue-12120080"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Fibe",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "₹1601 Cr ($192.9M)",
+    "amount_usd": 192891566.27,
+    "currency": "INR",
+    "announced_on": "2026-06-30",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/fibe-reports-rs-1585-cr-revenue-in-fy26-profit-more-than-doubles-12121371"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -378,63 +414,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/snippets/the-capitalist-ventures-bags-rs-10-cr-seed-round-12117148"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "QSR and beverage brand Alienkind",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$3.2M",
-    "amount_usd": 3200000.0,
-    "currency": "USD",
-    "announced_on": "2026-06-26",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/qsr-and-beverage-brand-alienkind-raises-32-mn-in-pre-series-a-round-12108898"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Finnovate",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$2M",
-    "amount_usd": 2000000.0,
-    "currency": "USD",
-    "announced_on": "2026-06-26",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/finnovate-secures-2-mn-in-pre-series-a-funding-from-angel-investors-12109203"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Zepto",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "₹5905 Cr ($711.4M)",
-    "amount_usd": 711445783.13,
-    "currency": "INR",
-    "announced_on": "2026-06-09",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/zepto-doubles-revenue-in-fy26-losses-widen-to-rs-5905-cr-12016560"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -496,6 +475,44 @@
       "https://yourstory.com/2026/04/indigo-invests-air-taxi-maker-sarla-aviation"
     ],
     "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "AI native coordination startup Brekfuz",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$7.5M",
+    "amount_usd": 7500000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-01",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/ai-native-coordination-startup-brekfuz-raises-525k-12122384"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "UPI",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹29 L ($35K)",
+    "amount_usd": 34843.37,
+    "currency": "INR",
+    "announced_on": "2026-07-01",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/upi-clocks-2272-bn-transactions-worth-rs-2892-lakh-cr-in-june-12122397"
+    ],
+    "confidence": 0.6,
     "summary": "",
     "city": ""
   },
@@ -576,6 +593,25 @@
     "city": ""
   },
   {
+    "company_name": "Pluckk",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$26M",
+    "amount_usd": 26000000.0,
+    "currency": "USD",
+    "announced_on": "2026-04-09",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Masters’ Union",
     "sector": "",
     "sector_raw": null,
@@ -590,8 +626,8 @@
     "sources": [
       "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
     ],
-    "confidence": 0.24,
-    "summary": "Masters’ Union launched a Rs 100 crore sector-agnostic early-stage investment platform called MU Ventures to fund founders under 25, offering checks between Rs 5 lakh and Rs 50 lakh.",
+    "confidence": 0.6,
+    "summary": "",
     "city": ""
   }
 ]
