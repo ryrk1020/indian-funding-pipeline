@@ -1,106 +1,189 @@
 [
   {
-    "company_name": "Bajaj Finserv Ventures",
+    "company_name": "Pluckk",
     "sector": "",
     "sector_raw": null,
     "stage": "Series A",
     "stage_raw": "series_a",
-    "amount": "$10M",
-    "amount_usd": 10000000.0,
-    "currency": "USD",
-    "announced_on": "2026-06-30",
-    "lead_investor": "Bajaj Finserv Ventures",
+    "amount": "₹100 Cr ($12M)",
+    "amount_usd": 12048192.77,
+    "currency": "INR",
+    "announced_on": "2026-04-09",
+    "lead_investor": "Euro Gulf Investment",
     "investors": [
-      "Bajaj Finserv Ventures"
+      "Euro Gulf Investment"
     ],
     "sources": [
-      "https://entrackr.com/news/bajaj-finserv-ventures-leads-10-mn-pre-series-b-round-in-kapture-cx-12118348"
+      "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
     ],
-    "confidence": 0.85,
-    "summary": "",
+    "confidence": 0.95,
+    "summary": "Pluckk, a digital-first fresh food and clean-label FMCG brand, raised Rs 100 crore in a Series A1 round led by Euro Gulf Investment to expand offline retail, enter international markets, and enhance its AI-driven supply chain.",
     "city": ""
   },
   {
-    "company_name": "Cookware brand The Indus Valley",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$17M",
-    "amount_usd": 17000000.0,
-    "currency": "USD",
-    "announced_on": "2026-06-30",
-    "lead_investor": "Gaja Capital",
-    "investors": [
-      "Gaja Capital"
-    ],
-    "sources": [
-      "https://entrackr.com/news/cookware-brand-the-indus-valley-raises-17-mn-led-by-gaja-capital-12118791"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Exclusive: Apna Mart",
+    "company_name": "Elder",
     "sector": "",
     "sector_raw": null,
     "stage": "Series B",
     "stage_raw": "series_b",
-    "amount": "$12.7M",
-    "amount_usd": 12700000.0,
+    "amount": "$9M",
+    "amount_usd": 9000000.0,
     "currency": "USD",
-    "announced_on": "2026-06-30",
-    "lead_investor": "Fundamentum",
+    "announced_on": "2026-07-02",
+    "lead_investor": "Rainmatter Capital",
     "investors": [
-      "Fundamentum",
-      "Peak XV Partners. Follow Us",
-      "Peak XV Partners. This"
+      "Rainmatter Capital"
     ],
     "sources": [
-      "https://entrackr.com/exclusive/exclusive-apna-mart-to-raise-fresh-funds-in-series-c-from-accel-fundamentum-peak-xv-12119875"
+      "https://entrackr.com/news/elder-care-startup-age-care-labs-raises-9-mn-from-rainmatter-and-others-12125496"
     ],
     "confidence": 0.85,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Edtech platform YoLearn ai",
+    "company_name": "BatX Energies",
     "sector": "",
     "sector_raw": null,
-    "stage": "Pre-Seed",
-    "stage_raw": "pre_seed",
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$11M",
+    "amount_usd": 11000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-02",
+    "lead_investor": "IvyCap Ventures. Follow Us Battery",
+    "investors": [
+      "IvyCap Ventures. Follow Us Battery"
+    ],
+    "sources": [
+      "https://entrackr.com/news/batx-energies-raises-rs-105-cr-in-series-a-round-led-by-ivycap-ventures-12125741"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Specialty chemical startup Tulon Materials",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "₹10 Cr ($1.2M)",
+    "amount_usd": 1204819.28,
+    "currency": "INR",
+    "announced_on": "2026-07-02",
+    "lead_investor": "",
+    "investors": [
+      "Karan Goshar"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/specialty-chemical-startup-tulon-materials-raises-rs-10-cr-in-seed-round-12125757"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Nutrition startup Supply6",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
     "amount": "$5M",
     "amount_usd": 5000000.0,
     "currency": "USD",
-    "announced_on": "2026-06-30",
-    "lead_investor": "DataAlpha.ai",
+    "announced_on": "2026-07-01",
+    "lead_investor": "Unilever Ventures",
     "investors": [
-      "DataAlpha.ai"
+      "Unilever Ventures"
     ],
     "sources": [
-      "https://entrackr.com/snippets/edtech-platform-yolearn-ai-raises-pre-seed-round-12120052"
+      "https://entrackr.com/snippets/nutrition-startup-supply6-raises-rs-48-cr-led-by-unilever-ventures-12122813"
     ],
     "confidence": 0.85,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Healthcare startup MyKare.ai",
+    "company_name": "Transition VC",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$1.1M",
+    "amount_usd": 1050000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-01",
+    "lead_investor": "Transition VC. The Mumbai",
+    "investors": [
+      "Transition VC. The Mumbai"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/transition-vc-leads-105-mn-pre-series-a-round-in-albatross-energetics-12122965"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Indian",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$7.4B",
+    "amount_usd": 7400000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-01",
+    "lead_investor": "Entrackr",
+    "investors": [
+      "Entrackr"
+    ],
+    "sources": [
+      "https://entrackr.com/report/indian-startups-raise-74-bn-in-h1-2026-as-cred-meta-deal-lifts-funding-12123065"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Dovetail Capital",
     "sector": "",
     "sector_raw": null,
     "stage": "Series A",
     "stage_raw": "series_a",
-    "amount": "$3.2M",
-    "amount_usd": 3200000.0,
-    "currency": "USD",
-    "announced_on": "2026-06-29",
-    "lead_investor": "",
+    "amount": "₹100 Cr ($12M)",
+    "amount_usd": 12048192.77,
+    "currency": "INR",
+    "announced_on": "2026-07-01",
+    "lead_investor": "Elev8 Venture Partners. The",
     "investors": [
-      "Andrew"
+      "Elev8 Venture Partners. The"
     ],
     "sources": [
-      "https://entrackr.com/snippets/healthcare-startup-mykareai-raises-32-mn-12117898"
+      "https://entrackr.com/snippets/dovetail-capital-raises-rs-100-cr-led-by-elev8-venture-partners-12123188"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Banking infra startup Spense",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "$2.8M",
+    "amount_usd": 2800000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-01",
+    "lead_investor": "Arkam Ventures",
+    "investors": [
+      "Arkam Ventures",
+      "Razorpay Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/banking-infra-startup-spense-secures-28-mn-in-seed-funding-12123950"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -116,16 +199,17 @@
     "amount_usd": 1110000000.0,
     "currency": "USD",
     "announced_on": "2026-06-27",
-    "lead_investor": "Meta",
+    "lead_investor": "GPS Renewables",
     "investors": [
       "Aramco Ventures",
+      "GPS Renewables",
       "Meta",
       "Nexus Venture Partners",
-      "Panthera Growth Partners. Other"
+      "Peak XV Partners"
     ],
     "sources": [
       "https://entrackr.com/report/weekly-funding-report",
-      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-june-1-june-6-12007025",
+      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-june-8-june-13-12033344",
       "https://entrackr.com/report/weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-june-22-june-27-12110860"
     ],
     "confidence": 0.85,
@@ -151,28 +235,6 @@
     ],
     "sources": [
       "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-june-15-june-20-12056007"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Funding",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$253.3M",
-    "amount_usd": 253340000.0,
-    "currency": "USD",
-    "announced_on": "2026-06-13",
-    "lead_investor": "GPS Renewables",
-    "investors": [
-      "GPS Renewables",
-      "Peak XV Partners"
-    ],
-    "sources": [
-      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-june-8-june-13-12033344"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -266,6 +328,25 @@
     "city": ""
   },
   {
+    "company_name": "Sparrow Capital",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "$1M",
+    "amount_usd": 1000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-02",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/sparrow-capital-announces-rs-475-cr-third-fund-12125524"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Data Science Wizards",
     "sector": "",
     "sector_raw": null,
@@ -309,25 +390,6 @@
     "sector_raw": null,
     "stage": "IPO",
     "stage_raw": "ipo",
-    "amount": "₹6650 Cr ($801.2M)",
-    "amount_usd": 801204819.28,
-    "currency": "INR",
-    "announced_on": "2026-06-30",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/oyo-parent-prism-files-udrhp-to-raise-rs-6650-cr-via-fresh-issue-only-12118779"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "OYO",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
     "amount": "₹748 Cr ($90.1M)",
     "amount_usd": 90120481.93,
     "currency": "INR",
@@ -347,25 +409,6 @@
     "sector_raw": null,
     "stage": "IPO",
     "stage_raw": "ipo",
-    "amount": "₹750 Cr ($90.4M)",
-    "amount_usd": 90361445.78,
-    "currency": "INR",
-    "announced_on": "2026-06-30",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/fibe-files-drhp-to-raise-rs-750-cr-through-fresh-issue-12120080"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Fibe",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
     "amount": "₹1601 Cr ($192.9M)",
     "amount_usd": 192891566.27,
     "currency": "INR",
@@ -374,46 +417,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/fintrackr/fibe-reports-rs-1585-cr-revenue-in-fy26-profit-more-than-doubles-12121371"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "AI data infrastructure startup Clairva",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Seed",
-    "stage_raw": "pre_seed",
-    "amount": "",
-    "amount_usd": null,
-    "currency": "",
-    "announced_on": "2026-06-29",
-    "lead_investor": "Venture Catalysts",
-    "investors": [
-      "Venture Catalysts"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/ai-data-infrastructure-startup-clairva-raises-500k-led-by-venture-catalysts-ai-data-infrastructure-startup-clairva-has-raised-500k-in-a-pre-seed-funding-round-led-by-venture-catalysts-through-its-angel-network-the-company-will-use-the-fresh-capita-12116873"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "The Capitalist Ventures",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "₹10 Cr ($1.2M)",
-    "amount_usd": 1204819.28,
-    "currency": "INR",
-    "announced_on": "2026-06-29",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/the-capitalist-ventures-bags-rs-10-cr-seed-round-12117148"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -479,6 +482,25 @@
     "city": ""
   },
   {
+    "company_name": "Burma Burma",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$11M",
+    "amount_usd": 11000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-02",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/burma-burma-posts-rs-156-cr-revenue-and-rs-14-cr-loss-in-fy26-12125670"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "AI native coordination startup Brekfuz",
     "sector": "",
     "sector_raw": null,
@@ -511,6 +533,25 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/news/upi-clocks-2272-bn-transactions-worth-rs-2892-lakh-cr-in-june-12122397"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Lab",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹275 Cr ($33.1M)",
+    "amount_usd": 33132530.12,
+    "currency": "INR",
+    "announced_on": "2026-07-01",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/lab-grown-diamond-brand-limelight-diamonds-raises-rs-275-cr-12123673"
     ],
     "confidence": 0.6,
     "summary": "",
@@ -555,25 +596,6 @@
     "city": ""
   },
   {
-    "company_name": "Zerodha Capital’s",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹54 Cr ($6.4M)",
-    "amount_usd": 6445783.13,
-    "currency": "INR",
-    "announced_on": "2026-06-19",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/zerodha-capitals-profit-rises-20-to-rs-147-cr-in-fy26-12053644"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Govt’s Fund",
     "sector": "",
     "sector_raw": null,
@@ -587,25 +609,6 @@
     "investors": [],
     "sources": [
       "https://yourstory.com/2026/04/govts-fund-of-funds-20-expand-newer-startup-segments"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Pluckk",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$26M",
-    "amount_usd": 26000000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-09",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
     ],
     "confidence": 0.6,
     "summary": "",
