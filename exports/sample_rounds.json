@@ -1,5 +1,27 @@
 [
   {
+    "company_name": "TraqCheck",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$8M",
+    "amount_usd": 8000000.0,
+    "currency": "USD",
+    "announced_on": "2026-04-14",
+    "lead_investor": "IvyCap Ventures",
+    "investors": [
+      "IIFL",
+      "IvyCap Ventures"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/04/traqcheck-raises-8-million-led-by-ivycap-ventures"
+    ],
+    "confidence": 0.96,
+    "summary": "TraqCheck, an HR tech startup, raised $8 million in a Series A round led by IvyCap Ventures with participation from IIFL to expand its AI‑driven background screening and sourcing agents in Europe.",
+    "city": ""
+  },
+  {
     "company_name": "Pluckk",
     "sector": "",
     "sector_raw": null,
@@ -17,7 +39,7 @@
       "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
     ],
     "confidence": 0.95,
-    "summary": "Pluckk, a digital-first fresh food and clean-label FMCG brand, raised Rs 100 crore in a Series A1 round led by Euro Gulf Investment to expand offline retail, enter international markets, and enhance its AI-driven supply chain.",
+    "summary": "Pluckk, a digital-first fresh food and clean-label FMCG brand, raised Rs 100 crore in a Series A1 round led by Euro Gulf Investment to expand offline retail, international markets, and AI-driven supply chain capabilities.",
     "city": ""
   },
   {
@@ -84,42 +106,44 @@
     "city": ""
   },
   {
-    "company_name": "Nutrition startup Supply6",
+    "company_name": "Heatronics",
     "sector": "",
     "sector_raw": null,
     "stage": "Seed",
     "stage_raw": "seed",
-    "amount": "$5M",
-    "amount_usd": 5000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-01",
-    "lead_investor": "Unilever Ventures",
+    "amount": "₹1.8 Cr ($217K)",
+    "amount_usd": 216867.47,
+    "currency": "INR",
+    "announced_on": "2026-07-02",
+    "lead_investor": "Inflection Point Ventures",
     "investors": [
-      "Unilever Ventures"
+      "Inflection Point Ventures"
     ],
     "sources": [
-      "https://entrackr.com/snippets/nutrition-startup-supply6-raises-rs-48-cr-led-by-unilever-ventures-12122813"
+      "https://entrackr.com/snippets/heatronics-raises-rs-18-cr-seed-round-led-by-ipv-12125980"
     ],
     "confidence": 0.85,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Transition VC",
+    "company_name": "Omnichannel sports retail startup PlayBlue",
     "sector": "",
     "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$1.1M",
-    "amount_usd": 1050000.0,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "$2.7M",
+    "amount_usd": 2700000.0,
     "currency": "USD",
-    "announced_on": "2026-07-01",
-    "lead_investor": "Transition VC. The Mumbai",
+    "announced_on": "2026-07-02",
+    "lead_investor": "Centre Court Capital",
     "investors": [
-      "Transition VC. The Mumbai"
+      "Centre Court Capital",
+      "WEH Ventures. Follow Us Omnichannel",
+      "WEH Ventures. The"
     ],
     "sources": [
-      "https://entrackr.com/snippets/transition-vc-leads-105-mn-pre-series-a-round-in-albatross-energetics-12122965"
+      "https://entrackr.com/snippets/omnichannel-sports-retail-startup-playblue-raises-27-mn-in-seed-round-12128217"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -306,24 +330,21 @@
     "city": ""
   },
   {
-    "company_name": "TraqCheck",
+    "company_name": "M1xchange’s Mynd Fintech",
     "sector": "",
     "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$8M",
-    "amount_usd": 8000000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-14",
-    "lead_investor": "IvyCap Ventures",
-    "investors": [
-      "IIFL. TraqCheck",
-      "IvyCap Ventures"
-    ],
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "₹60000 Cr ($7.2B)",
+    "amount_usd": 7228915662.65,
+    "currency": "INR",
+    "announced_on": "2026-07-03",
+    "lead_investor": "",
+    "investors": [],
     "sources": [
-      "https://yourstory.com/2026/04/traqcheck-raises-8-million-led-by-ivycap-ventures"
+      "https://entrackr.com/snippets/m1xchanges-mynd-fintech-acquires-c2fo-india-12129062"
     ],
-    "confidence": 0.85,
+    "confidence": 0.8,
     "summary": "",
     "city": ""
   },
@@ -347,38 +368,57 @@
     "city": ""
   },
   {
-    "company_name": "Data Science Wizards",
+    "company_name": "Swara Baby Products",
     "sector": "",
     "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$5M",
-    "amount_usd": 5000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-01",
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "₹500 Cr ($60.2M)",
+    "amount_usd": 60240963.86,
+    "currency": "INR",
+    "announced_on": "2026-07-02",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/snippets/data-science-wizards-raises-5-mn-in-pre-series-a-round-12122203"
+      "https://entrackr.com/news/swara-baby-products-files-rs-1000-cr-ipo-papers-firstcry-parent-to-sell-rs-300-cr-shares-12126330"
     ],
     "confidence": 0.8,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Ananta Capital",
+    "company_name": "BCT Ventures",
     "sector": "",
     "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "₹100 Cr ($12M)",
-    "amount_usd": 12048192.77,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "₹42 Cr ($5.1M)",
+    "amount_usd": 5060240.96,
     "currency": "INR",
-    "announced_on": "2026-07-01",
+    "announced_on": "2026-07-02",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/snippets/ananta-capital-acquires-majority-stake-in-phitku-in-rs-100-cr-deal-12122678"
+      "https://entrackr.com/snippets/bct-ventures-launches-ai-native-consumer-brands-platform-raises-rs-42-cr-from-3one4-capital-12126973"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Ninjacart",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "$6M",
+    "amount_usd": 6000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-02",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/ninjacart-raises-6-mn-after-45-years-claims-ebitda-profitability-ahead-of-ipo-12128023"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -501,44 +541,6 @@
     "city": ""
   },
   {
-    "company_name": "AI native coordination startup Brekfuz",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$7.5M",
-    "amount_usd": 7500000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-01",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/ai-native-coordination-startup-brekfuz-raises-525k-12122384"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "UPI",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹29 L ($35K)",
-    "amount_usd": 34843.37,
-    "currency": "INR",
-    "announced_on": "2026-07-01",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/upi-clocks-2272-bn-transactions-worth-rs-2892-lakh-cr-in-june-12122397"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Lab",
     "sector": "",
     "sector_raw": null,
@@ -571,25 +573,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/fintrackr/prosus-india-posts-781-mn-revenue-in-fy26-turns-adjusted-ebitda-positive-12116879"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Prashant Pitti’s Optimo Capital",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹68 Cr ($8.3M)",
-    "amount_usd": 8253012.05,
-    "currency": "INR",
-    "announced_on": "2026-06-24",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/prashant-pittis-optimo-capital-claims-5x-revenue-growth-in-fy26-pat-climbs-to-rs-105-cr-12067248"
     ],
     "confidence": 0.6,
     "summary": "",
@@ -629,8 +612,8 @@
     "sources": [
       "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
     ],
-    "confidence": 0.6,
-    "summary": "",
+    "confidence": 0.24,
+    "summary": "Masters’ Union launched a Rs 100 crore early-stage investment platform, MU Ventures, to fund founders under 25 across various sectors.",
     "city": ""
   }
 ]
