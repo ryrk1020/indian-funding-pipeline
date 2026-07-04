@@ -1,48 +1,5 @@
 [
   {
-    "company_name": "TraqCheck",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$8M",
-    "amount_usd": 8000000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-14",
-    "lead_investor": "IvyCap Ventures",
-    "investors": [
-      "IIFL",
-      "IvyCap Ventures"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/04/traqcheck-raises-8-million-led-by-ivycap-ventures"
-    ],
-    "confidence": 0.96,
-    "summary": "TraqCheck, an HR tech startup, raised $8 million in a Series A round led by IvyCap Ventures with participation from IIFL to expand its AI‑driven background screening and sourcing agents in Europe.",
-    "city": ""
-  },
-  {
-    "company_name": "Pluckk",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "₹100 Cr ($12M)",
-    "amount_usd": 12048192.77,
-    "currency": "INR",
-    "announced_on": "2026-04-09",
-    "lead_investor": "Euro Gulf Investment",
-    "investors": [
-      "Euro Gulf Investment"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
-    ],
-    "confidence": 0.95,
-    "summary": "Pluckk, a digital-first fresh food and clean-label FMCG brand, raised Rs 100 crore in a Series A1 round led by Euro Gulf Investment to expand offline retail, international markets, and AI-driven supply chain capabilities.",
-    "city": ""
-  },
-  {
     "company_name": "Elder",
     "sector": "",
     "sector_raw": null,
@@ -171,49 +128,6 @@
     "city": ""
   },
   {
-    "company_name": "Dovetail Capital",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "₹100 Cr ($12M)",
-    "amount_usd": 12048192.77,
-    "currency": "INR",
-    "announced_on": "2026-07-01",
-    "lead_investor": "Elev8 Venture Partners. The",
-    "investors": [
-      "Elev8 Venture Partners. The"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/dovetail-capital-raises-rs-100-cr-led-by-elev8-venture-partners-12123188"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Banking infra startup Spense",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$2.8M",
-    "amount_usd": 2800000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-01",
-    "lead_investor": "Arkam Ventures",
-    "investors": [
-      "Arkam Ventures",
-      "Razorpay Ventures"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/banking-infra-startup-spense-secures-28-mn-in-seed-funding-12123950"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
@@ -259,6 +173,135 @@
     ],
     "sources": [
       "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-june-15-june-20-12056007"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "SolarSquare",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$53M",
+    "amount_usd": 53000000.0,
+    "currency": "USD",
+    "announced_on": "2026-06-16",
+    "lead_investor": "B Capital",
+    "investors": [
+      "B Capital"
+    ],
+    "sources": [
+      "https://www.moneycontrol.com/news/business/startup/solarsquare-raises-53-million-in-series-c-round-led-by-b-capital-13950439.html"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Sarvam AI",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$234M",
+    "amount_usd": 234000000.0,
+    "currency": "USD",
+    "announced_on": "2026-06-15",
+    "lead_investor": "HCLTech",
+    "investors": [
+      "HCLTech",
+      "HCLTech Funds"
+    ],
+    "sources": [
+      "https://www.moneycontrol.com/news/business/startup/funding-will-help-us-attract-superstar-talent-needed-to-go-to-next-level-vivek-raghavan-and-pratyush-kumar-cofounders-of-sarvam-ai-13950265.html",
+      "https://www.moneycontrol.com/news/business/startup/sarvam-turns-unicorn-after-raising-234-million-as-part-of-300-million-round-from-hcltech-bessemer-venture-partners-others-13950164.html"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "HCLTech's",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$300M",
+    "amount_usd": 300000000.0,
+    "currency": "USD",
+    "announced_on": "2026-06-15",
+    "lead_investor": "HCLTech",
+    "investors": [
+      "HCLTech"
+    ],
+    "sources": [
+      "https://www.moneycontrol.com/news/business/startup/hcltech-s-investment-in-sarvam-shows-india-now-has-the-capital-structure-to-build-sovereign-ai-pratyush-kumar-and-vivek-raghavan-cofounders-of-sarvam-ai-13950271.html"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Pratilipi",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "$20M",
+    "amount_usd": 20000000.0,
+    "currency": "USD",
+    "announced_on": "2026-06-12",
+    "lead_investor": "Jungle Ventures",
+    "investors": [
+      "Jungle Ventures"
+    ],
+    "sources": [
+      "https://www.moneycontrol.com/news/business/startup/pratilipi-to-end-fy27-at-rs-400-crore-revenue-driven-by-literature-westland-13948248.html"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Ethereal Machines",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$28.5M",
+    "amount_usd": 28500000.0,
+    "currency": "USD",
+    "announced_on": "2026-06-11",
+    "lead_investor": "Avataar Ventures",
+    "investors": [
+      "Avataar Ventures",
+      "Peak XV Partners"
+    ],
+    "sources": [
+      "https://www.moneycontrol.com/news/business/startup/ethereal-machines-raises-28-5-million-in-series-b-round-led-by-avataar-ventures-13946562.html"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Coram AI",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$35M",
+    "amount_usd": 35000000.0,
+    "currency": "USD",
+    "announced_on": "2026-06-11",
+    "lead_investor": "Ansa Capital",
+    "investors": [
+      "Ansa Capital"
+    ],
+    "sources": [
+      "https://www.moneycontrol.com/news/business/startup/coram-ai-raises-35-million-in-series-b-funding-led-by-ansa-capital-battery-ventures-13947418.html"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -330,6 +373,28 @@
     "city": ""
   },
   {
+    "company_name": "TraqCheck",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$8M",
+    "amount_usd": 8000000.0,
+    "currency": "USD",
+    "announced_on": "2026-04-14",
+    "lead_investor": "IvyCap Ventures",
+    "investors": [
+      "IIFL. TraqCheck",
+      "IvyCap Ventures"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/04/traqcheck-raises-8-million-led-by-ivycap-ventures"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "M1xchange’s Mynd Fintech",
     "sector": "",
     "sector_raw": null,
@@ -343,6 +408,27 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/snippets/m1xchanges-mynd-fintech-acquires-c2fo-india-12129062"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "CUNIN",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Seed",
+    "stage_raw": "pre_seed",
+    "amount": "",
+    "amount_usd": null,
+    "currency": "",
+    "announced_on": "2026-07-03",
+    "lead_investor": "All In Capital",
+    "investors": [
+      "All In Capital"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/cunin-raises-450k-pre-seed-round-co-led-by-all-in-capital-and-huddle-ventures-12130343"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -463,6 +549,82 @@
     "city": ""
   },
   {
+    "company_name": "Zetwerk's FY26",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "$450M",
+    "amount_usd": 450000000.0,
+    "currency": "USD",
+    "announced_on": "2026-06-15",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://www.moneycontrol.com/news/business/startup/zetwerk-s-fy26-revenue-rises-to-rs-15-900-crore-order-book-crosses-rs-12-000-crore-13949652.html"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Razorpay",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "$600M",
+    "amount_usd": 600000000.0,
+    "currency": "USD",
+    "announced_on": "2026-06-14",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://www.moneycontrol.com/news/business/startup/razorpay-confidentially-files-ipo-papers-with-sebi-issue-size-likely-to-be-around-600-million-13949286.html"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Addverb",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "$100M",
+    "amount_usd": 100000000.0,
+    "currency": "USD",
+    "announced_on": "2026-06-10",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://www.moneycontrol.com/news/business/startup/addverb-is-seeking-over-100-mn-to-fund-a-push-into-humanoid-robots-13945887.html"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "IPO-bound Zepto's",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "₹1636 Cr ($197.1M)",
+    "amount_usd": 197108433.73,
+    "currency": "INR",
+    "announced_on": "2026-06-09",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://www.moneycontrol.com/news/business/startup/ipo-bound-zepto-s-ad-revenue-crosses-rs-1-600-crore-in-fy26-as-brands-ramp-up-quick-commerce-spending-13945110.html"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "MS Dhoni, Hardik Pandya, Bumrah",
     "sector": "",
     "sector_raw": null,
@@ -522,6 +684,63 @@
     "city": ""
   },
   {
+    "company_name": "HCL Technologies",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$1.1B",
+    "amount_usd": 1140000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-03",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://www.moneycontrol.com/news/business/markets/hcl-hcl-technologies-stock-jumps-over-4-as-company-bags-1-14-billion-ai-led-digital-transformation-deal-13965015.html"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Temasek",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$70M",
+    "amount_usd": 70000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-03",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/temasek-continues-reducing-stake-in-pb-fintech-sells-shares-worth-rs-1633-cr-12131810"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "PB Fintech",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹1741 Cr ($209.8M)",
+    "amount_usd": 209759036.14,
+    "currency": "INR",
+    "announced_on": "2026-07-03",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://www.moneycontrol.com/news/business/markets/pb-fintech-stock-crashes-8-top-midcap-loser-after-rs-1-741-crore-block-deal-temasek-likely-sells-2-4-stake-13965028.html"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Burma Burma",
     "sector": "",
     "sector_raw": null,
@@ -535,25 +754,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/fintrackr/burma-burma-posts-rs-156-cr-revenue-and-rs-14-cr-loss-in-fy26-12125670"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Lab",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹275 Cr ($33.1M)",
-    "amount_usd": 33132530.12,
-    "currency": "INR",
-    "announced_on": "2026-07-01",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/lab-grown-diamond-brand-limelight-diamonds-raises-rs-275-cr-12123673"
     ],
     "confidence": 0.6,
     "summary": "",
@@ -579,6 +779,44 @@
     "city": ""
   },
   {
+    "company_name": "IN-SPACe",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Bridge",
+    "stage_raw": "bridge",
+    "amount": "",
+    "amount_usd": null,
+    "currency": "",
+    "announced_on": "2026-06-11",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://www.moneycontrol.com/news/business/startup/in-space-selects-3-startups-for-funding-under-its-technology-adoption-fund-scheme-13947388.html"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Exponent Energy",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$21.1M",
+    "amount_usd": 21100000.0,
+    "currency": "USD",
+    "announced_on": "2026-06-10",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://www.moneycontrol.com/news/business/startup/exponent-energy-raises-rs-200-crore-in-funding-round-led-by-360-one-asset-tdk-ventures-13945390.html"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Govt’s Fund",
     "sector": "",
     "sector_raw": null,
@@ -592,6 +830,25 @@
     "investors": [],
     "sources": [
       "https://yourstory.com/2026/04/govts-fund-of-funds-20-expand-newer-startup-segments"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Pluckk",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$26M",
+    "amount_usd": 26000000.0,
+    "currency": "USD",
+    "announced_on": "2026-04-09",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
     ],
     "confidence": 0.6,
     "summary": "",
@@ -612,8 +869,46 @@
     "sources": [
       "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
     ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Dhan",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "",
+    "amount_usd": null,
+    "currency": "",
+    "announced_on": "2026-06-09",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://www.moneycontrol.com/news/business/startup/dhan-s-parent-firm-raise-financial-services-revenue-crosses-rs-1-000-crore-net-profits-declines-20-to-rs-326-crore-13944080.html"
+    ],
+    "confidence": 0.4,
+    "summary": "Dhan, the broking subsidiary of Raise Financial Services, raised a Series B funding round for expansion, though the amount and investors were not disclosed.",
+    "city": ""
+  },
+  {
+    "company_name": "Business",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹184 Cr ($22.2M)",
+    "amount_usd": 22168674.7,
+    "currency": "INR",
+    "announced_on": "2026-07-03",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://www.moneycontrol.com/news/business/business-news-live-crude-oil-petrol-diesel-price-itr-filing-epfo-corporate-actions-dividends-q1-results-ipos-latest-updates-on-july-3-liveblog-13964962.html"
+    ],
     "confidence": 0.24,
-    "summary": "Masters’ Union launched a Rs 100 crore early-stage investment platform, MU Ventures, to fund founders under 25 across various sectors.",
+    "summary": "The article mentions Schneider Electric raising a capex fund and a government directive for farmers to insure crops, but does not detail a specific funding round.",
     "city": ""
   }
 ]
