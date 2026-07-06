@@ -1,9 +1,5 @@
 company_name,sector,stage,amount,amount_usd,announced_on,lead_investor,investors,sources,confidence,summary
-TraqCheck,,Series A,$8M,8000000.0,2026-04-14,IvyCap Ventures,IIFL Fintech Fund | IvyCap Ventures,https://yourstory.com/2026/04/traqcheck-raises-8-million-led-by-ivycap-ventures,0.95,"TraqCheck, an HR tech startup, raised $8 million in a Series A round led by IvyCap Ventures with participation from IIFL Fintech Fund to expand its AI‑driven background screening and sourcing agents in Europe."
 Funding,,Pre-Series A,$137M,137000000.0,2026-07-04,Bajaj Finserv Ventures. At-home,Bajaj Finserv Ventures. At-home | DSG Consumer Partners. Among,https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-june-29-july-04-12132613,0.85,
-BatX Energies,,Pre-Series A,$11M,11000000.0,2026-07-02,IvyCap Ventures. Follow Us Battery,IvyCap Ventures. Follow Us Battery,https://entrackr.com/news/batx-energies-raises-rs-105-cr-in-series-a-round-led-by-ivycap-ventures-12125741,0.85,
-Specialty chemical startup Tulon Materials,,Seed,₹10 Cr ($1.2M),1204819.28,2026-07-02,,Karan Goshar,https://entrackr.com/snippets/specialty-chemical-startup-tulon-materials-raises-rs-10-cr-in-seed-round-12125757,0.85,
-Heatronics,,Seed,₹1.8 Cr ($217K),216867.47,2026-07-02,Inflection Point Ventures,Inflection Point Ventures,https://entrackr.com/snippets/heatronics-raises-rs-18-cr-seed-round-led-by-ipv-12125980,0.85,
 Omnichannel sports retail startup PlayBlue,,Seed,$2.7M,2700000.0,2026-07-02,Centre Court Capital,Centre Court Capital | WEH Ventures. Follow Us Omnichannel | WEH Ventures. The,https://entrackr.com/snippets/omnichannel-sports-retail-startup-playblue-raises-27-mn-in-seed-round-12128217,0.85,
 Indian,,Pre-Series A,$7.4B,7400000000.0,2026-07-01,Entrackr,Entrackr,https://entrackr.com/report/indian-startups-raise-74-bn-in-h1-2026-as-cred-meta-deal-lifts-funding-12123065,0.85,
 Funding,,Pre-Series A,$1.1B,1110000000.0,2026-06-27,GPS Renewables,Aramco Ventures | GPS Renewables | Meta | Nexus Venture Partners | Peak XV Partners,https://entrackr.com/report/weekly-funding-report | https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-june-8-june-13-12033344 | https://entrackr.com/report/weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-june-22-june-27-12110860,0.85,
@@ -11,6 +7,8 @@ Funding,,Pre-Series A,$432M,432000000.0,2026-06-20,AI,AI | Accel | Info Edge Ven
 Textile tech startup STCH,,Pre-Series A,$5.5M,5500000.0,2026-04-23,Omnivore. The,Kae Capital | Omnivore. The,https://yourstory.com/2026/04/textile-tech-startup-stch-raises-pre-series-a-round-led-by-omnivore,0.85,
 The Hosteller,,Series A,$100M,100000000.0,2026-04-16,PROMAFT Partners,ITI Growth Opportunities Fund | PROMAFT Partners,https://yourstory.com/2026/04/the-hosteller-raises-rs-150-cr-series-b-funding-promaft-partners,0.85,
 GobbleCube,,Pre-Series A,$15M,15000000.0,2026-04-15,Susquehanna Venture Capital. The,Susquehanna Venture Capital. The,https://yourstory.com/2026/04/funding-gobblecube-15-million-series-a-susquehanna-venture-capital,0.85,
+TraqCheck,,Series A,$8M,8000000.0,2026-04-14,IvyCap Ventures,IIFL. TraqCheck | IvyCap Ventures,https://yourstory.com/2026/04/traqcheck-raises-8-million-led-by-ivycap-ventures,0.85,
+Nykaa,,Acquisition,₹90883 Cr ($10.9B),10949759036.14,2026-07-06,,,https://entrackr.com/news/nykaa-projects-around-30-revenue-growth-in-q1-fy27-12137572,0.8,
 Kissht,,IPO,₹8000 Cr ($963.9M),963855421.69,2026-07-04,,,https://entrackr.com/news/kissht-parent-crosses-rs-8000-cr-aum-in-q1-fy27-loan-disbursements-rise-37-12133151,0.8,
 M1xchange’s Mynd Fintech,,Acquisition,₹60000 Cr ($7.2B),7228915662.65,2026-07-03,,,https://entrackr.com/snippets/m1xchanges-mynd-fintech-acquires-c2fo-india-12129062,0.8,
 CUNIN,,Pre-Seed,,,2026-07-03,All In Capital,All In Capital,https://entrackr.com/snippets/cunin-raises-450k-pre-seed-round-co-led-by-all-in-capital-and-huddle-ventures-12130343,0.8,
@@ -22,9 +20,11 @@ Fibe,,IPO,₹1601 Cr ($192.9M),192891566.27,2026-06-30,,,https://entrackr.com/fi
 "MS Dhoni, Hardik Pandya, Bumrah",,Pre-Series A,$11M,11000000.0,2026-04-23,,,https://yourstory.com/2026/04/ms-dhoni-hardik-pandya-bumrah-others-invest-11m-game-tech-firm-lightfury,0.8,
 Kabeer Biswas's,,Seed,$11M,11000000.0,2026-04-22,,,https://yourstory.com/2026/04/kabeer-biswass-new-startup-raises-rs-108-cr-from-peakxv-blume,0.8,
 Indigo,,Undisclosed,$13.4M,13400000.0,2026-04-16,Accel,Accel,https://yourstory.com/2026/04/indigo-invests-air-taxi-maker-sarla-aviation,0.8,
+AscentHR,,Acquisition,,,2026-07-06,,,https://entrackr.com/snippets/ascenthr-acquires-os-hrs-to-expand-apac-payroll-footprint-12137694,0.6,
+Nikhil Kamath’s WTF,,Acquisition,,,2026-07-06,,,https://entrackr.com/snippets/nikhil-kamaths-wtf-acquires-creative-agency-btg-12137847,0.6,
 Temasek,,Undisclosed,$70M,70000000.0,2026-07-03,,,https://entrackr.com/news/temasek-continues-reducing-stake-in-pb-fintech-sells-shares-worth-rs-1633-cr-12131810,0.6,
 Burma Burma,,Undisclosed,$11M,11000000.0,2026-07-02,,,https://entrackr.com/fintrackr/burma-burma-posts-rs-156-cr-revenue-and-rs-14-cr-loss-in-fy26-12125670,0.6,
 Prosus India,,Undisclosed,$781M,781000000.0,2026-06-29,,,https://entrackr.com/fintrackr/prosus-india-posts-781-mn-revenue-in-fy26-turns-adjusted-ebitda-positive-12116879,0.6,
 Govt’s Fund,,Undisclosed,₹10000 Cr ($1.2B),1204819277.11,2026-04-14,,,https://yourstory.com/2026/04/govts-fund-of-funds-20-expand-newer-startup-segments,0.6,
 Pluckk,,Undisclosed,$26M,26000000.0,2026-04-09,,,https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months,0.6,
-Masters’ Union,,Undisclosed,₹100 Cr ($12M),12048192.77,2026-04-09,,,https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform,0.24,Masters’ Union launched a Rs 100 crore early-stage investment platform called MU Ventures to fund founders under 25 across sectors.
+Masters’ Union,,Undisclosed,₹100 Cr ($12M),12048192.77,2026-04-09,,,https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform,0.24,"Masters’ Union launched a Rs 100 crore early-stage investment platform, MU Ventures, to fund founders under 25 across various sectors."
