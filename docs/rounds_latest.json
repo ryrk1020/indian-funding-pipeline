@@ -1,5 +1,48 @@
 [
   {
+    "company_name": "Exclusive: Wow! Momo",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series D",
+    "stage_raw": "series_d",
+    "amount": "$20M",
+    "amount_usd": 20000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-06",
+    "lead_investor": "Khazanah Nasional",
+    "investors": [
+      "Khazanah Nasional"
+    ],
+    "sources": [
+      "https://entrackr.com/exclusive/exclusive-wow-momo-to-raise-20-mn-debt-led-by-incred-12138048"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "EV fleet startup TOCAL",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "₹9.0 Cr ($1.1M)",
+    "amount_usd": 1084337.35,
+    "currency": "INR",
+    "announced_on": "2026-07-06",
+    "lead_investor": "XB Group",
+    "investors": [
+      "Navyug Global Ventures",
+      "XB Group"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/ev-fleet-startup-tocal-secures-rs-9-cr-in-seed-round-12138551"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
@@ -16,29 +59,6 @@
     ],
     "sources": [
       "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-june-29-july-04-12132613"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Omnichannel sports retail startup PlayBlue",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$2.7M",
-    "amount_usd": 2700000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-02",
-    "lead_investor": "Centre Court Capital",
-    "investors": [
-      "Centre Court Capital",
-      "WEH Ventures. Follow Us Omnichannel",
-      "WEH Ventures. The"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/omnichannel-sports-retail-startup-playblue-raises-27-mn-in-seed-round-12128217"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -204,6 +224,65 @@
     "city": ""
   },
   {
+    "company_name": "Cult.fit",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series E+",
+    "stage_raw": "series_e_plus",
+    "amount": "$714M",
+    "amount_usd": 714000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-07",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/cultfit-files-drhp-with-sebi-plans-rs-950-cr-fresh-issue-and-1786-cr-share-ofs-12140830"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "B Capital",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$500M",
+    "amount_usd": 500000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-07",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/b-capital-closes-500-mn-early-stage-fund-12140836"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Rewards platform Onpoint",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Seed",
+    "stage_raw": "pre_seed",
+    "amount": "",
+    "amount_usd": null,
+    "currency": "",
+    "announced_on": "2026-07-07",
+    "lead_investor": "First Cheque",
+    "investors": [
+      "First Cheque"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/rewards-platform-onpoint-raises-600k-in-pre-seed-round-12140935"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Nykaa",
     "sector": "",
     "sector_raw": null,
@@ -223,6 +302,63 @@
     "city": ""
   },
   {
+    "company_name": "Capillary Technologies",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "₹33 Cr ($3.9M)",
+    "amount_usd": 3939759.04,
+    "currency": "INR",
+    "announced_on": "2026-07-06",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/capillary-technologies-loses-over-rs-32-cr-in-deepfake-cyber-fraud-12139233"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Rentomojo",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "₹150 Cr ($18.1M)",
+    "amount_usd": 18072289.16,
+    "currency": "INR",
+    "announced_on": "2026-07-06",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/rentomojo-gets-sebi-nod-for-rs-150-cr-ipo-12139526"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Info Edge",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "$17M",
+    "amount_usd": 17000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-06",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/info-edge-takes-full-control-of-coding-ninjas-after-acquiring-remaining-45-stake-for-rs-399-cr-12140095"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Kissht",
     "sector": "",
     "sector_raw": null,
@@ -236,103 +372,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/news/kissht-parent-crosses-rs-8000-cr-aum-in-q1-fy27-loan-disbursements-rise-37-12133151"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "M1xchange’s Mynd Fintech",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "₹60000 Cr ($7.2B)",
-    "amount_usd": 7228915662.65,
-    "currency": "INR",
-    "announced_on": "2026-07-03",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/m1xchanges-mynd-fintech-acquires-c2fo-india-12129062"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "CUNIN",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Seed",
-    "stage_raw": "pre_seed",
-    "amount": "",
-    "amount_usd": null,
-    "currency": "",
-    "announced_on": "2026-07-03",
-    "lead_investor": "All In Capital",
-    "investors": [
-      "All In Capital"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/cunin-raises-450k-pre-seed-round-co-led-by-all-in-capital-and-huddle-ventures-12130343"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Swara Baby Products",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "₹500 Cr ($60.2M)",
-    "amount_usd": 60240963.86,
-    "currency": "INR",
-    "announced_on": "2026-07-02",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/swara-baby-products-files-rs-1000-cr-ipo-papers-firstcry-parent-to-sell-rs-300-cr-shares-12126330"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "BCT Ventures",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "₹42 Cr ($5.1M)",
-    "amount_usd": 5060240.96,
-    "currency": "INR",
-    "announced_on": "2026-07-02",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/bct-ventures-launches-ai-native-consumer-brands-platform-raises-rs-42-cr-from-3one4-capital-12126973"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Ninjacart",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "$6M",
-    "amount_usd": 6000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-02",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/ninjacart-raises-6-mn-after-45-years-claims-ebitda-profitability-ahead-of-ipo-12128023"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -474,19 +513,19 @@
     "city": ""
   },
   {
-    "company_name": "Temasek",
+    "company_name": "Next Bharat Ventures",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "$70M",
-    "amount_usd": 70000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-03",
+    "amount": "₹2000 Cr ($241M)",
+    "amount_usd": 240963855.42,
+    "currency": "INR",
+    "announced_on": "2026-07-06",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/news/temasek-continues-reducing-stake-in-pb-fintech-sells-shares-worth-rs-1633-cr-12131810"
+      "https://entrackr.com/snippets/next-bharat-ventures-launches-rs-2000-cr-impact-fund-with-suzuki-as-anchor-investor-12138416"
     ],
     "confidence": 0.6,
     "summary": "",
@@ -583,8 +622,8 @@
     "sources": [
       "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
     ],
-    "confidence": 0.24,
-    "summary": "Masters’ Union launched a Rs 100 crore early-stage investment platform, MU Ventures, to fund founders under 25 across various sectors.",
+    "confidence": 0.6,
+    "summary": "",
     "city": ""
   }
 ]
