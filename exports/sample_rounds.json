@@ -1,42 +1,214 @@
 [
   {
-    "company_name": "Exclusive: Wow! Momo",
+    "company_name": "Exclusive: WizCommerce",
     "sector": "",
     "sector_raw": null,
-    "stage": "Series D",
-    "stage_raw": "series_d",
-    "amount": "$20M",
-    "amount_usd": 20000000.0,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$8.3M",
+    "amount_usd": 8300000.0,
     "currency": "USD",
-    "announced_on": "2026-07-06",
-    "lead_investor": "Khazanah Nasional",
+    "announced_on": "2026-07-09",
+    "lead_investor": "Peak XV Partners",
     "investors": [
-      "Khazanah Nasional"
+      "Peak XV Partners"
     ],
     "sources": [
-      "https://entrackr.com/exclusive/exclusive-wow-momo-to-raise-20-mn-debt-led-by-incred-12138048"
+      "https://entrackr.com/exclusive/exclusive-wizcommerce-raises-83-mn-from-blume-alpha-wave-peak-xv-and-others-12147588"
     ],
     "confidence": 0.85,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "EV fleet startup TOCAL",
+    "company_name": "Physical AI startup Hakimo",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Seed",
+    "stage_raw": "pre_seed",
+    "amount": "$12M",
+    "amount_usd": 12000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-09",
+    "lead_investor": "Version One Ventures",
+    "investors": [
+      "Neotribe Ventures",
+      "Version One Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/news/physical-ai-startup-hakimo-raises-12-mn-12148341"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "IPV",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Seed",
+    "stage_raw": "pre_seed",
+    "amount": "$399M",
+    "amount_usd": 399000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-09",
+    "lead_investor": "Inflection Point Ventures",
+    "investors": [
+      "Inflection Point Ventures",
+      "SINE IIT Bombay"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/ipv-leads-pre-seed-round-in-space-tech-startup-baas-technologies-12148802"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Mukesh Bansal’s Nurix AI",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "$27.5M",
+    "amount_usd": 27500000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-09",
+    "lead_investor": "General Catalyst",
+    "investors": [
+      "General Catalyst",
+      "Meraki Labs. Founded"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/mukesh-bansals-nurix-ai-acquires-enterprise-conversational-ai-company-verloopio-12148976"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Fundamentum",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$15M",
+    "amount_usd": 15000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-09",
+    "lead_investor": "Sanjeev Aggarwal",
+    "investors": [
+      "Sanjeev Aggarwal"
+    ],
+    "sources": [
+      "https://entrackr.com/news/fundamentum-launches-third-series-b-fund-with-target-corpus-of-rs-2200-cr-12149211"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Women's",
     "sector": "",
     "sector_raw": null,
     "stage": "Seed",
     "stage_raw": "seed",
-    "amount": "₹9.0 Cr ($1.1M)",
-    "amount_usd": 1084337.35,
+    "amount": "₹4.0 Cr ($482K)",
+    "amount_usd": 481927.71,
     "currency": "INR",
-    "announced_on": "2026-07-06",
-    "lead_investor": "XB Group",
+    "announced_on": "2026-07-08",
+    "lead_investor": "Proteus Partners",
     "investors": [
-      "Navyug Global Ventures",
-      "XB Group"
+      "Proteus Partners",
+      "Puru Gupta"
     ],
     "sources": [
-      "https://entrackr.com/snippets/ev-fleet-startup-tocal-secures-rs-9-cr-in-seed-round-12138551"
+      "https://entrackr.com/snippets/womens-health-brand-avni-wellness-raises-seed-round-12143541"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Doodhvale Farms",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$1M",
+    "amount_usd": 1000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-08",
+    "lead_investor": "Atomic Capital",
+    "investors": [
+      "Atomic Capital"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/doodhvale-farms-raises-1-mn-from-atomic-capital-12144492"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Elevate Education",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series C",
+    "stage_raw": "series_c",
+    "amount": "$17.7M",
+    "amount_usd": 17700000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-08",
+    "lead_investor": "WestBridge Capital",
+    "investors": [
+      "WestBridge Capital"
+    ],
+    "sources": [
+      "https://entrackr.com/news/elevate-education-raises-rs-170-cr-in-series-d-round-from-westbridge-capital-12145392"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Caret Capital",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "$2.4M",
+    "amount_usd": 2400000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-08",
+    "lead_investor": "Caret Capital",
+    "investors": [
+      "Antler India",
+      "Caret Capital"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/caret-capital-leads-24-mn-seed-round-in-milo-drive-12145426"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Piper Serica",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "₹6.0 Cr ($723K)",
+    "amount_usd": 722891.57,
+    "currency": "INR",
+    "announced_on": "2026-07-08",
+    "lead_investor": "Piper Serica VC Fund. The",
+    "investors": [
+      "Piper Serica VC Fund. The"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/piper-serica-leads-seed-round-in-deep-tech-startup-enlife-research-12146237"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -224,173 +396,79 @@
     "city": ""
   },
   {
-    "company_name": "Cult.fit",
+    "company_name": "Exclusive: BiofuelCircle",
     "sector": "",
     "sector_raw": null,
-    "stage": "Series E+",
-    "stage_raw": "series_e_plus",
-    "amount": "$714M",
-    "amount_usd": 714000000.0,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$8.2M",
+    "amount_usd": 8200000.0,
     "currency": "USD",
-    "announced_on": "2026-07-07",
-    "lead_investor": "",
-    "investors": [],
+    "announced_on": "2026-07-10",
+    "lead_investor": "Pooja Unichem LLP",
+    "investors": [
+      "Pooja Unichem LLP",
+      "Varanium Venture"
+    ],
     "sources": [
-      "https://entrackr.com/news/cultfit-files-drhp-with-sebi-plans-rs-950-cr-fresh-issue-and-1786-cr-share-ofs-12140830"
+      "https://entrackr.com/exclusive/exclusive-biofuelcircle-secures-rs-35-cr-in-fresh-funding-12150788"
     ],
     "confidence": 0.8,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "B Capital",
+    "company_name": "BlackSoil",
     "sector": "",
     "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$500M",
-    "amount_usd": 500000000.0,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "$275M",
+    "amount_usd": 275000000.0,
     "currency": "USD",
-    "announced_on": "2026-07-07",
+    "announced_on": "2026-07-09",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/snippets/b-capital-closes-500-mn-early-stage-fund-12140836"
+      "https://entrackr.com/snippets/blacksoil-acquires-credit-fairs-solar-financing-business-12147763"
     ],
     "confidence": 0.8,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Rewards platform Onpoint",
+    "company_name": "Voice AI platform Edysor.ai",
     "sector": "",
     "sector_raw": null,
     "stage": "Pre-Seed",
     "stage_raw": "pre_seed",
-    "amount": "",
-    "amount_usd": null,
-    "currency": "",
-    "announced_on": "2026-07-07",
-    "lead_investor": "First Cheque",
-    "investors": [
-      "First Cheque"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/rewards-platform-onpoint-raises-600k-in-pre-seed-round-12140935"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Nykaa",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "₹90883 Cr ($10.9B)",
-    "amount_usd": 10949759036.14,
-    "currency": "INR",
-    "announced_on": "2026-07-06",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/nykaa-projects-around-30-revenue-growth-in-q1-fy27-12137572"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Capillary Technologies",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "₹33 Cr ($3.9M)",
-    "amount_usd": 3939759.04,
-    "currency": "INR",
-    "announced_on": "2026-07-06",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/capillary-technologies-loses-over-rs-32-cr-in-deepfake-cyber-fraud-12139233"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Rentomojo",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "₹150 Cr ($18.1M)",
-    "amount_usd": 18072289.16,
-    "currency": "INR",
-    "announced_on": "2026-07-06",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/rentomojo-gets-sebi-nod-for-rs-150-cr-ipo-12139526"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Info Edge",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "$17M",
-    "amount_usd": 17000000.0,
+    "amount": "$50.0B",
+    "amount_usd": 50000000000.0,
     "currency": "USD",
-    "announced_on": "2026-07-06",
+    "announced_on": "2026-07-08",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/news/info-edge-takes-full-control-of-coding-ninjas-after-acquiring-remaining-45-stake-for-rs-399-cr-12140095"
+      "https://entrackr.com/snippets/voice-ai-platform-edysorai-raises-pre-seed-round-12146048"
     ],
     "confidence": 0.8,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Kissht",
+    "company_name": "Cult.fit",
     "sector": "",
     "sector_raw": null,
     "stage": "IPO",
     "stage_raw": "ipo",
-    "amount": "₹8000 Cr ($963.9M)",
-    "amount_usd": 963855421.69,
+    "amount": "₹1700 Cr ($204.8M)",
+    "amount_usd": 204819277.11,
     "currency": "INR",
-    "announced_on": "2026-07-04",
+    "announced_on": "2026-07-07",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/news/kissht-parent-crosses-rs-8000-cr-aum-in-q1-fy27-loan-disbursements-rise-37-12133151"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "OYO",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "₹748 Cr ($90.1M)",
-    "amount_usd": 90120481.93,
-    "currency": "INR",
-    "announced_on": "2026-06-30",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/oyo-parent-prism-posts-rs-6941-cr-revenue-and-rs-748-cr-profit-in-9m-fy26-12119871"
+      "https://entrackr.com/fintrackr/cultfit-posts-rs-1720-cr-revenue-in-fy26-turns-ebitda-positive-12141305"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -475,63 +553,6 @@
     "city": ""
   },
   {
-    "company_name": "AscentHR",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "",
-    "amount_usd": null,
-    "currency": "",
-    "announced_on": "2026-07-06",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/ascenthr-acquires-os-hrs-to-expand-apac-payroll-footprint-12137694"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Nikhil Kamath’s WTF",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "",
-    "amount_usd": null,
-    "currency": "",
-    "announced_on": "2026-07-06",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/nikhil-kamaths-wtf-acquires-creative-agency-btg-12137847"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Next Bharat Ventures",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹2000 Cr ($241M)",
-    "amount_usd": 240963855.42,
-    "currency": "INR",
-    "announced_on": "2026-07-06",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/next-bharat-ventures-launches-rs-2000-cr-impact-fund-with-suzuki-as-anchor-investor-12138416"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Burma Burma",
     "sector": "",
     "sector_raw": null,
@@ -545,25 +566,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/fintrackr/burma-burma-posts-rs-156-cr-revenue-and-rs-14-cr-loss-in-fy26-12125670"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Prosus India",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$781M",
-    "amount_usd": 781000000.0,
-    "currency": "USD",
-    "announced_on": "2026-06-29",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/prosus-india-posts-781-mn-revenue-in-fy26-turns-adjusted-ebitda-positive-12116879"
     ],
     "confidence": 0.6,
     "summary": "",
@@ -589,25 +591,6 @@
     "city": ""
   },
   {
-    "company_name": "Pluckk",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$26M",
-    "amount_usd": 26000000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-09",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Masters’ Union",
     "sector": "",
     "sector_raw": null,
@@ -621,6 +604,25 @@
     "investors": [],
     "sources": [
       "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Pluckk",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$26M",
+    "amount_usd": 26000000.0,
+    "currency": "USD",
+    "announced_on": "2026-04-09",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
     ],
     "confidence": 0.6,
     "summary": "",
