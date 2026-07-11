@@ -1,5 +1,48 @@
 [
   {
+    "company_name": "Exclusive: Indifi",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series E+",
+    "stage_raw": "series_e_plus",
+    "amount": "$8.3M",
+    "amount_usd": 8300000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-10",
+    "lead_investor": "ICICI Venture",
+    "investors": [
+      "British International Investment",
+      "ICICI Venture"
+    ],
+    "sources": [
+      "https://entrackr.com/exclusive/exclusive-indifi-set-to-raise-over-8-mn-led-by-icici-venture-12151254"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "thumpN",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Seed",
+    "stage_raw": "pre_seed",
+    "amount": "$3.8M",
+    "amount_usd": 3750000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-10",
+    "lead_investor": "",
+    "investors": [
+      "Paytm"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/thumpn-raises-375-mn-in-pre-seed-round-12151817"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Exclusive: WizCommerce",
     "sector": "",
     "sector_raw": null,
@@ -102,49 +145,6 @@
     ],
     "sources": [
       "https://entrackr.com/news/fundamentum-launches-third-series-b-fund-with-target-corpus-of-rs-2200-cr-12149211"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Women's",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "₹4.0 Cr ($482K)",
-    "amount_usd": 481927.71,
-    "currency": "INR",
-    "announced_on": "2026-07-08",
-    "lead_investor": "Proteus Partners",
-    "investors": [
-      "Proteus Partners",
-      "Puru Gupta"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/womens-health-brand-avni-wellness-raises-seed-round-12143541"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Doodhvale Farms",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$1M",
-    "amount_usd": 1000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-08",
-    "lead_investor": "Atomic Capital",
-    "investors": [
-      "Atomic Capital"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/doodhvale-farms-raises-1-mn-from-atomic-capital-12144492"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -418,6 +418,48 @@
     "city": ""
   },
   {
+    "company_name": "Dhan",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "$15M",
+    "amount_usd": 15000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-10",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/exclusive/dhan-parent-raise-financial-to-rebrand-insurance-arm-gibl-as-pluto-insurance-12151557"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Aukera",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$10M",
+    "amount_usd": 10000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-10",
+    "lead_investor": "Peak XV Partners",
+    "investors": [
+      "Fireside Ventures",
+      "InnoVen Capital",
+      "Peak XV Partners"
+    ],
+    "sources": [
+      "https://entrackr.com/news/aukera-raises-rs-90-cr-in-fresh-funding-led-by-alteria-capital-12152130"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "BlackSoil",
     "sector": "",
     "sector_raw": null,
@@ -549,6 +591,25 @@
       "https://yourstory.com/2026/04/indigo-invests-air-taxi-maker-sarla-aviation"
     ],
     "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Zetwerk",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "",
+    "amount_usd": null,
+    "currency": "",
+    "announced_on": "2026-07-10",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/zetwerk-secures-sebi-approval-for-ipo-12152890"
+    ],
+    "confidence": 0.6,
     "summary": "",
     "city": ""
   },
