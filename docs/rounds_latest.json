@@ -1,45 +1,48 @@
 [
   {
-    "company_name": "TraqCheck",
+    "company_name": "M (Curious Digital Pvt Ltd)",
     "sector": "",
     "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$8M",
-    "amount_usd": 8000000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-14",
-    "lead_investor": "IvyCap Ventures",
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "₹102 Cr ($12.3M)",
+    "amount_usd": 12289156.6,
+    "currency": "INR",
+    "announced_on": "2026-04-22",
+    "lead_investor": "Peak XV Partners",
     "investors": [
-      "IIFL Fintech Fund",
-      "IvyCap Ventures"
+      "Blume Ventures",
+      "CRED",
+      "Peak XV Partners"
     ],
     "sources": [
-      "https://yourstory.com/2026/04/traqcheck-raises-8-million-led-by-ivycap-ventures"
+      "https://yourstory.com/2026/04/kabeer-biswass-new-startup-raises-rs-108-cr-from-peakxv-blume"
     ],
     "confidence": 0.95,
-    "summary": "TraqCheck, an HR tech startup, raised $8 million in a Series A round led by IvyCap Ventures with participation from IIFL Fintech Fund to expand its AI-driven background screening and sourcing agents in Europe.",
+    "summary": "Consumer AI startup M (Curious Digital Pvt Ltd) raised about Rs 102 crore (~$12.3 million) in a seed round led by Peak XV Partners with participation from Blume Ventures and CRED.",
     "city": ""
   },
   {
-    "company_name": "Pluckk",
+    "company_name": "GobbleCube",
     "sector": "",
     "sector_raw": null,
     "stage": "Series A",
     "stage_raw": "series_a",
-    "amount": "₹100 Cr ($12M)",
-    "amount_usd": 12048192.77,
-    "currency": "INR",
-    "announced_on": "2026-04-09",
-    "lead_investor": "Euro Gulf Investment",
+    "amount": "$15M",
+    "amount_usd": 15000000.0,
+    "currency": "USD",
+    "announced_on": "2026-04-15",
+    "lead_investor": "Susquehanna Venture Capital",
     "investors": [
-      "Euro Gulf Investment"
+      "InfoEdge Ventures",
+      "Kae Capital",
+      "Susquehanna Venture Capital"
     ],
     "sources": [
-      "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
+      "https://yourstory.com/2026/04/funding-gobblecube-15-million-series-a-susquehanna-venture-capital"
     ],
     "confidence": 0.95,
-    "summary": "Pluckk, a digital-first fresh food and clean-label FMCG brand, raised Rs 100 crore in a Series A1 round led by Euro Gulf Investment to expand offline retail, international markets, and AI-driven supply chain capabilities.",
+    "summary": "GobbleCube, a Gurugram-based AI platform for digital commerce, raised $15 million in a Series A round led by Susquehanna Venture Capital, with participation from InfoEdge Ventures and Kae Capital.",
     "city": ""
   },
   {
@@ -216,28 +219,6 @@
     "city": ""
   },
   {
-    "company_name": "Caret Capital",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$2.4M",
-    "amount_usd": 2400000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-08",
-    "lead_investor": "Caret Capital",
-    "investors": [
-      "Antler India",
-      "Caret Capital"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/caret-capital-leads-24-mn-seed-round-in-milo-drive-12145426"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Piper Serica",
     "sector": "",
     "sector_raw": null,
@@ -375,21 +356,22 @@
     "city": ""
   },
   {
-    "company_name": "GobbleCube",
+    "company_name": "TraqCheck",
     "sector": "",
     "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$15M",
-    "amount_usd": 15000000.0,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$8M",
+    "amount_usd": 8000000.0,
     "currency": "USD",
-    "announced_on": "2026-04-15",
-    "lead_investor": "Susquehanna Venture Capital. The",
+    "announced_on": "2026-04-14",
+    "lead_investor": "IvyCap Ventures",
     "investors": [
-      "Susquehanna Venture Capital. The"
+      "IIFL. TraqCheck",
+      "IvyCap Ventures"
     ],
     "sources": [
-      "https://yourstory.com/2026/04/funding-gobblecube-15-million-series-a-susquehanna-venture-capital"
+      "https://yourstory.com/2026/04/traqcheck-raises-8-million-led-by-ivycap-ventures"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -479,25 +461,6 @@
     "city": ""
   },
   {
-    "company_name": "Voice AI platform Edysor.ai",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Seed",
-    "stage_raw": "pre_seed",
-    "amount": "$50.0B",
-    "amount_usd": 50000000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-08",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/voice-ai-platform-edysorai-raises-pre-seed-round-12146048"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Cult.fit",
     "sector": "",
     "sector_raw": null,
@@ -549,25 +512,6 @@
     "investors": [],
     "sources": [
       "https://yourstory.com/2026/04/ms-dhoni-hardik-pandya-bumrah-others-invest-11m-game-tech-firm-lightfury"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Kabeer Biswas's",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$11M",
-    "amount_usd": 11000000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-22",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/04/kabeer-biswass-new-startup-raises-rs-108-cr-from-peakxv-blume"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -652,6 +596,25 @@
     "city": ""
   },
   {
+    "company_name": "Pluckk",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$26M",
+    "amount_usd": 26000000.0,
+    "currency": "USD",
+    "announced_on": "2026-04-09",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Masters’ Union",
     "sector": "",
     "sector_raw": null,
@@ -666,8 +629,8 @@
     "sources": [
       "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
     ],
-    "confidence": 0.6,
-    "summary": "",
+    "confidence": 0.24,
+    "summary": "Masters’ Union launched a Rs 100 crore early-stage investment platform, MU Ventures, to fund founders under 25 across various sectors.",
     "city": ""
   }
 ]
