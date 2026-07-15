@@ -1,5 +1,47 @@
 [
   {
+    "company_name": "BluVenture",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$10.5M",
+    "amount_usd": 10500000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-15",
+    "lead_investor": "BluVenture Holdings. The",
+    "investors": [
+      "BluVenture Holdings. The"
+    ],
+    "sources": [
+      "https://entrackr.com/news/bluventure-leads-rs-100-cr-series-a-round-in-e3-electricai-12164631"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Udaan",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series E+",
+    "stage_raw": "series_e_plus",
+    "amount": "$160M",
+    "amount_usd": 160000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-14",
+    "lead_investor": "M&G Investments",
+    "investors": [
+      "M&G Investments"
+    ],
+    "sources": [
+      "https://entrackr.com/news/udaan-announces-160-mn-structured-financing-to-strengthen-balance-sheet-12163926"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Exclusive: OneCard",
     "sector": "",
     "sector_raw": null,
@@ -43,28 +85,6 @@
     "city": ""
   },
   {
-    "company_name": "Exclusive: Indifi",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series E+",
-    "stage_raw": "series_e_plus",
-    "amount": "$8.3M",
-    "amount_usd": 8300000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-10",
-    "lead_investor": "ICICI Venture",
-    "investors": [
-      "British International Investment",
-      "ICICI Venture"
-    ],
-    "sources": [
-      "https://entrackr.com/exclusive/exclusive-indifi-set-to-raise-over-8-mn-led-by-icici-venture-12151254"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "thumpN",
     "sector": "",
     "sector_raw": null,
@@ -80,93 +100,6 @@
     ],
     "sources": [
       "https://entrackr.com/snippets/thumpn-raises-375-mn-in-pre-seed-round-12151817"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Physical AI startup Hakimo",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Seed",
-    "stage_raw": "pre_seed",
-    "amount": "$12M",
-    "amount_usd": 12000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-09",
-    "lead_investor": "Version One Ventures",
-    "investors": [
-      "Neotribe Ventures",
-      "Version One Ventures"
-    ],
-    "sources": [
-      "https://entrackr.com/news/physical-ai-startup-hakimo-raises-12-mn-12148341"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "IPV",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Seed",
-    "stage_raw": "pre_seed",
-    "amount": "$399M",
-    "amount_usd": 399000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-09",
-    "lead_investor": "Inflection Point Ventures",
-    "investors": [
-      "Inflection Point Ventures",
-      "SINE IIT Bombay"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/ipv-leads-pre-seed-round-in-space-tech-startup-baas-technologies-12148802"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Mukesh Bansal’s Nurix AI",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "$27.5M",
-    "amount_usd": 27500000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-09",
-    "lead_investor": "General Catalyst",
-    "investors": [
-      "General Catalyst",
-      "Meraki Labs. Founded"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/mukesh-bansals-nurix-ai-acquires-enterprise-conversational-ai-company-verloopio-12148976"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Fundamentum",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$15M",
-    "amount_usd": 15000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-09",
-    "lead_investor": "Sanjeev Aggarwal",
-    "investors": [
-      "Sanjeev Aggarwal"
-    ],
-    "sources": [
-      "https://entrackr.com/news/fundamentum-launches-third-series-b-fund-with-target-corpus-of-rs-2200-cr-12149211"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -332,6 +265,25 @@
     "city": ""
   },
   {
+    "company_name": "Fintech SaaS startup Hisabkitab",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "$699M",
+    "amount_usd": 699000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-15",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/fintech-saas-startup-hisabkitab-raises-seed-round-at-rs-20-cr-valuation-12163499"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Elevation Capital",
     "sector": "",
     "sector_raw": null,
@@ -370,6 +322,25 @@
     "city": ""
   },
   {
+    "company_name": "Exclusive: Inside CRED’s",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series E+",
+    "stage_raw": "series_e_plus",
+    "amount": "$900M",
+    "amount_usd": 900000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-14",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/exclusive/exclusive-inside-creds-new-funding-metas-stake-and-esop-expansion-12163561"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Exclusive: Naturis Cosmetics",
     "sector": "",
     "sector_raw": null,
@@ -387,47 +358,6 @@
     ],
     "sources": [
       "https://entrackr.com/exclusive/exclusive-naturis-cosmetics-to-raise-maiden-funding-led-by-sharrp-ventures-12159388"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Exclusive: BiofuelCircle",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$8.2M",
-    "amount_usd": 8200000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-10",
-    "lead_investor": "Pooja Unichem LLP",
-    "investors": [
-      "Pooja Unichem LLP",
-      "Varanium Venture"
-    ],
-    "sources": [
-      "https://entrackr.com/exclusive/exclusive-biofuelcircle-secures-rs-35-cr-in-fresh-funding-12150788"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Dhan",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "$15M",
-    "amount_usd": 15000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-10",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/exclusive/dhan-parent-raise-financial-to-rebrand-insurance-arm-gibl-as-pluto-insurance-12151557"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -554,6 +484,25 @@
     "city": ""
   },
   {
+    "company_name": "After SoftBank",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$204M",
+    "amount_usd": 204000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-14",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/after-softbank-and-adia-temasek-sells-205-stake-in-lenskart-for-rs-1940-cr-12162235"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Augusta TBO",
     "sector": "",
     "sector_raw": null,
@@ -630,25 +579,6 @@
     "city": ""
   },
   {
-    "company_name": "Masters’ Union",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹100 Cr ($12M)",
-    "amount_usd": 12048192.77,
-    "currency": "INR",
-    "announced_on": "2026-04-09",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Pluckk",
     "sector": "",
     "sector_raw": null,
@@ -662,6 +592,25 @@
     "investors": [],
     "sources": [
       "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Masters’ Union",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹100 Cr ($12M)",
+    "amount_usd": 12048192.77,
+    "currency": "INR",
+    "announced_on": "2026-04-09",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
     ],
     "confidence": 0.6,
     "summary": "",
