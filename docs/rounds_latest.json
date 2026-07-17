@@ -1,42 +1,213 @@
 [
   {
-    "company_name": "BluVenture",
+    "company_name": "Neo Group",
     "sector": "",
     "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$10.5M",
-    "amount_usd": 10500000.0,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$36.3M",
+    "amount_usd": 36300000.0,
     "currency": "USD",
-    "announced_on": "2026-07-15",
-    "lead_investor": "BluVenture Holdings. The",
+    "announced_on": "2026-07-17",
+    "lead_investor": "Crystal Investment Advisors",
     "investors": [
-      "BluVenture Holdings. The"
+      "Crystal Investment Advisors"
     ],
     "sources": [
-      "https://entrackr.com/news/bluventure-leads-rs-100-cr-series-a-round-in-e3-electricai-12164631"
+      "https://entrackr.com/news/neo-group-raises-rs-350-cr-led-by-peak-xv-partners-12172440"
     ],
     "confidence": 0.85,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Fireside",
+    "company_name": "Physical AI startup SwitchOn",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$8M",
+    "amount_usd": 8000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-16",
+    "lead_investor": "IvyCap Ventures. Follow Us Bengaluru-based",
+    "investors": [
+      "IvyCap Ventures. Follow Us Bengaluru-based",
+      "SIG Tattva"
+    ],
+    "sources": [
+      "https://entrackr.com/news/physical-ai-startup-switchon-raises-8-mn-in-pre-series-b-round-led-by-ivycap-12168741"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Quick Clean",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$14M",
+    "amount_usd": 14000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-16",
+    "lead_investor": "Stakeboat Capital. Follow Us Quick",
+    "investors": [
+      "Stakeboat Capital. Follow Us Quick"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/quick-clean-raises-14-mn-in-series-b-round-led-by-stakeboat-capital-12168892"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Agritech startup Rize",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$31M",
+    "amount_usd": 31000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-16",
+    "lead_investor": "Breakthrough Energy Ventures",
+    "investors": [
+      "BNP Paribas Asset Management Alts",
+      "Breakthrough Energy Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/agritech-startup-rize-raises-31-mn-in-series-b-round-12169128"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Elevation Capital",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$11.3M",
+    "amount_usd": 11300000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-16",
+    "lead_investor": "Elevation Capital",
+    "investors": [
+      "Elevation Capital"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/elevation-capital-leads-113-mn-series-a-round-in-reodev-12169973"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Mandrake Bio",
     "sector": "",
     "sector_raw": null,
     "stage": "Pre-Seed",
     "stage_raw": "pre_seed",
-    "amount": "$3.1M",
-    "amount_usd": 3150000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-15",
-    "lead_investor": "Fireside Ventures",
+    "amount": "₹16 Cr ($1.9M)",
+    "amount_usd": 1927710.84,
+    "currency": "INR",
+    "announced_on": "2026-07-16",
+    "lead_investor": "Activate",
     "investors": [
-      "Blume Ventures",
-      "Fireside Ventures"
+      "Activate",
+      "Spectrum Impact"
     ],
     "sources": [
-      "https://entrackr.com/snippets/fireside-leads-rs-30-cr-seed-round-in-d2c-grocery-startup-anmasa-12165707"
+      "https://entrackr.com/snippets/mandrake-bio-raises-rs-16-cr-in-pre-seed-round-co-led-by-activate-and-antler-12170217"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "KuhlTherm",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "$1.1M",
+    "amount_usd": 1100000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-16",
+    "lead_investor": "Arkam Ventures. Follow Us KuhlTherm",
+    "investors": [
+      "Arkam Ventures. Follow Us KuhlTherm"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/kuhltherm-raises-11-mn-in-seed-round-led-by-arkam-ventures-12170492"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Rippling",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "$15M",
+    "amount_usd": 15000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-16",
+    "lead_investor": "Y Combinator",
+    "investors": [
+      "Y Combinator"
+    ],
+    "sources": [
+      "https://entrackr.com/news/rippling-co-founder-prasanna-sankars-ai-startup-vorflux-raises-15-mn-12170583"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Exclusive: Scimplify",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$19.1M",
+    "amount_usd": 19050000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-16",
+    "lead_investor": "Hitachi Ventures. Existing",
+    "investors": [
+      "Hitachi Ventures. Existing"
+    ],
+    "sources": [
+      "https://entrackr.com/exclusive/exclusive-scimplify-set-to-raise-rs-181-cr-at-over-2x-valuation-jump-12170648"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Groyyo",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$9.4M",
+    "amount_usd": 9400000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-16",
+    "lead_investor": "Cornerstone Ventures",
+    "investors": [
+      "Alpha Wave",
+      "Cornerstone Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/news/groyyo-raises-rs-90-cr-in-first-close-of-series-b-round-led-by-cornerstone-ventures-12170977"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -59,27 +230,6 @@
     ],
     "sources": [
       "https://entrackr.com/news/emergent-becomes-third-ai-unicorn-of-2026-with-130-mn-series-c-led-by-creaegis-12166031"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Udaan",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series E+",
-    "stage_raw": "series_e_plus",
-    "amount": "$160M",
-    "amount_usd": 160000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-14",
-    "lead_investor": "M&G Investments",
-    "investors": [
-      "M&G Investments"
-    ],
-    "sources": [
-      "https://entrackr.com/news/udaan-announces-160-mn-structured-financing-to-strengthen-balance-sheet-12163926"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -267,19 +417,61 @@
     "city": ""
   },
   {
-    "company_name": "Fintech SaaS startup Hisabkitab",
+    "company_name": "Naturis Cosmetics",
     "sector": "",
     "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$699M",
-    "amount_usd": 699000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-15",
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹100 Cr ($12M)",
+    "amount_usd": 12048192.77,
+    "currency": "INR",
+    "announced_on": "2026-07-16",
+    "lead_investor": "Sharrp Ventures. Follow Us Naturis",
+    "investors": [
+      "Anicut Capital",
+      "Mirabilis Investment Trust",
+      "Sharrp Ventures. Follow Us Naturis"
+    ],
+    "sources": [
+      "https://entrackr.com/news/naturis-cosmetics-raises-rs-100-cr-in-maiden-institutional-round-led-by-sharrp-ventures-12169138"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Aurum PropTech",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "₹458 Cr ($55.2M)",
+    "amount_usd": 55180722.89,
+    "currency": "INR",
+    "announced_on": "2026-07-16",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/snippets/fintech-saas-startup-hisabkitab-raises-seed-round-at-rs-20-cr-valuation-12163499"
+      "https://entrackr.com/news/aurum-proptech-to-acquire-housingcom-parent-in-rs-458-cr-share-swap-deal-12170911"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "PhysicsWallah",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "₹72 Cr ($8.7M)",
+    "amount_usd": 8650602.41,
+    "currency": "INR",
+    "announced_on": "2026-07-16",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/physicswallah-acquires-controlling-stake-in-sarrthi-ias-with-rs-718-cr-investment-12171448"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -320,63 +512,6 @@
     ],
     "sources": [
       "https://entrackr.com/snippets/maternal-and-baby-care-brand-promom-raises-rs-30-cr-from-fireside-ventures-12167109"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Elevation Capital",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$500M",
-    "amount_usd": 500000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-14",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/elevation-capital-closes-500-mn-india-fund-to-back-ai-startups-12161695"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Avendus Future Leaders Fund",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "₹140 Cr ($16.9M)",
-    "amount_usd": 16867469.88,
-    "currency": "INR",
-    "announced_on": "2026-07-14",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/avendus-future-leaders-fund-invests-rs-140-cr-in-ppfas-ahead-of-final-close-of-fund-iii-12161813"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Exclusive: Inside CRED’s",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series E+",
-    "stage_raw": "series_e_plus",
-    "amount": "$900M",
-    "amount_usd": 900000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-14",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/exclusive/exclusive-inside-creds-new-funding-metas-stake-and-esop-expansion-12163561"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -461,19 +596,19 @@
     "city": ""
   },
   {
-    "company_name": "Hero MotoCorp",
+    "company_name": "WeWork India",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "$5.2B",
-    "amount_usd": 5230000000.0,
+    "amount": "$1.1B",
+    "amount_usd": 1070000000.0,
     "currency": "USD",
-    "announced_on": "2026-07-15",
+    "announced_on": "2026-07-16",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/news/hero-motocorp-to-pump-rs-1000-cr-into-athers-rs-2500-cr-qip-stock-hits-record-high-12165236"
+      "https://entrackr.com/fintrackr/wework-india-posts-rs-684-cr-revenue-and-rs-438-cr-ebitda-in-q1-fy27-12171711"
     ],
     "confidence": 0.6,
     "summary": "",
@@ -531,44 +666,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/news/ather-raises-rs-1200-cr-from-hero-motocorp-india-japan-fund-and-promoters-12166313"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "After SoftBank",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$204M",
-    "amount_usd": 204000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-14",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/after-softbank-and-adia-temasek-sells-205-stake-in-lenskart-for-rs-1940-cr-12162235"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Burma Burma",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$11M",
-    "amount_usd": 11000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-02",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/burma-burma-posts-rs-156-cr-revenue-and-rs-14-cr-loss-in-fy26-12125670"
     ],
     "confidence": 0.6,
     "summary": "",
