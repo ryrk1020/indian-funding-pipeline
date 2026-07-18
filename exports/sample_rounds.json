@@ -21,6 +21,27 @@
     "city": ""
   },
   {
+    "company_name": "Exclusive: Ecozen",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Debt",
+    "stage_raw": "debt",
+    "amount": "$13.2M",
+    "amount_usd": 13200000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-17",
+    "lead_investor": "",
+    "investors": [
+      "Indel Money"
+    ],
+    "sources": [
+      "https://entrackr.com/exclusive/exclusive-ecozen-to-secure-rs-125-cr-in-debt-financing-12173532"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Physical AI startup SwitchOn",
     "sector": "",
     "sector_raw": null,
@@ -634,25 +655,6 @@
     "city": ""
   },
   {
-    "company_name": "Aurrevia",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$10M",
-    "amount_usd": 10000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-15",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/aurrevia-launches-category-iii-aif-with-10-mn-anchor-commitment-12165941"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Ather",
     "sector": "",
     "sector_raw": null,
@@ -691,25 +693,6 @@
     "city": ""
   },
   {
-    "company_name": "Masters’ Union",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹100 Cr ($12M)",
-    "amount_usd": 12048192.77,
-    "currency": "INR",
-    "announced_on": "2026-04-09",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Pluckk",
     "sector": "",
     "sector_raw": null,
@@ -723,6 +706,25 @@
     "investors": [],
     "sources": [
       "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Masters’ Union",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹100 Cr ($12M)",
+    "amount_usd": 12048192.77,
+    "currency": "INR",
+    "announced_on": "2026-04-09",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
     ],
     "confidence": 0.6,
     "summary": "",
