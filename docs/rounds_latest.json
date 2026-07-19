@@ -1,5 +1,26 @@
 [
   {
+    "company_name": "Weekly Funding Report",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$271M",
+    "amount_usd": 271000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-18",
+    "lead_investor": "AI",
+    "investors": [
+      "AI"
+    ],
+    "sources": [
+      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-july-06-july-11-12176124"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Neo Group",
     "sector": "",
     "sector_raw": null,
@@ -257,7 +278,7 @@
     "city": ""
   },
   {
-    "company_name": "Funding",
+    "company_name": "Weekly Funding Report",
     "sector": "",
     "sector_raw": null,
     "stage": "Pre-Series A",
@@ -279,7 +300,7 @@
     "city": ""
   },
   {
-    "company_name": "Funding",
+    "company_name": "Weekly Funding Report",
     "sector": "",
     "sector_raw": null,
     "stage": "Pre-Series A",
@@ -322,7 +343,7 @@
     "city": ""
   },
   {
-    "company_name": "Funding",
+    "company_name": "Weekly Funding Report",
     "sector": "",
     "sector_raw": null,
     "stage": "Pre-Series A",
@@ -331,19 +352,14 @@
     "amount_usd": 1110000000.0,
     "currency": "USD",
     "announced_on": "2026-06-27",
-    "lead_investor": "AI",
+    "lead_investor": "Meta",
     "investors": [
-      "AI",
-      "Accel",
       "Aramco Ventures",
-      "Info Edge Ventures",
       "Meta",
-      "Nexus Venture Partners",
-      "Titan Capital Winners Fund. CREST"
+      "Nexus Venture Partners"
     ],
     "sources": [
       "https://entrackr.com/report/weekly-funding-report",
-      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-june-15-june-20-12056007",
       "https://entrackr.com/report/weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-june-22-june-27-12110860"
     ],
     "confidence": 0.85,
@@ -434,6 +450,25 @@
       "https://yourstory.com/2026/04/traqcheck-raises-8-million-led-by-ivycap-ventures"
     ],
     "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Turtlemint",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "₹3.0 Cr ($361K)",
+    "amount_usd": 361445.78,
+    "currency": "INR",
+    "announced_on": "2026-07-18",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/turtlemint-turns-profitable-in-q4-revenue-jumps-57-to-rs-1098-cr-in-fy26-12175788"
+    ],
+    "confidence": 0.8,
     "summary": "",
     "city": ""
   },
@@ -655,25 +690,6 @@
     "city": ""
   },
   {
-    "company_name": "Ather",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹1200 Cr ($144.6M)",
-    "amount_usd": 144578313.25,
-    "currency": "INR",
-    "announced_on": "2026-07-15",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/ather-raises-rs-1200-cr-from-hero-motocorp-india-japan-fund-and-promoters-12166313"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Govt’s Fund",
     "sector": "",
     "sector_raw": null,
@@ -693,25 +709,6 @@
     "city": ""
   },
   {
-    "company_name": "Pluckk",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$26M",
-    "amount_usd": 26000000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-09",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Masters’ Union",
     "sector": "",
     "sector_raw": null,
@@ -725,6 +722,25 @@
     "investors": [],
     "sources": [
       "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Pluckk",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$26M",
+    "amount_usd": 26000000.0,
+    "currency": "USD",
+    "announced_on": "2026-04-09",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
     ],
     "confidence": 0.6,
     "summary": "",
