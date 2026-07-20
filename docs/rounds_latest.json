@@ -1,5 +1,48 @@
 [
   {
+    "company_name": "Instant medicine delivery startup Plazza",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$15M",
+    "amount_usd": 15000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-20",
+    "lead_investor": "Accel",
+    "investors": [
+      "Accel"
+    ],
+    "sources": [
+      "https://entrackr.com/news/instant-medicine-delivery-startup-plazza-raises-15-mn-led-by-accel-elevation-and-nexus-12180237"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Exclusive: Agriculture",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "$2.2M",
+    "amount_usd": 2200000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-20",
+    "lead_investor": "Transition Venture Capital Fund",
+    "investors": [
+      "Transition Venture Capital Fund",
+      "Zetta Farms"
+    ],
+    "sources": [
+      "https://entrackr.com/exclusive/exclusive-agriculture-drone-startup-suind-set-to-raise-rs-205-cr-at-rs-80-cr-valuation-12180327"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Weekly Funding Report",
     "sector": "",
     "sector_raw": null,
@@ -250,28 +293,6 @@
     ],
     "sources": [
       "https://entrackr.com/news/groyyo-raises-rs-90-cr-in-first-close-of-series-b-round-led-by-cornerstone-ventures-12170977"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Emergent",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$130M",
-    "amount_usd": 130000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-15",
-    "lead_investor": "Creaegis",
-    "investors": [
-      "Claypond",
-      "Creaegis"
-    ],
-    "sources": [
-      "https://entrackr.com/news/emergent-becomes-third-ai-unicorn-of-2026-with-130-mn-series-c-led-by-creaegis-12166031"
     ],
     "confidence": 0.85,
     "summary": "",
