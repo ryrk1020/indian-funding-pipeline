@@ -43,6 +43,71 @@
     "city": ""
   },
   {
+    "company_name": "Raghu Vamsi Aerospace Group",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$40M",
+    "amount_usd": 40000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-20",
+    "lead_investor": "Norwest",
+    "investors": [
+      "Indus Bridge Follow Us Precision",
+      "Indus Bridge Ventures",
+      "Norwest"
+    ],
+    "sources": [
+      "https://entrackr.com/news/raghu-vamsi-aerospace-group-raises-40-mn-led-by-norwest-skegen-asset-management-12181153"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Travel",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series C",
+    "stage_raw": "series_c",
+    "amount": "$63M",
+    "amount_usd": 63000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-20",
+    "lead_investor": "General Catalyst",
+    "investors": [
+      "General Catalyst"
+    ],
+    "sources": [
+      "https://entrackr.com/news/travel-fintech-startup-scapia-announces-rs-20-cr-esop-buyback-12181445"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Rukam Capital",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "$9.0B",
+    "amount_usd": 9000000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-20",
+    "lead_investor": "Rukam Capital. The",
+    "investors": [
+      "Rukam Capital. The"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/rukam-capital-leads-seed-round-in-skin-longevity-beauty-brand-lngvty-12181648"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Weekly Funding Report",
     "sector": "",
     "sector_raw": null,
@@ -106,92 +171,6 @@
     "city": ""
   },
   {
-    "company_name": "Physical AI startup SwitchOn",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$8M",
-    "amount_usd": 8000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-16",
-    "lead_investor": "IvyCap Ventures. Follow Us Bengaluru-based",
-    "investors": [
-      "IvyCap Ventures. Follow Us Bengaluru-based",
-      "SIG Tattva"
-    ],
-    "sources": [
-      "https://entrackr.com/news/physical-ai-startup-switchon-raises-8-mn-in-pre-series-b-round-led-by-ivycap-12168741"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Quick Clean",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$14M",
-    "amount_usd": 14000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-16",
-    "lead_investor": "Stakeboat Capital. Follow Us Quick",
-    "investors": [
-      "Stakeboat Capital. Follow Us Quick"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/quick-clean-raises-14-mn-in-series-b-round-led-by-stakeboat-capital-12168892"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Agritech startup Rize",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$31M",
-    "amount_usd": 31000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-16",
-    "lead_investor": "Breakthrough Energy Ventures",
-    "investors": [
-      "BNP Paribas Asset Management Alts",
-      "Breakthrough Energy Ventures"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/agritech-startup-rize-raises-31-mn-in-series-b-round-12169128"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Elevation Capital",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$11.3M",
-    "amount_usd": 11300000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-16",
-    "lead_investor": "Elevation Capital",
-    "investors": [
-      "Elevation Capital"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/elevation-capital-leads-113-mn-series-a-round-in-reodev-12169973"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Mandrake Bio",
     "sector": "",
     "sector_raw": null,
@@ -229,70 +208,6 @@
     ],
     "sources": [
       "https://entrackr.com/snippets/kuhltherm-raises-11-mn-in-seed-round-led-by-arkam-ventures-12170492"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Rippling",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$15M",
-    "amount_usd": 15000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-16",
-    "lead_investor": "Y Combinator",
-    "investors": [
-      "Y Combinator"
-    ],
-    "sources": [
-      "https://entrackr.com/news/rippling-co-founder-prasanna-sankars-ai-startup-vorflux-raises-15-mn-12170583"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Exclusive: Scimplify",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$19.1M",
-    "amount_usd": 19050000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-16",
-    "lead_investor": "Hitachi Ventures. Existing",
-    "investors": [
-      "Hitachi Ventures. Existing"
-    ],
-    "sources": [
-      "https://entrackr.com/exclusive/exclusive-scimplify-set-to-raise-rs-181-cr-at-over-2x-valuation-jump-12170648"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Groyyo",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$9.4M",
-    "amount_usd": 9400000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-16",
-    "lead_investor": "Cornerstone Ventures",
-    "investors": [
-      "Alpha Wave",
-      "Cornerstone Ventures"
-    ],
-    "sources": [
-      "https://entrackr.com/news/groyyo-raises-rs-90-cr-in-first-close-of-series-b-round-led-by-cornerstone-ventures-12170977"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -475,6 +390,67 @@
     "city": ""
   },
   {
+    "company_name": "Bessemer",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$6.7M",
+    "amount_usd": 6700000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-21",
+    "lead_investor": "Bessemer Venture Partners",
+    "investors": [
+      "Bessemer Venture Partners"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/bessemer-leads-67-mn-round-in-travel-tech-startup-30-sundays-12183146"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Steptrade Capital",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "₹100 Cr ($12M)",
+    "amount_usd": 12048192.77,
+    "currency": "INR",
+    "announced_on": "2026-07-20",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/steptrade-capital-achieves-first-close-of-fund-ii-with-rs-100-cr-commitments-12180452"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Wealthtech platform Veriqus",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$40M",
+    "amount_usd": 40000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-20",
+    "lead_investor": "Norwest Venture Partners. The",
+    "investors": [
+      "Norwest Venture Partners. The"
+    ],
+    "sources": [
+      "https://entrackr.com/news/wealthtech-platform-veriqus-raises-rs-387-cr-in-funding-round-led-by-norwest-12182570"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Turtlemint",
     "sector": "",
     "sector_raw": null,
@@ -488,126 +464,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/fintrackr/turtlemint-turns-profitable-in-q4-revenue-jumps-57-to-rs-1098-cr-in-fy26-12175788"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Naturis Cosmetics",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹100 Cr ($12M)",
-    "amount_usd": 12048192.77,
-    "currency": "INR",
-    "announced_on": "2026-07-16",
-    "lead_investor": "Sharrp Ventures. Follow Us Naturis",
-    "investors": [
-      "Anicut Capital",
-      "Mirabilis Investment Trust",
-      "Sharrp Ventures. Follow Us Naturis"
-    ],
-    "sources": [
-      "https://entrackr.com/news/naturis-cosmetics-raises-rs-100-cr-in-maiden-institutional-round-led-by-sharrp-ventures-12169138"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Aurum PropTech",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "₹458 Cr ($55.2M)",
-    "amount_usd": 55180722.89,
-    "currency": "INR",
-    "announced_on": "2026-07-16",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/aurum-proptech-to-acquire-housingcom-parent-in-rs-458-cr-share-swap-deal-12170911"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "PhysicsWallah",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "₹72 Cr ($8.7M)",
-    "amount_usd": 8650602.41,
-    "currency": "INR",
-    "announced_on": "2026-07-16",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/physicswallah-acquires-controlling-stake-in-sarrthi-ias-with-rs-718-cr-investment-12171448"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Recode Studios",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "₹8.3 Cr ($1M)",
-    "amount_usd": 1002409.64,
-    "currency": "INR",
-    "announced_on": "2026-07-15",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/recode-studios-acquires-51-stake-in-beauty-brand-aflairza-12166232"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Maternal",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹30 Cr ($3.6M)",
-    "amount_usd": 3614457.83,
-    "currency": "INR",
-    "announced_on": "2026-07-15",
-    "lead_investor": "Fireside Ventures. The",
-    "investors": [
-      "Fireside Ventures. The"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/maternal-and-baby-care-brand-promom-raises-rs-30-cr-from-fireside-ventures-12167109"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Cult.fit",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "₹1700 Cr ($204.8M)",
-    "amount_usd": 204819277.11,
-    "currency": "INR",
-    "announced_on": "2026-07-07",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/cultfit-posts-rs-1720-cr-revenue-in-fy26-turns-ebitda-positive-12141305"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -669,6 +525,82 @@
       "https://yourstory.com/2026/04/indigo-invests-air-taxi-maker-sarla-aviation"
     ],
     "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Transition VC",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$150M",
+    "amount_usd": 150000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-21",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/transition-vc-launches-rs-1500-cr-fund-ii-to-back-energy-tech-startups-12183137"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Paytm",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹100 Cr ($12M)",
+    "amount_usd": 12048192.77,
+    "currency": "INR",
+    "announced_on": "2026-07-21",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/paytm-drops-bonus-share-plan-to-invest-rs-100-cr-in-paytm-money-12183396"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Bluestone",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹737 Cr ($88.8M)",
+    "amount_usd": 88795180.72,
+    "currency": "INR",
+    "announced_on": "2026-07-20",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/bluestone-posts-rs-737-cr-revenue-and-rs-6-cr-profit-in-q1-fy27-12182448"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Paytm",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$9.1B",
+    "amount_usd": 9090000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-20",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/paytm-profit-jumps-to-rs-220-cr-in-q1-fy27-12182699"
+    ],
+    "confidence": 0.6,
     "summary": "",
     "city": ""
   },
