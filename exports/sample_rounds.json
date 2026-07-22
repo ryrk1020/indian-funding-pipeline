@@ -1,5 +1,27 @@
 [
   {
+    "company_name": "MS Dhoni, Hardik Pandya, Bumrah",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series C",
+    "stage_raw": "series_c",
+    "amount": "$53M",
+    "amount_usd": 53000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-21",
+    "lead_investor": "Lightspeed",
+    "investors": [
+      "Lightspeed",
+      "Lowercarbon Capital"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/ms-dhoni-invests-in-solarsquare-as-part-of-53-mn-series-c-round-12183463"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Instant medicine delivery startup Plazza",
     "sector": "",
     "sector_raw": null,
@@ -123,91 +145,6 @@
     ],
     "sources": [
       "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-july-06-july-11-12176124"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Neo Group",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$36.3M",
-    "amount_usd": 36300000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-17",
-    "lead_investor": "Crystal Investment Advisors",
-    "investors": [
-      "Crystal Investment Advisors"
-    ],
-    "sources": [
-      "https://entrackr.com/news/neo-group-raises-rs-350-cr-led-by-peak-xv-partners-12172440"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Exclusive: Ecozen",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Debt",
-    "stage_raw": "debt",
-    "amount": "$13.2M",
-    "amount_usd": 13200000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-17",
-    "lead_investor": "",
-    "investors": [
-      "Indel Money"
-    ],
-    "sources": [
-      "https://entrackr.com/exclusive/exclusive-ecozen-to-secure-rs-125-cr-in-debt-financing-12173532"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Mandrake Bio",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Seed",
-    "stage_raw": "pre_seed",
-    "amount": "₹16 Cr ($1.9M)",
-    "amount_usd": 1927710.84,
-    "currency": "INR",
-    "announced_on": "2026-07-16",
-    "lead_investor": "Activate",
-    "investors": [
-      "Activate",
-      "Spectrum Impact"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/mandrake-bio-raises-rs-16-cr-in-pre-seed-round-co-led-by-activate-and-antler-12170217"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "KuhlTherm",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$1.1M",
-    "amount_usd": 1100000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-16",
-    "lead_investor": "Arkam Ventures. Follow Us KuhlTherm",
-    "investors": [
-      "Arkam Ventures. Follow Us KuhlTherm"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/kuhltherm-raises-11-mn-in-seed-round-led-by-arkam-ventures-12170492"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -411,6 +348,44 @@
     "city": ""
   },
   {
+    "company_name": "Suminter India Organics",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Debt",
+    "stage_raw": "debt",
+    "amount": "$2.6M",
+    "amount_usd": 2600000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-21",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/suminter-india-organics-secures-rs-25-cr-debt-from-blacksoil-capital-12184884"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Zaggle",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "₹8.0 Cr ($959K)",
+    "amount_usd": 959036.14,
+    "currency": "INR",
+    "announced_on": "2026-07-21",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/zaggle-acquires-199-stake-in-cross-border-payments-and-remittances-company-unobanc-12184982"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Steptrade Capital",
     "sector": "",
     "sector_raw": null,
@@ -567,6 +542,25 @@
     "city": ""
   },
   {
+    "company_name": "FireAI",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹2.5 Cr ($301K)",
+    "amount_usd": 301204.82,
+    "currency": "INR",
+    "announced_on": "2026-07-21",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/fireai-raises-rs-25-cr-from-sucseed-indovation-fund-12184501"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Bluestone",
     "sector": "",
     "sector_raw": null,
@@ -662,25 +656,6 @@
     "city": ""
   },
   {
-    "company_name": "Masters’ Union",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹100 Cr ($12M)",
-    "amount_usd": 12048192.77,
-    "currency": "INR",
-    "announced_on": "2026-04-09",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Pluckk",
     "sector": "",
     "sector_raw": null,
@@ -694,6 +669,25 @@
     "investors": [],
     "sources": [
       "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Masters’ Union",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹100 Cr ($12M)",
+    "amount_usd": 12048192.77,
+    "currency": "INR",
+    "announced_on": "2026-04-09",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
     ],
     "confidence": 0.6,
     "summary": "",
