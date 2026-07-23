@@ -1,5 +1,47 @@
 [
   {
+    "company_name": "BusinessNext",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$40M",
+    "amount_usd": 40000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-23",
+    "lead_investor": "Avataar Ventures",
+    "investors": [
+      "Avataar Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/news/businessnext-raises-40-mn-from-servicenow-ventures-at-700-mn-valuation-12189549"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Medtech startup Bioscan Research",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "$1M",
+    "amount_usd": 1000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-22",
+    "lead_investor": "Unicorn India Ventures. Snippets. Follow",
+    "investors": [
+      "Unicorn India Ventures. Snippets. Follow"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/medtech-startup-bioscan-research-raises-1-mn-in-seed-round-led-by-unicorn-india-ventures-12186756"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "MS Dhoni, Hardik Pandya, Bumrah",
     "sector": "",
     "sector_raw": null,
@@ -16,93 +58,6 @@
     ],
     "sources": [
       "https://entrackr.com/snippets/ms-dhoni-invests-in-solarsquare-as-part-of-53-mn-series-c-round-12183463"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Instant medicine delivery startup Plazza",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$15M",
-    "amount_usd": 15000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-20",
-    "lead_investor": "Accel",
-    "investors": [
-      "Accel"
-    ],
-    "sources": [
-      "https://entrackr.com/news/instant-medicine-delivery-startup-plazza-raises-15-mn-led-by-accel-elevation-and-nexus-12180237"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Exclusive: Agriculture",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$2.2M",
-    "amount_usd": 2200000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-20",
-    "lead_investor": "Transition Venture Capital Fund",
-    "investors": [
-      "Transition Venture Capital Fund",
-      "Zetta Farms"
-    ],
-    "sources": [
-      "https://entrackr.com/exclusive/exclusive-agriculture-drone-startup-suind-set-to-raise-rs-205-cr-at-rs-80-cr-valuation-12180327"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Raghu Vamsi Aerospace Group",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$40M",
-    "amount_usd": 40000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-20",
-    "lead_investor": "Norwest",
-    "investors": [
-      "Indus Bridge Follow Us Precision",
-      "Indus Bridge Ventures",
-      "Norwest"
-    ],
-    "sources": [
-      "https://entrackr.com/news/raghu-vamsi-aerospace-group-raises-40-mn-led-by-norwest-skegen-asset-management-12181153"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Travel",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series C",
-    "stage_raw": "series_c",
-    "amount": "$63M",
-    "amount_usd": 63000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-20",
-    "lead_investor": "General Catalyst",
-    "investors": [
-      "General Catalyst"
-    ],
-    "sources": [
-      "https://entrackr.com/news/travel-fintech-startup-scapia-announces-rs-20-cr-esop-buyback-12181445"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -327,6 +282,25 @@
     "city": ""
   },
   {
+    "company_name": "Zappfresh",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "₹74 Cr ($8.9M)",
+    "amount_usd": 8915662.65,
+    "currency": "INR",
+    "announced_on": "2026-07-22",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/zappfresh-revenue-grows-58-to-rs-74-cr-in-q1-fy27-12187118"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Bessemer",
     "sector": "",
     "sector_raw": null,
@@ -380,25 +354,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/snippets/zaggle-acquires-199-stake-in-cross-border-payments-and-remittances-company-unobanc-12184982"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Steptrade Capital",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "₹100 Cr ($12M)",
-    "amount_usd": 12048192.77,
-    "currency": "INR",
-    "announced_on": "2026-07-20",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/steptrade-capital-achieves-first-close-of-fund-ii-with-rs-100-cr-commitments-12180452"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -504,6 +459,44 @@
     "city": ""
   },
   {
+    "company_name": "Smartworks",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$593M",
+    "amount_usd": 593000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-22",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/smartworks-posts-rs-546-cr-revenue-in-q1-fy27-ebitda-grows-over-37-12187189"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Eternal",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$29.4B",
+    "amount_usd": 29400000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-22",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/eternal-reports-rs-20211-cr-revenue-and-rs-92-cr-profit-in-q1-fy27-12187705"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Transition VC",
     "sector": "",
     "sector_raw": null,
@@ -593,44 +586,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/fintrackr/paytm-profit-jumps-to-rs-220-cr-in-q1-fy27-12182699"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "WeWork India",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$1.1B",
-    "amount_usd": 1070000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-16",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/wework-india-posts-rs-684-cr-revenue-and-rs-438-cr-ebitda-in-q1-fy27-12171711"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Groww",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$14.0B",
-    "amount_usd": 14000000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-15",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/groww-reports-rs-735-cr-profit-in-q1-fy27-revenue-jumps-66-12165283"
     ],
     "confidence": 0.6,
     "summary": "",
