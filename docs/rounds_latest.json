@@ -1,5 +1,26 @@
 [
   {
+    "company_name": "Funding",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$164M",
+    "amount_usd": 164000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-25",
+    "lead_investor": "Accel",
+    "investors": [
+      "Accel"
+    ],
+    "sources": [
+      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-july-20-july-25-12196344"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "BusinessNext",
     "sector": "",
     "sector_raw": null,
@@ -108,7 +129,7 @@
     "city": ""
   },
   {
-    "company_name": "Weekly Funding Report",
+    "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
     "stage": "Pre-Series A",
@@ -129,7 +150,7 @@
     "city": ""
   },
   {
-    "company_name": "Weekly Funding Report",
+    "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
     "stage": "Pre-Series A",
@@ -151,7 +172,7 @@
     "city": ""
   },
   {
-    "company_name": "Weekly Funding Report",
+    "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
     "stage": "Pre-Series A",
@@ -188,30 +209,6 @@
     ],
     "sources": [
       "https://entrackr.com/report/indian-startups-raise-74-bn-in-h1-2026-as-cred-meta-deal-lifts-funding-12123065"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Weekly Funding Report",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$1.1B",
-    "amount_usd": 1110000000.0,
-    "currency": "USD",
-    "announced_on": "2026-06-27",
-    "lead_investor": "Meta",
-    "investors": [
-      "Aramco Ventures",
-      "Meta",
-      "Nexus Venture Partners"
-    ],
-    "sources": [
-      "https://entrackr.com/report/weekly-funding-report",
-      "https://entrackr.com/report/weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-june-22-june-27-12110860"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -396,25 +393,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/fintrackr/meesho-records-rs-3713-cr-revenue-in-q1-fy27-narrows-losses-by-54-12191236"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Zappfresh",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "₹74 Cr ($8.9M)",
-    "amount_usd": 8915662.65,
-    "currency": "INR",
-    "announced_on": "2026-07-22",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/zappfresh-revenue-grows-58-to-rs-74-cr-in-q1-fy27-12187118"
     ],
     "confidence": 0.8,
     "summary": "",
