@@ -302,6 +302,25 @@
     "city": ""
   },
   {
+    "company_name": "Decoding PhonePe FY26: The Rs",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "$1.5B",
+    "amount_usd": 1500000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-26",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/decoding-phonepe-fy26-the-rs-364-cr-loss-behind-the-rs-2792-cr-headline-12199210"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Fractal",
     "sector": "",
     "sector_raw": null,
@@ -458,6 +477,25 @@
     "city": ""
   },
   {
+    "company_name": "Cactus Partners",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹1600 Cr ($192.8M)",
+    "amount_usd": 192771084.34,
+    "currency": "INR",
+    "announced_on": "2026-07-27",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/cactus-partners-targets-rs-1600-cr-fund-ii-plans-13-15-investments-report-12200812"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Akumentis Healthcare",
     "sector": "",
     "sector_raw": null,
@@ -471,44 +509,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/fintrackr/akumentis-healthcare-records-rs-446-cr-revenue-and-rs-77-cr-profit-in-fy26-12190109"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Smartworks",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$593M",
-    "amount_usd": 593000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-22",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/smartworks-posts-rs-546-cr-revenue-in-q1-fy27-ebitda-grows-over-37-12187189"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Eternal",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$29.4B",
-    "amount_usd": 29400000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-22",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/eternal-reports-rs-20211-cr-revenue-and-rs-92-cr-profit-in-q1-fy27-12187705"
     ],
     "confidence": 0.6,
     "summary": "",
