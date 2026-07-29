@@ -1,5 +1,49 @@
 [
   {
+    "company_name": "Global",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "$2M",
+    "amount_usd": 2000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-28",
+    "lead_investor": "Saltwater Sutra",
+    "investors": [
+      "Gautam Verleka Follow Us Global",
+      "Gautam Verlekar",
+      "Saltwater Sutra"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/global-student-living-technology-startup-house-of-student-raises-2-mn-in-seed-round-12204999"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Piper Serica",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "₹15 Cr ($1.8M)",
+    "amount_usd": 1807228.92,
+    "currency": "INR",
+    "announced_on": "2026-07-28",
+    "lead_investor": "Piper Serica. Follow Us Yaanendriya",
+    "investors": [
+      "Piper Serica. Follow Us Yaanendriya"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/piper-serica-leads-rs-15-cr-seed-round-in-deep-tech-startup-yaanendriya-12205479"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Bombay Shaving Company",
     "sector": "",
     "sector_raw": null,
@@ -36,72 +80,6 @@
     ],
     "sources": [
       "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-july-20-july-25-12196344"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "PedalStart",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Seed",
-    "stage_raw": "pre_seed",
-    "amount": "₹1.6 Cr ($193K)",
-    "amount_usd": 192771.08,
-    "currency": "INR",
-    "announced_on": "2026-07-23",
-    "lead_investor": "PedalStart",
-    "investors": [
-      "PedalStart"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/pedalstart-leads-pre-seed-round-in-extracurricular-learning-platform-upkraft-12190685"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Earth Fund",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$3M",
-    "amount_usd": 3000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-23",
-    "lead_investor": "Earth Fund",
-    "investors": [
-      "Blume Founders Fund",
-      "Earth Fund",
-      "Japan"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/earth-fund-leads-3-mn-series-a-round-in-wiffy-12191137"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Exclusive: Urban Harvest",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series D",
-    "stage_raw": "series_d",
-    "amount": "$35.9M",
-    "amount_usd": 35900000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-23",
-    "lead_investor": "Info Edge",
-    "investors": [
-      "Info Edge",
-      "Sandeep Kapadia"
-    ],
-    "sources": [
-      "https://entrackr.com/exclusive/exclusive-urban-harvest-board-to-approve-rs-341-cr-series-d-round-from-58-investors-12191374"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -281,6 +259,101 @@
     "city": ""
   },
   {
+    "company_name": "Snitch",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$40M",
+    "amount_usd": 40000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-28",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/snitch-acquires-berrylush-to-enter-womens-fashion-segment-12204386"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Tata 1mg",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "₹3000 Cr ($361.4M)",
+    "amount_usd": 361445783.13,
+    "currency": "INR",
+    "announced_on": "2026-07-28",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/tata-1mg-revenue-nears-rs-3000-cr-in-fy26-loss-narrows-to-rs-287-cr-12204459"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Inflexor Ventures",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "₹400 Cr ($48.2M)",
+    "amount_usd": 48192771.08,
+    "currency": "INR",
+    "announced_on": "2026-07-28",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/inflexor-ventures-achieves-first-close-of-rs-1250-cr-fund-iii-with-rs-400-cr-commitments-12204467"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "BigBasket's B2C",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "₹8223 Cr ($990.7M)",
+    "amount_usd": 990722891.57,
+    "currency": "INR",
+    "announced_on": "2026-07-28",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/bigbaskets-b2c-arm-losses-cross-rs-3000-cr-in-fy26-12204636"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "UpGrad",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "₹1955 Cr ($235.5M)",
+    "amount_usd": 235542168.67,
+    "currency": "INR",
+    "announced_on": "2026-07-28",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/upgrad-set-to-close-unacademy-acquisition-in-three-weeks-deal-valued-at-rs-1955-cr-12204963"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Decoding PhonePe FY26: The Rs",
     "sector": "",
     "sector_raw": null,
@@ -294,84 +367,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/fintrackr/decoding-phonepe-fy26-the-rs-364-cr-loss-behind-the-rs-2792-cr-headline-12199210"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Fractal",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "$1.6B",
-    "amount_usd": 1560000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-24",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/fractal-reports-rs-72-cr-profit-on-rs-913-cr-revenue-in-q1-fy27-12192205"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Farm Watt Innovations",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$3.4M",
-    "amount_usd": 3360000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-23",
-    "lead_investor": "IAN Alpha Fund",
-    "investors": [
-      "IAN Alpha Fund"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/farm-watt-innovations-raises-rs-325-cr-co-led-by-ian-alpha-fund-and-rainmatter-12190175"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Healthtech startup CARPL.ai",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$10M",
-    "amount_usd": 10000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-23",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/healthtech-startup-carplai-raises-10-mn-series-a-led-by-ifc-12191147"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Meesho",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "$9.2B",
-    "amount_usd": 9160000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-23",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/meesho-records-rs-3713-cr-revenue-in-q1-fy27-narrows-losses-by-54-12191236"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -433,6 +428,44 @@
       "https://yourstory.com/2026/04/indigo-invests-air-taxi-maker-sarla-aviation"
     ],
     "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Pine Labs",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹20 Cr ($2.4M)",
+    "amount_usd": 2409638.55,
+    "currency": "INR",
+    "announced_on": "2026-07-28",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/pine-labs-reports-rs-737-cr-revenue-in-q1-fy27-profit-jumps-over-4x-12205191"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Circular",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹10 Cr ($1.2M)",
+    "amount_usd": 1204819.28,
+    "currency": "INR",
+    "announced_on": "2026-07-28",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/circular-economy-company-recykal-invests-rs-10-cr-in-walbha-industries-12205320"
+    ],
+    "confidence": 0.6,
     "summary": "",
     "city": ""
   },
