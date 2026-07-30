@@ -1,5 +1,76 @@
 [
   {
+    "company_name": "Indian Physical AI",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$45M",
+    "amount_usd": 45000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-30",
+    "lead_investor": "Entrackr",
+    "investors": [
+      "Entrackr",
+      "Info Edge. Bengaluru",
+      "Neotribe Ventures",
+      "RedStartLabs",
+      "SIG"
+    ],
+    "sources": [
+      "https://entrackr.com/report/indian-physical-ai-attracts-155-mn-in-2026-as-robotics-real-world-data-gain-traction-12210766"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Drone startup SUIND",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "$2.2M",
+    "amount_usd": 2200000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-30",
+    "lead_investor": "Transition VC. The",
+    "investors": [
+      "IIMA Ventures. Entrackr",
+      "IIMA Ventures. Follow Us Agriculture",
+      "Transition VC. The"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/drone-startup-suind-raises-rs-205-cr-in-seed-round-led-by-transition-vc-12210797"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Revspot",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$4.8M",
+    "amount_usd": 4800000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-29",
+    "lead_investor": "Inflexor Ventures",
+    "investors": [
+      "Inflexor Ventures",
+      "Kunal Shah. The",
+      "Pentathlon Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/revspot-raises-48-mn-in-series-a-round-co-led-by-inflexor-info-edge-ventures-12208007"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Global",
     "sector": "",
     "sector_raw": null,
@@ -38,27 +109,6 @@
     ],
     "sources": [
       "https://entrackr.com/snippets/piper-serica-leads-rs-15-cr-seed-round-in-deep-tech-startup-yaanendriya-12205479"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Bombay Shaving Company",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "$15.3M",
-    "amount_usd": 15300000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-27",
-    "lead_investor": "Sixth Sense Ventures",
-    "investors": [
-      "Sixth Sense Ventures"
-    ],
-    "sources": [
-      "https://entrackr.com/fintrackr/bombay-shaving-company-revenue-jumps-to-rs-635-cr-in-fy26-nears-break-even-12201254"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -145,27 +195,6 @@
     ],
     "sources": [
       "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-june-29-july-04-12132613"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Indian",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$7.4B",
-    "amount_usd": 7400000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-01",
-    "lead_investor": "Entrackr",
-    "investors": [
-      "Entrackr"
-    ],
-    "sources": [
-      "https://entrackr.com/report/indian-startups-raise-74-bn-in-h1-2026-as-cred-meta-deal-lifts-funding-12123065"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -259,38 +288,57 @@
     "city": ""
   },
   {
-    "company_name": "Snitch",
+    "company_name": "Building",
     "sector": "",
     "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$40M",
-    "amount_usd": 40000000.0,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "$5.5M",
+    "amount_usd": 5500000.0,
     "currency": "USD",
-    "announced_on": "2026-07-28",
+    "announced_on": "2026-07-29",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/snippets/snitch-acquires-berrylush-to-enter-womens-fashion-segment-12204386"
+      "https://entrackr.com/snippets/building-materials-quick-commerce-startup-fixxly-raises-55-mn-in-seed-round-12207612"
     ],
     "confidence": 0.8,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Tata 1mg",
+    "company_name": "Exclusive: OfBusiness",
     "sector": "",
     "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "₹3000 Cr ($361.4M)",
-    "amount_usd": 361445783.13,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "₹724 Cr ($87.2M)",
+    "amount_usd": 87228915.66,
     "currency": "INR",
-    "announced_on": "2026-07-28",
+    "announced_on": "2026-07-29",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/fintrackr/tata-1mg-revenue-nears-rs-3000-cr-in-fy26-loss-narrows-to-rs-287-cr-12204459"
+      "https://entrackr.com/exclusive/exclusive-ofbusiness-reports-consolidated-profit-of-rs-724-cr-on-rs-20645-cr-revenue-in-fy26-12208295"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Anicut Capital",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$1M",
+    "amount_usd": 1000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-29",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/anicut-capital-launches-rs-250-cr-seed-fund-to-back-20-early-stage-startups-12208338"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -348,25 +396,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/news/upgrad-set-to-close-unacademy-acquisition-in-three-weeks-deal-valued-at-rs-1955-cr-12204963"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Decoding PhonePe FY26: The Rs",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "$1.5B",
-    "amount_usd": 1500000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-26",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/decoding-phonepe-fy26-the-rs-364-cr-loss-behind-the-rs-2792-cr-headline-12199210"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -432,6 +461,82 @@
     "city": ""
   },
   {
+    "company_name": "CarTrade",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹57 Cr ($6.9M)",
+    "amount_usd": 6867469.88,
+    "currency": "INR",
+    "announced_on": "2026-07-29",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/cartrade-reports-rs-201-cr-revenue-and-rs-57-cr-profit-in-q1-fy27-12207817"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Blackbuck",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$1.0B",
+    "amount_usd": 1020000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-29",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/blackbuck-crosses-rs-200-cr-revenue-in-q1-fy27-profit-rises-24-12208533"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "TBO Tek’s Q1 FY27",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹926 Cr ($111.6M)",
+    "amount_usd": 111566265.06,
+    "currency": "INR",
+    "announced_on": "2026-07-29",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/tbo-teks-q1-FY27-revenue-jumps-81-to-rs-926-cr-profit-grows-32-12209553"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Kissht",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$610M",
+    "amount_usd": 610000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-29",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/kissht-clocks-rs-670-cr-revenue-and-rs-95-cr-profit-in-q1-fy27-12210056"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Pine Labs",
     "sector": "",
     "sector_raw": null,
@@ -470,44 +575,6 @@
     "city": ""
   },
   {
-    "company_name": "Cactus Partners",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹1600 Cr ($192.8M)",
-    "amount_usd": 192771084.34,
-    "currency": "INR",
-    "announced_on": "2026-07-27",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/cactus-partners-targets-rs-1600-cr-fund-ii-plans-13-15-investments-report-12200812"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Electric",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹50 Cr ($6M)",
-    "amount_usd": 6024096.39,
-    "currency": "INR",
-    "announced_on": "2026-07-27",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/electric-commercial-vehicle-manufacturer-omega-seiki-mobility-raises-rs-50-cr-12201685"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Govt’s Fund",
     "sector": "",
     "sector_raw": null,
@@ -527,25 +594,6 @@
     "city": ""
   },
   {
-    "company_name": "Pluckk",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$26M",
-    "amount_usd": 26000000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-09",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Masters’ Union",
     "sector": "",
     "sector_raw": null,
@@ -559,6 +607,25 @@
     "investors": [],
     "sources": [
       "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Pluckk",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$26M",
+    "amount_usd": 26000000.0,
+    "currency": "USD",
+    "announced_on": "2026-04-09",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
     ],
     "confidence": 0.6,
     "summary": "",
