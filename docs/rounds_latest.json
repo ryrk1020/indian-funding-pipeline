@@ -48,6 +48,112 @@
     "city": ""
   },
   {
+    "company_name": "Peak XV",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "₹139 Cr ($16.7M)",
+    "amount_usd": 16746987.95,
+    "currency": "INR",
+    "announced_on": "2026-07-30",
+    "lead_investor": "",
+    "investors": [
+      "Aditya Birla Sun Life Mutual"
+    ],
+    "sources": [
+      "https://entrackr.com/news-analysis/peak-xv-makes-another-go-digit-exit-sells-shares-worth-rs-139-cr-via-block-deal-12210933"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Sid’s Farm",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$8.4M",
+    "amount_usd": 8400000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-30",
+    "lead_investor": "Omnivore. News. Follow Us Hyderabad-based",
+    "investors": [
+      "Omnivore. News. Follow Us Hyderabad-based"
+    ],
+    "sources": [
+      "https://entrackr.com/news/sids-farm-raises-over-rs-81-cr-in-pre-series-b-round-12211387"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Apna Mart",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$12.7M",
+    "amount_usd": 12700000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-30",
+    "lead_investor": "Accel",
+    "investors": [
+      "Accel",
+      "Peak XV Partners. The"
+    ],
+    "sources": [
+      "https://entrackr.com/news/apna-mart-raises-rs-120-cr-in-series-c-round-led-by-accel-fundamentum-12211453"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Arboreal Bioinnovations",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$24M",
+    "amount_usd": 24000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-30",
+    "lead_investor": "EAAA",
+    "investors": [
+      "EAAA"
+    ],
+    "sources": [
+      "https://entrackr.com/news/arboreal-bioinnovations-raises-rs-230-cr-in-series-a-led-by-edelweisss-eaaa-and-omnivore-12211900"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "IPV",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "$5.8B",
+    "amount_usd": 5850000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-30",
+    "lead_investor": "Inflection Point Ventures",
+    "investors": [
+      "Inflection Point Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/ipv-leads-seed-round-in-hair-beauty-and-styling-brand-truth-hair-12212591"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Revspot",
     "sector": "",
     "sector_raw": null,
@@ -65,50 +171,6 @@
     ],
     "sources": [
       "https://entrackr.com/snippets/revspot-raises-48-mn-in-series-a-round-co-led-by-inflexor-info-edge-ventures-12208007"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Global",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$2M",
-    "amount_usd": 2000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-28",
-    "lead_investor": "Saltwater Sutra",
-    "investors": [
-      "Gautam Verleka Follow Us Global",
-      "Gautam Verlekar",
-      "Saltwater Sutra"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/global-student-living-technology-startup-house-of-student-raises-2-mn-in-seed-round-12204999"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Piper Serica",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "₹15 Cr ($1.8M)",
-    "amount_usd": 1807228.92,
-    "currency": "INR",
-    "announced_on": "2026-07-28",
-    "lead_investor": "Piper Serica. Follow Us Yaanendriya",
-    "investors": [
-      "Piper Serica. Follow Us Yaanendriya"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/piper-serica-leads-rs-15-cr-seed-round-in-deep-tech-startup-yaanendriya-12205479"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -288,19 +350,40 @@
     "city": ""
   },
   {
-    "company_name": "Building",
+    "company_name": "Aham Housing Finance",
     "sector": "",
     "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$5.5M",
-    "amount_usd": 5500000.0,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹100 Cr ($12M)",
+    "amount_usd": 12048192.77,
+    "currency": "INR",
+    "announced_on": "2026-07-30",
+    "lead_investor": "The Sanmar Group. Existing",
+    "investors": [
+      "The Sanmar Group. Existing"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/aham-housing-finance-raises-rs-100-cr-led-by-sanmar-group-12213357"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Zepto",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "$105M",
+    "amount_usd": 105000000.0,
     "currency": "USD",
-    "announced_on": "2026-07-29",
+    "announced_on": "2026-07-30",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/snippets/building-materials-quick-commerce-startup-fixxly-raises-55-mn-in-seed-round-12207612"
+      "https://entrackr.com/news/zepto-postpones-ipo-may-raise-rs-1000-cr-in-pre-ipo-round-12213382"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -339,63 +422,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/snippets/anicut-capital-launches-rs-250-cr-seed-fund-to-back-20-early-stage-startups-12208338"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Inflexor Ventures",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "₹400 Cr ($48.2M)",
-    "amount_usd": 48192771.08,
-    "currency": "INR",
-    "announced_on": "2026-07-28",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/inflexor-ventures-achieves-first-close-of-rs-1250-cr-fund-iii-with-rs-400-cr-commitments-12204467"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "BigBasket's B2C",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "₹8223 Cr ($990.7M)",
-    "amount_usd": 990722891.57,
-    "currency": "INR",
-    "announced_on": "2026-07-28",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/bigbaskets-b2c-arm-losses-cross-rs-3000-cr-in-fy26-12204636"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "UpGrad",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "₹1955 Cr ($235.5M)",
-    "amount_usd": 235542168.67,
-    "currency": "INR",
-    "announced_on": "2026-07-28",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/upgrad-set-to-close-unacademy-acquisition-in-three-weeks-deal-valued-at-rs-1955-cr-12204963"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -461,19 +487,38 @@
     "city": ""
   },
   {
-    "company_name": "CarTrade",
+    "company_name": "InCred Finance",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "₹57 Cr ($6.9M)",
-    "amount_usd": 6867469.88,
+    "amount": "₹172 Cr ($20.7M)",
+    "amount_usd": 20722891.57,
     "currency": "INR",
-    "announced_on": "2026-07-29",
+    "announced_on": "2026-07-30",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/fintrackr/cartrade-reports-rs-201-cr-revenue-and-rs-57-cr-profit-in-q1-fy27-12207817"
+      "https://entrackr.com/fintrackr/incred-finance-reports-rs-759-cr-revenue-in-q1-fy27-profit-jumps-83-12211625"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Swiggy Q1 FY27",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$8.5B",
+    "amount_usd": 8530000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-30",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/swiggy-q1-fy27-revenue-jumps-37-to-rs-6812-cr-loss-narrows-34-12212243"
     ],
     "confidence": 0.6,
     "summary": "",
@@ -537,44 +582,6 @@
     "city": ""
   },
   {
-    "company_name": "Pine Labs",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹20 Cr ($2.4M)",
-    "amount_usd": 2409638.55,
-    "currency": "INR",
-    "announced_on": "2026-07-28",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/pine-labs-reports-rs-737-cr-revenue-in-q1-fy27-profit-jumps-over-4x-12205191"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Circular",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹10 Cr ($1.2M)",
-    "amount_usd": 1204819.28,
-    "currency": "INR",
-    "announced_on": "2026-07-28",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/circular-economy-company-recykal-invests-rs-10-cr-in-walbha-industries-12205320"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Govt’s Fund",
     "sector": "",
     "sector_raw": null,
@@ -594,25 +601,6 @@
     "city": ""
   },
   {
-    "company_name": "Masters’ Union",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹100 Cr ($12M)",
-    "amount_usd": 12048192.77,
-    "currency": "INR",
-    "announced_on": "2026-04-09",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Pluckk",
     "sector": "",
     "sector_raw": null,
@@ -626,6 +614,25 @@
     "investors": [],
     "sources": [
       "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Masters’ Union",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹100 Cr ($12M)",
+    "amount_usd": 12048192.77,
+    "currency": "INR",
+    "announced_on": "2026-04-09",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
     ],
     "confidence": 0.6,
     "summary": "",
