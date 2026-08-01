@@ -154,29 +154,6 @@
     "city": ""
   },
   {
-    "company_name": "Revspot",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$4.8M",
-    "amount_usd": 4800000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-29",
-    "lead_investor": "Inflexor Ventures",
-    "investors": [
-      "Inflexor Ventures",
-      "Kunal Shah. The",
-      "Pentathlon Ventures"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/revspot-raises-48-mn-in-series-a-round-co-led-by-inflexor-info-edge-ventures-12208007"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
@@ -390,25 +367,6 @@
     "city": ""
   },
   {
-    "company_name": "Exclusive: OfBusiness",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "₹724 Cr ($87.2M)",
-    "amount_usd": 87228915.66,
-    "currency": "INR",
-    "announced_on": "2026-07-29",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/exclusive/exclusive-ofbusiness-reports-consolidated-profit-of-rs-724-cr-on-rs-20645-cr-revenue-in-fy26-12208295"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Anicut Capital",
     "sector": "",
     "sector_raw": null,
@@ -487,6 +445,44 @@
     "city": ""
   },
   {
+    "company_name": "Shadowfax",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$1.4B",
+    "amount_usd": 1450000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-31",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/shadowfax-clocks-rs-1358-cr-revenue-in-q1-fy27-profit-rises-over-8x-12214978"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Urban Company",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$2.1B",
+    "amount_usd": 2100000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-31",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/urban-company-posts-92-cr-loss-on-rs-528-cr-revenue-in-q1-fy27-12215866"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "InCred Finance",
     "sector": "",
     "sector_raw": null,
@@ -519,44 +515,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/fintrackr/swiggy-q1-fy27-revenue-jumps-37-to-rs-6812-cr-loss-narrows-34-12212243"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Blackbuck",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$1.0B",
-    "amount_usd": 1020000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-29",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/blackbuck-crosses-rs-200-cr-revenue-in-q1-fy27-profit-rises-24-12208533"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "TBO Tek’s Q1 FY27",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹926 Cr ($111.6M)",
-    "amount_usd": 111566265.06,
-    "currency": "INR",
-    "announced_on": "2026-07-29",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/tbo-teks-q1-FY27-revenue-jumps-81-to-rs-926-cr-profit-grows-32-12209553"
     ],
     "confidence": 0.6,
     "summary": "",
@@ -601,25 +559,6 @@
     "city": ""
   },
   {
-    "company_name": "Pluckk",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$26M",
-    "amount_usd": 26000000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-09",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Masters’ Union",
     "sector": "",
     "sector_raw": null,
@@ -633,6 +572,25 @@
     "investors": [],
     "sources": [
       "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Pluckk",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$26M",
+    "amount_usd": 26000000.0,
+    "currency": "USD",
+    "announced_on": "2026-04-09",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
     ],
     "confidence": 0.6,
     "summary": "",
