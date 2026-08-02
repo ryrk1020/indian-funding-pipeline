@@ -1,24 +1,42 @@
 [
   {
+    "company_name": "Funding",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$82.2M",
+    "amount_usd": 82200000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-01",
+    "lead_investor": "Apna Mart",
+    "investors": [
+      "Apna Mart",
+      "Peak XV Partners. Hyderabad-based"
+    ],
+    "sources": [
+      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-july-27-aug-01-12217797"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Indian Physical AI",
     "sector": "",
     "sector_raw": null,
     "stage": "Pre-Series A",
     "stage_raw": "pre_series_a",
-    "amount": "$45M",
-    "amount_usd": 45000000.0,
+    "amount": "$662M",
+    "amount_usd": 662000000.0,
     "currency": "USD",
-    "announced_on": "2026-07-30",
+    "announced_on": "2026-08-01",
     "lead_investor": "Entrackr",
     "investors": [
-      "Entrackr",
-      "Info Edge. Bengaluru",
-      "Neotribe Ventures",
-      "RedStartLabs",
-      "SIG"
+      "Entrackr"
     ],
     "sources": [
-      "https://entrackr.com/report/indian-physical-ai-attracts-155-mn-in-2026-as-robotics-real-world-data-gain-traction-12210766"
+      "https://entrackr.com/report/indian-startup-funding-drops-to-662-mn-in-july-after-june-spike-12218904"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -42,6 +60,31 @@
     ],
     "sources": [
       "https://entrackr.com/snippets/drone-startup-suind-raises-rs-205-cr-in-seed-round-led-by-transition-vc-12210797"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Indian Physical AI",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$45M",
+    "amount_usd": 45000000.0,
+    "currency": "USD",
+    "announced_on": "2026-07-30",
+    "lead_investor": "Entrackr",
+    "investors": [
+      "Entrackr",
+      "Info Edge. Bengaluru",
+      "Neotribe Ventures",
+      "RedStartLabs",
+      "SIG"
+    ],
+    "sources": [
+      "https://entrackr.com/report/indian-physical-ai-attracts-155-mn-in-2026-as-robotics-real-world-data-gain-traction-12210766"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -196,50 +239,6 @@
     "city": ""
   },
   {
-    "company_name": "Funding",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$70.4M",
-    "amount_usd": 70400000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-11",
-    "lead_investor": "WestBridge Capital. Physical AI",
-    "investors": [
-      "InnoVent Capital",
-      "WestBridge Capital. Physical AI"
-    ],
-    "sources": [
-      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-july-06-july-11-12155105"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Funding",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$137M",
-    "amount_usd": 137000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-04",
-    "lead_investor": "Bajaj Finserv Ventures. At-home",
-    "investors": [
-      "Bajaj Finserv Ventures. At-home",
-      "DSG Consumer Partners. Among"
-    ],
-    "sources": [
-      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-june-29-july-04-12132613"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Textile tech startup STCH",
     "sector": "",
     "sector_raw": null,
@@ -327,21 +326,38 @@
     "city": ""
   },
   {
-    "company_name": "Aham Housing Finance",
+    "company_name": "Manipal Health IPO",
     "sector": "",
     "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹100 Cr ($12M)",
-    "amount_usd": 12048192.77,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "₹50 Cr ($6M)",
+    "amount_usd": 6024096.39,
     "currency": "INR",
-    "announced_on": "2026-07-30",
-    "lead_investor": "The Sanmar Group. Existing",
-    "investors": [
-      "The Sanmar Group. Existing"
-    ],
+    "announced_on": "2026-07-31",
+    "lead_investor": "",
+    "investors": [],
     "sources": [
-      "https://entrackr.com/snippets/aham-housing-finance-raises-rs-100-cr-led-by-sanmar-group-12213357"
+      "https://www.moneycontrol.com/news/business/ipo/manipal-health-ipo-gmp-issue-subscribed-50-so-far-on-last-day-should-you-apply-13989970.html"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Juniper Green Energy IPO: Issue",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "₹1800 Cr ($216.9M)",
+    "amount_usd": 216867469.88,
+    "currency": "INR",
+    "announced_on": "2026-07-31",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://www.moneycontrol.com/news/business/ipo/juniper-green-energy-ipo-gmp-issue-subscribed-over-40-so-far-on-second-day-latest-gmp-here-13989903.html"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -360,7 +376,30 @@
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/news/zepto-postpones-ipo-may-raise-rs-1000-cr-in-pre-ipo-round-12213382"
+      "https://entrackr.com/news/zepto-postpones-ipo-may-raise-rs-1000-cr-in-pre-ipo-round-12213382",
+      "https://www.moneycontrol.com/news/business/ipo/zepto-pauses-ipo-plans-for-now-likely-to-raise-over-rs-1-000-crore-in-pre-ipo-funding-from-existing-investors-13989283.html",
+      "https://www.moneycontrol.com/news/business/startup/zepto-announces-pre-ipo-private-placement-to-list-within-sebi-approved-timeline-13991005.html"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Aham Housing Finance",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹100 Cr ($12M)",
+    "amount_usd": 12048192.77,
+    "currency": "INR",
+    "announced_on": "2026-07-30",
+    "lead_investor": "The Sanmar Group. Existing",
+    "investors": [
+      "The Sanmar Group. Existing"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/aham-housing-finance-raises-rs-100-cr-led-by-sanmar-group-12213357"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -445,6 +484,25 @@
     "city": ""
   },
   {
+    "company_name": "Urban Company Q1: Net",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹92 Cr ($11.1M)",
+    "amount_usd": 11084337.35,
+    "currency": "INR",
+    "announced_on": "2026-07-31",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://www.moneycontrol.com/news/business/earnings/urban-company-q1-net-loss-at-rs-92-crore-as-instahelp-weighs-on-earnings-revenue-up-44-13990248.html"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Shadowfax",
     "sector": "",
     "sector_raw": null,
@@ -464,7 +522,7 @@
     "city": ""
   },
   {
-    "company_name": "Urban Company",
+    "company_name": "Urban Company Q1: Net",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
@@ -559,25 +617,6 @@
     "city": ""
   },
   {
-    "company_name": "Masters’ Union",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹100 Cr ($12M)",
-    "amount_usd": 12048192.77,
-    "currency": "INR",
-    "announced_on": "2026-04-09",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Pluckk",
     "sector": "",
     "sector_raw": null,
@@ -591,6 +630,25 @@
     "investors": [],
     "sources": [
       "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Masters’ Union",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹100 Cr ($12M)",
+    "amount_usd": 12048192.77,
+    "currency": "INR",
+    "announced_on": "2026-04-09",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
     ],
     "confidence": 0.6,
     "summary": "",
