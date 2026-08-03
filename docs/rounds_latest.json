@@ -1,5 +1,26 @@
 [
   {
+    "company_name": "EV charging startup RoadGrid",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "₹13 Cr ($1.6M)",
+    "amount_usd": 1566265.06,
+    "currency": "INR",
+    "announced_on": "2026-08-03",
+    "lead_investor": "Venture Catalysts",
+    "investors": [
+      "Venture Catalysts"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/ev-charging-startup-roadgrid-secures-rs-13-cr-from-technology-development-board-12222755"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
@@ -43,29 +64,6 @@
     "city": ""
   },
   {
-    "company_name": "Drone startup SUIND",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$2.2M",
-    "amount_usd": 2200000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-30",
-    "lead_investor": "Transition VC. The",
-    "investors": [
-      "IIMA Ventures. Entrackr",
-      "IIMA Ventures. Follow Us Agriculture",
-      "Transition VC. The"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/drone-startup-suind-raises-rs-205-cr-in-seed-round-led-by-transition-vc-12210797"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Indian Physical AI",
     "sector": "",
     "sector_raw": null,
@@ -85,70 +83,6 @@
     ],
     "sources": [
       "https://entrackr.com/report/indian-physical-ai-attracts-155-mn-in-2026-as-robotics-real-world-data-gain-traction-12210766"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Peak XV",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "₹139 Cr ($16.7M)",
-    "amount_usd": 16746987.95,
-    "currency": "INR",
-    "announced_on": "2026-07-30",
-    "lead_investor": "",
-    "investors": [
-      "Aditya Birla Sun Life Mutual"
-    ],
-    "sources": [
-      "https://entrackr.com/news-analysis/peak-xv-makes-another-go-digit-exit-sells-shares-worth-rs-139-cr-via-block-deal-12210933"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Sid’s Farm",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$8.4M",
-    "amount_usd": 8400000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-30",
-    "lead_investor": "Omnivore. News. Follow Us Hyderabad-based",
-    "investors": [
-      "Omnivore. News. Follow Us Hyderabad-based"
-    ],
-    "sources": [
-      "https://entrackr.com/news/sids-farm-raises-over-rs-81-cr-in-pre-series-b-round-12211387"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Apna Mart",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$12.7M",
-    "amount_usd": 12700000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-30",
-    "lead_investor": "Accel",
-    "investors": [
-      "Accel",
-      "Peak XV Partners. The"
-    ],
-    "sources": [
-      "https://entrackr.com/news/apna-mart-raises-rs-120-cr-in-series-c-round-led-by-accel-fundamentum-12211453"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -326,59 +260,19 @@
     "city": ""
   },
   {
-    "company_name": "Manipal Health IPO",
+    "company_name": "Exclusive: SuperManager AGI",
     "sector": "",
     "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
     "amount": "₹50 Cr ($6M)",
     "amount_usd": 6024096.39,
     "currency": "INR",
-    "announced_on": "2026-07-31",
+    "announced_on": "2026-08-03",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://www.moneycontrol.com/news/business/ipo/manipal-health-ipo-gmp-issue-subscribed-50-so-far-on-last-day-should-you-apply-13989970.html"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Juniper Green Energy IPO: Issue",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "₹1800 Cr ($216.9M)",
-    "amount_usd": 216867469.88,
-    "currency": "INR",
-    "announced_on": "2026-07-31",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/ipo/juniper-green-energy-ipo-gmp-issue-subscribed-over-40-so-far-on-second-day-latest-gmp-here-13989903.html"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Zepto",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "$105M",
-    "amount_usd": 105000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-30",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/zepto-postpones-ipo-may-raise-rs-1000-cr-in-pre-ipo-round-12213382",
-      "https://www.moneycontrol.com/news/business/ipo/zepto-pauses-ipo-plans-for-now-likely-to-raise-over-rs-1-000-crore-in-pre-ipo-funding-from-existing-investors-13989283.html",
-      "https://www.moneycontrol.com/news/business/startup/zepto-announces-pre-ipo-private-placement-to-list-within-sebi-approved-timeline-13991005.html"
+      "https://entrackr.com/exclusive/exclusive-supermanager-agi-in-acquisition-talks-with-fortune-100-firm-12222583"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -406,19 +300,19 @@
     "city": ""
   },
   {
-    "company_name": "Anicut Capital",
+    "company_name": "Zepto",
     "sector": "",
     "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$1M",
-    "amount_usd": 1000000.0,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "$105M",
+    "amount_usd": 105000000.0,
     "currency": "USD",
-    "announced_on": "2026-07-29",
+    "announced_on": "2026-07-30",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/snippets/anicut-capital-launches-rs-250-cr-seed-fund-to-back-20-early-stage-startups-12208338"
+      "https://entrackr.com/news/zepto-postpones-ipo-may-raise-rs-1000-cr-in-pre-ipo-round-12213382"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -484,25 +378,6 @@
     "city": ""
   },
   {
-    "company_name": "Urban Company Q1: Net",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹92 Cr ($11.1M)",
-    "amount_usd": 11084337.35,
-    "currency": "INR",
-    "announced_on": "2026-07-31",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/earnings/urban-company-q1-net-loss-at-rs-92-crore-as-instahelp-weighs-on-earnings-revenue-up-44-13990248.html"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Shadowfax",
     "sector": "",
     "sector_raw": null,
@@ -522,7 +397,7 @@
     "city": ""
   },
   {
-    "company_name": "Urban Company Q1: Net",
+    "company_name": "Urban Company",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
