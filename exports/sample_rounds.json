@@ -21,6 +21,70 @@
     "city": ""
   },
   {
+    "company_name": "KKR-backed LEAP India",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Bridge",
+    "stage_raw": "bridge",
+    "amount": "₹2480 Cr ($298.8M)",
+    "amount_usd": 298795180.72,
+    "currency": "INR",
+    "announced_on": "2026-08-03",
+    "lead_investor": "Vertical Holdings II Pte. Ltd",
+    "investors": [
+      "Vertical Holdings II Pte. Ltd"
+    ],
+    "sources": [
+      "https://entrackr.com/news/kkr-backed-leap-india-files-rhp-for-rs-2480-cr-ipo-issue-opens-august-7-12222949"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Exclusive: Sarvam AI",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$74M",
+    "amount_usd": 74000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-03",
+    "lead_investor": "NVIDIA Corporation",
+    "investors": [
+      "Glade Brook Capital",
+      "NVIDIA Corporation"
+    ],
+    "sources": [
+      "https://entrackr.com/exclusive/exclusive-sarvam-ai-board-to-approve-74-funding-mn-from-nvidia-glade-brook-others-12223413"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Transition VC-backed Matel",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$15M",
+    "amount_usd": 15000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-03",
+    "lead_investor": "UC Impower. News. Follow Us",
+    "investors": [
+      "UC Impower. News. Follow Us"
+    ],
+    "sources": [
+      "https://entrackr.com/news/transition-vc-backed-matel-raises-rs-130-cr-in-series-b-round-led-by-uc-impower-12223669"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
@@ -83,48 +147,6 @@
     ],
     "sources": [
       "https://entrackr.com/report/indian-physical-ai-attracts-155-mn-in-2026-as-robotics-real-world-data-gain-traction-12210766"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Arboreal Bioinnovations",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$24M",
-    "amount_usd": 24000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-30",
-    "lead_investor": "EAAA",
-    "investors": [
-      "EAAA"
-    ],
-    "sources": [
-      "https://entrackr.com/news/arboreal-bioinnovations-raises-rs-230-cr-in-series-a-led-by-edelweisss-eaaa-and-omnivore-12211900"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "IPV",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$5.8B",
-    "amount_usd": 5850000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-30",
-    "lead_investor": "Inflection Point Ventures",
-    "investors": [
-      "Inflection Point Ventures"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/ipv-leads-seed-round-in-hair-beauty-and-styling-brand-truth-hair-12212591"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -238,24 +260,21 @@
     "city": ""
   },
   {
-    "company_name": "TraqCheck",
+    "company_name": "Former Swiggy, Zomato",
     "sector": "",
     "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$8M",
-    "amount_usd": 8000000.0,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "$1.5M",
+    "amount_usd": 1500000.0,
     "currency": "USD",
-    "announced_on": "2026-04-14",
-    "lead_investor": "IvyCap Ventures",
-    "investors": [
-      "IIFL. TraqCheck",
-      "IvyCap Ventures"
-    ],
+    "announced_on": "2026-08-04",
+    "lead_investor": "",
+    "investors": [],
     "sources": [
-      "https://yourstory.com/2026/04/traqcheck-raises-8-million-led-by-ivycap-ventures"
+      "https://entrackr.com/snippets/former-swiggy-zomato-executives-launch-ai-startup-profound-with-15-mn-seed-round-12225874"
     ],
-    "confidence": 0.85,
+    "confidence": 0.8,
     "summary": "",
     "city": ""
   },
@@ -279,40 +298,19 @@
     "city": ""
   },
   {
-    "company_name": "Aham Housing Finance",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹100 Cr ($12M)",
-    "amount_usd": 12048192.77,
-    "currency": "INR",
-    "announced_on": "2026-07-30",
-    "lead_investor": "The Sanmar Group. Existing",
-    "investors": [
-      "The Sanmar Group. Existing"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/aham-housing-finance-raises-rs-100-cr-led-by-sanmar-group-12213357"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Zepto",
+    "company_name": "Exclusive: Spinny",
     "sector": "",
     "sector_raw": null,
     "stage": "IPO",
     "stage_raw": "ipo",
-    "amount": "$105M",
-    "amount_usd": 105000000.0,
+    "amount": "$780M",
+    "amount_usd": 780000000.0,
     "currency": "USD",
-    "announced_on": "2026-07-30",
+    "announced_on": "2026-08-03",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/news/zepto-postpones-ipo-may-raise-rs-1000-cr-in-pre-ipo-round-12213382"
+      "https://entrackr.com/exclusive/exclusive-spinny-converts-into-public-company-fy26-topline-touches-rs-6000-cr-12223924"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -378,19 +376,114 @@
     "city": ""
   },
   {
-    "company_name": "Shadowfax",
+    "company_name": "MobiKwik",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "$1.4B",
-    "amount_usd": 1450000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-31",
+    "amount": "₹7.6 Cr ($916K)",
+    "amount_usd": 915662.65,
+    "currency": "INR",
+    "announced_on": "2026-08-03",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/fintrackr/shadowfax-clocks-rs-1358-cr-revenue-in-q1-fy27-profit-rises-over-8x-12214978"
+      "https://entrackr.com/fintrackr/mobikwik-reports-rs-281-cr-revenue-and-rs-76-cr-profit-in-q1-fy27-12223149"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Coffee",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹50 Cr ($6M)",
+    "amount_usd": 6024096.39,
+    "currency": "INR",
+    "announced_on": "2026-08-03",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/coffee-equipment-and-services-provider-kaapi-machines-raises-rs-50-cr-from-sedna-horeca-12223166"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Astrotalk Store",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹1.0 Cr ($120K)",
+    "amount_usd": 120481.93,
+    "currency": "INR",
+    "announced_on": "2026-08-03",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/astrotalk-store-claims-rs-1-cr-daily-gmv-launches-dedicated-gemstones-platform-12223248"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Imarticus Learning",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "",
+    "amount_usd": null,
+    "currency": "",
+    "announced_on": "2026-08-03",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/imarticus-learning-acquires-singapore-based-bells-institute-of-higher-learning-12223587"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Ather Energy",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$5.3B",
+    "amount_usd": 5300000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-03",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/ather-energy-reports-rs-1217-cr-revenue-in-q1-fy27-loss-drops-to-rs-51-cr-12223909"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "MakeMyTrip",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$9.1M",
+    "amount_usd": 9100000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-03",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/makemytrip-reports-286-mn-revenue-in-q1-fy27-profit-plunges-65-12225035"
     ],
     "confidence": 0.6,
     "summary": "",
@@ -416,63 +509,6 @@
     "city": ""
   },
   {
-    "company_name": "InCred Finance",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹172 Cr ($20.7M)",
-    "amount_usd": 20722891.57,
-    "currency": "INR",
-    "announced_on": "2026-07-30",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/incred-finance-reports-rs-759-cr-revenue-in-q1-fy27-profit-jumps-83-12211625"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Swiggy Q1 FY27",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$8.5B",
-    "amount_usd": 8530000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-30",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/swiggy-q1-fy27-revenue-jumps-37-to-rs-6812-cr-loss-narrows-34-12212243"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Kissht",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$610M",
-    "amount_usd": 610000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-29",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/kissht-clocks-rs-670-cr-revenue-and-rs-95-cr-profit-in-q1-fy27-12210056"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Govt’s Fund",
     "sector": "",
     "sector_raw": null,
@@ -486,6 +522,25 @@
     "investors": [],
     "sources": [
       "https://yourstory.com/2026/04/govts-fund-of-funds-20-expand-newer-startup-segments"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Masters’ Union",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹100 Cr ($12M)",
+    "amount_usd": 12048192.77,
+    "currency": "INR",
+    "announced_on": "2026-04-09",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
     ],
     "confidence": 0.6,
     "summary": "",
@@ -511,19 +566,19 @@
     "city": ""
   },
   {
-    "company_name": "Masters’ Union",
+    "company_name": "TraqCheck",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "₹100 Cr ($12M)",
-    "amount_usd": 12048192.77,
-    "currency": "INR",
-    "announced_on": "2026-04-09",
+    "amount": "$8M",
+    "amount_usd": 8000000.0,
+    "currency": "USD",
+    "announced_on": "",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
+      "https://yourstory.com/2026/04/traqcheck-raises-8-million-led-by-ivycap-ventures"
     ],
     "confidence": 0.6,
     "summary": "",
