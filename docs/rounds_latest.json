@@ -1,63 +1,127 @@
 [
   {
-    "company_name": "EV charging startup RoadGrid",
+    "company_name": "Deep-tech energy startup Adiabatic Technologies",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "₹8.3 Cr ($1M)",
+    "amount_usd": 1000000.0,
+    "currency": "INR",
+    "announced_on": "2026-08-05",
+    "lead_investor": "Malpani Ventures",
+    "investors": [
+      "Appreciate Capital",
+      "Malpani Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/deep-tech-energy-startup-adiabatic-technologies-raises-rs-83-cr-in-seed-round-12230018"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "InRisk Labs",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$27M",
+    "amount_usd": 27000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-05",
+    "lead_investor": "Bessemer Venture Partners",
+    "investors": [
+      "Bessemer Venture Partners"
+    ],
+    "sources": [
+      "https://entrackr.com/news/inrisk-labs-raises-27-mn-in-series-a-round-led-by-bessemer-northpoint-capital-12230166"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Superleap",
     "sector": "",
     "sector_raw": null,
     "stage": "Pre-Series A",
     "stage_raw": "pre_series_a",
-    "amount": "₹13 Cr ($1.6M)",
-    "amount_usd": 1566265.06,
-    "currency": "INR",
-    "announced_on": "2026-08-03",
-    "lead_investor": "Venture Catalysts",
+    "amount": "$3.7M",
+    "amount_usd": 3700000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-04",
+    "lead_investor": "Peak XV Partners",
     "investors": [
-      "Venture Catalysts"
+      "Peak XV Partners"
     ],
     "sources": [
-      "https://entrackr.com/snippets/ev-charging-startup-roadgrid-secures-rs-13-cr-from-technology-development-board-12222755"
+      "https://entrackr.com/snippets/superleap-raises-rs-36-cr-in-pre-series-a-round-led-by-peak-xvs-surge-12226051"
     ],
     "confidence": 0.85,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "KKR-backed LEAP India",
+    "company_name": "Exclusive: Stable Money",
     "sector": "",
     "sector_raw": null,
-    "stage": "Bridge",
-    "stage_raw": "bridge",
-    "amount": "₹2480 Cr ($298.8M)",
-    "amount_usd": 298795180.72,
-    "currency": "INR",
-    "announced_on": "2026-08-03",
-    "lead_investor": "Vertical Holdings II Pte. Ltd",
+    "stage": "Series C",
+    "stage_raw": "series_c",
+    "amount": "$14.3M",
+    "amount_usd": 14300000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-04",
+    "lead_investor": "The Fundamentum Partnership. Follow Us",
     "investors": [
-      "Vertical Holdings II Pte. Ltd"
+      "Peak XV Partners",
+      "The Fundamentum Partnership. Follow Us"
     ],
     "sources": [
-      "https://entrackr.com/news/kkr-backed-leap-india-files-rhp-for-rs-2480-cr-ipo-issue-opens-august-7-12222949"
+      "https://entrackr.com/exclusive/exclusive-stable-money-kicks-off-series-c-with-143-mn-from-existing-investors-12226556"
     ],
     "confidence": 0.85,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Exclusive: Sarvam AI",
+    "company_name": "Exclusive: Gen AI",
     "sector": "",
     "sector_raw": null,
     "stage": "Series B",
     "stage_raw": "series_b",
-    "amount": "$74M",
-    "amount_usd": 74000000.0,
+    "amount": "$9M",
+    "amount_usd": 9000000.0,
     "currency": "USD",
-    "announced_on": "2026-08-03",
-    "lead_investor": "NVIDIA Corporation",
+    "announced_on": "2026-08-04",
+    "lead_investor": "Dallas Venture Capital",
     "investors": [
-      "Glade Brook Capital",
-      "NVIDIA Corporation"
+      "Dallas Venture Capital"
     ],
     "sources": [
-      "https://entrackr.com/exclusive/exclusive-sarvam-ai-board-to-approve-74-funding-mn-from-nvidia-glade-brook-others-12223413"
+      "https://entrackr.com/exclusive/exclusive-gen-ai-startup-simplismart-set-to-raise-9-mn-in-series-b-led-by-dallas-venture-capital-12226753"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Vaaree",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$6.6M",
+    "amount_usd": 6600000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-04",
+    "lead_investor": "Hero Enterprise",
+    "investors": [
+      "Hero Enterprise"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/vaaree-raises-rs-65-cr-in-series-a-led-by-hero-enterprise-and-cap-alpha-ventures-12227333"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -260,6 +324,28 @@
     "city": ""
   },
   {
+    "company_name": "TraqCheck",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$8M",
+    "amount_usd": 8000000.0,
+    "currency": "USD",
+    "announced_on": "2026-04-14",
+    "lead_investor": "IvyCap Ventures",
+    "investors": [
+      "IIFL. TraqCheck",
+      "IvyCap Ventures"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/04/traqcheck-raises-8-million-led-by-ivycap-ventures"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Former Swiggy, Zomato",
     "sector": "",
     "sector_raw": null,
@@ -279,38 +365,141 @@
     "city": ""
   },
   {
-    "company_name": "Exclusive: SuperManager AGI",
+    "company_name": "Agentic AI startup Kily",
     "sector": "",
     "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "₹50 Cr ($6M)",
-    "amount_usd": 6024096.39,
-    "currency": "INR",
-    "announced_on": "2026-08-03",
-    "lead_investor": "",
-    "investors": [],
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$3.1M",
+    "amount_usd": 3100000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-04",
+    "lead_investor": "Sorin Investments",
+    "investors": [
+      "Razorpay",
+      "Sorin Investments"
+    ],
     "sources": [
-      "https://entrackr.com/exclusive/exclusive-supermanager-agi-in-acquisition-talks-with-fortune-100-firm-12222583"
+      "https://entrackr.com/snippets/agentic-ai-startup-kily-raises-rs-30-cr-in-round-led-by-sorin-investments-12225876"
     ],
     "confidence": 0.8,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Exclusive: Spinny",
+    "company_name": "Mintoak",
     "sector": "",
     "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "$780M",
-    "amount_usd": 780000000.0,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "$30M",
+    "amount_usd": 30000000.0,
     "currency": "USD",
-    "announced_on": "2026-08-03",
+    "announced_on": "2026-08-04",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/exclusive/exclusive-spinny-converts-into-public-company-fy26-topline-touches-rs-6000-cr-12223924"
+      "https://entrackr.com/snippets/mintoak-acquires-loyalty-and-rewards-tech-company-icc-loyalty-12226636"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "GetVantage",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$6.6M",
+    "amount_usd": 6600000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-04",
+    "lead_investor": "Rajeev Ahuja",
+    "investors": [
+      "Chiratae Ventures",
+      "Rajeev Ahuja"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/getvantage-secures-rs-63-cr-in-series-a1-round-12226948"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Legal tech startup NYAI",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "$1.5M",
+    "amount_usd": 1500000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-04",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/legal-tech-startup-nyai-raises-15-mn-in-seed-round-12227113"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Zoppler Systems",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹6.5 Cr ($783K)",
+    "amount_usd": 783132.53,
+    "currency": "INR",
+    "announced_on": "2026-08-04",
+    "lead_investor": "Finvolve",
+    "investors": [
+      "Finvolve"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/zoppler-systems-raises-rs-65-cr-from-finvolve-and-india-accelerator-12227359"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Nykaa’s",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "$10.3B",
+    "amount_usd": 10300000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-04",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/nykaas-profits-jump-33x-to-rs-80-cr-in-q1-fy27-acquires-51-stake-in-skin-care-brand-aminu-12227393"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Peak XV, Elevation Capital",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "$9.3B",
+    "amount_usd": 9340000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-04",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/peak-xv-elevation-capital-sell-227-stake-in-meesho-for-rs-1949-cr-via-block-deals-12229462"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -376,95 +565,57 @@
     "city": ""
   },
   {
-    "company_name": "MobiKwik",
+    "company_name": "Capillary Technologies’",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "₹7.6 Cr ($916K)",
-    "amount_usd": 915662.65,
-    "currency": "INR",
-    "announced_on": "2026-08-03",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/mobikwik-reports-rs-281-cr-revenue-and-rs-76-cr-profit-in-q1-fy27-12223149"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Coffee",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹50 Cr ($6M)",
-    "amount_usd": 6024096.39,
-    "currency": "INR",
-    "announced_on": "2026-08-03",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/coffee-equipment-and-services-provider-kaapi-machines-raises-rs-50-cr-from-sedna-horeca-12223166"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Astrotalk Store",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹1.0 Cr ($120K)",
-    "amount_usd": 120481.93,
-    "currency": "INR",
-    "announced_on": "2026-08-03",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/astrotalk-store-claims-rs-1-cr-daily-gmv-launches-dedicated-gemstones-platform-12223248"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Imarticus Learning",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "",
-    "amount_usd": null,
-    "currency": "",
-    "announced_on": "2026-08-03",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/imarticus-learning-acquires-singapore-based-bells-institute-of-higher-learning-12223587"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Ather Energy",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$5.3B",
-    "amount_usd": 5300000000.0,
+    "amount": "$477M",
+    "amount_usd": 477000000.0,
     "currency": "USD",
-    "announced_on": "2026-08-03",
+    "announced_on": "2026-08-04",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/fintrackr/ather-energy-reports-rs-1217-cr-revenue-in-q1-fy27-loss-drops-to-rs-51-cr-12223909"
+      "https://entrackr.com/fintrackr/capillary-technologies-revenue-grows-43-to-rs-257-cr-in-q1-fy27-12226775"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "MapMyIndia",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹140 Cr ($16.8M)",
+    "amount_usd": 16831325.3,
+    "currency": "INR",
+    "announced_on": "2026-08-04",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/mapmyindia-reports-rs-140-cr-revenue-and-rs-504-cr-profit-in-q1-fy27-12227343"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "OfBusiness",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹2500 Cr ($301.2M)",
+    "amount_usd": 301204819.28,
+    "currency": "INR",
+    "announced_on": "2026-08-04",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/ofbusiness-doubles-exports-to-rs-2500-cr-in-fy26-12227456"
     ],
     "confidence": 0.6,
     "summary": "",
@@ -484,25 +635,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/fintrackr/makemytrip-reports-286-mn-revenue-in-q1-fy27-profit-plunges-65-12225035"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Urban Company",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$2.1B",
-    "amount_usd": 2100000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-31",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/urban-company-posts-92-cr-loss-on-rs-528-cr-revenue-in-q1-fy27-12215866"
     ],
     "confidence": 0.6,
     "summary": "",
@@ -560,25 +692,6 @@
     "investors": [],
     "sources": [
       "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "TraqCheck",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$8M",
-    "amount_usd": 8000000.0,
-    "currency": "USD",
-    "announced_on": "",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/04/traqcheck-raises-8-million-led-by-ivycap-ventures"
     ],
     "confidence": 0.6,
     "summary": "",
