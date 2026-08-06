@@ -1,5 +1,68 @@
 [
   {
+    "company_name": "Shiprocket",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "$743M",
+    "amount_usd": 743000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-06",
+    "lead_investor": "Lightrock",
+    "investors": [
+      "Lightrock"
+    ],
+    "sources": [
+      "https://entrackr.com/news/shiprocket-trims-ipo-size-by-31-in-rhp-to-rs-1617-cr-issue-to-open-on-august-12-12234074"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "HomeRun",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$12M",
+    "amount_usd": 12000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-06",
+    "lead_investor": "Nexus Venture Partners. Follow Us",
+    "investors": [
+      "Nexus Venture Partners. Follow Us"
+    ],
+    "sources": [
+      "https://entrackr.com/news/homerun-raises-12-mn-in-series-a-round-led-by-nexus-venture-partners-12234340"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Stellaris Venture",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$8M",
+    "amount_usd": 8000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-06",
+    "lead_investor": "Stellaris Venture Partners",
+    "investors": [
+      "Stellaris Venture Partners"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/stellaris-venture-leads-8-mn-series-a-round-in-equity-research-startup-pinegap-12234362"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Deep-tech energy startup Adiabatic Technologies",
     "sector": "",
     "sector_raw": null,
@@ -43,106 +106,66 @@
     "city": ""
   },
   {
-    "company_name": "Superleap",
+    "company_name": "Personal assistance startup Hulp",
     "sector": "",
     "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$3.7M",
-    "amount_usd": 3700000.0,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "$2.6M",
+    "amount_usd": 2600000.0,
     "currency": "USD",
-    "announced_on": "2026-08-04",
-    "lead_investor": "Peak XV Partners",
+    "announced_on": "2026-08-05",
+    "lead_investor": "Sparrow Capital",
     "investors": [
-      "Peak XV Partners"
+      "DeVC",
+      "Sparrow Capital"
     ],
     "sources": [
-      "https://entrackr.com/snippets/superleap-raises-rs-36-cr-in-pre-series-a-round-led-by-peak-xvs-surge-12226051"
+      "https://entrackr.com/snippets/personal-assistance-startup-hulp-secures-26-mn-seed-funding-12230169"
     ],
     "confidence": 0.85,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Exclusive: Stable Money",
+    "company_name": "C2C marketplace Vingo",
     "sector": "",
     "sector_raw": null,
-    "stage": "Series C",
-    "stage_raw": "series_c",
-    "amount": "$14.3M",
-    "amount_usd": 14300000.0,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "$1M",
+    "amount_usd": 1000000.0,
     "currency": "USD",
-    "announced_on": "2026-08-04",
-    "lead_investor": "The Fundamentum Partnership. Follow Us",
+    "announced_on": "2026-08-05",
+    "lead_investor": "IndiaQuotient Follow Us Vingo",
     "investors": [
-      "Peak XV Partners",
-      "The Fundamentum Partnership. Follow Us"
+      "IndiaQuotient Follow Us Vingo"
     ],
     "sources": [
-      "https://entrackr.com/exclusive/exclusive-stable-money-kicks-off-series-c-with-143-mn-from-existing-investors-12226556"
+      "https://entrackr.com/snippets/c2c-marketplace-vingo-raises-rs-10-cr-seed-round-led-by-indiaquotient-12231153"
     ],
     "confidence": 0.85,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Exclusive: Gen AI",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$9M",
-    "amount_usd": 9000000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-04",
-    "lead_investor": "Dallas Venture Capital",
-    "investors": [
-      "Dallas Venture Capital"
-    ],
-    "sources": [
-      "https://entrackr.com/exclusive/exclusive-gen-ai-startup-simplismart-set-to-raise-9-mn-in-series-b-led-by-dallas-venture-capital-12226753"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Vaaree",
+    "company_name": "River Mobility",
     "sector": "",
     "sector_raw": null,
     "stage": "Series A",
     "stage_raw": "series_a",
-    "amount": "$6.6M",
-    "amount_usd": 6600000.0,
+    "amount": "$120M",
+    "amount_usd": 120000000.0,
     "currency": "USD",
-    "announced_on": "2026-08-04",
-    "lead_investor": "Hero Enterprise",
+    "announced_on": "2026-08-05",
+    "lead_investor": "Elev8 Venture Partners",
     "investors": [
-      "Hero Enterprise"
+      "Al Futtaim Group",
+      "Elev8 Venture Partners",
+      "Singularity AMC"
     ],
     "sources": [
-      "https://entrackr.com/snippets/vaaree-raises-rs-65-cr-in-series-a-led-by-hero-enterprise-and-cap-alpha-ventures-12227333"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Transition VC-backed Matel",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$15M",
-    "amount_usd": 15000000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-03",
-    "lead_investor": "UC Impower. News. Follow Us",
-    "investors": [
-      "UC Impower. News. Follow Us"
-    ],
-    "sources": [
-      "https://entrackr.com/news/transition-vc-backed-matel-raises-rs-130-cr-in-series-b-round-led-by-uc-impower-12223669"
+      "https://entrackr.com/news/river-mobility-raises-120-mn-in-series-c-led-by-elev8-claypond-capital-12232629"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -346,101 +369,40 @@
     "city": ""
   },
   {
-    "company_name": "Former Swiggy, Zomato",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$1.5M",
-    "amount_usd": 1500000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-04",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/former-swiggy-zomato-executives-launch-ai-startup-profound-with-15-mn-seed-round-12225874"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Agentic AI startup Kily",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$3.1M",
-    "amount_usd": 3100000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-04",
-    "lead_investor": "Sorin Investments",
-    "investors": [
-      "Razorpay",
-      "Sorin Investments"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/agentic-ai-startup-kily-raises-rs-30-cr-in-round-led-by-sorin-investments-12225876"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Mintoak",
+    "company_name": "Beardo",
     "sector": "",
     "sector_raw": null,
     "stage": "Acquisition",
     "stage_raw": "acquisition",
-    "amount": "$30M",
-    "amount_usd": 30000000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-04",
+    "amount": "₹300 Cr ($36.1M)",
+    "amount_usd": 36144578.31,
+    "currency": "INR",
+    "announced_on": "2026-08-05",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/snippets/mintoak-acquires-loyalty-and-rewards-tech-company-icc-loyalty-12226636"
+      "https://entrackr.com/fintrackr/beardo-nears-rs-300-cr-revenue-in-fy26-profit-jumps-70-12231894"
     ],
     "confidence": 0.8,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "GetVantage",
+    "company_name": "Policybazaar",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "$6.6M",
-    "amount_usd": 6600000.0,
+    "amount": "$7.9B",
+    "amount_usd": 7890000000.0,
     "currency": "USD",
-    "announced_on": "2026-08-04",
-    "lead_investor": "Rajeev Ahuja",
+    "announced_on": "2026-08-05",
+    "lead_investor": "Policybazaar",
     "investors": [
-      "Chiratae Ventures",
-      "Rajeev Ahuja"
+      "Policybazaar"
     ],
     "sources": [
-      "https://entrackr.com/snippets/getvantage-secures-rs-63-cr-in-series-a1-round-12226948"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Legal tech startup NYAI",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$1.5M",
-    "amount_usd": 1500000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-04",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/legal-tech-startup-nyai-raises-15-mn-in-seed-round-12227113"
+      "https://entrackr.com/fintrackr/policybazaar-parent-pb-fintechs-profit-jumps-92-to-rs-163-crore-in-q1-fy27-12233370"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -565,19 +527,38 @@
     "city": ""
   },
   {
-    "company_name": "Capillary Technologies’",
+    "company_name": "Freshworks",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "$477M",
-    "amount_usd": 477000000.0,
+    "amount": "$237.4M",
+    "amount_usd": 237400000.0,
     "currency": "USD",
-    "announced_on": "2026-08-04",
+    "announced_on": "2026-08-05",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/fintrackr/capillary-technologies-revenue-grows-43-to-rs-257-cr-in-q1-fy27-12226775"
+      "https://entrackr.com/fintrackr/freshworks-turns-profitable-with-237-mn-revenue-in-q2-cy26-12231169"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Lighthouse Canton",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$6.0B",
+    "amount_usd": 6000000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-05",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/lighthouse-canton-closes-rs-1050-mn-private-credit-investment-in-emerald-leisures-12231787"
     ],
     "confidence": 0.6,
     "summary": "",
@@ -616,25 +597,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/snippets/ofbusiness-doubles-exports-to-rs-2500-cr-in-fy26-12227456"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "MakeMyTrip",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$9.1M",
-    "amount_usd": 9100000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-03",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/makemytrip-reports-286-mn-revenue-in-q1-fy27-profit-plunges-65-12225035"
     ],
     "confidence": 0.6,
     "summary": "",
