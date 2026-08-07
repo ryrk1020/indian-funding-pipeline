@@ -63,86 +63,42 @@
     "city": ""
   },
   {
-    "company_name": "Deep-tech energy startup Adiabatic Technologies",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "₹8.3 Cr ($1M)",
-    "amount_usd": 1000000.0,
-    "currency": "INR",
-    "announced_on": "2026-08-05",
-    "lead_investor": "Malpani Ventures",
-    "investors": [
-      "Appreciate Capital",
-      "Malpani Ventures"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/deep-tech-energy-startup-adiabatic-technologies-raises-rs-83-cr-in-seed-round-12230018"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "InRisk Labs",
+    "company_name": "Exclusive: Get My Parking",
     "sector": "",
     "sector_raw": null,
     "stage": "Series A",
     "stage_raw": "series_a",
-    "amount": "$27M",
-    "amount_usd": 27000000.0,
+    "amount": "$4.2M",
+    "amount_usd": 4210000.0,
     "currency": "USD",
-    "announced_on": "2026-08-05",
-    "lead_investor": "Bessemer Venture Partners",
+    "announced_on": "2026-08-06",
+    "lead_investor": "IvyCap Ventures. The",
     "investors": [
-      "Bessemer Venture Partners"
+      "IvyCap Ventures. The"
     ],
     "sources": [
-      "https://entrackr.com/news/inrisk-labs-raises-27-mn-in-series-a-round-led-by-bessemer-northpoint-capital-12230166"
+      "https://entrackr.com/exclusive/exclusive-get-my-parking-to-raise-rs-40-cr-from-ivycap-ventures-at-flat-valuation-12234597"
     ],
     "confidence": 0.85,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Personal assistance startup Hulp",
+    "company_name": "Leap India",
     "sector": "",
     "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$2.6M",
-    "amount_usd": 2600000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-05",
-    "lead_investor": "Sparrow Capital",
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "₹371 Cr ($44.7M)",
+    "amount_usd": 44734939.76,
+    "currency": "INR",
+    "announced_on": "2026-08-06",
+    "lead_investor": "Singapore-based",
     "investors": [
-      "DeVC",
-      "Sparrow Capital"
+      "Singapore-based"
     ],
     "sources": [
-      "https://entrackr.com/snippets/personal-assistance-startup-hulp-secures-26-mn-seed-funding-12230169"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "C2C marketplace Vingo",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$1M",
-    "amount_usd": 1000000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-05",
-    "lead_investor": "IndiaQuotient Follow Us Vingo",
-    "investors": [
-      "IndiaQuotient Follow Us Vingo"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/c2c-marketplace-vingo-raises-rs-10-cr-seed-round-led-by-indiaquotient-12231153"
+      "https://entrackr.com/news/leap-india-raises-rs-371-cr-in-pre-ipo-round-led-by-gic-arm-12235506"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -369,6 +325,106 @@
     "city": ""
   },
   {
+    "company_name": "Healthcare AI startup Consint.AI",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$2.3M",
+    "amount_usd": 2300000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-06",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/healthcare-ai-startup-consintai-raises-rs-22-cr-in-series-a-round-12234521"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Aramco Ventures",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$9.5M",
+    "amount_usd": 9500000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-06",
+    "lead_investor": "Aramco Ventures",
+    "investors": [
+      "Aramco Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/aramco-ventures-leads-95-mn-funding-in-climate-tech-startup-mitti-labs-12234526"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "BlackSoil",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "$9M",
+    "amount_usd": 9000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-06",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/blacksoil-funds-rs-80-cr-debt-for-mintoaks-icc-loyalty-acquisition-12235773"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Mela Ventures",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$5.5M",
+    "amount_usd": 5500000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-06",
+    "lead_investor": "Mela Ventures",
+    "investors": [
+      "Luthra Group",
+      "Mela Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/mela-ventures-co-leads-55-mn-series-a1-round-in-solinas-integrity-12236009"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Shiprocket",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "₹2000 Cr ($241M)",
+    "amount_usd": 240963855.42,
+    "currency": "INR",
+    "announced_on": "2026-08-06",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/shiprocket-crosses-rs-2000-cr-revenue-in-fy26-loss-rises-7-to-rs-79-cr-12236068"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Beardo",
     "sector": "",
     "sector_raw": null,
@@ -403,65 +459,6 @@
     ],
     "sources": [
       "https://entrackr.com/fintrackr/policybazaar-parent-pb-fintechs-profit-jumps-92-to-rs-163-crore-in-q1-fy27-12233370"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Zoppler Systems",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹6.5 Cr ($783K)",
-    "amount_usd": 783132.53,
-    "currency": "INR",
-    "announced_on": "2026-08-04",
-    "lead_investor": "Finvolve",
-    "investors": [
-      "Finvolve"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/zoppler-systems-raises-rs-65-cr-from-finvolve-and-india-accelerator-12227359"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Nykaa’s",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "$10.3B",
-    "amount_usd": 10300000000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-04",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/nykaas-profits-jump-33x-to-rs-80-cr-in-q1-fy27-acquires-51-stake-in-skin-care-brand-aminu-12227393"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Peak XV, Elevation Capital",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "$9.3B",
-    "amount_usd": 9340000000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-04",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/peak-xv-elevation-capital-sell-227-stake-in-meesho-for-rs-1949-cr-via-block-deals-12229462"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -527,76 +524,57 @@
     "city": ""
   },
   {
-    "company_name": "Freshworks",
+    "company_name": "Nazara",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "$237.4M",
-    "amount_usd": 237400000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-05",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/freshworks-turns-profitable-with-237-mn-revenue-in-q2-cy26-12231169"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Lighthouse Canton",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$6.0B",
-    "amount_usd": 6000000000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-05",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/lighthouse-canton-closes-rs-1050-mn-private-credit-investment-in-emerald-leisures-12231787"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "MapMyIndia",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹140 Cr ($16.8M)",
-    "amount_usd": 16831325.3,
+    "amount": "₹734 Cr ($88.4M)",
+    "amount_usd": 88373493.98,
     "currency": "INR",
-    "announced_on": "2026-08-04",
+    "announced_on": "2026-08-06",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/fintrackr/mapmyindia-reports-rs-140-cr-revenue-and-rs-504-cr-profit-in-q1-fy27-12227343"
+      "https://entrackr.com/news/nazara-approves-rs-7335-cr-preferential-share-issue-new-ceo-to-hold-467-stake-12235918"
     ],
     "confidence": 0.6,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "OfBusiness",
+    "company_name": "Piper Serica",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "₹2500 Cr ($301.2M)",
-    "amount_usd": 301204819.28,
+    "amount": "₹800 Cr ($96.4M)",
+    "amount_usd": 96385542.17,
     "currency": "INR",
-    "announced_on": "2026-08-04",
+    "announced_on": "2026-08-06",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/snippets/ofbusiness-doubles-exports-to-rs-2500-cr-in-fy26-12227456"
+      "https://entrackr.com/snippets/piper-serica-announces-rs-300-cr-first-close-for-bharat-tech-fund-12236351"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Ixigo",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$286M",
+    "amount_usd": 286000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-06",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/ixigo-posts-rs-357-cr-revenue-in-q1-fy27-profit-rises-81-12236939"
     ],
     "confidence": 0.6,
     "summary": "",
@@ -622,25 +600,6 @@
     "city": ""
   },
   {
-    "company_name": "Masters’ Union",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹100 Cr ($12M)",
-    "amount_usd": 12048192.77,
-    "currency": "INR",
-    "announced_on": "2026-04-09",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Pluckk",
     "sector": "",
     "sector_raw": null,
@@ -654,6 +613,25 @@
     "investors": [],
     "sources": [
       "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Masters’ Union",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹100 Cr ($12M)",
+    "amount_usd": 12048192.77,
+    "currency": "INR",
+    "announced_on": "2026-04-09",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
     ],
     "confidence": 0.6,
     "summary": "",
