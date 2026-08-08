@@ -1,20 +1,64 @@
 [
   {
-    "company_name": "Shiprocket",
+    "company_name": "Exclusive: Dosa",
     "sector": "",
     "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "$743M",
-    "amount_usd": 743000000.0,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$3.7M",
+    "amount_usd": 3700000.0,
     "currency": "USD",
-    "announced_on": "2026-08-06",
-    "lead_investor": "Lightrock",
+    "announced_on": "2026-08-07",
+    "lead_investor": "Ranjan",
     "investors": [
-      "Lightrock"
+      "Ranjan"
     ],
     "sources": [
-      "https://entrackr.com/news/shiprocket-trims-ipo-size-by-31-in-rhp-to-rs-1617-cr-issue-to-open-on-august-12-12234074"
+      "https://entrackr.com/exclusive/exclusive-dosa-chain-benne-raises-rs-35-cr-led-by-rajan-pais-claypond-capital-12238246"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Exclusive: PayGlocal",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$3.8M",
+    "amount_usd": 3840000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-07",
+    "lead_investor": "Tiger Global",
+    "investors": [
+      "Peak XV Partners",
+      "Tiger Global"
+    ],
+    "sources": [
+      "https://entrackr.com/exclusive/exclusive-payglocal-set-to-raise-fresh-funding-at-120-mn-valuation-12238391"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "D2C athleisure brand BlissClub",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$16.8M",
+    "amount_usd": 16800000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-07",
+    "lead_investor": "Singularity AMC. Founder Minu Margeret",
+    "investors": [
+      "Elevation Capital. According",
+      "Singularity AMC. Founder Minu Margeret"
+    ],
+    "sources": [
+      "https://entrackr.com/news/d2c-athleisure-brand-blissclub-raises-rs-160-cr-in-series-b-led-by-singularity-amc-12238770"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -99,29 +143,6 @@
     ],
     "sources": [
       "https://entrackr.com/news/leap-india-raises-rs-371-cr-in-pre-ipo-round-led-by-gic-arm-12235506"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "River Mobility",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$120M",
-    "amount_usd": 120000000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-05",
-    "lead_investor": "Elev8 Venture Partners",
-    "investors": [
-      "Al Futtaim Group",
-      "Elev8 Venture Partners",
-      "Singularity AMC"
-    ],
-    "sources": [
-      "https://entrackr.com/news/river-mobility-raises-120-mn-in-series-c-led-by-elev8-claypond-capital-12232629"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -425,25 +446,6 @@
     "city": ""
   },
   {
-    "company_name": "Beardo",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "₹300 Cr ($36.1M)",
-    "amount_usd": 36144578.31,
-    "currency": "INR",
-    "announced_on": "2026-08-05",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/beardo-nears-rs-300-cr-revenue-in-fy26-profit-jumps-70-12231894"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Policybazaar",
     "sector": "",
     "sector_raw": null,
@@ -520,6 +522,25 @@
       "https://yourstory.com/2026/04/indigo-invests-air-taxi-maker-sarla-aviation"
     ],
     "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Ola Electric's Q1 FY27",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹455 Cr ($54.8M)",
+    "amount_usd": 54819277.11,
+    "currency": "INR",
+    "announced_on": "2026-08-07",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/ola-electrics-q1-fy27-revenue-drops-45-to-rs-455-cr-loss-narrows-22-12239621"
+    ],
+    "confidence": 0.6,
     "summary": "",
     "city": ""
   },
