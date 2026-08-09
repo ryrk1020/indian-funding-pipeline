@@ -1,5 +1,26 @@
 [
   {
+    "company_name": "Funding",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$383.5M",
+    "amount_usd": 383500000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-08",
+    "lead_investor": "River Mobility",
+    "investors": [
+      "River Mobility"
+    ],
+    "sources": [
+      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-aug-03-aug-08-12241402"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Exclusive: Dosa",
     "sector": "",
     "sector_raw": null,
@@ -80,48 +101,6 @@
     ],
     "sources": [
       "https://entrackr.com/news/homerun-raises-12-mn-in-series-a-round-led-by-nexus-venture-partners-12234340"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Stellaris Venture",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$8M",
-    "amount_usd": 8000000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-06",
-    "lead_investor": "Stellaris Venture Partners",
-    "investors": [
-      "Stellaris Venture Partners"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/stellaris-venture-leads-8-mn-series-a-round-in-equity-research-startup-pinegap-12234362"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Exclusive: Get My Parking",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$4.2M",
-    "amount_usd": 4210000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-06",
-    "lead_investor": "IvyCap Ventures. The",
-    "investors": [
-      "IvyCap Ventures. The"
-    ],
-    "sources": [
-      "https://entrackr.com/exclusive/exclusive-get-my-parking-to-raise-rs-40-cr-from-ivycap-ventures-at-flat-valuation-12234597"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -238,27 +217,6 @@
     "city": ""
   },
   {
-    "company_name": "Funding",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$271M",
-    "amount_usd": 271000000.0,
-    "currency": "USD",
-    "announced_on": "2026-07-18",
-    "lead_investor": "AI",
-    "investors": [
-      "AI"
-    ],
-    "sources": [
-      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-july-06-july-11-12176124"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Textile tech startup STCH",
     "sector": "",
     "sector_raw": null,
@@ -346,40 +304,19 @@
     "city": ""
   },
   {
-    "company_name": "Healthcare AI startup Consint.AI",
+    "company_name": "Easebuzz",
     "sector": "",
     "sector_raw": null,
     "stage": "Series A",
     "stage_raw": "series_a",
-    "amount": "$2.3M",
-    "amount_usd": 2300000.0,
+    "amount": "$30M",
+    "amount_usd": 30000000.0,
     "currency": "USD",
-    "announced_on": "2026-08-06",
+    "announced_on": "2026-08-08",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/snippets/healthcare-ai-startup-consintai-raises-rs-22-cr-in-series-a-round-12234521"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Aramco Ventures",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$9.5M",
-    "amount_usd": 9500000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-06",
-    "lead_investor": "Aramco Ventures",
-    "investors": [
-      "Aramco Ventures"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/aramco-ventures-leads-95-mn-funding-in-climate-tech-startup-mitti-labs-12234526"
+      "https://entrackr.com/fintrackr/easebuzz-revenue-crosses-rs-700-cr-in-fy26-profit-plunges-42-12242187"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -446,27 +383,6 @@
     "city": ""
   },
   {
-    "company_name": "Policybazaar",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$7.9B",
-    "amount_usd": 7890000000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-05",
-    "lead_investor": "Policybazaar",
-    "investors": [
-      "Policybazaar"
-    ],
-    "sources": [
-      "https://entrackr.com/fintrackr/policybazaar-parent-pb-fintechs-profit-jumps-92-to-rs-163-crore-in-q1-fy27-12233370"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "MS Dhoni, Hardik Pandya, Bumrah",
     "sector": "",
     "sector_raw": null,
@@ -522,6 +438,44 @@
       "https://yourstory.com/2026/04/indigo-invests-air-taxi-maker-sarla-aviation"
     ],
     "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Paper Boat",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹760 Cr ($91.6M)",
+    "amount_usd": 91566265.06,
+    "currency": "INR",
+    "announced_on": "2026-08-08",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/paper-boat-parent-reports-rs-760-cr-revenue-in-fy26-profit-shrinks-96-12241163"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Delhivery",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹2931 Cr ($353.1M)",
+    "amount_usd": 353132530.12,
+    "currency": "INR",
+    "announced_on": "2026-08-08",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/delhivery-posts-rs-2931-cr-revenue-in-q1-fy27-profit-declines-65-12242675"
+    ],
+    "confidence": 0.6,
     "summary": "",
     "city": ""
   },
@@ -621,25 +575,6 @@
     "city": ""
   },
   {
-    "company_name": "Pluckk",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$26M",
-    "amount_usd": 26000000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-09",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Masters’ Union",
     "sector": "",
     "sector_raw": null,
@@ -653,6 +588,25 @@
     "investors": [],
     "sources": [
       "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Pluckk",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$26M",
+    "amount_usd": 26000000.0,
+    "currency": "USD",
+    "announced_on": "2026-04-09",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
     ],
     "confidence": 0.6,
     "summary": "",
