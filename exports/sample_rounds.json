@@ -86,48 +86,6 @@
     "city": ""
   },
   {
-    "company_name": "HomeRun",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$12M",
-    "amount_usd": 12000000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-06",
-    "lead_investor": "Nexus Venture Partners. Follow Us",
-    "investors": [
-      "Nexus Venture Partners. Follow Us"
-    ],
-    "sources": [
-      "https://entrackr.com/news/homerun-raises-12-mn-in-series-a-round-led-by-nexus-venture-partners-12234340"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Leap India",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "₹371 Cr ($44.7M)",
-    "amount_usd": 44734939.76,
-    "currency": "INR",
-    "announced_on": "2026-08-06",
-    "lead_investor": "Singapore-based",
-    "investors": [
-      "Singapore-based"
-    ],
-    "sources": [
-      "https://entrackr.com/news/leap-india-raises-rs-371-cr-in-pre-ipo-round-led-by-gic-arm-12235506"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
@@ -304,6 +262,84 @@
     "city": ""
   },
   {
+    "company_name": "Aum Ventures",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$80M",
+    "amount_usd": 80000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-10",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/aum-ventures-announces-first-close-of-rs-750-cr-india-innovation-fund-ii-12246519"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Exclusive: Bakingo",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$10.5M",
+    "amount_usd": 10500000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-10",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/exclusive/exclusive-bakingo-raises-rs-100-cr-at-26x-higher-valuation-12246734"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "GalaxEye",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "₹458 Cr ($55.2M)",
+    "amount_usd": 55180722.89,
+    "currency": "INR",
+    "announced_on": "2026-08-10",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/galaxeye-acquires-spacecraft-engineering-company-starops-12246751"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Info Edge",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$8.7B",
+    "amount_usd": 8700000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-10",
+    "lead_investor": "Naukri",
+    "investors": [
+      "Naukri"
+    ],
+    "sources": [
+      "https://entrackr.com/fintrackr/info-edge-posts-rs-490-cr-profit-on-rs-881-cr-revenue-in-q1-fy27-12247372"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Easebuzz",
     "sector": "",
     "sector_raw": null,
@@ -358,25 +394,6 @@
     ],
     "sources": [
       "https://entrackr.com/snippets/mela-ventures-co-leads-55-mn-series-a1-round-in-solinas-integrity-12236009"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Shiprocket",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "₹2000 Cr ($241M)",
-    "amount_usd": 240963855.42,
-    "currency": "INR",
-    "announced_on": "2026-08-06",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/shiprocket-crosses-rs-2000-cr-revenue-in-fy26-loss-rises-7-to-rs-79-cr-12236068"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -442,6 +459,44 @@
     "city": ""
   },
   {
+    "company_name": "Bernstein",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹1320 Cr ($159M)",
+    "amount_usd": 159036144.58,
+    "currency": "INR",
+    "announced_on": "2026-08-10",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/bernstein-raises-paytm-target-to-rs-2200-on-upi-mdr-upside-12246471"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "IdeaForge’s",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹69 Cr ($8.3M)",
+    "amount_usd": 8262650.6,
+    "currency": "INR",
+    "announced_on": "2026-08-10",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/ideaforges-revenue-jumps-over-5x-to-rs-69-cr-in-q1-fy27-loss-narrows-89-12248854"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Paper Boat",
     "sector": "",
     "sector_raw": null,
@@ -499,25 +554,6 @@
     "city": ""
   },
   {
-    "company_name": "Nazara",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹734 Cr ($88.4M)",
-    "amount_usd": 88373493.98,
-    "currency": "INR",
-    "announced_on": "2026-08-06",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/nazara-approves-rs-7335-cr-preferential-share-issue-new-ceo-to-hold-467-stake-12235918"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Piper Serica",
     "sector": "",
     "sector_raw": null,
@@ -531,25 +567,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/snippets/piper-serica-announces-rs-300-cr-first-close-for-bharat-tech-fund-12236351"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Ixigo",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$286M",
-    "amount_usd": 286000000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-06",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/ixigo-posts-rs-357-cr-revenue-in-q1-fy27-profit-rises-81-12236939"
     ],
     "confidence": 0.6,
     "summary": "",
@@ -575,25 +592,6 @@
     "city": ""
   },
   {
-    "company_name": "Masters’ Union",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹100 Cr ($12M)",
-    "amount_usd": 12048192.77,
-    "currency": "INR",
-    "announced_on": "2026-04-09",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Pluckk",
     "sector": "",
     "sector_raw": null,
@@ -607,6 +605,25 @@
     "investors": [],
     "sources": [
       "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Masters’ Union",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹100 Cr ($12M)",
+    "amount_usd": 12048192.77,
+    "currency": "INR",
+    "announced_on": "2026-04-09",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
     ],
     "confidence": 0.6,
     "summary": "",
