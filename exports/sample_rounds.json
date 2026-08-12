@@ -1,5 +1,91 @@
 [
   {
+    "company_name": "Lightspeed India",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$9M",
+    "amount_usd": 9000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-11",
+    "lead_investor": "Lightspeed India",
+    "investors": [
+      "Lightspeed India",
+      "Y Combinator"
+    ],
+    "sources": [
+      "https://entrackr.com/news/lightspeed-india-leads-9-mn-seed-round-in-deep-tech-startup-discovered-materials-12249345"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "HighLeaf",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$2.0B",
+    "amount_usd": 2000000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-11",
+    "lead_investor": "HighLeaf",
+    "investors": [
+      "HighLeaf",
+      "Vijender Yadav"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/highleaf-leads-rs-5-cr-pre-series-a-round-in-freightfox-12249334"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Ayati Devices",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$1.5M",
+    "amount_usd": 1500000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-11",
+    "lead_investor": "Inflexor Ventures. Follow Us Bengaluru-based",
+    "investors": [
+      "Inflexor Ventures. Follow Us Bengaluru-based"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/ayati-devices-raises-rs-15-cr-led-by-inflexor-ventures-in-pre-series-a-12249549"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Vecton AI",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$935.5M",
+    "amount_usd": 935500000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-11",
+    "lead_investor": "Zeropearl VC",
+    "investors": [
+      "Zeropearl VC"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/vecton-ai-raises-rs-6-cr-in-pre-seed-round-led-by-zeropearl-vc-12250059"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
@@ -15,71 +101,6 @@
     ],
     "sources": [
       "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-aug-03-aug-08-12241402"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Exclusive: Dosa",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$3.7M",
-    "amount_usd": 3700000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-07",
-    "lead_investor": "Ranjan",
-    "investors": [
-      "Ranjan"
-    ],
-    "sources": [
-      "https://entrackr.com/exclusive/exclusive-dosa-chain-benne-raises-rs-35-cr-led-by-rajan-pais-claypond-capital-12238246"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Exclusive: PayGlocal",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$3.8M",
-    "amount_usd": 3840000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-07",
-    "lead_investor": "Tiger Global",
-    "investors": [
-      "Peak XV Partners",
-      "Tiger Global"
-    ],
-    "sources": [
-      "https://entrackr.com/exclusive/exclusive-payglocal-set-to-raise-fresh-funding-at-120-mn-valuation-12238391"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "D2C athleisure brand BlissClub",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$16.8M",
-    "amount_usd": 16800000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-07",
-    "lead_investor": "Singularity AMC. Founder Minu Margeret",
-    "investors": [
-      "Elevation Capital. According",
-      "Singularity AMC. Founder Minu Margeret"
-    ],
-    "sources": [
-      "https://entrackr.com/news/d2c-athleisure-brand-blissclub-raises-rs-160-cr-in-series-b-led-by-singularity-amc-12238770"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -262,6 +283,101 @@
     "city": ""
   },
   {
+    "company_name": "Accel",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$550M",
+    "amount_usd": 550000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-12",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/accel-raises-550-mn-india-fund-takes-india-corpus-to-12-bn-in-18-months-12252002"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Redcliffe Labs",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "₹40 Cr ($4.8M)",
+    "amount_usd": 4819277.11,
+    "currency": "INR",
+    "announced_on": "2026-08-11",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/redcliffe-labs-acquires-pune-based-megavision-diagnostics-for-rs-40-cr-12249488"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Table Space",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "₹800 Cr ($96.4M)",
+    "amount_usd": 96385542.17,
+    "currency": "INR",
+    "announced_on": "2026-08-11",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/table-space-files-drhp-with-sebi-to-raise-rs-800-cr-via-fresh-issue-12250355"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Table Space",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "₹2200 Cr ($265.1M)",
+    "amount_usd": 265060240.96,
+    "currency": "INR",
+    "announced_on": "2026-08-11",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/table-space-revenue-crosses-rs-2200-cr-in-fy26-ebitda-jumps-88-12251169"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Shiprocket",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "₹727 Cr ($87.6M)",
+    "amount_usd": 87638554.22,
+    "currency": "INR",
+    "announced_on": "2026-08-11",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/shiprocket-raises-rs-727-cr-from-anchor-investors-ahead-of-ipo-12251765"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Aum Ventures",
     "sector": "",
     "sector_raw": null,
@@ -340,66 +456,6 @@
     "city": ""
   },
   {
-    "company_name": "Easebuzz",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$30M",
-    "amount_usd": 30000000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-08",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/easebuzz-revenue-crosses-rs-700-cr-in-fy26-profit-plunges-42-12242187"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "BlackSoil",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "$9M",
-    "amount_usd": 9000000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-06",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/blacksoil-funds-rs-80-cr-debt-for-mintoaks-icc-loyalty-acquisition-12235773"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Mela Ventures",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$5.5M",
-    "amount_usd": 5500000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-06",
-    "lead_investor": "Mela Ventures",
-    "investors": [
-      "Luthra Group",
-      "Mela Ventures"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/mela-ventures-co-leads-55-mn-series-a1-round-in-solinas-integrity-12236009"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "MS Dhoni, Hardik Pandya, Bumrah",
     "sector": "",
     "sector_raw": null,
@@ -413,25 +469,6 @@
     "investors": [],
     "sources": [
       "https://yourstory.com/2026/04/ms-dhoni-hardik-pandya-bumrah-others-invest-11m-game-tech-firm-lightfury"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Kabeer Biswas's",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$11M",
-    "amount_usd": 11000000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-22",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/04/kabeer-biswass-new-startup-raises-rs-108-cr-from-peakxv-blume"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -459,19 +496,19 @@
     "city": ""
   },
   {
-    "company_name": "Bernstein",
+    "company_name": "Capillary Technologies",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "₹1320 Cr ($159M)",
-    "amount_usd": 159036144.58,
-    "currency": "INR",
-    "announced_on": "2026-08-10",
+    "amount": "$441M",
+    "amount_usd": 441000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-11",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/news/bernstein-raises-paytm-target-to-rs-2200-on-upi-mdr-upside-12246471"
+      "https://entrackr.com/news/capillary-technologies-promoter-offloads-414-stake-for-rs-171-cr-through-bulk-deal-12249690"
     ],
     "confidence": 0.6,
     "summary": "",
@@ -497,25 +534,6 @@
     "city": ""
   },
   {
-    "company_name": "Paper Boat",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹760 Cr ($91.6M)",
-    "amount_usd": 91566265.06,
-    "currency": "INR",
-    "announced_on": "2026-08-08",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/paper-boat-parent-reports-rs-760-cr-revenue-in-fy26-profit-shrinks-96-12241163"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Delhivery",
     "sector": "",
     "sector_raw": null,
@@ -529,44 +547,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/fintrackr/delhivery-posts-rs-2931-cr-revenue-in-q1-fy27-profit-declines-65-12242675"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Ola Electric's Q1 FY27",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹455 Cr ($54.8M)",
-    "amount_usd": 54819277.11,
-    "currency": "INR",
-    "announced_on": "2026-08-07",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/ola-electrics-q1-fy27-revenue-drops-45-to-rs-455-cr-loss-narrows-22-12239621"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Piper Serica",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹800 Cr ($96.4M)",
-    "amount_usd": 96385542.17,
-    "currency": "INR",
-    "announced_on": "2026-08-06",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/piper-serica-announces-rs-300-cr-first-close-for-bharat-tech-fund-12236351"
     ],
     "confidence": 0.6,
     "summary": "",
@@ -592,6 +572,25 @@
     "city": ""
   },
   {
+    "company_name": "Masters’ Union",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹100 Cr ($12M)",
+    "amount_usd": 12048192.77,
+    "currency": "INR",
+    "announced_on": "2026-04-09",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Pluckk",
     "sector": "",
     "sector_raw": null,
@@ -611,19 +610,19 @@
     "city": ""
   },
   {
-    "company_name": "Masters’ Union",
+    "company_name": "Kabeer Biswas's",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "₹100 Cr ($12M)",
-    "amount_usd": 12048192.77,
+    "amount": "₹108 Cr ($13M)",
+    "amount_usd": 13012048.19,
     "currency": "INR",
-    "announced_on": "2026-04-09",
+    "announced_on": "",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
+      "https://yourstory.com/2026/04/kabeer-biswass-new-startup-raises-rs-108-cr-from-peakxv-blume"
     ],
     "confidence": 0.6,
     "summary": "",
