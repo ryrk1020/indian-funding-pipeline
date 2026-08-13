@@ -1,64 +1,63 @@
 [
   {
-    "company_name": "Lightspeed India",
+    "company_name": "Kae Capital",
     "sector": "",
     "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$9M",
-    "amount_usd": 9000000.0,
+    "stage": "Series C",
+    "stage_raw": "series_c",
+    "amount": "$2.4M",
+    "amount_usd": 2400000.0,
     "currency": "USD",
-    "announced_on": "2026-08-11",
-    "lead_investor": "Lightspeed India",
+    "announced_on": "2026-08-12",
+    "lead_investor": "Kae Capital",
     "investors": [
-      "Lightspeed India",
-      "Y Combinator"
+      "DeVC",
+      "Kae Capital"
     ],
     "sources": [
-      "https://entrackr.com/news/lightspeed-india-leads-9-mn-seed-round-in-deep-tech-startup-discovered-materials-12249345"
+      "https://entrackr.com/snippets/kae-capital-leads-rs-85-cr-pre-seed-round-in-lane-12252550"
     ],
     "confidence": 0.85,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "HighLeaf",
+    "company_name": "Porter",
     "sector": "",
     "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$2.0B",
-    "amount_usd": 2000000000.0,
+    "stage": "Series E+",
+    "stage_raw": "series_e_plus",
+    "amount": "$332M",
+    "amount_usd": 332000000.0,
     "currency": "USD",
-    "announced_on": "2026-08-11",
-    "lead_investor": "HighLeaf",
+    "announced_on": "2026-08-12",
+    "lead_investor": "Kedaara Capital",
     "investors": [
-      "HighLeaf",
-      "Vijender Yadav"
+      "Kedaara Capital"
     ],
     "sources": [
-      "https://entrackr.com/snippets/highleaf-leads-rs-5-cr-pre-series-a-round-in-freightfox-12249334"
+      "https://entrackr.com/fintrackr/porters-posts-rs-6650-cr-revenue-in-fy26-profits-jump-4x-12252565"
     ],
     "confidence": 0.85,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Ayati Devices",
+    "company_name": "Yulu",
     "sector": "",
     "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$1.5M",
-    "amount_usd": 1500000.0,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$93M",
+    "amount_usd": 93000000.0,
     "currency": "USD",
-    "announced_on": "2026-08-11",
-    "lead_investor": "Inflexor Ventures. Follow Us Bengaluru-based",
+    "announced_on": "2026-08-12",
+    "lead_investor": "GEF Capital Partners",
     "investors": [
-      "Inflexor Ventures. Follow Us Bengaluru-based"
+      "GEF Capital Partners"
     ],
     "sources": [
-      "https://entrackr.com/snippets/ayati-devices-raises-rs-15-cr-led-by-inflexor-ventures-in-pre-series-a-12249549"
+      "https://entrackr.com/news/yulu-raises-93-mn-in-series-c-round-led-by-gef-capital-12252594"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -302,19 +301,57 @@
     "city": ""
   },
   {
-    "company_name": "Redcliffe Labs",
+    "company_name": "Wippi",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "$1.2M",
+    "amount_usd": 1200000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-12",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/wippi-raises-12-mn-in-seed-round-led-by-12-flags-12252576"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Deep-tech startup Quarkitech",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Seed",
+    "stage_raw": "pre_seed",
+    "amount": "₹2.0 Cr ($241K)",
+    "amount_usd": 240963.86,
+    "currency": "INR",
+    "announced_on": "2026-08-12",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/deep-tech-startup-quarkitech-raises-pre-seed-funding-12254263"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "A",
     "sector": "",
     "sector_raw": null,
     "stage": "IPO",
     "stage_raw": "ipo",
-    "amount": "₹40 Cr ($4.8M)",
-    "amount_usd": 4819277.11,
+    "amount": "₹423 Cr ($51M)",
+    "amount_usd": 50963855.42,
     "currency": "INR",
-    "announced_on": "2026-08-11",
+    "announced_on": "2026-08-12",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/snippets/redcliffe-labs-acquires-pune-based-megavision-diagnostics-for-rs-40-cr-12249488"
+      "https://entrackr.com/fintrackr/a-year-after-ipo-indiqube-remains-in-red-with-rs-24-cr-loss-in-q1-fy27-12254626"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -378,84 +415,6 @@
     "city": ""
   },
   {
-    "company_name": "Aum Ventures",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$80M",
-    "amount_usd": 80000000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-10",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/aum-ventures-announces-first-close-of-rs-750-cr-india-innovation-fund-ii-12246519"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Exclusive: Bakingo",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$10.5M",
-    "amount_usd": 10500000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-10",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/exclusive/exclusive-bakingo-raises-rs-100-cr-at-26x-higher-valuation-12246734"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "GalaxEye",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "₹458 Cr ($55.2M)",
-    "amount_usd": 55180722.89,
-    "currency": "INR",
-    "announced_on": "2026-08-10",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/galaxeye-acquires-spacecraft-engineering-company-starops-12246751"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Info Edge",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$8.7B",
-    "amount_usd": 8700000000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-10",
-    "lead_investor": "Naukri",
-    "investors": [
-      "Naukri"
-    ],
-    "sources": [
-      "https://entrackr.com/fintrackr/info-edge-posts-rs-490-cr-profit-on-rs-881-cr-revenue-in-q1-fy27-12247372"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "MS Dhoni, Hardik Pandya, Bumrah",
     "sector": "",
     "sector_raw": null,
@@ -469,6 +428,25 @@
     "investors": [],
     "sources": [
       "https://yourstory.com/2026/04/ms-dhoni-hardik-pandya-bumrah-others-invest-11m-game-tech-firm-lightfury"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Kabeer Biswas's",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "$11M",
+    "amount_usd": 11000000.0,
+    "currency": "USD",
+    "announced_on": "2026-04-22",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/04/kabeer-biswass-new-startup-raises-rs-108-cr-from-peakxv-blume"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -496,6 +474,44 @@
     "city": ""
   },
   {
+    "company_name": "Ola Electric",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹7240 Cr ($872.3M)",
+    "amount_usd": 872289156.63,
+    "currency": "INR",
+    "announced_on": "2026-08-12",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/ola-electric-gets-five-year-pli-window-eyes-rs-7240-cr-incentive-12252475"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Lenskart’s",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$204M",
+    "amount_usd": 204000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-12",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/lenskarts-profit-zooms-37x-to-rs-228-cr-in-q1-fy27-12254010"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Capillary Technologies",
     "sector": "",
     "sector_raw": null,
@@ -509,44 +525,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/news/capillary-technologies-promoter-offloads-414-stake-for-rs-171-cr-through-bulk-deal-12249690"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "IdeaForge’s",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹69 Cr ($8.3M)",
-    "amount_usd": 8262650.6,
-    "currency": "INR",
-    "announced_on": "2026-08-10",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/ideaforges-revenue-jumps-over-5x-to-rs-69-cr-in-q1-fy27-loss-narrows-89-12248854"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Delhivery",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹2931 Cr ($353.1M)",
-    "amount_usd": 353132530.12,
-    "currency": "INR",
-    "announced_on": "2026-08-08",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/delhivery-posts-rs-2931-cr-revenue-in-q1-fy27-profit-declines-65-12242675"
     ],
     "confidence": 0.6,
     "summary": "",
@@ -604,25 +582,6 @@
     "investors": [],
     "sources": [
       "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Kabeer Biswas's",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹108 Cr ($13M)",
-    "amount_usd": 13012048.19,
-    "currency": "INR",
-    "announced_on": "",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/04/kabeer-biswass-new-startup-raises-rs-108-cr-from-peakxv-blume"
     ],
     "confidence": 0.6,
     "summary": "",
