@@ -1,84 +1,42 @@
 [
   {
-    "company_name": "Kae Capital",
+    "company_name": "Centricity",
     "sector": "",
     "sector_raw": null,
-    "stage": "Series C",
-    "stage_raw": "series_c",
-    "amount": "$2.4M",
-    "amount_usd": 2400000.0,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$30M",
+    "amount_usd": 30000000.0,
     "currency": "USD",
-    "announced_on": "2026-08-12",
-    "lead_investor": "Kae Capital",
+    "announced_on": "2026-08-13",
+    "lead_investor": "SMBC Asia Rising Fund. Existing",
     "investors": [
-      "DeVC",
-      "Kae Capital"
+      "SMBC Asia Rising Fund. Existing"
     ],
     "sources": [
-      "https://entrackr.com/snippets/kae-capital-leads-rs-85-cr-pre-seed-round-in-lane-12252550"
+      "https://entrackr.com/news/centricity-raises-rs-280-cr-in-series-a-round-led-by-smbc-asia-rising-fund-12255713"
     ],
     "confidence": 0.85,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Porter",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series E+",
-    "stage_raw": "series_e_plus",
-    "amount": "$332M",
-    "amount_usd": 332000000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-12",
-    "lead_investor": "Kedaara Capital",
-    "investors": [
-      "Kedaara Capital"
-    ],
-    "sources": [
-      "https://entrackr.com/fintrackr/porters-posts-rs-6650-cr-revenue-in-fy26-profits-jump-4x-12252565"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Yulu",
+    "company_name": "AI code testing platform Blacksmith",
     "sector": "",
     "sector_raw": null,
     "stage": "Series B",
     "stage_raw": "series_b",
-    "amount": "$93M",
-    "amount_usd": 93000000.0,
+    "amount": "$45M",
+    "amount_usd": 45000000.0,
     "currency": "USD",
-    "announced_on": "2026-08-12",
-    "lead_investor": "GEF Capital Partners",
+    "announced_on": "2026-08-13",
+    "lead_investor": "Peak XV Partners",
     "investors": [
-      "GEF Capital Partners"
+      "AI-led",
+      "Peak XV Partners"
     ],
     "sources": [
-      "https://entrackr.com/news/yulu-raises-93-mn-in-series-c-round-led-by-gef-capital-12252594"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Vecton AI",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$935.5M",
-    "amount_usd": 935500000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-11",
-    "lead_investor": "Zeropearl VC",
-    "investors": [
-      "Zeropearl VC"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/vecton-ai-raises-rs-6-cr-in-pre-seed-round-led-by-zeropearl-vc-12250059"
+      "https://entrackr.com/news/ai-code-testing-platform-blacksmith-raises-45-mn-in-series-b-led-by-peak-xv-12255973"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -282,38 +240,76 @@
     "city": ""
   },
   {
-    "company_name": "Accel",
+    "company_name": "Zetwerk",
     "sector": "",
     "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$550M",
-    "amount_usd": 550000000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-12",
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "₹2600 Cr ($313.3M)",
+    "amount_usd": 313253012.05,
+    "currency": "INR",
+    "announced_on": "2026-08-14",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/news/accel-raises-550-mn-india-fund-takes-india-corpus-to-12-bn-in-18-months-12252002"
+      "https://entrackr.com/news/zetwerk-files-udrhp-to-raise-rs-2600-cr-via-fresh-issue-promoters-to-account-for-53-of-ofs-12258489"
     ],
     "confidence": 0.8,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Wippi",
+    "company_name": "Urban Company",
     "sector": "",
     "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$1.2M",
-    "amount_usd": 1200000.0,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "$2.4B",
+    "amount_usd": 2350000000.0,
     "currency": "USD",
-    "announced_on": "2026-08-12",
+    "announced_on": "2026-08-13",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/snippets/wippi-raises-12-mn-in-seed-round-led-by-12-flags-12252576"
+      "https://entrackr.com/news/urban-company-shares-rise-4-after-rs-428-cr-block-deal-12255963"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Bluehill.VC",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "₹400 Cr ($48.2M)",
+    "amount_usd": 48192771.08,
+    "currency": "INR",
+    "announced_on": "2026-08-13",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/bluehillvc-closes-maiden-frontier-tech-fund-at-rs-400-cr-12256082"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Mamaearth",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "₹90 Cr ($10.8M)",
+    "amount_usd": 10843373.49,
+    "currency": "INR",
+    "announced_on": "2026-08-13",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/mamaearth-parent-posts-rs-756-cr-revenue-in-q1-fy27-doubles-profit-12257228"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -352,63 +348,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/fintrackr/a-year-after-ipo-indiqube-remains-in-red-with-rs-24-cr-loss-in-q1-fy27-12254626"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Table Space",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "₹800 Cr ($96.4M)",
-    "amount_usd": 96385542.17,
-    "currency": "INR",
-    "announced_on": "2026-08-11",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/table-space-files-drhp-with-sebi-to-raise-rs-800-cr-via-fresh-issue-12250355"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Table Space",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "₹2200 Cr ($265.1M)",
-    "amount_usd": 265060240.96,
-    "currency": "INR",
-    "announced_on": "2026-08-11",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/table-space-revenue-crosses-rs-2200-cr-in-fy26-ebitda-jumps-88-12251169"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Shiprocket",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "₹727 Cr ($87.6M)",
-    "amount_usd": 87638554.22,
-    "currency": "INR",
-    "announced_on": "2026-08-11",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/shiprocket-raises-rs-727-cr-from-anchor-investors-ahead-of-ipo-12251765"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -474,19 +413,114 @@
     "city": ""
   },
   {
-    "company_name": "Ola Electric",
+    "company_name": "Mirae Asset Venture Investments",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "₹7240 Cr ($872.3M)",
-    "amount_usd": 872289156.63,
+    "amount": "₹1800 Cr ($216.9M)",
+    "amount_usd": 216867469.88,
     "currency": "INR",
-    "announced_on": "2026-08-12",
+    "announced_on": "2026-08-13",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/news/ola-electric-gets-five-year-pli-window-eyes-rs-7240-cr-incentive-12252475"
+      "https://entrackr.com/news/mirae-asset-venture-investments-closes-mavof-ii-at-rs-1125-cr-12255745"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Home cleaning products startup Scrubsy",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$3M",
+    "amount_usd": 3000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-13",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/home-cleaning-products-startup-scrubsy-raises-rs-27-cr-from-v3-ventures-12256241"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "BlackSoil AMC",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹750 Cr ($90.4M)",
+    "amount_usd": 90361445.78,
+    "currency": "INR",
+    "announced_on": "2026-08-13",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/blacksoil-amc-deploys-rs-750-cr-across-40-companies-closes-second-credit-fund-at-rs-500-cr-12256307"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Amagi’s",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$1.5B",
+    "amount_usd": 1540000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-13",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/amagis-profit-zooms-85x-in-q1-fy27-revenue-rises-to-rs-437-cr-12256452"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Firstcry",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$1.2B",
+    "amount_usd": 1180000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-13",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/firstcry-reports-2106-cr-revenue-and-rs-44-cr-loss-in-q1-fy27-12257604"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Unicommerce",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹51 Cr ($6.2M)",
+    "amount_usd": 6189156.63,
+    "currency": "INR",
+    "announced_on": "2026-08-13",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/unicommerce-posts-rs-51-cr-revenue-and-rs-47-cr-profit-in-q1-fy27-12258215"
     ],
     "confidence": 0.6,
     "summary": "",
@@ -506,25 +540,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/fintrackr/lenskarts-profit-zooms-37x-to-rs-228-cr-in-q1-fy27-12254010"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Capillary Technologies",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$441M",
-    "amount_usd": 441000000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-11",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/capillary-technologies-promoter-offloads-414-stake-for-rs-171-cr-through-bulk-deal-12249690"
     ],
     "confidence": 0.6,
     "summary": "",
