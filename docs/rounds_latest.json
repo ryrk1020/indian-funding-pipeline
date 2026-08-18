@@ -1,5 +1,48 @@
 [
   {
+    "company_name": "OTP Ventures",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "₹35 Cr ($4.2M)",
+    "amount_usd": 4216867.47,
+    "currency": "INR",
+    "announced_on": "2026-08-17",
+    "lead_investor": "OTP Ventures",
+    "investors": [
+      "OTP Ventures",
+      "Sadev Capital"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/otp-ventures-leads-rs-35-cr-pre-series-a-round-in-dehaat-honest-farms-12267830"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Exclusive: Atomberg",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "$150M",
+    "amount_usd": 150000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-17",
+    "lead_investor": "Temasek",
+    "investors": [
+      "Temasek"
+    ],
+    "sources": [
+      "https://entrackr.com/exclusive/exclusive-atomberg-plans-rs-450-cr-fresh-issue-rs-90-cr-pre-ipo-placement-12288792"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
@@ -15,28 +58,6 @@
     ],
     "sources": [
       "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-aug-10-aug-15-12262059"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "AI code testing platform Blacksmith",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$45M",
-    "amount_usd": 45000000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-13",
-    "lead_investor": "Peak XV Partners",
-    "investors": [
-      "AI-led",
-      "Peak XV Partners"
-    ],
-    "sources": [
-      "https://entrackr.com/news/ai-code-testing-platform-blacksmith-raises-45-mn-in-series-b-led-by-peak-xv-12255973"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -219,6 +240,44 @@
     "city": ""
   },
   {
+    "company_name": "Shiprocket IPO",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "₹110 Cr ($13.3M)",
+    "amount_usd": 13253012.05,
+    "currency": "INR",
+    "announced_on": "2026-08-17",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://www.moneycontrol.com/news/business/ipo/shiprocket-ipo-allotment-status-gmp-at-33-percent-check-status-on-nse-bse-and-registrar-14007190.html"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "HUL-owned Minimalist",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "₹40 Cr ($4.8M)",
+    "amount_usd": 4819277.11,
+    "currency": "INR",
+    "announced_on": "2026-08-17",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/hul-owned-minimalist-nears-rs-700-cr-income-in-fy26-posts-rs-26-cr-pat-12267525"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Zetwerk",
     "sector": "",
     "sector_raw": null,
@@ -270,82 +329,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/fintrackr/physicswallah-revenue-rises-24-to-rs-1054-cr-in-q1-fy27-loss-drops-31-12260822"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Urban Company",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "$2.4B",
-    "amount_usd": 2350000000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-13",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/urban-company-shares-rise-4-after-rs-428-cr-block-deal-12255963"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Bluehill.VC",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "₹400 Cr ($48.2M)",
-    "amount_usd": 48192771.08,
-    "currency": "INR",
-    "announced_on": "2026-08-13",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/bluehillvc-closes-maiden-frontier-tech-fund-at-rs-400-cr-12256082"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Mamaearth",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "₹90 Cr ($10.8M)",
-    "amount_usd": 10843373.49,
-    "currency": "INR",
-    "announced_on": "2026-08-13",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/mamaearth-parent-posts-rs-756-cr-revenue-in-q1-fy27-doubles-profit-12257228"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Deep-tech startup Quarkitech",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Seed",
-    "stage_raw": "pre_seed",
-    "amount": "₹2.0 Cr ($241K)",
-    "amount_usd": 240963.86,
-    "currency": "INR",
-    "announced_on": "2026-08-12",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/deep-tech-startup-quarkitech-raises-pre-seed-funding-12254263"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -468,44 +451,6 @@
     "city": ""
   },
   {
-    "company_name": "Amagi’s",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$1.5B",
-    "amount_usd": 1540000000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-13",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/amagis-profit-zooms-85x-in-q1-fy27-revenue-rises-to-rs-437-cr-12256452"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Firstcry",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$1.2B",
-    "amount_usd": 1180000000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-13",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/firstcry-reports-2106-cr-revenue-and-rs-44-cr-loss-in-q1-fy27-12257604"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Unicommerce",
     "sector": "",
     "sector_raw": null,
@@ -544,6 +489,25 @@
     "city": ""
   },
   {
+    "company_name": "Masters’ Union",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹100 Cr ($12M)",
+    "amount_usd": 12048192.77,
+    "currency": "INR",
+    "announced_on": "2026-04-09",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Pluckk",
     "sector": "",
     "sector_raw": null,
@@ -563,21 +527,21 @@
     "city": ""
   },
   {
-    "company_name": "Masters’ Union",
+    "company_name": "Business",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "₹100 Cr ($12M)",
-    "amount_usd": 12048192.77,
-    "currency": "INR",
-    "announced_on": "2026-04-09",
+    "amount": "",
+    "amount_usd": null,
+    "currency": "",
+    "announced_on": "2026-08-17",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
+      "https://www.moneycontrol.com/news/business/business-news-today-on-august-17-ipo-gmp-today-horizon-industrial-parks-lalithaa-jewellery-mart-dhoot-transmission-tata-agm-corporate-updates-liveblog-14007034.html"
     ],
-    "confidence": 0.6,
+    "confidence": 0.4,
     "summary": "",
     "city": ""
   }
