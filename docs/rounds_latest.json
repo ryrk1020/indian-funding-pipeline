@@ -1,42 +1,106 @@
 [
   {
-    "company_name": "OTP Ventures",
+    "company_name": "Butterfly Learnings",
     "sector": "",
     "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "₹35 Cr ($4.2M)",
-    "amount_usd": 4216867.47,
-    "currency": "INR",
-    "announced_on": "2026-08-17",
-    "lead_investor": "OTP Ventures",
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$6.7M",
+    "amount_usd": 6700000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-19",
+    "lead_investor": "Inflexor Ventures. Existing",
     "investors": [
-      "OTP Ventures",
-      "Sadev Capital"
+      "Inflexor Ventures. Existing"
     ],
     "sources": [
-      "https://entrackr.com/snippets/otp-ventures-leads-rs-35-cr-pre-series-a-round-in-dehaat-honest-farms-12267830"
+      "https://entrackr.com/snippets/butterfly-learnings-raises-rs-65-cr-in-pre-series-b-round-led-by-inflexor-ventures-12394562"
     ],
     "confidence": 0.85,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Exclusive: Atomberg",
+    "company_name": "Piper Serica",
     "sector": "",
     "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "$150M",
-    "amount_usd": 150000000.0,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$9M",
+    "amount_usd": 9000000.0,
     "currency": "USD",
-    "announced_on": "2026-08-17",
-    "lead_investor": "Temasek",
+    "announced_on": "2026-08-19",
+    "lead_investor": "Piper Serica. The",
     "investors": [
-      "Temasek"
+      "Piper Serica. The"
     ],
     "sources": [
-      "https://entrackr.com/exclusive/exclusive-atomberg-plans-rs-450-cr-fresh-issue-rs-90-cr-pre-ipo-placement-12288792"
+      "https://entrackr.com/snippets/piper-serica-leads-rs-15-cr-pre-series-a-round-in-deep-tech-startup-algofet-12395742"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Yantra Packs",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "₹12 Cr ($1.4M)",
+    "amount_usd": 1445783.13,
+    "currency": "INR",
+    "announced_on": "2026-08-19",
+    "lead_investor": "Caret Capital. The Gurugram-based",
+    "investors": [
+      "Caret Capital. The Gurugram-based",
+      "Rockstud Capital. InfinityBox"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/yantra-packs-raises-rs-12-cr-in-seed-round-led-by-caret-capital-12396605"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Health-tech platform Lissun",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$2.5M",
+    "amount_usd": 2500000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-18",
+    "lead_investor": "Colossa Ventures. Follow Us Lissun",
+    "investors": [
+      "Colossa Ventures. Follow Us Lissun",
+      "Physis Capital"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/health-tech-platform-lissun-raises-rs-48-cr-in-series-a-led-by-colossa-ventures-12391763"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "NeoGeo",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$20M",
+    "amount_usd": 20000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-18",
+    "lead_investor": "Neev II Fund",
+    "investors": [
+      "Neev II Fund"
+    ],
+    "sources": [
+      "https://entrackr.com/news/neogeo-raises-20-mn-series-a-led-by-neev-ii-fund-and-aavishkaar-capital-12392388"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -240,19 +304,76 @@
     "city": ""
   },
   {
-    "company_name": "Shiprocket IPO",
+    "company_name": "Enterprise AI platform Zenalyst",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Seed",
+    "stage_raw": "pre_seed",
+    "amount": "$1M",
+    "amount_usd": 1000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-19",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/enterprise-ai-platform-zenalyst-raises-pre-seed-funding-12394262"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Nikhil Kamath",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Debt",
+    "stage_raw": "debt",
+    "amount": "$150M",
+    "amount_usd": 150000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-19",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/nikhil-kamath-invests-rs-200-cr-in-ctrls-as-hyperscale-data-centre-operator-raises-rs-250-cr-12395469"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Navi",
     "sector": "",
     "sector_raw": null,
     "stage": "IPO",
     "stage_raw": "ipo",
-    "amount": "₹110 Cr ($13.3M)",
-    "amount_usd": 13253012.05,
-    "currency": "INR",
-    "announced_on": "2026-08-17",
+    "amount": "$100M",
+    "amount_usd": 100000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-19",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://www.moneycontrol.com/news/business/ipo/shiprocket-ipo-allotment-status-gmp-at-33-percent-check-status-on-nse-bse-and-registrar-14007190.html"
+      "https://entrackr.com/news/navi-raises-100-mn-from-prosus-ahead-of-ipo-12396548"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "DSP Finance",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "₹4000 Cr ($481.9M)",
+    "amount_usd": 481927710.84,
+    "currency": "INR",
+    "announced_on": "2026-08-18",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/dsp-finance-acquires-volt-money-to-strengthen-digital-lending-platform-12392825"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -272,44 +393,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/fintrackr/hul-owned-minimalist-nears-rs-700-cr-income-in-fy26-posts-rs-26-cr-pat-12267525"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Zetwerk",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "₹2600 Cr ($313.3M)",
-    "amount_usd": 313253012.05,
-    "currency": "INR",
-    "announced_on": "2026-08-14",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/zetwerk-files-udrhp-to-raise-rs-2600-cr-via-fresh-issue-promoters-to-account-for-53-of-ofs-12258489"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Zetwerk",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "₹16000 Cr ($1.9B)",
-    "amount_usd": 1927710843.37,
-    "currency": "INR",
-    "announced_on": "2026-08-14",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/zetwerk-nears-rs-16000-cr-gross-revenue-in-fy26-ebitda-stands-at-rs-457-cr-12259183"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -394,6 +477,63 @@
     "city": ""
   },
   {
+    "company_name": "Y Combinator",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹1435 Cr ($172.9M)",
+    "amount_usd": 172891566.27,
+    "currency": "INR",
+    "announced_on": "2026-08-19",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/y-combinator-sells-another-rs-1435-cr-stake-in-groww-12394284"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "KKR",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "",
+    "amount_usd": null,
+    "currency": "",
+    "announced_on": "2026-08-19",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/kkr-acquires-minority-stake-in-bookmyshow-12394368"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Digidukan",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹2.0 Cr ($241K)",
+    "amount_usd": 240963.86,
+    "currency": "INR",
+    "announced_on": "2026-08-19",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/digidukan-raises-rs-2-cr-in-angel-funding-from-united-plywood-directors-12395346"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "EaseMyTrip",
     "sector": "",
     "sector_raw": null,
@@ -407,63 +547,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/fintrackr/easemytrip-posts-rs-135-cr-revenue-and-rs-117-cr-loss-in-q1-fy27-12261569"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Home cleaning products startup Scrubsy",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$3M",
-    "amount_usd": 3000000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-13",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/home-cleaning-products-startup-scrubsy-raises-rs-27-cr-from-v3-ventures-12256241"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "BlackSoil AMC",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹750 Cr ($90.4M)",
-    "amount_usd": 90361445.78,
-    "currency": "INR",
-    "announced_on": "2026-08-13",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/blacksoil-amc-deploys-rs-750-cr-across-40-companies-closes-second-credit-fund-at-rs-500-cr-12256307"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Unicommerce",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹51 Cr ($6.2M)",
-    "amount_usd": 6189156.63,
-    "currency": "INR",
-    "announced_on": "2026-08-13",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/unicommerce-posts-rs-51-cr-revenue-and-rs-47-cr-profit-in-q1-fy27-12258215"
     ],
     "confidence": 0.6,
     "summary": "",
@@ -523,25 +606,6 @@
       "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
     ],
     "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Business",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "",
-    "amount_usd": null,
-    "currency": "",
-    "announced_on": "2026-08-17",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/business-news-today-on-august-17-ipo-gmp-today-horizon-industrial-parks-lalithaa-jewellery-mart-dhoot-transmission-tata-agm-corporate-updates-liveblog-14007034.html"
-    ],
-    "confidence": 0.4,
     "summary": "",
     "city": ""
   }
