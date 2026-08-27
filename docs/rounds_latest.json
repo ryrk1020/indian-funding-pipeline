@@ -1,5 +1,263 @@
 [
   {
+    "company_name": "Logistics platform TrucksUp",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$8.2M",
+    "amount_usd": 8200000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-27",
+    "lead_investor": "HighLeaf",
+    "investors": [
+      "HighLeaf"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/logistics-platform-trucksup-raises-82-mn-in-growth-round-12442109"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "InstaAstro",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$12M",
+    "amount_usd": 12000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-27",
+    "lead_investor": "Singularity AMC",
+    "investors": [
+      "Singularity AMC"
+    ],
+    "sources": [
+      "https://entrackr.com/news/instaastro-raises-12-mn-in-series-a-round-12442163"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Space-tech startup InspeCity",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$10.5M",
+    "amount_usd": 10500000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-27",
+    "lead_investor": "Speciale Invest",
+    "investors": [
+      "Antler Elevate",
+      "Speciale Invest"
+    ],
+    "sources": [
+      "https://entrackr.com/news/spacetech-startup-inspecity-raises-rs-100-cr-in-pre-series-a-round-12442264"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Logistics startup OORJAA",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$1M",
+    "amount_usd": 1000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-27",
+    "lead_investor": "Equentis Angel Fund",
+    "investors": [
+      "Capital-A",
+      "Equentis Angel Fund",
+      "Inflection Point Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/logistics-startup-oorjaa-raises-series-a-funding-led-by-equentis-angel-fund-12444247"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Voice AI startup Ringg",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$10M",
+    "amount_usd": 10000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-26",
+    "lead_investor": "Peak XV Partners",
+    "investors": [
+      "Arkam Ventures",
+      "Peak XV Partners"
+    ],
+    "sources": [
+      "https://entrackr.com/news/voice-ai-startup-ringg-raises-10-mn-led-by-peak-xv-12435121"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Exclusive: Even Healthcare",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$22M",
+    "amount_usd": 22000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-26",
+    "lead_investor": "Khosla Ventures Follow Us Bengaluru-based",
+    "investors": [
+      "DLB Ventures",
+      "Khosla Ventures Follow Us Bengaluru-based"
+    ],
+    "sources": [
+      "https://entrackr.com/exclusive/exclusive-even-healthcare-set-to-raise-rs-208-cr-in-series-b-led-by-khosla-ventures-12435223"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Agentic AI startup Runable",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$21M",
+    "amount_usd": 21000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-26",
+    "lead_investor": "Susquehanna Venture Capital",
+    "investors": [
+      "Susquehanna Venture Capital"
+    ],
+    "sources": [
+      "https://entrackr.com/news/agentic-ai-startup-runable-raises-21-mn-in-series-a-led-by-susquehanna-and-nexus-12440974"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Funding",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$198.3M",
+    "amount_usd": 198330000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-22",
+    "lead_investor": "Inflexor Ventures",
+    "investors": [
+      "Inflexor Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-aug-17-aug-22-12412429"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Funding",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$151.5M",
+    "amount_usd": 151500000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-15",
+    "lead_investor": "GEF Capital Partners",
+    "investors": [
+      "GEF Capital Partners"
+    ],
+    "sources": [
+      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-aug-10-aug-15-12262059"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Funding",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$383.5M",
+    "amount_usd": 383500000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-08",
+    "lead_investor": "River Mobility",
+    "investors": [
+      "River Mobility"
+    ],
+    "sources": [
+      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-aug-03-aug-08-12241402"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Funding",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$82.2M",
+    "amount_usd": 82200000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-01",
+    "lead_investor": "Apna Mart",
+    "investors": [
+      "Apna Mart",
+      "Peak XV Partners. Hyderabad-based"
+    ],
+    "sources": [
+      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-july-27-aug-01-12217797"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Indian",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$662M",
+    "amount_usd": 662000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-01",
+    "lead_investor": "Entrackr",
+    "investors": [
+      "Entrackr"
+    ],
+    "sources": [
+      "https://entrackr.com/report/indian-startup-funding-drops-to-662-mn-in-july-after-june-spike-12218904"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Textile tech startup STCH",
     "sector": "",
     "sector_raw": null,
@@ -87,6 +345,204 @@
     "city": ""
   },
   {
+    "company_name": "TILT",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "₹250 Cr ($30.1M)",
+    "amount_usd": 30120481.93,
+    "currency": "INR",
+    "announced_on": "2026-08-27",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/tilt-launches-rs-250-cr-impact-focused-venture-fund-12441983"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Ribbit Capital",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$12.8B",
+    "amount_usd": 12800000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-27",
+    "lead_investor": "",
+    "investors": [
+      "Y Combinator"
+    ],
+    "sources": [
+      "https://entrackr.com/news/ribbit-capital-sells-rs-2217-cr-stake-in-groww-shares-fall-3-12442100"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "VAHDAM India",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$40M",
+    "amount_usd": 40000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-27",
+    "lead_investor": "SIDBI Venture",
+    "investors": [
+      "SIDBI Venture"
+    ],
+    "sources": [
+      "https://entrackr.com/fintrackr/vahdam-india-reports-rs-350-cr-revenue-in-fy26-profit-jumps-6x-12443415"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Temple",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "$375M",
+    "amount_usd": 375000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-27",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/temple-acquires-london-based-longevity-medicine-practice-longevous-12443989"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "PRISM’s FY26",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "₹994 Cr ($119.8M)",
+    "amount_usd": 119759036.14,
+    "currency": "INR",
+    "announced_on": "2026-08-27",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/prisms-fy26-profit-jumps-4x-to-rs-994-cr-revenue-jumps-50-12444278"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Kitchen and lifestyle brand Cüraa",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "₹40 Cr ($4.8M)",
+    "amount_usd": 4819277.11,
+    "currency": "INR",
+    "announced_on": "2026-08-26",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/kitchen-and-lifestyle-brand-c%C3%BCraa-raises-rs-40-cr-in-series-a-led-by-3one4-capital-12436981"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Zerodha",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "₹1 L ($1K)",
+    "amount_usd": 1204.82,
+    "currency": "INR",
+    "announced_on": "2026-08-26",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/zerodha-reports-rs-4283-cr-profit-in-fy26-revenue-remains-flat-12440247"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Lightspeed",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "₹550 Cr ($66.3M)",
+    "amount_usd": 66265060.24,
+    "currency": "INR",
+    "announced_on": "2026-08-26",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/lightspeed-exits-physicswallah-with-rs-550-cr-block-deal-12440784"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Sanlayan Technologies",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$22M",
+    "amount_usd": 22000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-25",
+    "lead_investor": "Jungle Ventures",
+    "investors": [
+      "Jungle Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/fintrackr/sanlayan-technologies-turns-profitable-as-revenue-jumps-56x-to-rs-125-cr-in-fy26-12430457"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Edtech",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$180M",
+    "amount_usd": 180000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-25",
+    "lead_investor": "WestBridge Capital",
+    "investors": [
+      "WestBridge Capital"
+    ],
+    "sources": [
+      "https://entrackr.com/fintrackr/edtech-unicorn-lead-group-posts-rs-387-cr-revenue-in-fy26-losses-narrow-20-12431698"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "MS Dhoni, Hardik Pandya, Bumrah",
     "sector": "",
     "sector_raw": null,
@@ -146,19 +602,38 @@
     "city": ""
   },
   {
-    "company_name": "Govt’s Fund",
+    "company_name": "Biryani Bees",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "₹10000 Cr ($1.2B)",
-    "amount_usd": 1204819277.11,
-    "currency": "INR",
-    "announced_on": "2026-04-14",
+    "amount": "$1M",
+    "amount_usd": 1000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-27",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://yourstory.com/2026/04/govts-fund-of-funds-20-expand-newer-startup-segments"
+      "https://entrackr.com/snippets/biryani-bees-raises-1-mn-from-vivek-oberoi-family-office-12442621"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Pluckk",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$26M",
+    "amount_usd": 26000000.0,
+    "currency": "USD",
+    "announced_on": "2026-04-09",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
     ],
     "confidence": 0.6,
     "summary": "",
@@ -184,19 +659,19 @@
     "city": ""
   },
   {
-    "company_name": "Pluckk",
+    "company_name": "Govt’s Fund",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "$26M",
-    "amount_usd": 26000000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-09",
+    "amount": "₹10000 Cr ($1.2B)",
+    "amount_usd": 1204819277.11,
+    "currency": "INR",
+    "announced_on": "",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
+      "https://yourstory.com/2026/04/govts-fund-of-funds-20-expand-newer-startup-segments"
     ],
     "confidence": 0.6,
     "summary": "",
