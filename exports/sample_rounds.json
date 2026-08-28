@@ -87,50 +87,6 @@
     "city": ""
   },
   {
-    "company_name": "Voice AI startup Ringg",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$10M",
-    "amount_usd": 10000000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-26",
-    "lead_investor": "Peak XV Partners",
-    "investors": [
-      "Arkam Ventures",
-      "Peak XV Partners"
-    ],
-    "sources": [
-      "https://entrackr.com/news/voice-ai-startup-ringg-raises-10-mn-led-by-peak-xv-12435121"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Exclusive: Even Healthcare",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$22M",
-    "amount_usd": 22000000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-26",
-    "lead_investor": "Khosla Ventures Follow Us Bengaluru-based",
-    "investors": [
-      "DLB Ventures",
-      "Khosla Ventures Follow Us Bengaluru-based"
-    ],
-    "sources": [
-      "https://entrackr.com/exclusive/exclusive-even-healthcare-set-to-raise-rs-208-cr-in-series-b-led-by-khosla-ventures-12435223"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Agentic AI startup Runable",
     "sector": "",
     "sector_raw": null,
@@ -345,6 +301,25 @@
     "city": ""
   },
   {
+    "company_name": "Furlenco",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "₹140 Cr ($16.9M)",
+    "amount_usd": 16867469.88,
+    "currency": "INR",
+    "announced_on": "2026-08-28",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/furlenco-nears-rs-400-cr-revenue-in-fy26-profit-jumps-19x-12447164"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "TILT",
     "sector": "",
     "sector_raw": null,
@@ -444,6 +419,25 @@
     "city": ""
   },
   {
+    "company_name": "Raise Financial’s Pluto Insurance",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "₹100 Cr ($12M)",
+    "amount_usd": 12048192.77,
+    "currency": "INR",
+    "announced_on": "2026-08-27",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/raise-financials-pluto-insurance-appoints-abhishek-singh-as-ceo-12445636"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Kitchen and lifestyle brand Cüraa",
     "sector": "",
     "sector_raw": null,
@@ -495,27 +489,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/news/lightspeed-exits-physicswallah-with-rs-550-cr-block-deal-12440784"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Sanlayan Technologies",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$22M",
-    "amount_usd": 22000000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-25",
-    "lead_investor": "Jungle Ventures",
-    "investors": [
-      "Jungle Ventures"
-    ],
-    "sources": [
-      "https://entrackr.com/fintrackr/sanlayan-technologies-turns-profitable-as-revenue-jumps-56x-to-rs-125-cr-in-fy26-12430457"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -621,6 +594,25 @@
     "city": ""
   },
   {
+    "company_name": "Govt’s Fund",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹10000 Cr ($1.2B)",
+    "amount_usd": 1204819277.11,
+    "currency": "INR",
+    "announced_on": "2026-04-14",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/04/govts-fund-of-funds-20-expand-newer-startup-segments"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Pluckk",
     "sector": "",
     "sector_raw": null,
@@ -653,25 +645,6 @@
     "investors": [],
     "sources": [
       "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Govt’s Fund",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹10000 Cr ($1.2B)",
-    "amount_usd": 1204819277.11,
-    "currency": "INR",
-    "announced_on": "",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/04/govts-fund-of-funds-20-expand-newer-startup-segments"
     ],
     "confidence": 0.6,
     "summary": "",
