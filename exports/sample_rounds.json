@@ -301,6 +301,25 @@
     "city": ""
   },
   {
+    "company_name": "Aakash",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "$1.0B",
+    "amount_usd": 1000000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-29",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/aakash-revenue-stays-flat-at-rs-2041-cr-in-fy26-ebitda-plunges-65-12449904"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Furlenco",
     "sector": "",
     "sector_raw": null,
@@ -314,6 +333,25 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/fintrackr/furlenco-nears-rs-400-cr-revenue-in-fy26-profit-jumps-19x-12447164"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Hero MotoCorp",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "$6.7B",
+    "amount_usd": 6700000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-28",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/hero-motocorp-to-raise-stake-in-ather-energy-to-328-with-rs-1758-cr-investment-12448661"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -489,27 +527,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/news/lightspeed-exits-physicswallah-with-rs-550-cr-block-deal-12440784"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Edtech",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$180M",
-    "amount_usd": 180000000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-25",
-    "lead_investor": "WestBridge Capital",
-    "investors": [
-      "WestBridge Capital"
-    ],
-    "sources": [
-      "https://entrackr.com/fintrackr/edtech-unicorn-lead-group-posts-rs-387-cr-revenue-in-fy26-losses-narrow-20-12431698"
     ],
     "confidence": 0.8,
     "summary": "",
