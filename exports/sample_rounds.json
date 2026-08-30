@@ -1,5 +1,52 @@
 [
   {
+    "company_name": "Funding",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$68M",
+    "amount_usd": 68000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-29",
+    "lead_investor": "Apna Mart",
+    "investors": [
+      "Apna Mart",
+      "DoorDash",
+      "Greenoaks",
+      "Peak XV Partners. Hyderabad-based"
+    ],
+    "sources": [
+      "https://entrackr.com/report/weekly-funding-report",
+      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-july-27-aug-01-12217797",
+      "https://entrackr.com/report/weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-aug-24-aug-29-12451075"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Purple Style Labs",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "₹306 Cr ($36.9M)",
+    "amount_usd": 36867469.88,
+    "currency": "INR",
+    "announced_on": "2026-08-29",
+    "lead_investor": "",
+    "investors": [
+      "ITI Mutual Fund"
+    ],
+    "sources": [
+      "https://entrackr.com/news/purple-style-labs-raises-rs-306-cr-from-anchor-investors-ahead-of-ipo-12451294"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Logistics platform TrucksUp",
     "sector": "",
     "sector_raw": null,
@@ -165,28 +212,6 @@
     ],
     "sources": [
       "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-aug-03-aug-08-12241402"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Funding",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$82.2M",
-    "amount_usd": 82200000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-01",
-    "lead_investor": "Apna Mart",
-    "investors": [
-      "Apna Mart",
-      "Peak XV Partners. Hyderabad-based"
-    ],
-    "sources": [
-      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-july-27-aug-01-12217797"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -470,63 +495,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/snippets/raise-financials-pluto-insurance-appoints-abhishek-singh-as-ceo-12445636"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Kitchen and lifestyle brand Cüraa",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "₹40 Cr ($4.8M)",
-    "amount_usd": 4819277.11,
-    "currency": "INR",
-    "announced_on": "2026-08-26",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/kitchen-and-lifestyle-brand-c%C3%BCraa-raises-rs-40-cr-in-series-a-led-by-3one4-capital-12436981"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Zerodha",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "₹1 L ($1K)",
-    "amount_usd": 1204.82,
-    "currency": "INR",
-    "announced_on": "2026-08-26",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/zerodha-reports-rs-4283-cr-profit-in-fy26-revenue-remains-flat-12440247"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Lightspeed",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "₹550 Cr ($66.3M)",
-    "amount_usd": 66265060.24,
-    "currency": "INR",
-    "announced_on": "2026-08-26",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/lightspeed-exits-physicswallah-with-rs-550-cr-block-deal-12440784"
     ],
     "confidence": 0.8,
     "summary": "",
