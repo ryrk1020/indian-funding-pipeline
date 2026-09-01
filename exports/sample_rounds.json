@@ -1,5 +1,114 @@
 [
   {
+    "company_name": "Kepler Aerospace",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$8M",
+    "amount_usd": 8000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-01",
+    "lead_investor": "Blue Ashva Capital",
+    "investors": [
+      "Blue Ashva Capital",
+      "Finvolve India Accelerator"
+    ],
+    "sources": [
+      "https://entrackr.com/news/spacetech-startup-kepler-aerospace-raises-8-mn-in-seed-round-led-by-blue-ashva-capital-12478666",
+      "https://yourstory.com/2026/09/kepler-aerospace-bags-8-million-deploy-autonomous-swarming-satellites"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Yuma Energy",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$35M",
+    "amount_usd": 35000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-01",
+    "lead_investor": "Magna International",
+    "investors": [
+      "Magna International",
+      "Magna International Inc. The Bengaluru-based"
+    ],
+    "sources": [
+      "https://entrackr.com/news/battery-swapping-startup-yuma-energy-raises-35-mn-from-magna-international-12479183",
+      "https://yourstory.com/2026/09/yuma-energy-35-million-in-series-a-from-magna-international"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Zenergize",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$4M",
+    "amount_usd": 4000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-01",
+    "lead_investor": "Giraffe Studios",
+    "investors": [
+      "Giraffe Studios"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/zenergize-raises-4-mn-in-pre-series-a-round-led-by-giraffe-studios-12478594"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Indian",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$954M",
+    "amount_usd": 954000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-01",
+    "lead_investor": "Entrackr",
+    "investors": [
+      "Entrackr"
+    ],
+    "sources": [
+      "https://entrackr.com/report/indian-startup-funding-nears-1-bn-in-august-after-july-slowdown-12479185"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Jagdish Farshan",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "₹44 Cr ($5.2M)",
+    "amount_usd": 5240963.86,
+    "currency": "INR",
+    "announced_on": "2026-08-31",
+    "lead_investor": "Sharrp Ventures",
+    "investors": [
+      "Sharrp Ventures"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/08/jagdish-farshan-raises-rs-435-cr-led-by-sharrp-ventures"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Info Edge Ventures",
     "sector": "",
     "sector_raw": null,
@@ -22,6 +131,28 @@
     "city": ""
   },
   {
+    "company_name": "Exclusive: Wedding",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Bridge",
+    "stage_raw": "bridge",
+    "amount": "$9.1M",
+    "amount_usd": 9100000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-31",
+    "lead_investor": "Accel",
+    "investors": [
+      "Accel",
+      "WedMeGood"
+    ],
+    "sources": [
+      "https://entrackr.com/exclusive/exclusive-wedding-services-startup-meragi-set-to-raise-fresh-funds-at-flat-valuation-12458866"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
@@ -31,16 +162,15 @@
     "amount_usd": 68000000.0,
     "currency": "USD",
     "announced_on": "2026-08-29",
-    "lead_investor": "Apna Mart",
+    "lead_investor": "Greenoaks",
     "investors": [
-      "Apna Mart",
       "DoorDash",
       "Greenoaks",
-      "Peak XV Partners. Hyderabad-based"
+      "River Mobility"
     ],
     "sources": [
       "https://entrackr.com/report/weekly-funding-report",
-      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-july-27-aug-01-12217797",
+      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-aug-03-aug-08-12241402",
       "https://entrackr.com/report/weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-aug-24-aug-29-12451075"
     ],
     "confidence": 0.85,
@@ -69,23 +199,107 @@
     "city": ""
   },
   {
-    "company_name": "Logistics startup OORJAA",
+    "company_name": "InspeCity",
     "sector": "",
     "sector_raw": null,
     "stage": "Pre-Series A",
     "stage_raw": "pre_series_a",
-    "amount": "$1M",
-    "amount_usd": 1000000.0,
+    "amount": "$1.5M",
+    "amount_usd": 1500000.0,
     "currency": "USD",
     "announced_on": "2026-08-27",
-    "lead_investor": "Equentis Angel Fund",
+    "lead_investor": "VC",
     "investors": [
-      "Capital-A",
-      "Equentis Angel Fund",
-      "Inflection Point Ventures"
+      "Antler Elevate",
+      "VC"
     ],
     "sources": [
-      "https://entrackr.com/snippets/logistics-startup-oorjaa-raises-series-a-funding-led-by-equentis-angel-fund-12444247"
+      "https://yourstory.com/2026/08/spacetech-inspecity-inches-closer-to-orbit-with-rs-100-crore-funding"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Astrology platform InstaAstro",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$12M",
+    "amount_usd": 12000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-27",
+    "lead_investor": "Singularity AMC",
+    "investors": [
+      "Singularity AMC"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/08/astrology-platform-instaastro-raises-12-million-in-series-a"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Commercial EV",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "₹50 Cr ($6M)",
+    "amount_usd": 6024096.39,
+    "currency": "INR",
+    "announced_on": "2026-08-27",
+    "lead_investor": "Abhishek Misra",
+    "investors": [
+      "Abhishek Misra"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/08/commerical-ev-maker-omega-seiki-mobility-raises-another-rs-50-crore"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Voice AI startup Ringg AI",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$10M",
+    "amount_usd": 10000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-26",
+    "lead_investor": "Peak XV Partners",
+    "investors": [
+      "Arkam Ventures",
+      "Peak XV Partners"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/08/voice-ai-startup-ringg-ai-raises-10m-series-a-peak-xv-partners"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "AI agent startup Runable",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$21M",
+    "amount_usd": 21000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-26",
+    "lead_investor": "Susquehanna Venture Capital",
+    "investors": [
+      "Susquehanna Venture Capital"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/08/ai-agent-startup-runable-raises-21-million-in-series-a"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -134,135 +348,6 @@
     "city": ""
   },
   {
-    "company_name": "Funding",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$383.5M",
-    "amount_usd": 383500000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-08",
-    "lead_investor": "River Mobility",
-    "investors": [
-      "River Mobility"
-    ],
-    "sources": [
-      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-aug-03-aug-08-12241402"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Indian",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$662M",
-    "amount_usd": 662000000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-01",
-    "lead_investor": "Entrackr",
-    "investors": [
-      "Entrackr"
-    ],
-    "sources": [
-      "https://entrackr.com/report/indian-startup-funding-drops-to-662-mn-in-july-after-june-spike-12218904"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Textile tech startup STCH",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$5.5M",
-    "amount_usd": 5500000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-23",
-    "lead_investor": "Omnivore. The",
-    "investors": [
-      "Kae Capital",
-      "Omnivore. The"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/04/textile-tech-startup-stch-raises-pre-series-a-round-led-by-omnivore"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "The Hosteller",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$100M",
-    "amount_usd": 100000000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-16",
-    "lead_investor": "PROMAFT Partners",
-    "investors": [
-      "ITI Growth Opportunities Fund",
-      "PROMAFT Partners"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/04/the-hosteller-raises-rs-150-cr-series-b-funding-promaft-partners"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "GobbleCube",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$15M",
-    "amount_usd": 15000000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-15",
-    "lead_investor": "Susquehanna Venture Capital. The",
-    "investors": [
-      "Susquehanna Venture Capital. The"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/04/funding-gobblecube-15-million-series-a-susquehanna-venture-capital"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "TraqCheck",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$8M",
-    "amount_usd": 8000000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-14",
-    "lead_investor": "IvyCap Ventures",
-    "investors": [
-      "IIFL. TraqCheck",
-      "IvyCap Ventures"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/04/traqcheck-raises-8-million-led-by-ivycap-ventures"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Exclusive: Good Flippin’ Burgers",
     "sector": "",
     "sector_raw": null,
@@ -276,6 +361,25 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/exclusive/exclusive-good-flippin-burgers-to-raise-fresh-capital-at-rs-480-cr-valuation-12457317"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Groww AMC",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "₹580 Cr ($69.9M)",
+    "amount_usd": 69879518.07,
+    "currency": "INR",
+    "announced_on": "2026-08-31",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/groww-amc-closes-state-streets-rs-580-cr-strategic-investment-12458404"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -320,19 +424,19 @@
     "city": ""
   },
   {
-    "company_name": "Hero MotoCorp",
+    "company_name": "The/Nudge",
     "sector": "",
     "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "$6.7B",
-    "amount_usd": 6700000000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-28",
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "₹250 Cr ($30.1M)",
+    "amount_usd": 30120481.93,
+    "currency": "INR",
+    "announced_on": "2026-08-27",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/news/hero-motocorp-to-raise-stake-in-ather-energy-to-328-with-rs-1758-cr-investment-12448661"
+      "https://yourstory.com/2026/08/thenudge-launches-rs-250-cr-tilt-fund-early-stage-impact-startups"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -360,25 +464,6 @@
     "city": ""
   },
   {
-    "company_name": "Temple",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "$375M",
-    "amount_usd": 375000000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-27",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/temple-acquires-london-based-longevity-medicine-practice-longevous-12443989"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "PRISM’s FY26",
     "sector": "",
     "sector_raw": null,
@@ -398,154 +483,38 @@
     "city": ""
   },
   {
-    "company_name": "Raise Financial’s Pluto Insurance",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "₹100 Cr ($12M)",
-    "amount_usd": 12048192.77,
-    "currency": "INR",
-    "announced_on": "2026-08-27",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/raise-financials-pluto-insurance-appoints-abhishek-singh-as-ceo-12445636"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "MS Dhoni, Hardik Pandya, Bumrah",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$11M",
-    "amount_usd": 11000000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-23",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/04/ms-dhoni-hardik-pandya-bumrah-others-invest-11m-game-tech-firm-lightfury"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Kabeer Biswas's",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$11M",
-    "amount_usd": 11000000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-22",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/04/kabeer-biswass-new-startup-raises-rs-108-cr-from-peakxv-blume"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Indigo",
+    "company_name": "Logistics tech startup TrucksUp",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "$13.4M",
-    "amount_usd": 13400000.0,
-    "currency": "USD",
-    "announced_on": "2026-04-16",
-    "lead_investor": "Accel",
-    "investors": [
-      "Accel"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/04/indigo-invests-air-taxi-maker-sarla-aviation"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Biryani Bees",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$1M",
-    "amount_usd": 1000000.0,
+    "amount": "$8.2M",
+    "amount_usd": 8200000.0,
     "currency": "USD",
     "announced_on": "2026-08-27",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/snippets/biryani-bees-raises-1-mn-from-vivek-oberoi-family-office-12442621"
+      "https://yourstory.com/2026/08/logistics-tech-startup-trucksup-raises-82-million-in-growth-funding"
     ],
     "confidence": 0.6,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Govt’s Fund",
+    "company_name": "Kedaara Capital",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "₹10000 Cr ($1.2B)",
-    "amount_usd": 1204819277.11,
-    "currency": "INR",
-    "announced_on": "2026-04-14",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/04/govts-fund-of-funds-20-expand-newer-startup-segments"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Pluckk",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$26M",
-    "amount_usd": 26000000.0,
+    "amount": "$200M",
+    "amount_usd": 200000000.0,
     "currency": "USD",
-    "announced_on": "2026-04-09",
+    "announced_on": "2026-08-25",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://yourstory.com/2026/04/funding-pluckk-rs-100-cr-euro-gulf-targets-profitability-12-months"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Masters’ Union",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹100 Cr ($12M)",
-    "amount_usd": 12048192.77,
-    "currency": "INR",
-    "announced_on": "2026-04-09",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/04/masters-union-100-crore-early-stage-investment-platform"
+      "https://yourstory.com/2026/08/kedaara-capital-invests-200-million-tynor-orthotics"
     ],
     "confidence": 0.6,
     "summary": "",
