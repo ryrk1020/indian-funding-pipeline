@@ -1,5 +1,47 @@
 [
   {
+    "company_name": "Exclusive: Mokobara",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$9.5M",
+    "amount_usd": 9500000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-02",
+    "lead_investor": "Peak XV Partners",
+    "investors": [
+      "Peak XV Partners"
+    ],
+    "sources": [
+      "https://entrackr.com/exclusive/exclusive-mokobara-set-to-raise-rs-91-cr-in-series-c-round-at-28x-valuation-premium-12482137"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Equentis",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$2M",
+    "amount_usd": 2000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-02",
+    "lead_investor": "Equentis. Existing",
+    "investors": [
+      "Equentis. Existing"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/equentis-leads-2-mn-pre-series-a-round-in-docpharma-12482287"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Kepler Aerospace",
     "sector": "",
     "sector_raw": null,
@@ -88,6 +130,112 @@
     "city": ""
   },
   {
+    "company_name": "Deep-tech aerospace startup Alteon",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$2.5M",
+    "amount_usd": 2500000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-01",
+    "lead_investor": "Lachy Groom",
+    "investors": [
+      "Lachy Groom",
+      "Together Fund. The"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/deep-tech-aerospace-startup-alteon-raises-25-mn-led-by-lachy-groom-12479389"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Rainmatter",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$2.7B",
+    "amount_usd": 2700000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-01",
+    "lead_investor": "Rainmatter",
+    "investors": [
+      "Rainmatter"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/rainmatter-leads-rs-30-cr-pre-series-a-round-in-minimac-systems-12479900"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Exclusive: Qualcomm Ventures",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$60M",
+    "amount_usd": 60000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-01",
+    "lead_investor": "Qualcomm Ventures",
+    "investors": [
+      "Qualcomm Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/exclusive/exclusive-qualcomm-ventures-to-lead-60-mn-round-for-ultrahuman-12480150"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Aeron Systems",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$4.7M",
+    "amount_usd": 4700000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-01",
+    "lead_investor": "Riverwalk Holdings",
+    "investors": [
+      "Riverwalk Holdings"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/aeron-systems-raises-rs-45-cr-in-pre-series-b-round-12480196"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Oppex AI",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Seed",
+    "stage_raw": "pre_seed",
+    "amount": "₹4.2 Cr ($506K)",
+    "amount_usd": 506024.1,
+    "currency": "INR",
+    "announced_on": "2026-09-01",
+    "lead_investor": "Info Edge Ventures. The",
+    "investors": [
+      "Info Edge Ventures. The"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/oppex-ai-raises-rs-42-cr-in-pre-seed-round-led-by-info-edge-ventures-12480269"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Jagdish Farshan",
     "sector": "",
     "sector_raw": null,
@@ -103,50 +251,6 @@
     ],
     "sources": [
       "https://yourstory.com/2026/08/jagdish-farshan-raises-rs-435-cr-led-by-sharrp-ventures"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Info Edge Ventures",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$1.6M",
-    "amount_usd": 1600000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-31",
-    "lead_investor": "Info Edge Ventures",
-    "investors": [
-      "Info Edge Ventures",
-      "Zomato"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/info-edge-ventures-leads-rs-20-cr-series-a-round-in-yoga-clean-air-12458086"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Exclusive: Wedding",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Bridge",
-    "stage_raw": "bridge",
-    "amount": "$9.1M",
-    "amount_usd": 9100000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-31",
-    "lead_investor": "Accel",
-    "investors": [
-      "Accel",
-      "WedMeGood"
-    ],
-    "sources": [
-      "https://entrackr.com/exclusive/exclusive-wedding-services-startup-meragi-set-to-raise-fresh-funds-at-flat-valuation-12458866"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -172,27 +276,6 @@
       "https://entrackr.com/report/weekly-funding-report",
       "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-aug-03-aug-08-12241402",
       "https://entrackr.com/report/weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-aug-24-aug-29-12451075"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Purple Style Labs",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "₹306 Cr ($36.9M)",
-    "amount_usd": 36867469.88,
-    "currency": "INR",
-    "announced_on": "2026-08-29",
-    "lead_investor": "",
-    "investors": [
-      "ITI Mutual Fund"
-    ],
-    "sources": [
-      "https://entrackr.com/news/purple-style-labs-raises-rs-306-cr-from-anchor-investors-ahead-of-ipo-12451294"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -263,6 +346,27 @@
     "city": ""
   },
   {
+    "company_name": "AI agent startup Runable",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$21M",
+    "amount_usd": 21000000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-26",
+    "lead_investor": "Susquehanna Venture Capital",
+    "investors": [
+      "Susquehanna Venture Capital"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/08/ai-agent-startup-runable-raises-21-million-in-series-a"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Voice AI startup Ringg AI",
     "sector": "",
     "sector_raw": null,
@@ -279,27 +383,6 @@
     ],
     "sources": [
       "https://yourstory.com/2026/08/voice-ai-startup-ringg-ai-raises-10m-series-a-peak-xv-partners"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "AI agent startup Runable",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$21M",
-    "amount_usd": 21000000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-26",
-    "lead_investor": "Susquehanna Venture Capital",
-    "investors": [
-      "Susquehanna Venture Capital"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/08/ai-agent-startup-runable-raises-21-million-in-series-a"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -348,38 +431,19 @@
     "city": ""
   },
   {
-    "company_name": "Exclusive: Good Flippin’ Burgers",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$3.6M",
-    "amount_usd": 3600000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-31",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/exclusive/exclusive-good-flippin-burgers-to-raise-fresh-capital-at-rs-480-cr-valuation-12457317"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Groww AMC",
+    "company_name": "Unacademy",
     "sector": "",
     "sector_raw": null,
     "stage": "Acquisition",
     "stage_raw": "acquisition",
-    "amount": "₹580 Cr ($69.9M)",
-    "amount_usd": 69879518.07,
-    "currency": "INR",
-    "announced_on": "2026-08-31",
+    "amount": "$200M",
+    "amount_usd": 200000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-01",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/news/groww-amc-closes-state-streets-rs-580-cr-strategic-investment-12458404"
+      "https://entrackr.com/news/unacademy-closes-upgrad-deal-at-200-mn-12479514"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -479,6 +543,44 @@
       "https://entrackr.com/fintrackr/prisms-fy26-profit-jumps-4x-to-rs-994-cr-revenue-jumps-50-12444278"
     ],
     "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "BNP Paribas, SocGen",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$12.0B",
+    "amount_usd": 12000000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-01",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/bnp-paribas-socgen-pare-lenskart-holdings-in-rs-2700-cr-bulk-deals-12479320"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "BNP Paribas, Millennium",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$344M",
+    "amount_usd": 344000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-01",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/bnp-paribas-millennium-offload-rs-3265-cr-worth-of-eternal-shares-in-bulk-deals-12479685"
+    ],
+    "confidence": 0.6,
     "summary": "",
     "city": ""
   },
