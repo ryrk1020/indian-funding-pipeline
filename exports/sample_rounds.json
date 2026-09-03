@@ -1,5 +1,26 @@
 [
   {
+    "company_name": "D2C",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series C",
+    "stage_raw": "series_c",
+    "amount": "$50M",
+    "amount_usd": 50000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-03",
+    "lead_investor": "A91 Partners",
+    "investors": [
+      "A91 Partners"
+    ],
+    "sources": [
+      "https://entrackr.com/fintrackr/d2c-brand-plums-revenue-crosses-rs-500-cr-in-fy26-profit-doubles-12486368"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Exclusive: Mokobara",
     "sector": "",
     "sector_raw": null,
@@ -42,22 +63,85 @@
     "city": ""
   },
   {
+    "company_name": "Exclusive: Sneaker",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$10.2M",
+    "amount_usd": 10200000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-02",
+    "lead_investor": "Elevation Capital. The",
+    "investors": [
+      "Elevation Capital. The",
+      "Gully Labs"
+    ],
+    "sources": [
+      "https://entrackr.com/exclusive/exclusive-sneaker-brand-comet-raising-rs-99-cr-at-over-3x-valuation-premium-12482900"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "AI content creator platform Creedom",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$10M",
+    "amount_usd": 10000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-02",
+    "lead_investor": "Leigh Hopkins",
+    "investors": [
+      "Leigh Hopkins",
+      "Raghu Nathan Sethuraman"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/ai-content-creator-platform-creedom-raises-seed-round-12484133"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Alpha Wave",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "$2.0B",
+    "amount_usd": 2000000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-02",
+    "lead_investor": "ICICI Prudential Life Insurance Company",
+    "investors": [
+      "ICICI Prudential Life Insurance Company"
+    ],
+    "sources": [
+      "https://entrackr.com/news/alpha-wave-sells-almost-entire-pine-labs-stake-in-rs-550-cr-block-deal-12485107"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Kepler Aerospace",
     "sector": "",
     "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
+    "stage": "Seed",
+    "stage_raw": "seed",
     "amount": "$8M",
     "amount_usd": 8000000.0,
     "currency": "USD",
     "announced_on": "2026-09-01",
     "lead_investor": "Blue Ashva Capital",
     "investors": [
-      "Blue Ashva Capital",
-      "Finvolve India Accelerator"
+      "Blue Ashva Capital"
     ],
     "sources": [
-      "https://entrackr.com/news/spacetech-startup-kepler-aerospace-raises-8-mn-in-seed-round-led-by-blue-ashva-capital-12478666",
       "https://yourstory.com/2026/09/kepler-aerospace-bags-8-million-deploy-autonomous-swarming-satellites"
     ],
     "confidence": 0.85,
@@ -76,33 +160,10 @@
     "announced_on": "2026-09-01",
     "lead_investor": "Magna International",
     "investors": [
-      "Magna International",
-      "Magna International Inc. The Bengaluru-based"
+      "Magna International"
     ],
     "sources": [
-      "https://entrackr.com/news/battery-swapping-startup-yuma-energy-raises-35-mn-from-magna-international-12479183",
       "https://yourstory.com/2026/09/yuma-energy-35-million-in-series-a-from-magna-international"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Zenergize",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$4M",
-    "amount_usd": 4000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-01",
-    "lead_investor": "Giraffe Studios",
-    "investors": [
-      "Giraffe Studios"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/zenergize-raises-4-mn-in-pre-series-a-round-led-by-giraffe-studios-12478594"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -124,28 +185,6 @@
     ],
     "sources": [
       "https://entrackr.com/report/indian-startup-funding-nears-1-bn-in-august-after-july-slowdown-12479185"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Deep-tech aerospace startup Alteon",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$2.5M",
-    "amount_usd": 2500000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-01",
-    "lead_investor": "Lachy Groom",
-    "investors": [
-      "Lachy Groom",
-      "Together Fund. The"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/deep-tech-aerospace-startup-alteon-raises-25-mn-led-by-lachy-groom-12479389"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -266,38 +305,16 @@
     "amount_usd": 68000000.0,
     "currency": "USD",
     "announced_on": "2026-08-29",
-    "lead_investor": "Greenoaks",
+    "lead_investor": "GEF Capital Partners",
     "investors": [
       "DoorDash",
-      "Greenoaks",
-      "River Mobility"
+      "GEF Capital Partners",
+      "Greenoaks"
     ],
     "sources": [
       "https://entrackr.com/report/weekly-funding-report",
-      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-aug-03-aug-08-12241402",
+      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-aug-10-aug-15-12262059",
       "https://entrackr.com/report/weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-aug-24-aug-29-12451075"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "InspeCity",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$1.5M",
-    "amount_usd": 1500000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-27",
-    "lead_investor": "VC",
-    "investors": [
-      "Antler Elevate",
-      "VC"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/08/spacetech-inspecity-inches-closer-to-orbit-with-rs-100-crore-funding"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -340,6 +357,28 @@
     ],
     "sources": [
       "https://yourstory.com/2026/08/commerical-ev-maker-omega-seiki-mobility-raises-another-rs-50-crore"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "InspeCity",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$1.5M",
+    "amount_usd": 1500000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-27",
+    "lead_investor": "VC",
+    "investors": [
+      "Antler Elevate",
+      "VC"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/08/spacetech-inspecity-inches-closer-to-orbit-with-rs-100-crore-funding"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -410,23 +449,21 @@
     "city": ""
   },
   {
-    "company_name": "Funding",
+    "company_name": "Adobe",
     "sector": "",
     "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$151.5M",
-    "amount_usd": 151500000.0,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "$1M",
+    "amount_usd": 1000000.0,
     "currency": "USD",
-    "announced_on": "2026-08-15",
-    "lead_investor": "GEF Capital Partners",
-    "investors": [
-      "GEF Capital Partners"
-    ],
+    "announced_on": "2026-09-02",
+    "lead_investor": "",
+    "investors": [],
     "sources": [
-      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-aug-10-aug-15-12262059"
+      "https://entrackr.com/snippets/adobe-picks-up-ai-marketing-startup-rilo-in-second-india-acquisition-12484822"
     ],
-    "confidence": 0.85,
+    "confidence": 0.8,
     "summary": "",
     "city": ""
   },
@@ -501,27 +538,6 @@
     "investors": [],
     "sources": [
       "https://yourstory.com/2026/08/thenudge-launches-rs-250-cr-tilt-fund-early-stage-impact-startups"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "VAHDAM India",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$40M",
-    "amount_usd": 40000000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-27",
-    "lead_investor": "SIDBI Venture",
-    "investors": [
-      "SIDBI Venture"
-    ],
-    "sources": [
-      "https://entrackr.com/fintrackr/vahdam-india-reports-rs-350-cr-revenue-in-fy26-profit-jumps-6x-12443415"
     ],
     "confidence": 0.8,
     "summary": "",
