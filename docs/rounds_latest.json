@@ -1,5 +1,49 @@
 [
   {
+    "company_name": "Trivest Partners",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$2M",
+    "amount_usd": 2000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-04",
+    "lead_investor": "Trivest Partners",
+    "investors": [
+      "Trivest Partners"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/trivest-partners-leads-2-mn-seed-round-in-power-electronics-startup-leanwatts-12489028"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Ultrahuman",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$70M",
+    "amount_usd": 70000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-03",
+    "lead_investor": "Qualcomm Ventures",
+    "investors": [
+      "Labcorp",
+      "Qualcomm Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/news/ultrahuman-raises-70-mn-from-qualcomm-alpha-wave-nexus-and-others-12489004",
+      "https://yourstory.com/2026/09/funding-ultrahuman-70m-qualcomm-ventures-alpha-wave-others"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "D2C",
     "sector": "",
     "sector_raw": null,
@@ -21,42 +65,65 @@
     "city": ""
   },
   {
-    "company_name": "Exclusive: Mokobara",
+    "company_name": "Bluehill VC",
     "sector": "",
     "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$9.5M",
-    "amount_usd": 9500000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-02",
-    "lead_investor": "Peak XV Partners",
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "₹10 Cr ($1.2M)",
+    "amount_usd": 1228915.66,
+    "currency": "INR",
+    "announced_on": "2026-09-03",
+    "lead_investor": "",
     "investors": [
-      "Peak XV Partners"
+      "Artha Venture Fund. Founded"
     ],
     "sources": [
-      "https://entrackr.com/exclusive/exclusive-mokobara-set-to-raise-rs-91-cr-in-series-c-round-at-28x-valuation-premium-12482137"
+      "https://entrackr.com/snippets/bluehill-vc-leads-rs-102-cr-seed-round-in-makr-microsystems-12486807"
     ],
     "confidence": 0.85,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Equentis",
+    "company_name": "ABP Education",
     "sector": "",
     "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$2M",
-    "amount_usd": 2000000.0,
+    "stage": "Pre-Seed",
+    "stage_raw": "pre_seed",
+    "amount": "$5M",
+    "amount_usd": 5000000.0,
     "currency": "USD",
-    "announced_on": "2026-09-02",
-    "lead_investor": "Equentis. Existing",
+    "announced_on": "2026-09-03",
+    "lead_investor": "ABP Education",
     "investors": [
-      "Equentis. Existing"
+      "ABP Education"
     ],
     "sources": [
-      "https://entrackr.com/snippets/equentis-leads-2-mn-pre-series-a-round-in-docpharma-12482287"
+      "https://entrackr.com/snippets/abp-education-leads-seed-round-in-edtech-platform-yolearnai-12487249"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Slice",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$42.5M",
+    "amount_usd": 42500000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-03",
+    "lead_investor": "Indian",
+    "investors": [
+      "Indian",
+      "Japan-based Kado Global",
+      "Moore Strategic Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/news/slice-raises-100-mn-at-450-mn-valuation-report-12488201"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -191,90 +258,6 @@
     "city": ""
   },
   {
-    "company_name": "Rainmatter",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$2.7B",
-    "amount_usd": 2700000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-01",
-    "lead_investor": "Rainmatter",
-    "investors": [
-      "Rainmatter"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/rainmatter-leads-rs-30-cr-pre-series-a-round-in-minimac-systems-12479900"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Exclusive: Qualcomm Ventures",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$60M",
-    "amount_usd": 60000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-01",
-    "lead_investor": "Qualcomm Ventures",
-    "investors": [
-      "Qualcomm Ventures"
-    ],
-    "sources": [
-      "https://entrackr.com/exclusive/exclusive-qualcomm-ventures-to-lead-60-mn-round-for-ultrahuman-12480150"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Aeron Systems",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$4.7M",
-    "amount_usd": 4700000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-01",
-    "lead_investor": "Riverwalk Holdings",
-    "investors": [
-      "Riverwalk Holdings"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/aeron-systems-raises-rs-45-cr-in-pre-series-b-round-12480196"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Oppex AI",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Seed",
-    "stage_raw": "pre_seed",
-    "amount": "₹4.2 Cr ($506K)",
-    "amount_usd": 506024.1,
-    "currency": "INR",
-    "announced_on": "2026-09-01",
-    "lead_investor": "Info Edge Ventures. The",
-    "investors": [
-      "Info Edge Ventures. The"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/oppex-ai-raises-rs-42-cr-in-pre-seed-round-led-by-info-edge-ventures-12480269"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Jagdish Farshan",
     "sector": "",
     "sector_raw": null,
@@ -315,6 +298,28 @@
       "https://entrackr.com/report/weekly-funding-report",
       "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-aug-10-aug-15-12262059",
       "https://entrackr.com/report/weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-aug-24-aug-29-12451075"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "InspeCity",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$1.5M",
+    "amount_usd": 1500000.0,
+    "currency": "USD",
+    "announced_on": "2026-08-27",
+    "lead_investor": "VC",
+    "investors": [
+      "Antler Elevate",
+      "VC"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/08/spacetech-inspecity-inches-closer-to-orbit-with-rs-100-crore-funding"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -363,71 +368,6 @@
     "city": ""
   },
   {
-    "company_name": "InspeCity",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$1.5M",
-    "amount_usd": 1500000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-27",
-    "lead_investor": "VC",
-    "investors": [
-      "Antler Elevate",
-      "VC"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/08/spacetech-inspecity-inches-closer-to-orbit-with-rs-100-crore-funding"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "AI agent startup Runable",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$21M",
-    "amount_usd": 21000000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-26",
-    "lead_investor": "Susquehanna Venture Capital",
-    "investors": [
-      "Susquehanna Venture Capital"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/08/ai-agent-startup-runable-raises-21-million-in-series-a"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Voice AI startup Ringg AI",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$10M",
-    "amount_usd": 10000000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-26",
-    "lead_investor": "Peak XV Partners",
-    "investors": [
-      "Arkam Ventures",
-      "Peak XV Partners"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/08/voice-ai-startup-ringg-ai-raises-10m-series-a-peak-xv-partners"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
@@ -449,6 +389,64 @@
     "city": ""
   },
   {
+    "company_name": "Rentomojo",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "₹150 Cr ($18.1M)",
+    "amount_usd": 18072289.16,
+    "currency": "INR",
+    "announced_on": "2026-09-04",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/rentomojo-files-rhp-for-rs-1256-cr-ipo-targets-rs-4200-cr-valuation-12489865"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "VLCC",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "$275M",
+    "amount_usd": 275000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-03",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/09/vlcc-raises-rs-110-crore-in-funding-from-blacksoil-capital"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Cradlewise",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$12M",
+    "amount_usd": 12000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-03",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/cradlewise-raises-12-mn-in-series-a-round-led-by-3one4-capital-prudent-investment-12487351",
+      "https://yourstory.com/2026/09/cradlewise-funding-3one4-capital-prudent-investment-management"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Adobe",
     "sector": "",
     "sector_raw": null,
@@ -462,25 +460,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/snippets/adobe-picks-up-ai-marketing-startup-rilo-in-second-india-acquisition-12484822"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Unacademy",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "$200M",
-    "amount_usd": 200000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-01",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/unacademy-closes-upgrad-deal-at-200-mn-12479514"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -563,38 +542,38 @@
     "city": ""
   },
   {
-    "company_name": "BNP Paribas, SocGen",
+    "company_name": "Ola Electric",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "$12.0B",
-    "amount_usd": 12000000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-01",
+    "amount": "₹780 Cr ($94M)",
+    "amount_usd": 93975903.61,
+    "currency": "INR",
+    "announced_on": "2026-09-03",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/news/bnp-paribas-socgen-pare-lenskart-holdings-in-rs-2700-cr-bulk-deals-12479320"
+      "https://entrackr.com/news/ola-electric-to-consider-another-fundraise-amid-market-share-pressure-12486838"
     ],
     "confidence": 0.6,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "BNP Paribas, Millennium",
+    "company_name": "SoftBank",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "$344M",
-    "amount_usd": 344000000.0,
+    "amount": "$2.8B",
+    "amount_usd": 2770000000.0,
     "currency": "USD",
-    "announced_on": "2026-09-01",
+    "announced_on": "2026-09-03",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/news/bnp-paribas-millennium-offload-rs-3265-cr-worth-of-eternal-shares-in-bulk-deals-12479685"
+      "https://entrackr.com/news/softbank-trims-meesho-stake-through-rs-1650-cr-block-deal-12488785"
     ],
     "confidence": 0.6,
     "summary": "",
@@ -614,25 +593,6 @@
     "investors": [],
     "sources": [
       "https://yourstory.com/2026/08/logistics-tech-startup-trucksup-raises-82-million-in-growth-funding"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Kedaara Capital",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$200M",
-    "amount_usd": 200000000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-25",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/08/kedaara-capital-invests-200-million-tynor-orthotics"
     ],
     "confidence": 0.6,
     "summary": "",
