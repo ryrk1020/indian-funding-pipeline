@@ -1,5 +1,50 @@
 [
   {
+    "company_name": "Funding",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$303.7M",
+    "amount_usd": 303700000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-05",
+    "lead_investor": "Neo Wealth",
+    "investors": [
+      "Kado Global",
+      "Labcorp",
+      "Neo Wealth"
+    ],
+    "sources": [
+      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-aug-31-sep-05-12495074"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Sneaker brand Comet",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "₹100 Cr ($12M)",
+    "amount_usd": 12048192.77,
+    "currency": "INR",
+    "announced_on": "2026-09-04",
+    "lead_investor": "Verlinvest",
+    "investors": [
+      "Elevation Capital",
+      "Verlinvest"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/09/sneaker-brand-comet-rs-100-cr-series-b-led-by-verlinvest"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Trivest Partners",
     "sector": "",
     "sector_raw": null,
@@ -15,6 +60,49 @@
     ],
     "sources": [
       "https://entrackr.com/snippets/trivest-partners-leads-2-mn-seed-round-in-power-electronics-startup-leanwatts-12489028"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "D2C",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "₹100 Cr ($12M)",
+    "amount_usd": 12048192.77,
+    "currency": "INR",
+    "announced_on": "2026-09-04",
+    "lead_investor": "Belgium-based",
+    "investors": [
+      "Belgium-based",
+      "Gully Labs"
+    ],
+    "sources": [
+      "https://entrackr.com/news/d2c-sneaker-brand-comet-raises-rs-100-cr-in-series-b-led-by-verlinvest-12493061"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Sugar Cosmetics",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series D",
+    "stage_raw": "series_d",
+    "amount": "$400M",
+    "amount_usd": 400000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-04",
+    "lead_investor": "L Catterton. At",
+    "investors": [
+      "L Catterton. At"
+    ],
+    "sources": [
+      "https://entrackr.com/news/sugar-cosmetics-raises-rs-144-cr-at-rs-755-cr-valuation-early-investors-seek-steep-discount-exits-12493909"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -124,50 +212,6 @@
     ],
     "sources": [
       "https://entrackr.com/news/slice-raises-100-mn-at-450-mn-valuation-report-12488201"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Exclusive: Sneaker",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$10.2M",
-    "amount_usd": 10200000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-02",
-    "lead_investor": "Elevation Capital. The",
-    "investors": [
-      "Elevation Capital. The",
-      "Gully Labs"
-    ],
-    "sources": [
-      "https://entrackr.com/exclusive/exclusive-sneaker-brand-comet-raising-rs-99-cr-at-over-3x-valuation-premium-12482900"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "AI content creator platform Creedom",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$10M",
-    "amount_usd": 10000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-02",
-    "lead_investor": "Leigh Hopkins",
-    "investors": [
-      "Leigh Hopkins",
-      "Raghu Nathan Sethuraman"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/ai-content-creator-platform-creedom-raises-seed-round-12484133"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -288,59 +332,16 @@
     "amount_usd": 68000000.0,
     "currency": "USD",
     "announced_on": "2026-08-29",
-    "lead_investor": "GEF Capital Partners",
+    "lead_investor": "Greenoaks",
     "investors": [
       "DoorDash",
-      "GEF Capital Partners",
-      "Greenoaks"
+      "Greenoaks",
+      "Inflexor Ventures"
     ],
     "sources": [
       "https://entrackr.com/report/weekly-funding-report",
-      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-aug-10-aug-15-12262059",
+      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-aug-17-aug-22-12412429",
       "https://entrackr.com/report/weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-aug-24-aug-29-12451075"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "InspeCity",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$1.5M",
-    "amount_usd": 1500000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-27",
-    "lead_investor": "VC",
-    "investors": [
-      "Antler Elevate",
-      "VC"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/08/spacetech-inspecity-inches-closer-to-orbit-with-rs-100-crore-funding"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Astrology platform InstaAstro",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$12M",
-    "amount_usd": 12000000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-27",
-    "lead_investor": "Singularity AMC",
-    "investors": [
-      "Singularity AMC"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/08/astrology-platform-instaastro-raises-12-million-in-series-a"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -368,21 +369,21 @@
     "city": ""
   },
   {
-    "company_name": "Funding",
+    "company_name": "Astrology platform InstaAstro",
     "sector": "",
     "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$198.3M",
-    "amount_usd": 198330000.0,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$12M",
+    "amount_usd": 12000000.0,
     "currency": "USD",
-    "announced_on": "2026-08-22",
-    "lead_investor": "Inflexor Ventures",
+    "announced_on": "2026-08-27",
+    "lead_investor": "Singularity AMC",
     "investors": [
-      "Inflexor Ventures"
+      "Singularity AMC"
     ],
     "sources": [
-      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-aug-17-aug-22-12412429"
+      "https://yourstory.com/2026/08/astrology-platform-instaastro-raises-12-million-in-series-a"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -498,44 +499,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/fintrackr/furlenco-nears-rs-400-cr-revenue-in-fy26-profit-jumps-19x-12447164"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "The/Nudge",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "₹250 Cr ($30.1M)",
-    "amount_usd": 30120481.93,
-    "currency": "INR",
-    "announced_on": "2026-08-27",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/08/thenudge-launches-rs-250-cr-tilt-fund-early-stage-impact-startups"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "PRISM’s FY26",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "₹994 Cr ($119.8M)",
-    "amount_usd": 119759036.14,
-    "currency": "INR",
-    "announced_on": "2026-08-27",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/prisms-fy26-profit-jumps-4x-to-rs-994-cr-revenue-jumps-50-12444278"
     ],
     "confidence": 0.8,
     "summary": "",
