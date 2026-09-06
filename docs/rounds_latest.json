@@ -218,27 +218,6 @@
     "city": ""
   },
   {
-    "company_name": "Alpha Wave",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "$2.0B",
-    "amount_usd": 2000000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-02",
-    "lead_investor": "ICICI Prudential Life Insurance Company",
-    "investors": [
-      "ICICI Prudential Life Insurance Company"
-    ],
-    "sources": [
-      "https://entrackr.com/news/alpha-wave-sells-almost-entire-pine-labs-stake-in-rs-550-cr-block-deal-12485107"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Kepler Aerospace",
     "sector": "",
     "sector_raw": null,
@@ -513,10 +492,11 @@
     "amount": "₹780 Cr ($94M)",
     "amount_usd": 93975903.61,
     "currency": "INR",
-    "announced_on": "2026-09-03",
+    "announced_on": "2026-09-05",
     "lead_investor": "",
     "investors": [],
     "sources": [
+      "https://entrackr.com/news/ola-electric-approves-rs-1500-cr-fundraise-coo-hyun-shik-park-resigns-12497100",
       "https://entrackr.com/news/ola-electric-to-consider-another-fundraise-amid-market-share-pressure-12486838"
     ],
     "confidence": 0.6,
