@@ -1,5 +1,90 @@
 [
   {
+    "company_name": "Spacetech Pixxel",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$100M",
+    "amount_usd": 100000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-07",
+    "lead_investor": "Singapore-based",
+    "investors": [
+      "Singapore-based"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/09/pixxel-raises-100-million-build-india-next-generation-earth-observation-infrastructure"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Women’s",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series C",
+    "stage_raw": "series_c",
+    "amount": "$50M",
+    "amount_usd": 50000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-07",
+    "lead_investor": "Peak XV Partners",
+    "investors": [
+      "Peak XV Partners"
+    ],
+    "sources": [
+      "https://entrackr.com/news/womens-wellness-brand-nua-raises-50-mn-led-by-peak-xv-filter-capital-12501195",
+      "https://yourstory.com/2026/09/womens-wellness-brand-nua-raises-series-c-round-peak-xv-filter-capital"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Spactech startup Pixxel",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$100M",
+    "amount_usd": 100000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-07",
+    "lead_investor": "Temasek",
+    "investors": [
+      "Temasek"
+    ],
+    "sources": [
+      "https://entrackr.com/news/spactech-startup-pixxel-raises-100-mn-in-series-c-led-by-temasek-seraphim-12501095"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Exclusive: Swish",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$24M",
+    "amount_usd": 24000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-07",
+    "lead_investor": "Bertelsmann India",
+    "investors": [
+      "Bertelsmann India"
+    ],
+    "sources": [
+      "https://entrackr.com/exclusive/exclusive-swish-to-raise-around-24-mn-at-175-mn-valuation-12501614"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
@@ -132,27 +217,6 @@
     "city": ""
   },
   {
-    "company_name": "D2C",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series C",
-    "stage_raw": "series_c",
-    "amount": "$50M",
-    "amount_usd": 50000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-03",
-    "lead_investor": "A91 Partners",
-    "investors": [
-      "A91 Partners"
-    ],
-    "sources": [
-      "https://entrackr.com/fintrackr/d2c-brand-plums-revenue-crosses-rs-500-cr-in-fy26-profit-doubles-12486368"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Bluehill VC",
     "sector": "",
     "sector_raw": null,
@@ -168,6 +232,27 @@
     ],
     "sources": [
       "https://entrackr.com/snippets/bluehill-vc-leads-rs-102-cr-seed-round-in-makr-microsystems-12486807"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "D2C",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series C",
+    "stage_raw": "series_c",
+    "amount": "$50M",
+    "amount_usd": 50000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-03",
+    "lead_investor": "A91 Partners",
+    "investors": [
+      "A91 Partners"
+    ],
+    "sources": [
+      "https://entrackr.com/fintrackr/d2c-brand-plums-revenue-crosses-rs-500-cr-in-fy26-profit-doubles-12486368"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -218,27 +303,6 @@
     "city": ""
   },
   {
-    "company_name": "Kepler Aerospace",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$8M",
-    "amount_usd": 8000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-01",
-    "lead_investor": "Blue Ashva Capital",
-    "investors": [
-      "Blue Ashva Capital"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/09/kepler-aerospace-bags-8-million-deploy-autonomous-swarming-satellites"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Yuma Energy",
     "sector": "",
     "sector_raw": null,
@@ -254,6 +318,27 @@
     ],
     "sources": [
       "https://yourstory.com/2026/09/yuma-energy-35-million-in-series-a-from-magna-international"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Kepler Aerospace",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "$8M",
+    "amount_usd": 8000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-01",
+    "lead_investor": "Blue Ashva Capital",
+    "investors": [
+      "Blue Ashva Capital"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/09/kepler-aerospace-bags-8-million-deploy-autonomous-swarming-satellites"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -327,48 +412,6 @@
     "city": ""
   },
   {
-    "company_name": "Commercial EV",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "₹50 Cr ($6M)",
-    "amount_usd": 6024096.39,
-    "currency": "INR",
-    "announced_on": "2026-08-27",
-    "lead_investor": "Abhishek Misra",
-    "investors": [
-      "Abhishek Misra"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/08/commerical-ev-maker-omega-seiki-mobility-raises-another-rs-50-crore"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Astrology platform InstaAstro",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$12M",
-    "amount_usd": 12000000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-27",
-    "lead_investor": "Singularity AMC",
-    "investors": [
-      "Singularity AMC"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/08/astrology-platform-instaastro-raises-12-million-in-series-a"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Rentomojo",
     "sector": "",
     "sector_raw": null,
@@ -427,25 +470,6 @@
     "city": ""
   },
   {
-    "company_name": "Adobe",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "$1M",
-    "amount_usd": 1000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-02",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/adobe-picks-up-ai-marketing-startup-rilo-in-second-india-acquisition-12484822"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Aakash",
     "sector": "",
     "sector_raw": null,
@@ -484,6 +508,44 @@
     "city": ""
   },
   {
+    "company_name": "HerSpace Manufacturing",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$40M",
+    "amount_usd": 40000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-07",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/09/herspace-manufacturing-40-million-gray-matters-capital"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Pet",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹19 Cr ($2.3M)",
+    "amount_usd": 2289156.63,
+    "currency": "INR",
+    "announced_on": "2026-09-07",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/pet-food-and-nutrition-brand-lickicious-raises-rs-19-cr-led-by-prath-ventures-12501283"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Ola Electric",
     "sector": "",
     "sector_raw": null,
@@ -496,8 +558,7 @@
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/news/ola-electric-approves-rs-1500-cr-fundraise-coo-hyun-shik-park-resigns-12497100",
-      "https://entrackr.com/news/ola-electric-to-consider-another-fundraise-amid-market-share-pressure-12486838"
+      "https://entrackr.com/news/ola-electric-approves-rs-1500-cr-fundraise-coo-hyun-shik-park-resigns-12497100"
     ],
     "confidence": 0.6,
     "summary": "",
@@ -517,25 +578,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/news/softbank-trims-meesho-stake-through-rs-1650-cr-block-deal-12488785"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Logistics tech startup TrucksUp",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$8.2M",
-    "amount_usd": 8200000.0,
-    "currency": "USD",
-    "announced_on": "2026-08-27",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/08/logistics-tech-startup-trucksup-raises-82-million-in-growth-funding"
     ],
     "confidence": 0.6,
     "summary": "",
