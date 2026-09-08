@@ -1,6 +1,28 @@
 [
   {
-    "company_name": "Spacetech Pixxel",
+    "company_name": "B2B pharma distribution startup Fundly.ai",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "$4M",
+    "amount_usd": 4000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-08",
+    "lead_investor": "Accel",
+    "investors": [
+      "Accel",
+      "Multiply Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/b2b-pharma-distribution-startup-fundlyai-raises-4-mn-led-by-accel-multiply-12505458"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Spacetech firm Pixxel",
     "sector": "",
     "sector_raw": null,
     "stage": "Pre-Series A",
@@ -85,6 +107,48 @@
     "city": ""
   },
   {
+    "company_name": "Voice AI startup Navana.ai",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$4.2M",
+    "amount_usd": 4200000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-07",
+    "lead_investor": "",
+    "investors": [
+      "Antler India"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/voice-ai-startup-navanaai-raises-rs-40-cr-led-by-ronnie-screwvala-12501888"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Exclusive: DaMENSCH",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$2.5M",
+    "amount_usd": 2500000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-07",
+    "lead_investor": "A91 Partners",
+    "investors": [
+      "A91 Partners"
+    ],
+    "sources": [
+      "https://entrackr.com/exclusive/exclusive-damensch-raises-fresh-funding-at-flat-valuation-of-rs-600-cr-12501961"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
@@ -124,27 +188,6 @@
     ],
     "sources": [
       "https://yourstory.com/2026/09/sneaker-brand-comet-rs-100-cr-series-b-led-by-verlinvest"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Trivest Partners",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$2M",
-    "amount_usd": 2000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-04",
-    "lead_investor": "Trivest Partners",
-    "investors": [
-      "Trivest Partners"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/trivest-partners-leads-2-mn-seed-round-in-power-electronics-startup-leanwatts-12489028"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -194,50 +237,6 @@
     "city": ""
   },
   {
-    "company_name": "Ultrahuman",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$70M",
-    "amount_usd": 70000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-03",
-    "lead_investor": "Qualcomm Ventures",
-    "investors": [
-      "Labcorp",
-      "Qualcomm Ventures"
-    ],
-    "sources": [
-      "https://entrackr.com/news/ultrahuman-raises-70-mn-from-qualcomm-alpha-wave-nexus-and-others-12489004",
-      "https://yourstory.com/2026/09/funding-ultrahuman-70m-qualcomm-ventures-alpha-wave-others"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Bluehill VC",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "₹10 Cr ($1.2M)",
-    "amount_usd": 1228915.66,
-    "currency": "INR",
-    "announced_on": "2026-09-03",
-    "lead_investor": "",
-    "investors": [
-      "Artha Venture Fund. Founded"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/bluehill-vc-leads-rs-102-cr-seed-round-in-makr-microsystems-12486807"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "D2C",
     "sector": "",
     "sector_raw": null,
@@ -259,44 +258,21 @@
     "city": ""
   },
   {
-    "company_name": "ABP Education",
+    "company_name": "Kepler Aerospace",
     "sector": "",
     "sector_raw": null,
-    "stage": "Pre-Seed",
-    "stage_raw": "pre_seed",
-    "amount": "$5M",
-    "amount_usd": 5000000.0,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "$8M",
+    "amount_usd": 8000000.0,
     "currency": "USD",
-    "announced_on": "2026-09-03",
-    "lead_investor": "ABP Education",
+    "announced_on": "2026-09-01",
+    "lead_investor": "Blue Ashva Capital",
     "investors": [
-      "ABP Education"
+      "Blue Ashva Capital"
     ],
     "sources": [
-      "https://entrackr.com/snippets/abp-education-leads-seed-round-in-edtech-platform-yolearnai-12487249"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Slice",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$42.5M",
-    "amount_usd": 42500000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-03",
-    "lead_investor": "Indian",
-    "investors": [
-      "Indian",
-      "Japan-based Kado Global",
-      "Moore Strategic Ventures"
-    ],
-    "sources": [
-      "https://entrackr.com/news/slice-raises-100-mn-at-450-mn-valuation-report-12488201"
+      "https://yourstory.com/2026/09/kepler-aerospace-bags-8-million-deploy-autonomous-swarming-satellites"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -318,27 +294,6 @@
     ],
     "sources": [
       "https://yourstory.com/2026/09/yuma-energy-35-million-in-series-a-from-magna-international"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Kepler Aerospace",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$8M",
-    "amount_usd": 8000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-01",
-    "lead_investor": "Blue Ashva Capital",
-    "investors": [
-      "Blue Ashva Capital"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/09/kepler-aerospace-bags-8-million-deploy-autonomous-swarming-satellites"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -412,19 +367,38 @@
     "city": ""
   },
   {
-    "company_name": "Rentomojo",
+    "company_name": "Shiprocket",
     "sector": "",
     "sector_raw": null,
     "stage": "IPO",
     "stage_raw": "ipo",
-    "amount": "₹150 Cr ($18.1M)",
-    "amount_usd": 18072289.16,
-    "currency": "INR",
-    "announced_on": "2026-09-04",
+    "amount": "$1.0B",
+    "amount_usd": 1040000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-08",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/news/rentomojo-files-rhp-for-rs-1256-cr-ipo-targets-rs-4200-cr-valuation-12489865"
+      "https://entrackr.com/fintrackr/shiprocket-narrows-q1-loss-to-rs-137-cr-revenue-jumps-34-post-ipo-12505653"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Udaan",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "$160M",
+    "amount_usd": 160000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-07",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/udaan-to-acquire-swiggy-owned-lynk-logistics-for-rs-500-cr-12503261"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -462,7 +436,6 @@
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/news/cradlewise-raises-12-mn-in-series-a-round-led-by-3one4-capital-prudent-investment-12487351",
       "https://yourstory.com/2026/09/cradlewise-funding-3one4-capital-prudent-investment-management"
     ],
     "confidence": 0.8,
@@ -489,21 +462,21 @@
     "city": ""
   },
   {
-    "company_name": "Furlenco",
+    "company_name": "W Health Ventures",
     "sector": "",
     "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "₹140 Cr ($16.9M)",
-    "amount_usd": 16867469.88,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹700 Cr ($84.3M)",
+    "amount_usd": 84337349.4,
     "currency": "INR",
-    "announced_on": "2026-08-28",
+    "announced_on": "2026-09-08",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/fintrackr/furlenco-nears-rs-400-cr-revenue-in-fy26-profit-jumps-19x-12447164"
+      "https://entrackr.com/snippets/w-health-ventures-closes-fund-ii-at-rs-700-cr-12505623"
     ],
-    "confidence": 0.8,
+    "confidence": 0.6,
     "summary": "",
     "city": ""
   },
@@ -520,6 +493,7 @@
     "lead_investor": "",
     "investors": [],
     "sources": [
+      "https://entrackr.com/news/herspace-secures-40-mn-from-existing-investor-gray-matters-capital-12502764",
       "https://yourstory.com/2026/09/herspace-manufacturing-40-million-gray-matters-capital"
     ],
     "confidence": 0.6,
@@ -565,19 +539,19 @@
     "city": ""
   },
   {
-    "company_name": "SoftBank",
+    "company_name": "Ultrahuman",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "$2.8B",
-    "amount_usd": 2770000000.0,
+    "amount": "$70M",
+    "amount_usd": 70000000.0,
     "currency": "USD",
-    "announced_on": "2026-09-03",
+    "announced_on": "2026-09-04",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/news/softbank-trims-meesho-stake-through-rs-1650-cr-block-deal-12488785"
+      "https://yourstory.com/2026/09/funding-ultrahuman-70m-qualcomm-ventures-alpha-wave-others"
     ],
     "confidence": 0.6,
     "summary": "",
