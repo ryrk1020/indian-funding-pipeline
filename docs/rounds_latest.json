@@ -1,5 +1,70 @@
 [
   {
+    "company_name": "Alco-bev startup Marmalade",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$1.2M",
+    "amount_usd": 1200000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-09",
+    "lead_investor": "Inflection Point Ventures. Raincheck Earth",
+    "investors": [
+      "Inflection Point Ventures. Raincheck Earth"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/alco-bev-startup-marmalade-raises-seed-round-12508946"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Deep-tech cybersecurity company QNu Labs",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$7M",
+    "amount_usd": 7000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-09",
+    "lead_investor": "Ashish Kacholia",
+    "investors": [
+      "Ashish Kacholia",
+      "Sony Innovation Fund"
+    ],
+    "sources": [
+      "https://entrackr.com/news/deep-tech-cybersecurity-company-qnu-labs-raises-rs-200-cr-in-series-a1-round-12509199"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Exclusive: Fashion",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$6M",
+    "amount_usd": 6000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-09",
+    "lead_investor": "Niveshaay",
+    "investors": [
+      "FirstPort Capital",
+      "Niveshaay"
+    ],
+    "sources": [
+      "https://entrackr.com/exclusive/exclusive-fashion-brand-theater-raises-series-a-at-rs-400-cr-valuation-12509223"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "B2B pharma distribution startup Fundly.ai",
     "sector": "",
     "sector_raw": null,
@@ -16,6 +81,114 @@
     ],
     "sources": [
       "https://entrackr.com/snippets/b2b-pharma-distribution-startup-fundlyai-raises-4-mn-led-by-accel-multiply-12505458"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Fabric care startup Iztri",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Seed",
+    "stage_raw": "pre_seed",
+    "amount": "$1M",
+    "amount_usd": 1000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-08",
+    "lead_investor": "All In Capital",
+    "investors": [
+      "All In Capital",
+      "Anupam Mittal"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/fabric-care-startup-iztri-raises-seed-round-led-by-all-in-capital-suashish-group-12506395"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Gaming tech startup ARC",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Seed",
+    "stage_raw": "pre_seed",
+    "amount": "₹10 Cr ($1.3M)",
+    "amount_usd": 1265060.24,
+    "currency": "INR",
+    "announced_on": "2026-09-08",
+    "lead_investor": "Chimera VC",
+    "investors": [
+      "Chimera VC",
+      "Dhruv Vohra"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/gaming-tech-startup-arc-raises-rs-105-cr-in-pre-seed-round-12506561"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Circolife",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$4.5M",
+    "amount_usd": 4500000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-08",
+    "lead_investor": "Bharat Jaisinghani",
+    "investors": [
+      "Bharat Jaisinghani"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/circolife-raises-45-mn-in-pre-series-a-round-led-by-bharat-jaisinghani-12507089"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Navam Capital",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "$5.5M",
+    "amount_usd": 5500000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-08",
+    "lead_investor": "Navam Capital",
+    "investors": [
+      "Enzia Ventures",
+      "Navam Capital"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/navam-capital-leads-rs-22-cr-round-in-digitalpaani-12507542"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Bajaj Finance",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$10M",
+    "amount_usd": 10000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-08",
+    "lead_investor": "Baring Private Equity Partners India",
+    "investors": [
+      "Baring Private Equity Partners India"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/bajaj-finance-acquires-5-stake-in-truefan-ai-12507925"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -57,92 +230,7 @@
       "Peak XV Partners"
     ],
     "sources": [
-      "https://entrackr.com/news/womens-wellness-brand-nua-raises-50-mn-led-by-peak-xv-filter-capital-12501195",
       "https://yourstory.com/2026/09/womens-wellness-brand-nua-raises-series-c-round-peak-xv-filter-capital"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Spactech startup Pixxel",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$100M",
-    "amount_usd": 100000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-07",
-    "lead_investor": "Temasek",
-    "investors": [
-      "Temasek"
-    ],
-    "sources": [
-      "https://entrackr.com/news/spactech-startup-pixxel-raises-100-mn-in-series-c-led-by-temasek-seraphim-12501095"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Exclusive: Swish",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$24M",
-    "amount_usd": 24000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-07",
-    "lead_investor": "Bertelsmann India",
-    "investors": [
-      "Bertelsmann India"
-    ],
-    "sources": [
-      "https://entrackr.com/exclusive/exclusive-swish-to-raise-around-24-mn-at-175-mn-valuation-12501614"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Voice AI startup Navana.ai",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$4.2M",
-    "amount_usd": 4200000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-07",
-    "lead_investor": "",
-    "investors": [
-      "Antler India"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/voice-ai-startup-navanaai-raises-rs-40-cr-led-by-ronnie-screwvala-12501888"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Exclusive: DaMENSCH",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$2.5M",
-    "amount_usd": 2500000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-07",
-    "lead_investor": "A91 Partners",
-    "investors": [
-      "A91 Partners"
-    ],
-    "sources": [
-      "https://entrackr.com/exclusive/exclusive-damensch-raises-fresh-funding-at-flat-valuation-of-rs-600-cr-12501961"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -197,49 +285,6 @@
     "company_name": "D2C",
     "sector": "",
     "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "₹100 Cr ($12M)",
-    "amount_usd": 12048192.77,
-    "currency": "INR",
-    "announced_on": "2026-09-04",
-    "lead_investor": "Belgium-based",
-    "investors": [
-      "Belgium-based",
-      "Gully Labs"
-    ],
-    "sources": [
-      "https://entrackr.com/news/d2c-sneaker-brand-comet-raises-rs-100-cr-in-series-b-led-by-verlinvest-12493061"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Sugar Cosmetics",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series D",
-    "stage_raw": "series_d",
-    "amount": "$400M",
-    "amount_usd": 400000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-04",
-    "lead_investor": "L Catterton. At",
-    "investors": [
-      "L Catterton. At"
-    ],
-    "sources": [
-      "https://entrackr.com/news/sugar-cosmetics-raises-rs-144-cr-at-rs-755-cr-valuation-early-investors-seek-steep-discount-exits-12493909"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "D2C",
-    "sector": "",
-    "sector_raw": null,
     "stage": "Series C",
     "stage_raw": "series_c",
     "amount": "$50M",
@@ -252,27 +297,6 @@
     ],
     "sources": [
       "https://entrackr.com/fintrackr/d2c-brand-plums-revenue-crosses-rs-500-cr-in-fy26-profit-doubles-12486368"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Kepler Aerospace",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$8M",
-    "amount_usd": 8000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-01",
-    "lead_investor": "Blue Ashva Capital",
-    "investors": [
-      "Blue Ashva Capital"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/09/kepler-aerospace-bags-8-million-deploy-autonomous-swarming-satellites"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -294,6 +318,27 @@
     ],
     "sources": [
       "https://yourstory.com/2026/09/yuma-energy-35-million-in-series-a-from-magna-international"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Kepler Aerospace",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "$8M",
+    "amount_usd": 8000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-01",
+    "lead_investor": "Blue Ashva Capital",
+    "investors": [
+      "Blue Ashva Capital"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/09/kepler-aerospace-bags-8-million-deploy-autonomous-swarming-satellites"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -367,6 +412,25 @@
     "city": ""
   },
   {
+    "company_name": "Rentomojo",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "₹376 Cr ($45.3M)",
+    "amount_usd": 45309638.55,
+    "currency": "INR",
+    "announced_on": "2026-09-09",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/rentomojo-raises-rs-376-cr-from-anchor-investors-ahead-of-ipo-12509513"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Shiprocket",
     "sector": "",
     "sector_raw": null,
@@ -386,19 +450,57 @@
     "city": ""
   },
   {
-    "company_name": "Udaan",
+    "company_name": "Beverage brand Sorry Sugar",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "$1M",
+    "amount_usd": 1000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-08",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/beverage-brand-sorry-sugar-raises-1-mn-in-seed-round-12506729"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Kuku",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "$1.8B",
+    "amount_usd": 1800000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-08",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/kuku-to-build-1000-member-ai-team-ahead-of-rs-3500-cr-ipo-12507869"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "TPG-backed NewQuest",
     "sector": "",
     "sector_raw": null,
     "stage": "Acquisition",
     "stage_raw": "acquisition",
-    "amount": "$160M",
-    "amount_usd": 160000000.0,
+    "amount": "$1.5B",
+    "amount_usd": 1540000000.0,
     "currency": "USD",
-    "announced_on": "2026-09-07",
+    "announced_on": "2026-09-08",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/news/udaan-to-acquire-swiggy-owned-lynk-logistics-for-rs-500-cr-12503261"
+      "https://entrackr.com/news/tpg-backed-newquest-offloads-rs-200-cr-shadowfax-stake-in-a-bulk-deal-12508230"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -493,46 +595,7 @@
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/news/herspace-secures-40-mn-from-existing-investor-gray-matters-capital-12502764",
       "https://yourstory.com/2026/09/herspace-manufacturing-40-million-gray-matters-capital"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Pet",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹19 Cr ($2.3M)",
-    "amount_usd": 2289156.63,
-    "currency": "INR",
-    "announced_on": "2026-09-07",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/pet-food-and-nutrition-brand-lickicious-raises-rs-19-cr-led-by-prath-ventures-12501283"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Ola Electric",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹780 Cr ($94M)",
-    "amount_usd": 93975903.61,
-    "currency": "INR",
-    "announced_on": "2026-09-05",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/ola-electric-approves-rs-1500-cr-fundraise-coo-hyun-shik-park-resigns-12497100"
     ],
     "confidence": 0.6,
     "summary": "",
