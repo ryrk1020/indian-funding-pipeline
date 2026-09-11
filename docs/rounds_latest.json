@@ -1,5 +1,49 @@
 [
   {
+    "company_name": "Fashion brand Theater",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "₹75 Cr ($9M)",
+    "amount_usd": 9036144.58,
+    "currency": "INR",
+    "announced_on": "2026-09-10",
+    "lead_investor": "Niveshaay",
+    "investors": [
+      "Niveshaay",
+      "Physis Capital"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/09/fashion-brand-theater-raises-rs-75-cr-in-series-a-led-by-niveshaay"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Piston",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$15M",
+    "amount_usd": 15000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-10",
+    "lead_investor": "FPV Ventures",
+    "investors": [
+      "FPV Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/news/cardless-payments-platform-piston-raises-15-mn-in-series-a-led-by-fpv-ventures-12516055",
+      "https://yourstory.com/2026/09/piston-raises-15-million-in-series-a-led-by-fpv-ventures"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Exclusive: Mesa School",
     "sector": "",
     "sector_raw": null,
@@ -15,6 +59,48 @@
     ],
     "sources": [
       "https://entrackr.com/exclusive/exclusive-mesa-school-set-to-raise-rs-100-cr-in-series-a-co-founder-may-sell-29-stake-12513921"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Niveshaay",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$1.5M",
+    "amount_usd": 1500000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-10",
+    "lead_investor": "Niveshaay",
+    "investors": [
+      "Niveshaay"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/niveshaay-leads-rs-75-cr-series-a-round-in-fashion-brand-theater-12515108"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Graph AI",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$13.3M",
+    "amount_usd": 13300000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-10",
+    "lead_investor": "Insight Partners",
+    "investors": [
+      "Insight Partners"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/graph-ai-raises-133-mn-in-series-a-round-led-by-insight-partners-12516422"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -38,27 +124,6 @@
     "sources": [
       "https://entrackr.com/snippets/fleet-management-platform-carrum-mobility-raises-10-mn-in-series-b-led-by-uber-12511605",
       "https://yourstory.com/2026/09/carrum-mobility-raises-10-million-in-series-b-led-by-uber"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Alco-bev startup Marmalade",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$1.2M",
-    "amount_usd": 1200000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-09",
-    "lead_investor": "Inflection Point Ventures. Raincheck Earth",
-    "investors": [
-      "Inflection Point Ventures. Raincheck Earth"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/alco-bev-startup-marmalade-raises-seed-round-12508946"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -109,86 +174,21 @@
     "city": ""
   },
   {
-    "company_name": "Gaming tech startup ARC",
+    "company_name": "Women’s",
     "sector": "",
     "sector_raw": null,
-    "stage": "Pre-Seed",
-    "stage_raw": "pre_seed",
-    "amount": "₹10 Cr ($1.3M)",
-    "amount_usd": 1265060.24,
-    "currency": "INR",
-    "announced_on": "2026-09-08",
-    "lead_investor": "Chimera VC",
-    "investors": [
-      "Chimera VC",
-      "Dhruv Vohra"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/gaming-tech-startup-arc-raises-rs-105-cr-in-pre-seed-round-12506561"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Circolife",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$4.5M",
-    "amount_usd": 4500000.0,
+    "stage": "Series C",
+    "stage_raw": "series_c",
+    "amount": "$50M",
+    "amount_usd": 50000000.0,
     "currency": "USD",
-    "announced_on": "2026-09-08",
-    "lead_investor": "Bharat Jaisinghani",
+    "announced_on": "2026-09-07",
+    "lead_investor": "Peak XV Partners",
     "investors": [
-      "Bharat Jaisinghani"
+      "Peak XV Partners"
     ],
     "sources": [
-      "https://entrackr.com/snippets/circolife-raises-45-mn-in-pre-series-a-round-led-by-bharat-jaisinghani-12507089"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Navam Capital",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$5.5M",
-    "amount_usd": 5500000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-08",
-    "lead_investor": "Navam Capital",
-    "investors": [
-      "Enzia Ventures",
-      "Navam Capital"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/navam-capital-leads-rs-22-cr-round-in-digitalpaani-12507542"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Bajaj Finance",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$10M",
-    "amount_usd": 10000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-08",
-    "lead_investor": "Baring Private Equity Partners India",
-    "investors": [
-      "Baring Private Equity Partners India"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/bajaj-finance-acquires-5-stake-in-truefan-ai-12507925"
+      "https://yourstory.com/2026/09/womens-wellness-brand-nua-raises-series-c-round-peak-xv-filter-capital"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -210,27 +210,6 @@
     ],
     "sources": [
       "https://yourstory.com/2026/09/pixxel-raises-100-million-build-india-next-generation-earth-observation-infrastructure"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Women’s",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series C",
-    "stage_raw": "series_c",
-    "amount": "$50M",
-    "amount_usd": 50000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-07",
-    "lead_investor": "Peak XV Partners",
-    "investors": [
-      "Peak XV Partners"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/09/womens-wellness-brand-nua-raises-series-c-round-peak-xv-filter-capital"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -303,48 +282,6 @@
     "city": ""
   },
   {
-    "company_name": "Yuma Energy",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$35M",
-    "amount_usd": 35000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-01",
-    "lead_investor": "Magna International",
-    "investors": [
-      "Magna International"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/09/yuma-energy-35-million-in-series-a-from-magna-international"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Kepler Aerospace",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$8M",
-    "amount_usd": 8000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-01",
-    "lead_investor": "Blue Ashva Capital",
-    "investors": [
-      "Blue Ashva Capital"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/09/kepler-aerospace-bags-8-million-deploy-autonomous-swarming-satellites"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Indian",
     "sector": "",
     "sector_raw": null,
@@ -391,6 +328,27 @@
     "city": ""
   },
   {
+    "company_name": "Swish",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$24M",
+    "amount_usd": 24000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-10",
+    "lead_investor": "Bertelsmann India Investments",
+    "investors": [
+      "Bertelsmann India Investments"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/09/swish-raises-usd-24m-led-by-bertelsmann-india"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "10-minute",
     "sector": "",
     "sector_raw": null,
@@ -406,6 +364,27 @@
     ],
     "sources": [
       "https://entrackr.com/news/10-minute-food-delivery-startup-swish-raises-24-mn-led-by-bertelsmann-india-investments-12513814"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "AI contact centre startup Dialflo",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹1.7 Cr ($205K)",
+    "amount_usd": 204819.28,
+    "currency": "INR",
+    "announced_on": "2026-09-10",
+    "lead_investor": "Aviral Bhatnagar",
+    "investors": [
+      "Aviral Bhatnagar"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/ai-contact-centre-startup-dialflo-raises-rs-17-cr-led-by-ajvc-12515938"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -450,97 +429,59 @@
     "city": ""
   },
   {
-    "company_name": "Beverage brand Sorry Sugar",
+    "company_name": "The Pizza Bakery",
     "sector": "",
     "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$1M",
-    "amount_usd": 1000000.0,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$56M",
+    "amount_usd": 56000000.0,
     "currency": "USD",
-    "announced_on": "2026-09-08",
+    "announced_on": "2026-09-11",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/snippets/beverage-brand-sorry-sugar-raises-1-mn-in-seed-round-12506729"
+      "https://entrackr.com/snippets/the-pizza-bakery-operator-popo-global-raises-rs-532-cr-from-artal-asia-12518089"
     ],
-    "confidence": 0.8,
+    "confidence": 0.6,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Kuku",
+    "company_name": "Nishant Pitti",
     "sector": "",
     "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "$1.8B",
-    "amount_usd": 1800000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-08",
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹212 Cr ($25.5M)",
+    "amount_usd": 25532530.12,
+    "currency": "INR",
+    "announced_on": "2026-09-11",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/news/kuku-to-build-1000-member-ai-team-ahead-of-rs-3500-cr-ipo-12507869"
+      "https://entrackr.com/news/nishant-pitti-pledges-rs-212-cr-easemytrip-shares-with-motilal-oswal-for-personal-use-12518406"
     ],
-    "confidence": 0.8,
+    "confidence": 0.6,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "TPG-backed NewQuest",
+    "company_name": "Greenwave Circularity",
     "sector": "",
     "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "$1.5B",
-    "amount_usd": 1540000000.0,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$31.5M",
+    "amount_usd": 31500000.0,
     "currency": "USD",
-    "announced_on": "2026-09-08",
+    "announced_on": "2026-09-10",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/news/tpg-backed-newquest-offloads-rs-200-cr-shadowfax-stake-in-a-bulk-deal-12508230"
+      "https://yourstory.com/2026/09/greenwave-circularity-raises-315-million-financing-from-oeeb-of-austria"
     ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Cradlewise",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$12M",
-    "amount_usd": 12000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-03",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/09/cradlewise-funding-3one4-capital-prudent-investment-management"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "VLCC",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "$275M",
-    "amount_usd": 275000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-03",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/09/vlcc-raises-rs-110-crore-in-funding-from-blacksoil-capital"
-    ],
-    "confidence": 0.8,
+    "confidence": 0.6,
     "summary": "",
     "city": ""
   },
