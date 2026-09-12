@@ -1,5 +1,26 @@
 [
   {
+    "company_name": "Weekly Funding Report",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$356.8M",
+    "amount_usd": 356800000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-12",
+    "lead_investor": "Peak XV Partners. Workforce",
+    "investors": [
+      "Peak XV Partners. Workforce"
+    ],
+    "sources": [
+      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-sep-07-sep-12-12523070"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Fashion brand Theater",
     "sector": "",
     "sector_raw": null,
@@ -38,6 +59,28 @@
     "sources": [
       "https://entrackr.com/news/cardless-payments-platform-piston-raises-15-mn-in-series-a-led-by-fpv-ventures-12516055",
       "https://yourstory.com/2026/09/piston-raises-15-million-in-series-a-led-by-fpv-ventures"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Graph AI",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$13.3M",
+    "amount_usd": 13300000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-10",
+    "lead_investor": "Insight Partners",
+    "investors": [
+      "Insight Partners"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/graph-ai-raises-133-mn-in-series-a-round-led-by-insight-partners-12516422",
+      "https://yourstory.com/2026/09/graph-ai-raises-133-million-in-series-a"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -86,27 +129,6 @@
     "city": ""
   },
   {
-    "company_name": "Graph AI",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$13.3M",
-    "amount_usd": 13300000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-10",
-    "lead_investor": "Insight Partners",
-    "investors": [
-      "Insight Partners"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/graph-ai-raises-133-mn-in-series-a-round-led-by-insight-partners-12516422"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Carrum Mobility",
     "sector": "",
     "sector_raw": null,
@@ -124,50 +146,6 @@
     "sources": [
       "https://entrackr.com/snippets/fleet-management-platform-carrum-mobility-raises-10-mn-in-series-b-led-by-uber-12511605",
       "https://yourstory.com/2026/09/carrum-mobility-raises-10-million-in-series-b-led-by-uber"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "QNu Labs",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$7M",
-    "amount_usd": 7000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-09",
-    "lead_investor": "Ashish Kacholia",
-    "investors": [
-      "Ashish Kacholia",
-      "Sony Innovation Fund"
-    ],
-    "sources": [
-      "https://entrackr.com/news/deep-tech-cybersecurity-company-qnu-labs-raises-rs-200-cr-in-series-a1-round-12509199"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Exclusive: Fashion",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$6M",
-    "amount_usd": 6000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-09",
-    "lead_investor": "Niveshaay",
-    "investors": [
-      "FirstPort Capital",
-      "Niveshaay"
-    ],
-    "sources": [
-      "https://entrackr.com/exclusive/exclusive-fashion-brand-theater-raises-series-a-at-rs-400-cr-valuation-12509223"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -216,7 +194,7 @@
     "city": ""
   },
   {
-    "company_name": "Funding",
+    "company_name": "Weekly Funding Report",
     "sector": "",
     "sector_raw": null,
     "stage": "Pre-Series A",
@@ -233,28 +211,6 @@
     ],
     "sources": [
       "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-aug-31-sep-05-12495074"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Sneaker brand Comet",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "₹100 Cr ($12M)",
-    "amount_usd": 12048192.77,
-    "currency": "INR",
-    "announced_on": "2026-09-04",
-    "lead_investor": "Verlinvest",
-    "investors": [
-      "Elevation Capital",
-      "Verlinvest"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/09/sneaker-brand-comet-rs-100-cr-series-b-led-by-verlinvest"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -303,7 +259,7 @@
     "city": ""
   },
   {
-    "company_name": "Funding",
+    "company_name": "Weekly Funding Report",
     "sector": "",
     "sector_raw": null,
     "stage": "Pre-Series A",
@@ -315,12 +271,10 @@
     "lead_investor": "Greenoaks",
     "investors": [
       "DoorDash",
-      "Greenoaks",
-      "Inflexor Ventures"
+      "Greenoaks"
     ],
     "sources": [
       "https://entrackr.com/report/weekly-funding-report",
-      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-aug-17-aug-22-12412429",
       "https://entrackr.com/report/weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-aug-24-aug-29-12451075"
     ],
     "confidence": 0.85,
@@ -391,25 +345,6 @@
     "city": ""
   },
   {
-    "company_name": "Rentomojo",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "₹376 Cr ($45.3M)",
-    "amount_usd": 45309638.55,
-    "currency": "INR",
-    "announced_on": "2026-09-09",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/rentomojo-raises-rs-376-cr-from-anchor-investors-ahead-of-ipo-12509513"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Shiprocket",
     "sector": "",
     "sector_raw": null,
@@ -429,7 +364,7 @@
     "city": ""
   },
   {
-    "company_name": "The Pizza Bakery",
+    "company_name": "Pizza Bakery",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
@@ -441,7 +376,8 @@
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/snippets/the-pizza-bakery-operator-popo-global-raises-rs-532-cr-from-artal-asia-12518089"
+      "https://entrackr.com/snippets/the-pizza-bakery-operator-popo-global-raises-rs-532-cr-from-artal-asia-12518089",
+      "https://yourstory.com/2026/09/pizza-bakery-founders-popo-global-raise-rs-532-cr-from-artal-asia"
     ],
     "confidence": 0.6,
     "summary": "",
@@ -461,6 +397,25 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/news/nishant-pitti-pledges-rs-212-cr-easemytrip-shares-with-motilal-oswal-for-personal-use-12518406"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "NPCI’s FY26",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹4240 Cr ($510.8M)",
+    "amount_usd": 510843373.49,
+    "currency": "INR",
+    "announced_on": "2026-09-11",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/npcis-fy26-profit-falls-32-revenue-rises-22-to-rs-4240-cr-12520011"
     ],
     "confidence": 0.6,
     "summary": "",
@@ -518,25 +473,6 @@
     "investors": [],
     "sources": [
       "https://yourstory.com/2026/09/herspace-manufacturing-40-million-gray-matters-capital"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Ultrahuman",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$70M",
-    "amount_usd": 70000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-04",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/09/funding-ultrahuman-70m-qualcomm-ventures-alpha-wave-others"
     ],
     "confidence": 0.6,
     "summary": "",
