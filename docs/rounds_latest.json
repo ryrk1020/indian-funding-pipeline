@@ -152,27 +152,6 @@
     "city": ""
   },
   {
-    "company_name": "Women’s",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series C",
-    "stage_raw": "series_c",
-    "amount": "$50M",
-    "amount_usd": 50000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-07",
-    "lead_investor": "Peak XV Partners",
-    "investors": [
-      "Peak XV Partners"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/09/womens-wellness-brand-nua-raises-series-c-round-peak-xv-filter-capital"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Spacetech firm Pixxel",
     "sector": "",
     "sector_raw": null,
@@ -188,6 +167,27 @@
     ],
     "sources": [
       "https://yourstory.com/2026/09/pixxel-raises-100-million-build-india-next-generation-earth-observation-infrastructure"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Women’s",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series C",
+    "stage_raw": "series_c",
+    "amount": "$50M",
+    "amount_usd": 50000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-07",
+    "lead_investor": "Peak XV Partners",
+    "investors": [
+      "Peak XV Partners"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/09/womens-wellness-brand-nua-raises-series-c-round-peak-xv-filter-capital"
     ],
     "confidence": 0.85,
     "summary": "",
