@@ -1,5 +1,48 @@
 [
   {
+    "company_name": "Exclusive: PhysicsWallah",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "₹27 Cr ($3.2M)",
+    "amount_usd": 3228915.66,
+    "currency": "INR",
+    "announced_on": "2026-09-14",
+    "lead_investor": "IndiaQuotient",
+    "investors": [
+      "Beenext Asia",
+      "IndiaQuotient"
+    ],
+    "sources": [
+      "https://entrackr.com/exclusive/exclusive-physicswallah-founders-udaans-sujeet-kumar-to-back-furnishkas-fresh-fundraise-12530302"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Exclusive: Fashion",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$1.3M",
+    "amount_usd": 1300000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-14",
+    "lead_investor": "Arkam Ventures",
+    "investors": [
+      "Arkam Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/exclusive/exclusive-fashion-startup-uniqyou-raises-seed-round-at-rs-64-cr-valuation-12530416"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Weekly Funding Report",
     "sector": "",
     "sector_raw": null,
