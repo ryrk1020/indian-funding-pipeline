@@ -1,6 +1,204 @@
 [
   {
-    "company_name": "NPCI’s FY26",
+    "company_name": "Funding",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$188.5M",
+    "amount_usd": 188490000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-26",
+    "lead_investor": "Yali Capital",
+    "investors": [
+      "Walden International",
+      "Xeed Ventures",
+      "Yali Capital"
+    ],
+    "sources": [
+      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-sep-21-sep-26-12577542"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Elevation Capital",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "$6.7M",
+    "amount_usd": 6700000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-25",
+    "lead_investor": "Elevation Capital",
+    "investors": [
+      "Elevation Capital",
+      "Foundation Capital. The"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/elevation-capital-leads-67-million-seed-round-in-dextr-ai-12574387"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Exclusive: Edtech",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$10M",
+    "amount_usd": 10000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-25",
+    "lead_investor": "Prosus",
+    "investors": [
+      "GSF Investors. Founded",
+      "Prosus"
+    ],
+    "sources": [
+      "https://entrackr.com/exclusive/exclusive-edtech-startup-arivihan-raising-rs-96-cr-at-rs-570-cr-valuation-12574900"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Enterprise AI startup Ema",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$77M",
+    "amount_usd": 77000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-24",
+    "lead_investor": "Creaegis. News Follow Us Ema",
+    "investors": [
+      "Accel",
+      "Creaegis. News Follow Us Ema",
+      "Creaegis. The",
+      "Wipro Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/news/enterprise-ai-startup-ema-raises-77-mn-in-series-b-led-by-creaegis-12570021",
+      "https://yourstory.com/2026/09/enterprise-ai-startup-ema-raises-series-b-round-led-by-creaegis"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Asiana Fund, Taiwan's JC Capital",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$10.3B",
+    "amount_usd": 10300000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-24",
+    "lead_investor": "Nxtra",
+    "investors": [
+      "Nxtra"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/09/indias-tech-cos-raise-usd-103b-in-2026-tracxn-report"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Y Combinator",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Seed",
+    "stage_raw": "pre_seed",
+    "amount": "$1M",
+    "amount_usd": 1000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-24",
+    "lead_investor": "Y Combinator",
+    "investors": [
+      "Y Combinator"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/y-combinator-leads-1-mn-pre-seed-round-in-byteask-12568747"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Lab-grown diamond jewellery brand ONYA",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$26.4M",
+    "amount_usd": 26400000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-24",
+    "lead_investor": "Divisa Family Office",
+    "investors": [
+      "Divisa Family Office"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/lab-grown-diamond-jewellery-brand-onya-raises-rs-125-crore-in-pre-series-a-round-12571229"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Ultraviolette",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series E+",
+    "stage_raw": "series_e_plus",
+    "amount": "$85M",
+    "amount_usd": 85000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-23",
+    "lead_investor": "",
+    "investors": [
+      "Ultraviolette"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/09/ultraviolette-raises-85-million-series-e"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Funding",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$61.8M",
+    "amount_usd": 61800000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-19",
+    "lead_investor": "QED Investors. The",
+    "investors": [
+      "Claypond Capital",
+      "QED Investors. The"
+    ],
+    "sources": [
+      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-sep-14-sep-19-12551215"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Asiana Fund, Taiwan's JC Capital",
     "sector": "",
     "sector_raw": null,
     "stage": "Series A",
@@ -22,49 +220,6 @@
     "city": ""
   },
   {
-    "company_name": "Exclusive: PhysicsWallah",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "₹27 Cr ($3.2M)",
-    "amount_usd": 3228915.66,
-    "currency": "INR",
-    "announced_on": "2026-09-14",
-    "lead_investor": "IndiaQuotient",
-    "investors": [
-      "Beenext Asia",
-      "IndiaQuotient"
-    ],
-    "sources": [
-      "https://entrackr.com/exclusive/exclusive-physicswallah-founders-udaans-sujeet-kumar-to-back-furnishkas-fresh-fundraise-12530302"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Exclusive: Fashion",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$1.3M",
-    "amount_usd": 1300000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-14",
-    "lead_investor": "Arkam Ventures",
-    "investors": [
-      "Arkam Ventures"
-    ],
-    "sources": [
-      "https://entrackr.com/exclusive/exclusive-fashion-startup-uniqyou-raises-seed-round-at-rs-64-cr-valuation-12530416"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
@@ -80,156 +235,6 @@
     ],
     "sources": [
       "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-sep-07-sep-12-12523070"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Fashion brand Theater",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "₹75 Cr ($9M)",
-    "amount_usd": 9036144.58,
-    "currency": "INR",
-    "announced_on": "2026-09-10",
-    "lead_investor": "Niveshaay",
-    "investors": [
-      "Niveshaay",
-      "Physis Capital"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/09/fashion-brand-theater-raises-rs-75-cr-in-series-a-led-by-niveshaay"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Piston",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$15M",
-    "amount_usd": 15000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-10",
-    "lead_investor": "FPV Ventures",
-    "investors": [
-      "FPV Ventures"
-    ],
-    "sources": [
-      "https://entrackr.com/news/cardless-payments-platform-piston-raises-15-mn-in-series-a-led-by-fpv-ventures-12516055",
-      "https://yourstory.com/2026/09/piston-raises-15-million-in-series-a-led-by-fpv-ventures"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Graph AI",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$13.3M",
-    "amount_usd": 13300000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-10",
-    "lead_investor": "Insight Partners",
-    "investors": [
-      "Insight Partners"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/graph-ai-raises-133-mn-in-series-a-round-led-by-insight-partners-12516422",
-      "https://yourstory.com/2026/09/graph-ai-raises-133-million-in-series-a"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Niveshaay",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$1.5M",
-    "amount_usd": 1500000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-10",
-    "lead_investor": "Niveshaay",
-    "investors": [
-      "Niveshaay"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/niveshaay-leads-rs-75-cr-series-a-round-in-fashion-brand-theater-12515108"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Carrum Mobility",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$10M",
-    "amount_usd": 10000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-09",
-    "lead_investor": "Uber. A",
-    "investors": [
-      "Uber. A"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/09/carrum-mobility-raises-10-million-in-series-b-led-by-uber"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Women’s",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series C",
-    "stage_raw": "series_c",
-    "amount": "$50M",
-    "amount_usd": 50000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-07",
-    "lead_investor": "Peak XV Partners",
-    "investors": [
-      "Peak XV Partners"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/09/womens-wellness-brand-nua-raises-series-c-round-peak-xv-filter-capital"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Spacetech firm Pixxel",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$100M",
-    "amount_usd": 100000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-07",
-    "lead_investor": "Singapore-based",
-    "investors": [
-      "Singapore-based"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/09/pixxel-raises-100-million-build-india-next-generation-earth-observation-infrastructure"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -259,44 +264,97 @@
     "city": ""
   },
   {
-    "company_name": "D2C",
+    "company_name": "Akamai",
     "sector": "",
     "sector_raw": null,
-    "stage": "Series C",
-    "stage_raw": "series_c",
-    "amount": "$50M",
-    "amount_usd": 50000000.0,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$9.0B",
+    "amount_usd": 9000000000.0,
     "currency": "USD",
-    "announced_on": "2026-09-03",
-    "lead_investor": "A91 Partners",
-    "investors": [
-      "A91 Partners"
-    ],
+    "announced_on": "2026-09-25",
+    "lead_investor": "",
+    "investors": [],
     "sources": [
-      "https://entrackr.com/fintrackr/d2c-brand-plums-revenue-crosses-rs-500-cr-in-fy26-profit-doubles-12486368"
+      "https://yourstory.com/2026/09/akamai-lands-116b-cloud-computing-deal-with-anthropic"
     ],
-    "confidence": 0.85,
+    "confidence": 0.8,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Indian",
+    "company_name": "AceVector",
     "sector": "",
     "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$954M",
-    "amount_usd": 954000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-01",
-    "lead_investor": "Entrackr",
-    "investors": [
-      "Entrackr"
-    ],
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "₹189 Cr ($22.8M)",
+    "amount_usd": 22771084.34,
+    "currency": "INR",
+    "announced_on": "2026-09-25",
+    "lead_investor": "",
+    "investors": [],
     "sources": [
-      "https://entrackr.com/report/indian-startup-funding-nears-1-bn-in-august-after-july-slowdown-12479185"
+      "https://entrackr.com/news/acevector-raises-rs-189-cr-from-anchor-investors-ahead-of-ipo-12573559"
     ],
-    "confidence": 0.85,
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Exclusive: K12 Techno Services",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Grant",
+    "stage_raw": "grant",
+    "amount": "$20M",
+    "amount_usd": 20000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-25",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/exclusive/exclusive-k12-techno-services-grants-fresh-esops-worth-20-mn-12573645"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Oziva",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "₹824 Cr ($99.3M)",
+    "amount_usd": 99277108.43,
+    "currency": "INR",
+    "announced_on": "2026-09-25",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/oziva-spends-rs-246-cr-on-marketing-for-rs-463-cr-revenue-in-fy26-12574318"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Accel, 360 ONE",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "$1.3B",
+    "amount_usd": 1300000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-25",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/accel-360-one-offload-407-stake-in-bluestone-for-rs-513-cr-via-bulk-deals-12575417"
+    ],
+    "confidence": 0.8,
     "summary": "",
     "city": ""
   },
@@ -306,228 +364,287 @@
     "sector_raw": null,
     "stage": "IPO",
     "stage_raw": "ipo",
-    "amount": "₹750 Cr ($90.4M)",
-    "amount_usd": 90361445.78,
-    "currency": "INR",
-    "announced_on": "2026-09-15",
+    "amount": "$1.2B",
+    "amount_usd": 1200000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-24",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/news/moneyview-cuts-ipo-fresh-issue-to-rs-750-cr-investors-trim-ofs-12533665"
+      "https://entrackr.com/news/moneyview-raises-rs-327-cr-from-anchor-investors-ahead-of-ipo-12570109"
     ],
     "confidence": 0.8,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Kissht",
+    "company_name": "MyRx",
     "sector": "",
     "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "₹926 Cr ($111.6M)",
-    "amount_usd": 111566265.06,
-    "currency": "INR",
-    "announced_on": "2026-09-14",
-    "lead_investor": "",
-    "investors": [],
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "",
+    "amount_usd": null,
+    "currency": "",
+    "announced_on": "2026-09-24",
+    "lead_investor": "SteerX VC. The",
+    "investors": [
+      "SteerX VC. The"
+    ],
     "sources": [
-      "https://entrackr.com/news/kissht-parent-onemi-eyes-fresh-fundraise-months-after-rs-926-cr-ipo-12531141"
+      "https://entrackr.com/snippets/myrx-raises-seed-round-led-by-steerx-vc-to-expand-primary-healthcare-infrastructure-12571606"
     ],
     "confidence": 0.8,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Lenskart",
+    "company_name": "Brahma AI",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$150M",
+    "amount_usd": 150000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-23",
+    "lead_investor": "Multiples Alternate Asset Management",
+    "investors": [
+      "Multiples Alternate Asset Management"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/09/funding-brahma-ai-150-million-multiples-alternate-asset-management"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "RPS Ventures",
     "sector": "",
     "sector_raw": null,
     "stage": "Acquisition",
     "stage_raw": "acquisition",
-    "amount": "₹8.0 Cr ($964K)",
-    "amount_usd": 963855.42,
-    "currency": "INR",
-    "announced_on": "2026-09-14",
+    "amount": "$11.5B",
+    "amount_usd": 11500000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-23",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/snippets/lenskart-increases-stake-in-ajnalens-parent-to-9-with-rs-8-cr-investment-12531197"
+      "https://entrackr.com/news/rps-ventures-sells-083-stake-in-meesho-for-rs-900-cr-through-block-deals-12568769"
     ],
     "confidence": 0.8,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Swish",
+    "company_name": "On-demand convenience platform TimBuckDo",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$25M",
+    "amount_usd": 25000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-23",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/on-demand-convenience-platform-timbuckdo-raises-bridge-round-at-rs-150-cr-valuation-12568862"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Asiana Fund, Taiwan's JC Capital",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "₹700 Cr ($84.3M)",
+    "amount_usd": 84337349.4,
+    "currency": "INR",
+    "announced_on": "2026-09-18",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/09/asiana-fund-jc-capital-taiwan-join-hands-for-rs-1000-cr-fund"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "DheyaTech",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "$24M",
-    "amount_usd": 24000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-10",
-    "lead_investor": "Bertelsmann India Investments",
+    "amount": "₹43 Cr ($5.2M)",
+    "amount_usd": 5180722.89,
+    "currency": "INR",
+    "announced_on": "2026-09-17",
+    "lead_investor": "Avaana Capital",
     "investors": [
-      "Bertelsmann India Investments"
+      "Avaana Capital",
+      "Unimech Aerospace"
     ],
     "sources": [
-      "https://yourstory.com/2026/09/swish-raises-usd-24m-led-by-bertelsmann-india"
+      "https://yourstory.com/2026/09/dheyatech-raises-rs-43-crore-micro-gas-turbine-engine"
     ],
     "confidence": 0.8,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "AI contact centre startup Dialflo",
+    "company_name": "Amazon Pay India’s FY26",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "₹1.7 Cr ($205K)",
-    "amount_usd": 204819.28,
+    "amount": "₹108 Cr ($13M)",
+    "amount_usd": 13036144.58,
     "currency": "INR",
-    "announced_on": "2026-09-10",
-    "lead_investor": "Aviral Bhatnagar",
-    "investors": [
-      "Aviral Bhatnagar"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/ai-contact-centre-startup-dialflo-raises-rs-17-cr-led-by-ajvc-12515938"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Shiprocket",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "$1.0B",
-    "amount_usd": 1040000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-08",
+    "announced_on": "2026-09-24",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/fintrackr/shiprocket-narrows-q1-loss-to-rs-137-cr-revenue-jumps-34-post-ipo-12505653"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Pizza Bakery",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$56M",
-    "amount_usd": 56000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-11",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/the-pizza-bakery-operator-popo-global-raises-rs-532-cr-from-artal-asia-12518089",
-      "https://yourstory.com/2026/09/pizza-bakery-founders-popo-global-raise-rs-532-cr-from-artal-asia"
+      "https://entrackr.com/fintrackr/amazon-pay-indias-fy26-losses-widens-to-rs-1149-cr-despite-double-digit-revenue-growth-12571687"
     ],
     "confidence": 0.6,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Nishant Pitti",
+    "company_name": "Amazon Now",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "₹212 Cr ($25.5M)",
-    "amount_usd": 25532530.12,
+    "amount": "$3.0B",
+    "amount_usd": 3000000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-24",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/amazon-now-and-amazon-fresh-report-rs-3065-cr-revenue-and-rs-1158-cr-loss-in-fy26-12571819"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "AI startup Sol",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$4M",
+    "amount_usd": 4000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-23",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/09/ai-startup-sol-raises-4-million-from-general-catalyst-kunal-shah-and-others"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Defence manufacturer Hughes Precision",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹250 Cr ($30.1M)",
+    "amount_usd": 30120481.93,
     "currency": "INR",
-    "announced_on": "2026-09-11",
+    "announced_on": "2026-09-23",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/news/nishant-pitti-pledges-rs-212-cr-easemytrip-shares-with-motilal-oswal-for-personal-use-12518406"
+      "https://yourstory.com/2026/09/defence-manufacturer-hughes-precision-raises-rs-250-crore-funding"
     ],
     "confidence": 0.6,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "NPCI’s FY26",
+    "company_name": "MathCo’s",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "₹4240 Cr ($510.8M)",
-    "amount_usd": 510843373.49,
-    "currency": "INR",
-    "announced_on": "2026-09-11",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/npcis-fy26-profit-falls-32-revenue-rises-22-to-rs-4240-cr-12520011"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Greenwave Circularity",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$31.5M",
-    "amount_usd": 31500000.0,
+    "amount": "$53M",
+    "amount_usd": 53000000.0,
     "currency": "USD",
-    "announced_on": "2026-09-10",
+    "announced_on": "2026-09-23",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://yourstory.com/2026/09/greenwave-circularity-raises-315-million-financing-from-oeeb-of-austria"
+      "https://entrackr.com/fintrackr/mathcos-revenue-crosses-rs-620-cr-in-fy26-profit-tumbles-94-12566538"
     ],
     "confidence": 0.6,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "QNu Labs",
+    "company_name": "Auxilo",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "₹200 Cr ($24.1M)",
-    "amount_usd": 24096385.54,
-    "currency": "INR",
-    "announced_on": "2026-09-09",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/09/qnu-labs-raises-rs-200-cr-as-demand-for-quantum-safe-cybersecurity-grows"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "HerSpace Manufacturing",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$40M",
-    "amount_usd": 40000000.0,
+    "amount": "$200M",
+    "amount_usd": 200000000.0,
     "currency": "USD",
-    "announced_on": "2026-09-07",
+    "announced_on": "2026-09-22",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://yourstory.com/2026/09/herspace-manufacturing-40-million-gray-matters-capital"
+      "https://entrackr.com/fintrackr/auxilo-reports-rs-676-cr-revenue-and-rs-117-cr-profit-in-fy26-12563904"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "UGRO Capital",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹380 Cr ($45.8M)",
+    "amount_usd": 45783132.53,
+    "currency": "INR",
+    "announced_on": "2026-09-16",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/09/ugro-capital-raises-rs-380-cr-from-fmo-to-expand-msme-lending"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "L Catterton",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$40.0B",
+    "amount_usd": 40000000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-16",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/09/l-catterton-to-invest-in-restaurant-chain-nandhana-foods"
     ],
     "confidence": 0.6,
     "summary": "",
