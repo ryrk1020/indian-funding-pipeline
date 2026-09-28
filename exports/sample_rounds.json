@@ -1,5 +1,95 @@
 [
   {
+    "company_name": "Amaani",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$5M",
+    "amount_usd": 5000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-28",
+    "lead_investor": "BECO Capital",
+    "investors": [
+      "BECO Capital",
+      "BECO. Snippets Follow Us Amaani",
+      "Homegrown Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/beauty-and-wellness-startup-amaani-raises-5-mn-led-by-beco-capital-12583526",
+      "https://yourstory.com/2026/09/amaani-raises-5-million-in-series-a"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Agricultural machinery company Balwaan Krishi",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "₹100 Cr ($12M)",
+    "amount_usd": 12048192.77,
+    "currency": "INR",
+    "announced_on": "2026-09-28",
+    "lead_investor": "First Bridge India Growth Fund",
+    "investors": [
+      "First Bridge India Growth Fund"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/09/agricultural-machinery-balwaan-krishi-raises-rs-100-crore-series-b"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Alive App",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$1M",
+    "amount_usd": 1000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-28",
+    "lead_investor": "Powerhouse Ventures",
+    "investors": [
+      "Flipkart Ventures. The Bengaluru-based",
+      "Powerhouse Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/alive-app-raises-1-mn-from-powerhouse-flipkart-ventures-12583861"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Agricultural machinery company Balwaan Krishi",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$2M",
+    "amount_usd": 2000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-28",
+    "lead_investor": "First Bridge India Growth Fund",
+    "investors": [
+      "Anand Mahindra",
+      "First Bridge India Growth Fund",
+      "Info Edge"
+    ],
+    "sources": [
+      "https://entrackr.com/news/agricultural-machinery-company-balwaan-krishi-raises-rs-100-cr-in-series-b-round-12584408"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
@@ -76,15 +166,12 @@
     "amount_usd": 77000000.0,
     "currency": "USD",
     "announced_on": "2026-09-24",
-    "lead_investor": "Creaegis. News Follow Us Ema",
+    "lead_investor": "Creaegis. The",
     "investors": [
       "Accel",
-      "Creaegis. News Follow Us Ema",
-      "Creaegis. The",
-      "Wipro Ventures"
+      "Creaegis. The"
     ],
     "sources": [
-      "https://entrackr.com/news/enterprise-ai-startup-ema-raises-77-mn-in-series-b-led-by-creaegis-12570021",
       "https://yourstory.com/2026/09/enterprise-ai-startup-ema-raises-series-b-round-led-by-creaegis"
     ],
     "confidence": 0.85,
@@ -92,7 +179,7 @@
     "city": ""
   },
   {
-    "company_name": "Asiana Fund, Taiwan's JC Capital",
+    "company_name": "India’s",
     "sector": "",
     "sector_raw": null,
     "stage": "Series A",
@@ -107,27 +194,6 @@
     ],
     "sources": [
       "https://yourstory.com/2026/09/indias-tech-cos-raise-usd-103b-in-2026-tracxn-report"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Y Combinator",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Seed",
-    "stage_raw": "pre_seed",
-    "amount": "$1M",
-    "amount_usd": 1000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-24",
-    "lead_investor": "Y Combinator",
-    "investors": [
-      "Y Combinator"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/y-combinator-leads-1-mn-pre-seed-round-in-byteask-12568747"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -198,7 +264,7 @@
     "city": ""
   },
   {
-    "company_name": "Asiana Fund, Taiwan's JC Capital",
+    "company_name": "India’s",
     "sector": "",
     "sector_raw": null,
     "stage": "Series A",
@@ -439,86 +505,26 @@
     "city": ""
   },
   {
-    "company_name": "RPS Ventures",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "$11.5B",
-    "amount_usd": 11500000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-23",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/rps-ventures-sells-083-stake-in-meesho-for-rs-900-cr-through-block-deals-12568769"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "On-demand convenience platform TimBuckDo",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$25M",
-    "amount_usd": 25000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-23",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/on-demand-convenience-platform-timbuckdo-raises-bridge-round-at-rs-150-cr-valuation-12568862"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Asiana Fund, Taiwan's JC Capital",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "₹700 Cr ($84.3M)",
-    "amount_usd": 84337349.4,
-    "currency": "INR",
-    "announced_on": "2026-09-18",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/09/asiana-fund-jc-capital-taiwan-join-hands-for-rs-1000-cr-fund"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "DheyaTech",
+    "company_name": "ED",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "₹43 Cr ($5.2M)",
-    "amount_usd": 5180722.89,
+    "amount": "₹442 Cr ($53.3M)",
+    "amount_usd": 53253012.05,
     "currency": "INR",
-    "announced_on": "2026-09-17",
-    "lead_investor": "Avaana Capital",
-    "investors": [
-      "Avaana Capital",
-      "Unimech Aerospace"
-    ],
+    "announced_on": "2026-09-28",
+    "lead_investor": "",
+    "investors": [],
     "sources": [
-      "https://yourstory.com/2026/09/dheyatech-raises-rs-43-crore-micro-gas-turbine-engine"
+      "https://entrackr.com/news/ed-attaches-rs-442-cr-assets-in-rummyculture-case-total-value-stands-at-rs-2843-cr-12583607"
     ],
-    "confidence": 0.8,
+    "confidence": 0.6,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Amazon Pay India’s FY26",
+    "company_name": "India’s",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
@@ -594,7 +600,7 @@
     "city": ""
   },
   {
-    "company_name": "MathCo’s",
+    "company_name": "India’s",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
@@ -607,25 +613,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/fintrackr/mathcos-revenue-crosses-rs-620-cr-in-fy26-profit-tumbles-94-12566538"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Auxilo",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$200M",
-    "amount_usd": 200000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-22",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/auxilo-reports-rs-676-cr-revenue-and-rs-117-cr-profit-in-fy26-12563904"
     ],
     "confidence": 0.6,
     "summary": "",
