@@ -1,5 +1,70 @@
 [
   {
+    "company_name": "Physical AI startup SiMa.ai",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series C",
+    "stage_raw": "series_c",
+    "amount": "$150M",
+    "amount_usd": 150000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-29",
+    "lead_investor": "Fidelity Management",
+    "investors": [
+      "Alter Venture Partners",
+      "Fidelity Management",
+      "StepStone Group"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/09/physical-ai-startup-simaai-raises-150-million-series-c"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Subway India",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "$15M",
+    "amount_usd": 15000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-29",
+    "lead_investor": "Playbook Partners. The",
+    "investors": [
+      "Playbook Partners. The"
+    ],
+    "sources": [
+      "https://entrackr.com/news/subway-india-operator-everbrands-files-drhp-to-raise-rs-600-cr-via-fresh-issue-12588957"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Bharat Housing Network",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$5M",
+    "amount_usd": 5000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-29",
+    "lead_investor": "NABVENTURES. The",
+    "investors": [
+      "NABVENTURES. The"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/bharat-housing-network-raises-5-mn-from-symbiotics-12589182"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Amaani",
     "sector": "",
     "sector_raw": null,
@@ -90,6 +155,28 @@
     "city": ""
   },
   {
+    "company_name": "Physical AI company SiMa.ai",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series C",
+    "stage_raw": "series_c",
+    "amount": "$150M",
+    "amount_usd": 150000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-28",
+    "lead_investor": "Fidelity Management",
+    "investors": [
+      "Alter Venture Partners",
+      "Fidelity Management"
+    ],
+    "sources": [
+      "https://entrackr.com/news/physical-ai-company-simaai-raises-150-mn-in-series-c-round-12587904"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
@@ -157,28 +244,6 @@
     "city": ""
   },
   {
-    "company_name": "Enterprise AI startup Ema",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$77M",
-    "amount_usd": 77000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-24",
-    "lead_investor": "Creaegis. The",
-    "investors": [
-      "Accel",
-      "Creaegis. The"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/09/enterprise-ai-startup-ema-raises-series-b-round-led-by-creaegis"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "India’s",
     "sector": "",
     "sector_raw": null,
@@ -200,21 +265,22 @@
     "city": ""
   },
   {
-    "company_name": "Lab-grown diamond jewellery brand ONYA",
+    "company_name": "Enterprise AI startup Ema",
     "sector": "",
     "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$26.4M",
-    "amount_usd": 26400000.0,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$77M",
+    "amount_usd": 77000000.0,
     "currency": "USD",
     "announced_on": "2026-09-24",
-    "lead_investor": "Divisa Family Office",
+    "lead_investor": "Creaegis. The",
     "investors": [
-      "Divisa Family Office"
+      "Accel",
+      "Creaegis. The"
     ],
     "sources": [
-      "https://entrackr.com/snippets/lab-grown-diamond-jewellery-brand-onya-raises-rs-125-crore-in-pre-series-a-round-12571229"
+      "https://yourstory.com/2026/09/enterprise-ai-startup-ema-raises-series-b-round-led-by-creaegis"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -330,6 +396,44 @@
     "city": ""
   },
   {
+    "company_name": "WEH Ventures",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "₹250 Cr ($30.1M)",
+    "amount_usd": 30120481.93,
+    "currency": "INR",
+    "announced_on": "2026-09-29",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/09/weh-ventures-marks-first-close-of-rs-250-crore-fund-iii"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "India’s",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "₹243 Cr ($29.3M)",
+    "amount_usd": 29277108.43,
+    "currency": "INR",
+    "announced_on": "2026-09-29",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/bewakoofs-revenue-jumps-40-to-rs-243-cr-in-fy26-losses-rise-19-12589732"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "IITM Unicorn Frontier Fund I",
     "sector": "",
     "sector_raw": null,
@@ -362,44 +466,6 @@
     "investors": [],
     "sources": [
       "https://yourstory.com/2026/09/akamai-lands-116b-cloud-computing-deal-with-anthropic"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "AceVector",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "₹189 Cr ($22.8M)",
-    "amount_usd": 22771084.34,
-    "currency": "INR",
-    "announced_on": "2026-09-25",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/acevector-raises-rs-189-cr-from-anchor-investors-ahead-of-ipo-12573559"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Exclusive: K12 Techno Services",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Grant",
-    "stage_raw": "grant",
-    "amount": "$20M",
-    "amount_usd": 20000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-25",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/exclusive/exclusive-k12-techno-services-grants-fresh-esops-worth-20-mn-12573645"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -444,46 +510,6 @@
     "city": ""
   },
   {
-    "company_name": "Moneyview",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "$1.2B",
-    "amount_usd": 1200000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-24",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/moneyview-raises-rs-327-cr-from-anchor-investors-ahead-of-ipo-12570109"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "MyRx",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "",
-    "amount_usd": null,
-    "currency": "",
-    "announced_on": "2026-09-24",
-    "lead_investor": "SteerX VC. The",
-    "investors": [
-      "SteerX VC. The"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/myrx-raises-seed-round-led-by-steerx-vc-to-expand-primary-healthcare-infrastructure-12571606"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Brahma AI",
     "sector": "",
     "sector_raw": null,
@@ -518,6 +544,25 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/news/ed-attaches-rs-442-cr-assets-in-rummyculture-case-total-value-stands-at-rs-2843-cr-12583607"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Ola Electric",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹1000 Cr ($120.5M)",
+    "amount_usd": 120481927.71,
+    "currency": "INR",
+    "announced_on": "2026-09-28",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/ola-electric-to-raise-up-to-rs-1000-cr-via-rights-issue-12587860"
     ],
     "confidence": 0.6,
     "summary": "",
@@ -575,44 +620,6 @@
     "investors": [],
     "sources": [
       "https://yourstory.com/2026/09/defence-manufacturer-hughes-precision-raises-rs-250-crore-funding"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "AI startup Sol",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$4M",
-    "amount_usd": 4000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-23",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/09/ai-startup-sol-raises-4-million-from-general-catalyst-kunal-shah-and-others"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "India’s",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$53M",
-    "amount_usd": 53000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-23",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/mathcos-revenue-crosses-rs-620-cr-in-fy26-profit-tumbles-94-12566538"
     ],
     "confidence": 0.6,
     "summary": "",
