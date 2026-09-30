@@ -1,5 +1,47 @@
 [
   {
+    "company_name": "EDT",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$2.4M",
+    "amount_usd": 2400000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-30",
+    "lead_investor": "",
+    "investors": [
+      "Alteria Capital"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/edt-raises-24-mn-in-pre-series-a-round-led-by-sauce-enters-beauty-tech-12592472"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Exclusive: Blitz",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "₹29 Cr ($3.5M)",
+    "amount_usd": 3457831.33,
+    "currency": "INR",
+    "announced_on": "2026-09-30",
+    "lead_investor": "IvyCap Ventures Founded",
+    "investors": [
+      "IvyCap Ventures Founded"
+    ],
+    "sources": [
+      "https://entrackr.com/exclusive/exclusive-blitz-kicks-off-pre-series-b-round-at-25x-valuation-premium-12592668"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Physical AI startup SiMa.ai",
     "sector": "",
     "sector_raw": null,
@@ -77,11 +119,9 @@
     "lead_investor": "BECO Capital",
     "investors": [
       "BECO Capital",
-      "BECO. Snippets Follow Us Amaani",
       "Homegrown Ventures"
     ],
     "sources": [
-      "https://entrackr.com/snippets/beauty-and-wellness-startup-amaani-raises-5-mn-led-by-beco-capital-12583526",
       "https://yourstory.com/2026/09/amaani-raises-5-million-in-series-a"
     ],
     "confidence": 0.85,
@@ -200,50 +240,6 @@
     "city": ""
   },
   {
-    "company_name": "Elevation Capital",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$6.7M",
-    "amount_usd": 6700000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-25",
-    "lead_investor": "Elevation Capital",
-    "investors": [
-      "Elevation Capital",
-      "Foundation Capital. The"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/elevation-capital-leads-67-million-seed-round-in-dextr-ai-12574387"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Exclusive: Edtech",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$10M",
-    "amount_usd": 10000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-25",
-    "lead_investor": "Prosus",
-    "investors": [
-      "GSF Investors. Founded",
-      "Prosus"
-    ],
-    "sources": [
-      "https://entrackr.com/exclusive/exclusive-edtech-startup-arivihan-raising-rs-96-cr-at-rs-570-cr-valuation-12574900"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "India’s",
     "sector": "",
     "sector_raw": null,
@@ -259,49 +255,6 @@
     ],
     "sources": [
       "https://yourstory.com/2026/09/indias-tech-cos-raise-usd-103b-in-2026-tracxn-report"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Enterprise AI startup Ema",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$77M",
-    "amount_usd": 77000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-24",
-    "lead_investor": "Creaegis. The",
-    "investors": [
-      "Accel",
-      "Creaegis. The"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/09/enterprise-ai-startup-ema-raises-series-b-round-led-by-creaegis"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Ultraviolette",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series E+",
-    "stage_raw": "series_e_plus",
-    "amount": "$85M",
-    "amount_usd": 85000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-23",
-    "lead_investor": "",
-    "investors": [
-      "Ultraviolette"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/09/ultraviolette-raises-85-million-series-e"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -396,6 +349,45 @@
     "city": ""
   },
   {
+    "company_name": "Arivihan",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$10M",
+    "amount_usd": 10000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-30",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/edtech-startup-arivihan-raises-10-mn-in-series-a-led-by-accel-and-prosus-12592500",
+      "https://yourstory.com/2026/09/arivihan-10m-as-ai-led-edtech-targets-indias-smaller-cities"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Linux Laboratories",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "$70M",
+    "amount_usd": 70000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-30",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/09/linux-laboratories-70-million-chryscapital-tata-capital-healthcare-fund"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "WEH Ventures",
     "sector": "",
     "sector_raw": null,
@@ -428,6 +420,44 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/fintrackr/bewakoofs-revenue-jumps-40-to-rs-243-cr-in-fy26-losses-rise-19-12589732"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "WEH Ventures",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$1.3B",
+    "amount_usd": 1300000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-29",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/weh-ventures-announces-first-close-of-fund-iii-targets-rs-250-cr-corpus-12589778"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "ITC",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "₹645 Cr ($77.7M)",
+    "amount_usd": 77710843.37,
+    "currency": "INR",
+    "announced_on": "2026-09-29",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/itc-completes-100-acquisition-of-yoga-bar-parent-sproutlife-12589846"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -491,59 +521,38 @@
     "city": ""
   },
   {
-    "company_name": "Accel, 360 ONE",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "$1.3B",
-    "amount_usd": 1300000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-25",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/accel-360-one-offload-407-stake-in-bluestone-for-rs-513-cr-via-bulk-deals-12575417"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Brahma AI",
+    "company_name": "TDB",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "$150M",
-    "amount_usd": 150000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-23",
-    "lead_investor": "Multiples Alternate Asset Management",
-    "investors": [
-      "Multiples Alternate Asset Management"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/09/funding-brahma-ai-150-million-multiples-alternate-asset-management"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "ED",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹442 Cr ($53.3M)",
-    "amount_usd": 53253012.05,
+    "amount": "₹1 L ($1K)",
+    "amount_usd": 1204.82,
     "currency": "INR",
-    "announced_on": "2026-09-28",
+    "announced_on": "2026-09-30",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/news/ed-attaches-rs-442-cr-assets-in-rummyculture-case-total-value-stands-at-rs-2843-cr-12583607"
+      "https://yourstory.com/2026/09/tdb-22-projects-rs-1-lakh-cr-rdi-fund-industrialist-sudhir-mehta"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Adani Family Office",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$50M",
+    "amount_usd": 50000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-29",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/09/adani-family-office-backs-nudge-as-startup-pivots-to-rewards-led-commerce"
     ],
     "confidence": 0.6,
     "summary": "",
@@ -601,25 +610,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/fintrackr/amazon-now-and-amazon-fresh-report-rs-3065-cr-revenue-and-rs-1158-cr-loss-in-fy26-12571819"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Defence manufacturer Hughes Precision",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹250 Cr ($30.1M)",
-    "amount_usd": 30120481.93,
-    "currency": "INR",
-    "announced_on": "2026-09-23",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/09/defence-manufacturer-hughes-precision-raises-rs-250-crore-funding"
     ],
     "confidence": 0.6,
     "summary": "",
