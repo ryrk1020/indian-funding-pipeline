@@ -1,5 +1,70 @@
 [
   {
+    "company_name": "Seeds Fincap",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$10.4M",
+    "amount_usd": 10400000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-01",
+    "lead_investor": "Michael",
+    "investors": [
+      "Michael"
+    ],
+    "sources": [
+      "https://entrackr.com/news/seeds-fincap-raises-rs-100-cr-in-series-b-led-by-michael-susan-dell-foundation-12611889",
+      "https://yourstory.com/2026/10/seeds-fincap-rs-100-cr-series-b-round-michael-susan-dell-foundation"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Antler, Nikhil Kamath",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "₹4.0 Cr ($482K)",
+    "amount_usd": 481927.71,
+    "currency": "INR",
+    "announced_on": "2026-10-01",
+    "lead_investor": "Antler",
+    "investors": [
+      "Antler"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/antler-nikhil-kamath-back-healthtech-startup-aignosis-with-rs-4-cr-seed-round-12611813"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "EV two-wheeler maker Simple Energy",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series C",
+    "stage_raw": "series_c",
+    "amount": "$120M",
+    "amount_usd": 120000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-30",
+    "lead_investor": "",
+    "investors": [
+      "Bengaluru-based HNI Amit Mishra",
+      "Simple Energy"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/09/ev-two-wheeler-maker-simple-energy-bags-rs-1750-cr-funding"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "EDT",
     "sector": "",
     "sector_raw": null,
@@ -42,6 +107,27 @@
     "city": ""
   },
   {
+    "company_name": "Former Livspace",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Debt",
+    "stage_raw": "debt",
+    "amount": "$15M",
+    "amount_usd": 15000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-30",
+    "lead_investor": "Info Edge Ventures",
+    "investors": [
+      "Info Edge Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/news/former-livspace-executives-startup-gravity-raises-15-mn-led-by-info-edge-ventures-and-3one4-capital-12593710"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Physical AI startup SiMa.ai",
     "sector": "",
     "sector_raw": null,
@@ -59,48 +145,6 @@
     ],
     "sources": [
       "https://yourstory.com/2026/09/physical-ai-startup-simaai-raises-150-million-series-c"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Subway India",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "$15M",
-    "amount_usd": 15000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-29",
-    "lead_investor": "Playbook Partners. The",
-    "investors": [
-      "Playbook Partners. The"
-    ],
-    "sources": [
-      "https://entrackr.com/news/subway-india-operator-everbrands-files-drhp-to-raise-rs-600-cr-via-fresh-issue-12588957"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Bharat Housing Network",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$5M",
-    "amount_usd": 5000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-29",
-    "lead_investor": "NABVENTURES. The",
-    "investors": [
-      "NABVENTURES. The"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/bharat-housing-network-raises-5-mn-from-symbiotics-12589182"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -150,73 +194,6 @@
     "city": ""
   },
   {
-    "company_name": "Alive App",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$1M",
-    "amount_usd": 1000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-28",
-    "lead_investor": "Powerhouse Ventures",
-    "investors": [
-      "Flipkart Ventures. The Bengaluru-based",
-      "Powerhouse Ventures"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/alive-app-raises-1-mn-from-powerhouse-flipkart-ventures-12583861"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Agricultural machinery company Balwaan Krishi",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$2M",
-    "amount_usd": 2000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-28",
-    "lead_investor": "First Bridge India Growth Fund",
-    "investors": [
-      "Anand Mahindra",
-      "First Bridge India Growth Fund",
-      "Info Edge"
-    ],
-    "sources": [
-      "https://entrackr.com/news/agricultural-machinery-company-balwaan-krishi-raises-rs-100-cr-in-series-b-round-12584408"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Physical AI company SiMa.ai",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series C",
-    "stage_raw": "series_c",
-    "amount": "$150M",
-    "amount_usd": 150000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-28",
-    "lead_investor": "Fidelity Management",
-    "investors": [
-      "Alter Venture Partners",
-      "Fidelity Management"
-    ],
-    "sources": [
-      "https://entrackr.com/news/physical-ai-company-simaai-raises-150-mn-in-series-c-round-12587904"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
@@ -234,27 +211,6 @@
     ],
     "sources": [
       "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-sep-21-sep-26-12577542"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "India’s",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$10.3B",
-    "amount_usd": 10300000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-24",
-    "lead_investor": "Nxtra",
-    "investors": [
-      "Nxtra"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/09/indias-tech-cos-raise-usd-103b-in-2026-tracxn-report"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -349,6 +305,63 @@
     "city": ""
   },
   {
+    "company_name": "SBI Mutual Fund",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "$7.2B",
+    "amount_usd": 7170000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-01",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/sbi-mutual-fund-raises-swiggy-stake-above-5-after-rs-300-cr-share-purchase-12611662"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Bangalore Watch Company",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "$1.4M",
+    "amount_usd": 1400000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-01",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/bangalore-watch-company-raises-14-mn-in-seed-round-from-customers-family-office-hnis-12611688"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Unveilr AI",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Seed",
+    "stage_raw": "pre_seed",
+    "amount": "₹17 Cr ($2M)",
+    "amount_usd": 2012048.19,
+    "currency": "INR",
+    "announced_on": "2026-10-01",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/unveilr-ai-raises-pre-seed-round-from-ajvc-at-rs-167-cr-valuation-12611816"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Arivihan",
     "sector": "",
     "sector_raw": null,
@@ -388,6 +401,84 @@
     "city": ""
   },
   {
+    "company_name": "Home interiors startup Gravity",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$15M",
+    "amount_usd": 15000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-30",
+    "lead_investor": "",
+    "investors": [
+      "Alteria Capital"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/09/home-interiors-startup-gravity-raises-15-million-led-by-3one4-capital-and-info-edge-ventures"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Longevity startup Vytalyou",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$2.7M",
+    "amount_usd": 2700000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-30",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/longevity-startup-vytalyou-raises-rs-9-cr-in-pre-series-a-round-12593640"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Netmeds",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "₹5.5 Cr ($663K)",
+    "amount_usd": 662650.6,
+    "currency": "INR",
+    "announced_on": "2026-09-30",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/netmeds-posts-flat-revenue-at-rs-45-cr-in-fy26-remains-profitable-12593652"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "EV startup Simple Energy",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$182M",
+    "amount_usd": 182000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-30",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/ev-startup-simple-energy-raises-182-mn-in-series-c-round-12593947"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "WEH Ventures",
     "sector": "",
     "sector_raw": null,
@@ -420,82 +511,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/fintrackr/bewakoofs-revenue-jumps-40-to-rs-243-cr-in-fy26-losses-rise-19-12589732"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "WEH Ventures",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$1.3B",
-    "amount_usd": 1300000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-29",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/weh-ventures-announces-first-close-of-fund-iii-targets-rs-250-cr-corpus-12589778"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "ITC",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "₹645 Cr ($77.7M)",
-    "amount_usd": 77710843.37,
-    "currency": "INR",
-    "announced_on": "2026-09-29",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/itc-completes-100-acquisition-of-yoga-bar-parent-sproutlife-12589846"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "IITM Unicorn Frontier Fund I",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Bridge",
-    "stage_raw": "bridge",
-    "amount": "$2.3B",
-    "amount_usd": 2300000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-26",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/09/iitm-unicorn-frontier-fund-i-hits-rs-450-cr-first-close"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Akamai",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$9.0B",
-    "amount_usd": 9000000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-25",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/09/akamai-lands-116b-cloud-computing-deal-with-anthropic"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -553,44 +568,6 @@
     "investors": [],
     "sources": [
       "https://yourstory.com/2026/09/adani-family-office-backs-nudge-as-startup-pivots-to-rewards-led-commerce"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Ola Electric",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹1000 Cr ($120.5M)",
-    "amount_usd": 120481927.71,
-    "currency": "INR",
-    "announced_on": "2026-09-28",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/ola-electric-to-raise-up-to-rs-1000-cr-via-rights-issue-12587860"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "India’s",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹108 Cr ($13M)",
-    "amount_usd": 13036144.58,
-    "currency": "INR",
-    "announced_on": "2026-09-24",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/amazon-pay-indias-fy26-losses-widens-to-rs-1149-cr-despite-double-digit-revenue-growth-12571687"
     ],
     "confidence": 0.6,
     "summary": "",
