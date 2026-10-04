@@ -172,28 +172,6 @@
     "city": ""
   },
   {
-    "company_name": "Amaani",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$5M",
-    "amount_usd": 5000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-28",
-    "lead_investor": "BECO Capital",
-    "investors": [
-      "BECO Capital",
-      "Homegrown Ventures"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/09/amaani-raises-5-million-in-series-a"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Agricultural machinery company Balwaan Krishi",
     "sector": "",
     "sector_raw": null,
@@ -603,6 +581,25 @@
       "https://yourstory.com/2026/09/adani-family-office-backs-nudge-as-startup-pivots-to-rewards-led-commerce"
     ],
     "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "500 Cr",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "",
+    "amount_usd": null,
+    "currency": "",
+    "announced_on": "2026-10-04",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/10/paniit-500-cr-deeptech-fund-targets-25-andhra-startups-by-2030"
+    ],
+    "confidence": 0.4,
     "summary": "",
     "city": ""
   }
