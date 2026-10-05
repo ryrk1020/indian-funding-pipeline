@@ -1,5 +1,26 @@
 [
   {
+    "company_name": "Sales hiring startup Scooter",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Seed",
+    "stage_raw": "pre_seed",
+    "amount": "₹1.5 Cr ($181K)",
+    "amount_usd": 180722.89,
+    "currency": "INR",
+    "announced_on": "2026-10-05",
+    "lead_investor": "Aviral Bhatnagar",
+    "investors": [
+      "Aviral Bhatnagar"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/sales-hiring-startup-scooter-raises-rs-15-cr-pre-seed-round-12624249"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
@@ -128,27 +149,6 @@
     "city": ""
   },
   {
-    "company_name": "Former Livspace",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Debt",
-    "stage_raw": "debt",
-    "amount": "$15M",
-    "amount_usd": 15000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-30",
-    "lead_investor": "Info Edge Ventures",
-    "investors": [
-      "Info Edge Ventures"
-    ],
-    "sources": [
-      "https://entrackr.com/news/former-livspace-executives-startup-gravity-raises-15-mn-led-by-info-edge-ventures-and-3one4-capital-12593710"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Physical AI startup SiMa.ai",
     "sector": "",
     "sector_raw": null,
@@ -260,19 +260,38 @@
     "city": ""
   },
   {
-    "company_name": "PayMe",
+    "company_name": "Indifi",
     "sector": "",
     "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "₹200 Cr ($24.1M)",
-    "amount_usd": 24096385.54,
+    "stage": "Debt",
+    "stage_raw": "debt",
+    "amount": "₹371 Cr ($44.7M)",
+    "amount_usd": 44710843.37,
     "currency": "INR",
-    "announced_on": "2026-10-01",
+    "announced_on": "2026-10-05",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/snippets/payme-nearly-doubles-monthly-disbursals-to-rs-200-cr-targets-rs-2000-cr-for-fy27-12612682"
+      "https://entrackr.com/fintrackr/indifi-posts-rs-371-cr-revenue-in-fy26-turns-profitable-12624850"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Nykaa",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "₹2782 Cr ($335.2M)",
+    "amount_usd": 335180722.89,
+    "currency": "INR",
+    "announced_on": "2026-10-04",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/nykaa-expects-around-30-gmv-growth-in-q2-fy27-12623169"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -452,25 +471,6 @@
     "city": ""
   },
   {
-    "company_name": "EV startup Simple Energy",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$182M",
-    "amount_usd": 182000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-30",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/ev-startup-simple-energy-raises-182-mn-in-series-c-round-12593947"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "WEH Ventures",
     "sector": "",
     "sector_raw": null,
@@ -541,25 +541,6 @@
     "investors": [],
     "sources": [
       "https://yourstory.com/2026/09/tdb-22-projects-rs-1-lakh-cr-rdi-fund-industrialist-sudhir-mehta"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "NKN Media",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$4.1M",
-    "amount_usd": 4080000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-30",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/nkn-media-raises-408-mn-at-8169-mn-valuation-12613858"
     ],
     "confidence": 0.6,
     "summary": "",
