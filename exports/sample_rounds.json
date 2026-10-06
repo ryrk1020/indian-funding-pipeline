@@ -1,5 +1,134 @@
 [
   {
+    "company_name": "Beyond Appliances",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "₹110 Cr ($13.3M)",
+    "amount_usd": 13253012.05,
+    "currency": "INR",
+    "announced_on": "2026-10-06",
+    "lead_investor": "Fireside Ventures",
+    "investors": [
+      "Dharana Capital",
+      "Fireside Ventures"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/10/beyond-appliances-raises-rs-110-cr-series-b-fireside-ventures"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Fireside",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$11.4M",
+    "amount_usd": 11400000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-06",
+    "lead_investor": "Fireside Ventures",
+    "investors": [
+      "Dharana Capital",
+      "Fireside Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/news/fireside-leads-rs-110-cr-series-b-round-in-beyond-appliances-12627573"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "CurvetAI",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Seed",
+    "stage_raw": "pre_seed",
+    "amount": "₹6.0 Cr ($723K)",
+    "amount_usd": 722891.57,
+    "currency": "INR",
+    "announced_on": "2026-10-06",
+    "lead_investor": "Merak Ventures",
+    "investors": [
+      "Merak Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/curvetai-raises-rs-6-cr-pre-seed-round-led-by-merak-ventures-12627784"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Refurbished electronics platform ReFit Global",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "$1M",
+    "amount_usd": 1000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-06",
+    "lead_investor": "IndiaQuotient",
+    "investors": [
+      "IndiaQuotient"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/refurbished-electronics-platform-refit-global-raises-1-mn-in-seed-round-12627826"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Quantum",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$6.5M",
+    "amount_usd": 6500000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-05",
+    "lead_investor": "YourNest",
+    "investors": [
+      "QpiAI",
+      "YourNest"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/10/qpiai-secures-rs-50-cr-debt-financing-from-innoven-capital"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "TVS Automobile Solutions",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series D",
+    "stage_raw": "series_d",
+    "amount": "$3.0B",
+    "amount_usd": 3000000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-05",
+    "lead_investor": "CE-Invests",
+    "investors": [
+      "CE-Invests"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/10/tvs-automobile-solutions-raises-rs-425-cr-uae-investor-expand-mytvs"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Sales hiring startup Scooter",
     "sector": "",
     "sector_raw": null,
@@ -21,6 +150,27 @@
     "city": ""
   },
   {
+    "company_name": "Exclusive: QpiAI",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$32M",
+    "amount_usd": 32000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-05",
+    "lead_investor": "Avataar Ventures",
+    "investors": [
+      "Avataar Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/exclusive/exclusive-qpiai-raises-rs-50-cr-in-debt-from-innoven-capital-12625901"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
@@ -36,70 +186,6 @@
     ],
     "sources": [
       "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-sep-28-oct-3-12618694"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Seeds Fincap",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$10.4M",
-    "amount_usd": 10400000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-01",
-    "lead_investor": "Michael",
-    "investors": [
-      "Michael"
-    ],
-    "sources": [
-      "https://entrackr.com/news/seeds-fincap-raises-rs-100-cr-in-series-b-led-by-michael-susan-dell-foundation-12611889",
-      "https://yourstory.com/2026/10/seeds-fincap-rs-100-cr-series-b-round-michael-susan-dell-foundation"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Antler, Nikhil Kamath",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "₹4.0 Cr ($482K)",
-    "amount_usd": 481927.71,
-    "currency": "INR",
-    "announced_on": "2026-10-01",
-    "lead_investor": "Antler",
-    "investors": [
-      "Antler"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/antler-nikhil-kamath-back-healthtech-startup-aignosis-with-rs-4-cr-seed-round-12611813"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "IPV",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$16.0B",
-    "amount_usd": 16000000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-01",
-    "lead_investor": "Inflection Point Ventures",
-    "investors": [
-      "Inflection Point Ventures"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/ipv-leads-rs-7-cr-seed-round-in-cybersecurity-startup-zaperon-12612485"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -143,50 +229,6 @@
     ],
     "sources": [
       "https://yourstory.com/2026/09/ev-two-wheeler-maker-simple-energy-bags-rs-1750-cr-funding"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Physical AI startup SiMa.ai",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series C",
-    "stage_raw": "series_c",
-    "amount": "$150M",
-    "amount_usd": 150000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-29",
-    "lead_investor": "Fidelity Management",
-    "investors": [
-      "Alter Venture Partners",
-      "Fidelity Management",
-      "StepStone Group"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/09/physical-ai-startup-simaai-raises-150-million-series-c"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Agricultural machinery company Balwaan Krishi",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "₹100 Cr ($12M)",
-    "amount_usd": 12048192.77,
-    "currency": "INR",
-    "announced_on": "2026-09-28",
-    "lead_investor": "First Bridge India Growth Fund",
-    "investors": [
-      "First Bridge India Growth Fund"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/09/agricultural-machinery-balwaan-krishi-raises-rs-100-crore-series-b"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -260,6 +302,67 @@
     "city": ""
   },
   {
+    "company_name": "Kinetic Age",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹2.5 Cr ($301K)",
+    "amount_usd": 301204.82,
+    "currency": "INR",
+    "announced_on": "2026-10-06",
+    "lead_investor": "AJVC",
+    "investors": [
+      "AJVC"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/kinetic-age-raises-250k-from-ajvc-agrasar-ventures-12627734"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Medical tourism startup CureMeAbroad",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Seed",
+    "stage_raw": "pre_seed",
+    "amount": "$1.1M",
+    "amount_usd": 1100000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-06",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/medical-tourism-startup-curemeabroad-raises-11-mn-in-pre-seed-funding-12628366"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "IAN Angel Fund",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹5.0 Cr ($602K)",
+    "amount_usd": 602409.64,
+    "currency": "INR",
+    "announced_on": "2026-10-06",
+    "lead_investor": "IAN Angel. Snippets Follow Us",
+    "investors": [
+      "IAN Angel. Snippets Follow Us"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/ian-angel-fund-leads-rs-5-cr-round-in-deeptech-textile-startup-indigotex-12628381"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Indifi",
     "sector": "",
     "sector_raw": null,
@@ -273,6 +376,25 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/fintrackr/indifi-posts-rs-371-cr-revenue-in-fy26-turns-profitable-12624850"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Marico",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "₹592 Cr ($71.3M)",
+    "amount_usd": 71325301.2,
+    "currency": "INR",
+    "announced_on": "2026-10-05",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/marico-acquires-2409-additional-stake-in-plix-parent-for-rs-1012-cr-12626990"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -298,76 +420,19 @@
     "city": ""
   },
   {
-    "company_name": "SBI Mutual Fund",
+    "company_name": "Seeds Fincap",
     "sector": "",
     "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "$7.2B",
-    "amount_usd": 7170000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-01",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/sbi-mutual-fund-raises-swiggy-stake-above-5-after-rs-300-cr-share-purchase-12611662"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Bangalore Watch Company",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$1.4M",
-    "amount_usd": 1400000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-01",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/bangalore-watch-company-raises-14-mn-in-seed-round-from-customers-family-office-hnis-12611688"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Unveilr AI",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Seed",
-    "stage_raw": "pre_seed",
-    "amount": "₹17 Cr ($2M)",
-    "amount_usd": 2012048.19,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "₹100 Cr ($12M)",
+    "amount_usd": 12048192.77,
     "currency": "INR",
     "announced_on": "2026-10-01",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/snippets/unveilr-ai-raises-pre-seed-round-from-ajvc-at-rs-167-cr-valuation-12611816"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "India’s",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series C",
-    "stage_raw": "series_c",
-    "amount": "$160M",
-    "amount_usd": 160000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-01",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/niyos-income-jumps-78-to-rs-178-cr-in-fy26-12612454"
+      "https://yourstory.com/2026/10/seeds-fincap-rs-100-cr-series-b-round-michael-susan-dell-foundation"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -387,44 +452,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/fintrackr/kuku-clocks-rs-1484-cr-revenue-and-rs-89-cr-pbt-in-fy26-splurges-rs-1100-cr-on-marketing-12613298"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Arivihan",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$10M",
-    "amount_usd": 10000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-30",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/09/arivihan-10m-as-ai-led-edtech-targets-indias-smaller-cities"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Linux Laboratories",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "$70M",
-    "amount_usd": 70000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-30",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/09/linux-laboratories-70-million-chryscapital-tata-capital-healthcare-fund"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -452,6 +479,25 @@
     "city": ""
   },
   {
+    "company_name": "Linux Laboratories",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "$70M",
+    "amount_usd": 70000000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-30",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/09/linux-laboratories-70-million-chryscapital-tata-capital-healthcare-fund"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Netmeds",
     "sector": "",
     "sector_raw": null,
@@ -465,25 +511,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/fintrackr/netmeds-posts-flat-revenue-at-rs-45-cr-in-fy26-remains-profitable-12593652"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "WEH Ventures",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "₹250 Cr ($30.1M)",
-    "amount_usd": 30120481.93,
-    "currency": "INR",
-    "announced_on": "2026-09-29",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/09/weh-ventures-marks-first-close-of-rs-250-crore-fund-iii"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -509,6 +536,44 @@
     "city": ""
   },
   {
+    "company_name": "VC",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$100M",
+    "amount_usd": 100000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-05",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/10/vc-funding-in-september-dips-year-on-year"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "India’s",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹96 Cr ($11.5M)",
+    "amount_usd": 11540963.86,
+    "currency": "INR",
+    "announced_on": "2026-10-05",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/physicswallahs-finz-sells-rs-958-cr-loan-book-to-auxilo-12625624"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Teachmint",
     "sector": "",
     "sector_raw": null,
@@ -528,6 +593,25 @@
     "city": ""
   },
   {
+    "company_name": "WillJini",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$3.5M",
+    "amount_usd": 3500000.0,
+    "currency": "USD",
+    "announced_on": "2026-09-30",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/09/willjini-raises-first-round-35m-valuation-without-pitching-single-vc"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "TDB",
     "sector": "",
     "sector_raw": null,
@@ -541,25 +625,6 @@
     "investors": [],
     "sources": [
       "https://yourstory.com/2026/09/tdb-22-projects-rs-1-lakh-cr-rdi-fund-industrialist-sudhir-mehta"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Adani Family Office",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$50M",
-    "amount_usd": 50000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-29",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/09/adani-family-office-backs-nudge-as-startup-pivots-to-rewards-led-commerce"
     ],
     "confidence": 0.6,
     "summary": "",
