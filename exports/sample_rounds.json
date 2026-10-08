@@ -1,5 +1,26 @@
 [
   {
+    "company_name": "Lab-grown diamond brand Zinara",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Seed",
+    "stage_raw": "pre_seed",
+    "amount": "₹3.6 Cr ($435K)",
+    "amount_usd": 434939.76,
+    "currency": "INR",
+    "announced_on": "2026-10-08",
+    "lead_investor": "Inflection Point Ventures",
+    "investors": [
+      "Inflection Point Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/lab-grown-diamond-brand-zinara-raises-pre-seed-funding-led-by-inflection-point-ventures-12636439"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Edtech firm byteXL",
     "sector": "",
     "sector_raw": null,
@@ -36,6 +57,27 @@
     ],
     "sources": [
       "https://yourstory.com/2026/10/deeptech-startup-quanfluence-raises-10m-led-by-chiratae-ventures"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Consumer tech brand Lumio",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$12M",
+    "amount_usd": 12000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-07",
+    "lead_investor": "Blume Ventures",
+    "investors": [
+      "Blume Ventures"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/10/consumer-tech-brand-lumio-raises-12-million-led-by-blume-ventures"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -129,6 +171,51 @@
     "city": ""
   },
   {
+    "company_name": "Tanglin Venture",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$50M",
+    "amount_usd": 50000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-07",
+    "lead_investor": "Tanglin Venture Partners",
+    "investors": [
+      "Stargazer. Before",
+      "Tanglin Venture Partners"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/tanglin-venture-leads-rs-161-cr-seed-round-in-debt-resolution-platform-credfix-12633304"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Pizza brand The Dough Therapy",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "₹5.2 Cr ($633K)",
+    "amount_usd": 632530.12,
+    "currency": "INR",
+    "announced_on": "2026-10-07",
+    "lead_investor": "Michigan Capital Advisors",
+    "investors": [
+      "Equiglobe Investment. Follow Us Gourmet",
+      "Equiglobe Investment. The",
+      "Michigan Capital Advisors"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/pizza-brand-the-dough-therapy-raises-rs-525-cr-in-seed-round-12634056"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Beyond Appliances",
     "sector": "",
     "sector_raw": null,
@@ -145,70 +232,6 @@
     ],
     "sources": [
       "https://yourstory.com/2026/10/beyond-appliances-raises-rs-110-cr-series-b-fireside-ventures"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Fireside",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$11.4M",
-    "amount_usd": 11400000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-06",
-    "lead_investor": "Fireside Ventures",
-    "investors": [
-      "Dharana Capital",
-      "Fireside Ventures"
-    ],
-    "sources": [
-      "https://entrackr.com/news/fireside-leads-rs-110-cr-series-b-round-in-beyond-appliances-12627573"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "CurvetAI",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Seed",
-    "stage_raw": "pre_seed",
-    "amount": "₹6.0 Cr ($723K)",
-    "amount_usd": 722891.57,
-    "currency": "INR",
-    "announced_on": "2026-10-06",
-    "lead_investor": "Merak Ventures",
-    "investors": [
-      "Merak Ventures"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/curvetai-raises-rs-6-cr-pre-seed-round-led-by-merak-ventures-12627784"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Refurbished electronics platform ReFit Global",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$1M",
-    "amount_usd": 1000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-06",
-    "lead_investor": "IndiaQuotient",
-    "investors": [
-      "IndiaQuotient"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/refurbished-electronics-platform-refit-global-raises-1-mn-in-seed-round-12627826"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -445,83 +468,19 @@
     "city": ""
   },
   {
-    "company_name": "Kinetic Age",
+    "company_name": "Energy management platform Ionage",
     "sector": "",
     "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹2.5 Cr ($301K)",
-    "amount_usd": 301204.82,
-    "currency": "INR",
-    "announced_on": "2026-10-06",
-    "lead_investor": "AJVC",
-    "investors": [
-      "AJVC"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/kinetic-age-raises-250k-from-ajvc-agrasar-ventures-12627734"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Medical tourism startup CureMeAbroad",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Seed",
-    "stage_raw": "pre_seed",
-    "amount": "$1.1M",
-    "amount_usd": 1100000.0,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$1.3M",
+    "amount_usd": 1300000.0,
     "currency": "USD",
-    "announced_on": "2026-10-06",
+    "announced_on": "2026-10-07",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/snippets/medical-tourism-startup-curemeabroad-raises-11-mn-in-pre-seed-funding-12628366"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "IAN Angel Fund",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹5.0 Cr ($602K)",
-    "amount_usd": 602409.64,
-    "currency": "INR",
-    "announced_on": "2026-10-06",
-    "lead_investor": "IAN Angel. Snippets Follow Us",
-    "investors": [
-      "IAN Angel. Snippets Follow Us"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/ian-angel-fund-leads-rs-5-cr-round-in-deeptech-textile-startup-indigotex-12628381"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Sauce",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹15 Cr ($1.8M)",
-    "amount_usd": 1807228.92,
-    "currency": "INR",
-    "announced_on": "2026-10-06",
-    "lead_investor": "Sauce",
-    "investors": [
-      "Panthera Peak",
-      "Sauce"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/sauce-leads-rs-15-cr-funding-round-in-kitchen-and-bathroom-brand-lorazzo-12628801"
+      "https://entrackr.com/snippets/energy-management-platform-ionage-raises-13-mn-in-pre-series-a-round-12633801"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -566,25 +525,6 @@
     "city": ""
   },
   {
-    "company_name": "Marico",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "₹592 Cr ($71.3M)",
-    "amount_usd": 71325301.2,
-    "currency": "INR",
-    "announced_on": "2026-10-05",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/marico-acquires-2409-additional-stake-in-plix-parent-for-rs-1012-cr-12626990"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Seeds Fincap",
     "sector": "",
     "sector_raw": null,
@@ -617,27 +557,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/fintrackr/kuku-clocks-rs-1484-cr-revenue-and-rs-89-cr-pbt-in-fy26-splurges-rs-1100-cr-on-marketing-12613298"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Home interiors startup Gravity",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$15M",
-    "amount_usd": 15000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-30",
-    "lead_investor": "",
-    "investors": [
-      "Alteria Capital"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/09/home-interiors-startup-gravity-raises-15-million-led-by-3one4-capital-and-info-edge-ventures"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -682,6 +601,82 @@
     "city": ""
   },
   {
+    "company_name": "Info Edge",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹822 Cr ($99.1M)",
+    "amount_usd": 99072289.16,
+    "currency": "INR",
+    "announced_on": "2026-10-08",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/info-edge-posts-rs-822-cr-q2-fy27-billings-12636257"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Recur Club",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹500 Cr ($60.2M)",
+    "amount_usd": 60240963.86,
+    "currency": "INR",
+    "announced_on": "2026-10-07",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/10/festive-season-bonanza-recur-club-launches-rs-500-cr-fund-for-d2c-brands"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Exclusive: Green SM",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹153 Cr ($18.4M)",
+    "amount_usd": 18391566.27,
+    "currency": "INR",
+    "announced_on": "2026-10-07",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/exclusive/exclusive-green-sm-parent-infuses-rs-153-cr-in-indian-subsidiary-to-scale-ev-ride-hailing-12633681"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Ola Electric",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹1000 Cr ($120.5M)",
+    "amount_usd": 120481927.71,
+    "currency": "INR",
+    "announced_on": "2026-10-07",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/ola-electric-to-open-rs-1000-cr-rights-issue-on-october-22-12634975"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "VC",
     "sector": "",
     "sector_raw": null,
@@ -714,25 +709,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/fintrackr/teachmint-revenue-jumps-28x-to-rs-205-cr-in-fy26-12612591"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "WillJini",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$3.5M",
-    "amount_usd": 3500000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-30",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/09/willjini-raises-first-round-35m-valuation-without-pitching-single-vc"
     ],
     "confidence": 0.6,
     "summary": "",
