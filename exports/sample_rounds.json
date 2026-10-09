@@ -1,5 +1,70 @@
 [
   {
+    "company_name": "MSME-focused digital lender NeoGrowth",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$36M",
+    "amount_usd": 36000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-09",
+    "lead_investor": "FMO",
+    "investors": [
+      "FMO"
+    ],
+    "sources": [
+      "https://entrackr.com/news/msme-focused-digital-lender-neogrowth-raises-rs-85-cr-from-fmo-leapfrog-12658698"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Exclusive: Gramiyaa",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "₹19 Cr ($2.2M)",
+    "amount_usd": 2246987.95,
+    "currency": "INR",
+    "announced_on": "2026-10-09",
+    "lead_investor": "Homegrown Ventures",
+    "investors": [
+      "Campus Fund",
+      "Homegrown Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/exclusive/exclusive-gramiyaa-raises-fresh-capital-in-series-a-round-at-rs-110-cr-valuation-12658745"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "DailyObjects",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series C",
+    "stage_raw": "series_c",
+    "amount": "$35M",
+    "amount_usd": 35000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-08",
+    "lead_investor": "Xponentia Capital Partners",
+    "investors": [
+      "Xponentia Capital Partners"
+    ],
+    "sources": [
+      "https://entrackr.com/news/dailyobjects-raises-rs-332-cr-in-series-c-round-led-by-xponentia-anicut-axiom-asia-12638318",
+      "https://yourstory.com/2026/10/dailyobjects-raises-rs-332-cr-in-series-c-funding-round"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Lab-grown diamond brand Zinara",
     "sector": "",
     "sector_raw": null,
@@ -15,6 +80,27 @@
     ],
     "sources": [
       "https://entrackr.com/snippets/lab-grown-diamond-brand-zinara-raises-pre-seed-funding-led-by-inflection-point-ventures-12636439"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Pet food startup TailBlaze Longevity",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$1.4M",
+    "amount_usd": 1400000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-08",
+    "lead_investor": "US-based VC",
+    "investors": [
+      "US-based VC"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/pet-food-startup-tailblaze-longevity-raises-pre-seed-funding-12637360"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -78,29 +164,6 @@
     ],
     "sources": [
       "https://yourstory.com/2026/10/consumer-tech-brand-lumio-raises-12-million-led-by-blume-ventures"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Chiratae Ventures",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$10M",
-    "amount_usd": 10000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-07",
-    "lead_investor": "Chiratae Ventures",
-    "investors": [
-      "Chiratae Ventures",
-      "Golden Sparrow",
-      "Rainmatter"
-    ],
-    "sources": [
-      "https://entrackr.com/news/chiratae-ventures-leads-10-mn-round-in-photonic-quantum-startup-quanfluence-12631530"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -238,21 +301,21 @@
     "city": ""
   },
   {
-    "company_name": "FirstCry-backed Swara Baby Products",
+    "company_name": "TVS Automobile Solutions",
     "sector": "",
     "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "₹1000 Cr ($120.5M)",
-    "amount_usd": 120481927.71,
-    "currency": "INR",
-    "announced_on": "2026-10-06",
-    "lead_investor": "",
+    "stage": "Series D",
+    "stage_raw": "series_d",
+    "amount": "$3.0B",
+    "amount_usd": 3000000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-05",
+    "lead_investor": "CE-Invests",
     "investors": [
-      "Piramal Pharma"
+      "CE-Invests"
     ],
     "sources": [
-      "https://entrackr.com/news/firstcry-backed-swara-baby-products-gets-sebi-nod-for-rs-1000-cr-ipo-12629130"
+      "https://yourstory.com/2026/10/tvs-automobile-solutions-raises-rs-425-cr-uae-investor-expand-mytvs"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -275,27 +338,6 @@
     ],
     "sources": [
       "https://yourstory.com/2026/10/qpiai-secures-rs-50-cr-debt-financing-from-innoven-capital"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "TVS Automobile Solutions",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series D",
-    "stage_raw": "series_d",
-    "amount": "$3.0B",
-    "amount_usd": 3000000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-05",
-    "lead_investor": "CE-Invests",
-    "investors": [
-      "CE-Invests"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/10/tvs-automobile-solutions-raises-rs-425-cr-uae-investor-expand-mytvs"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -430,44 +472,6 @@
     "city": ""
   },
   {
-    "company_name": "Zomint",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$3.8M",
-    "amount_usd": 3750000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-07",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/zomint-raises-rs-36-cr-seed-round-from-lightspeed-and-prime-venture-partners-12631666"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "TPG-backed NewQuest",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "₹115 Cr ($13.8M)",
-    "amount_usd": 13831325.3,
-    "currency": "INR",
-    "announced_on": "2026-10-07",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/tpg-backed-newquest-offloads-rs-115-cr-shadowfax-stake-in-bulk-deal-12632340"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Energy management platform Ionage",
     "sector": "",
     "sector_raw": null,
@@ -487,25 +491,6 @@
     "city": ""
   },
   {
-    "company_name": "India’s",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$3M",
-    "amount_usd": 3000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-06",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/indias-ndude-labs-leads-3-mn-series-a-in-us-wellness-brand-supermush-12628927"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Indifi",
     "sector": "",
     "sector_raw": null,
@@ -519,25 +504,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/fintrackr/indifi-posts-rs-371-cr-revenue-in-fy26-turns-profitable-12624850"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Seeds Fincap",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "₹100 Cr ($12M)",
-    "amount_usd": 12048192.77,
-    "currency": "INR",
-    "announced_on": "2026-10-01",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/10/seeds-fincap-rs-100-cr-series-b-round-michael-susan-dell-foundation"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -601,6 +567,25 @@
     "city": ""
   },
   {
+    "company_name": "NABVENTURES Fund II",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹450 Cr ($54.2M)",
+    "amount_usd": 54216867.47,
+    "currency": "INR",
+    "announced_on": "2026-10-09",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/nabventures-fund-ii-secures-rs-450-cr-in-first-close-12659679"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Info Edge",
     "sector": "",
     "sector_raw": null,
@@ -614,6 +599,25 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/news/info-edge-posts-rs-822-cr-q2-fy27-billings-12636257"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "GST Council",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹1.0 Cr ($120K)",
+    "amount_usd": 120481.93,
+    "currency": "INR",
+    "announced_on": "2026-10-08",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/gst-council-removes-arrest-powers-raises-prosecution-threshold-to-rs-5-cr-12657994"
     ],
     "confidence": 0.6,
     "summary": "",
