@@ -1,6 +1,70 @@
 [
   {
-    "company_name": "MSME-focused digital lender NeoGrowth",
+    "company_name": "Funding",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$113.3M",
+    "amount_usd": 113350000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-10",
+    "lead_investor": "Xponentia Capital Partners",
+    "investors": [
+      "Xponentia Capital Partners"
+    ],
+    "sources": [
+      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-5-oct-10-12662210"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "NeoGrowth",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Debt",
+    "stage_raw": "debt",
+    "amount": "$20M",
+    "amount_usd": 20000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-09",
+    "lead_investor": "FMO",
+    "investors": [
+      "FMO",
+      "LeapFrog Investments. A"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/10/neogrowth-raises-rs-85-crore-led-by-fmo"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "NABARD-backed NABVENTURES",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$202M",
+    "amount_usd": 202000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-09",
+    "lead_investor": "NABVENTURES",
+    "investors": [
+      "NABVENTURES"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/10/nabventures-hits-rs-450-crore-first-close-for-second-fund"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "NeoGrowth",
     "sector": "",
     "sector_raw": null,
     "stage": "Series A",
@@ -37,6 +101,28 @@
     ],
     "sources": [
       "https://entrackr.com/exclusive/exclusive-gramiyaa-raises-fresh-capital-in-series-a-round-at-rs-110-cr-valuation-12658745"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Exclusive: Nat Habit",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series C",
+    "stage_raw": "series_c",
+    "amount": "$15M",
+    "amount_usd": 15000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-09",
+    "lead_investor": "Trident Growth Partners",
+    "investors": [
+      "Bertelsmann",
+      "Trident Growth Partners"
+    ],
+    "sources": [
+      "https://entrackr.com/exclusive/exclusive-nat-habit-to-kick-off-15-mn-funding-round-led-by-trident-growth-partners-12660433"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -107,27 +193,6 @@
     "city": ""
   },
   {
-    "company_name": "Edtech firm byteXL",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$9M",
-    "amount_usd": 9000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-07",
-    "lead_investor": "Elevar Equity",
-    "investors": [
-      "Elevar Equity"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/10/edtech-firm-bytexl-9m-investors-back-college-linked-ai-skilling-model"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Deeptech startup Quanfluence",
     "sector": "",
     "sector_raw": null,
@@ -149,6 +214,27 @@
     "city": ""
   },
   {
+    "company_name": "Edtech firm byteXL",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$9M",
+    "amount_usd": 9000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-07",
+    "lead_investor": "Elevar Equity",
+    "investors": [
+      "Elevar Equity"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/10/edtech-firm-bytexl-9m-investors-back-college-linked-ai-skilling-model"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Consumer tech brand Lumio",
     "sector": "",
     "sector_raw": null,
@@ -164,92 +250,6 @@
     ],
     "sources": [
       "https://yourstory.com/2026/10/consumer-tech-brand-lumio-raises-12-million-led-by-blume-ventures"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Edtech startup byteXL",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$9M",
-    "amount_usd": 9000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-07",
-    "lead_investor": "Elevar Equity",
-    "investors": [
-      "Elevar Equity"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/edtech-startup-bytexl-raises-9-mn-in-funding-round-led-by-elevar-equity-12632385"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Agentic AI startup Desible.ai",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "₹32 Cr ($3.9M)",
-    "amount_usd": 3855421.69,
-    "currency": "INR",
-    "announced_on": "2026-10-07",
-    "lead_investor": "Prime Venture Partners",
-    "investors": [
-      "Prime Venture Partners"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/agentic-ai-startup-desibleai-raises-rs-32-cr-led-by-prime-venture-partners-12632530"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Med-tech startup Sunfox Technologies",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$7M",
-    "amount_usd": 7000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-07",
-    "lead_investor": "Ashish Kacholia",
-    "investors": [
-      "Ashish Kacholia",
-      "Finvolve"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/med-tech-startup-sunfox-technologies-raises-7-mn-in-series-a-round-12633059"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Tanglin Venture",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$50M",
-    "amount_usd": 50000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-07",
-    "lead_investor": "Tanglin Venture Partners",
-    "investors": [
-      "Stargazer. Before",
-      "Tanglin Venture Partners"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/tanglin-venture-leads-rs-161-cr-seed-round-in-debt-resolution-platform-credfix-12633304"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -301,27 +301,6 @@
     "city": ""
   },
   {
-    "company_name": "TVS Automobile Solutions",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series D",
-    "stage_raw": "series_d",
-    "amount": "$3.0B",
-    "amount_usd": 3000000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-05",
-    "lead_investor": "CE-Invests",
-    "investors": [
-      "CE-Invests"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/10/tvs-automobile-solutions-raises-rs-425-cr-uae-investor-expand-mytvs"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Quantum",
     "sector": "",
     "sector_raw": null,
@@ -338,6 +317,27 @@
     ],
     "sources": [
       "https://yourstory.com/2026/10/qpiai-secures-rs-50-cr-debt-financing-from-innoven-capital"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "TVS Automobile Solutions",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series D",
+    "stage_raw": "series_d",
+    "amount": "$3.0B",
+    "amount_usd": 3000000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-05",
+    "lead_investor": "CE-Invests",
+    "investors": [
+      "CE-Invests"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/10/tvs-automobile-solutions-raises-rs-425-cr-uae-investor-expand-mytvs"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -425,28 +425,6 @@
     ],
     "sources": [
       "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-sep-14-sep-19-12551215"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "India’s",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$317M",
-    "amount_usd": 317000000.0,
-    "currency": "USD",
-    "announced_on": "2026-09-15",
-    "lead_investor": "Entrackr",
-    "investors": [
-      "Elevation Capital. Centricity",
-      "Entrackr"
-    ],
-    "sources": [
-      "https://entrackr.com/report/indias-wealthtech-funding-frenzy-continues-in-2026-as-investment-crosses-300-mn-12534011"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -548,7 +526,7 @@
     "city": ""
   },
   {
-    "company_name": "India’s",
+    "company_name": "Bewakoof’s",
     "sector": "",
     "sector_raw": null,
     "stage": "Acquisition",
@@ -681,25 +659,6 @@
     "city": ""
   },
   {
-    "company_name": "VC",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$100M",
-    "amount_usd": 100000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-05",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/10/vc-funding-in-september-dips-year-on-year"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Teachmint",
     "sector": "",
     "sector_raw": null,
@@ -715,25 +674,6 @@
       "https://entrackr.com/fintrackr/teachmint-revenue-jumps-28x-to-rs-205-cr-in-fy26-12612591"
     ],
     "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "500 Cr",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "",
-    "amount_usd": null,
-    "currency": "",
-    "announced_on": "2026-10-04",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/10/paniit-500-cr-deeptech-fund-targets-25-andhra-startups-by-2030"
-    ],
-    "confidence": 0.4,
     "summary": "",
     "city": ""
   }
