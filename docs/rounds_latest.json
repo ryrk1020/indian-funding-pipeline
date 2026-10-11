@@ -64,6 +64,30 @@
     "city": ""
   },
   {
+    "company_name": "Nat Habit",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series C",
+    "stage_raw": "series_c",
+    "amount": "$15M",
+    "amount_usd": 15000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-09",
+    "lead_investor": "Trident Growth Partners",
+    "investors": [
+      "Bertelsmann",
+      "Trident Growth Partners",
+      "Trident Growth Partners. Existing"
+    ],
+    "sources": [
+      "https://entrackr.com/exclusive/exclusive-nat-habit-to-kick-off-15-mn-funding-round-led-by-trident-growth-partners-12660433",
+      "https://yourstory.com/2026/10/nat-habit-raises-rs-142-cr-in-series-c-led-by-trident-growth-partners"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "NeoGrowth",
     "sector": "",
     "sector_raw": null,
@@ -101,28 +125,6 @@
     ],
     "sources": [
       "https://entrackr.com/exclusive/exclusive-gramiyaa-raises-fresh-capital-in-series-a-round-at-rs-110-cr-valuation-12658745"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Exclusive: Nat Habit",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series C",
-    "stage_raw": "series_c",
-    "amount": "$15M",
-    "amount_usd": 15000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-09",
-    "lead_investor": "Trident Growth Partners",
-    "investors": [
-      "Bertelsmann",
-      "Trident Growth Partners"
-    ],
-    "sources": [
-      "https://entrackr.com/exclusive/exclusive-nat-habit-to-kick-off-15-mn-funding-round-led-by-trident-growth-partners-12660433"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -193,27 +195,6 @@
     "city": ""
   },
   {
-    "company_name": "Deeptech startup Quanfluence",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$10M",
-    "amount_usd": 10000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-07",
-    "lead_investor": "Chiratae Ventures",
-    "investors": [
-      "Chiratae Ventures"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/10/deeptech-startup-quanfluence-raises-10m-led-by-chiratae-ventures"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Edtech firm byteXL",
     "sector": "",
     "sector_raw": null,
@@ -229,6 +210,27 @@
     ],
     "sources": [
       "https://yourstory.com/2026/10/edtech-firm-bytexl-9m-investors-back-college-linked-ai-skilling-model"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Deeptech startup Quanfluence",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "$10M",
+    "amount_usd": 10000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-07",
+    "lead_investor": "Chiratae Ventures",
+    "investors": [
+      "Chiratae Ventures"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/10/deeptech-startup-quanfluence-raises-10m-led-by-chiratae-ventures"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -295,28 +297,6 @@
     ],
     "sources": [
       "https://yourstory.com/2026/10/beyond-appliances-raises-rs-110-cr-series-b-fireside-ventures"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Quantum",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$6.5M",
-    "amount_usd": 6500000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-05",
-    "lead_investor": "YourNest",
-    "investors": [
-      "QpiAI",
-      "YourNest"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/10/qpiai-secures-rs-50-cr-debt-financing-from-innoven-capital"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -615,25 +595,6 @@
     "investors": [],
     "sources": [
       "https://yourstory.com/2026/10/festive-season-bonanza-recur-club-launches-rs-500-cr-fund-for-d2c-brands"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Exclusive: Green SM",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹153 Cr ($18.4M)",
-    "amount_usd": 18391566.27,
-    "currency": "INR",
-    "announced_on": "2026-10-07",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/exclusive/exclusive-green-sm-parent-infuses-rs-153-cr-in-indian-subsidiary-to-scale-ev-ride-hailing-12633681"
     ],
     "confidence": 0.6,
     "summary": "",
