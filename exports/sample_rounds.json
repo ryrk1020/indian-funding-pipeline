@@ -1,6 +1,91 @@
 [
   {
-    "company_name": "Weekly Funding Roundup: The",
+    "company_name": "Mesa School of Business",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "₹110 Cr ($13.3M)",
+    "amount_usd": 13253012.05,
+    "currency": "INR",
+    "announced_on": "2026-10-13",
+    "lead_investor": "Dharana Capital",
+    "investors": [
+      "Dharana Capital"
+    ],
+    "sources": [
+      "https://entrackr.com/news/mesa-school-of-business-raises-rs-110-cr-in-equity-and-debt-12670731",
+      "https://yourstory.com/2026/10/mesa-school-of-business-raises-rs-110-crore-co-led-dharana-capital-elevation-capital"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "NuSynth",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "$4M",
+    "amount_usd": 4000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-13",
+    "lead_investor": "Avaana Capital",
+    "investors": [
+      "Avaana Capital"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/nusynth-raises-rs-365-cr-in-seed-round-led-by-avaana-capital-shastra-vc-12671123"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "AJVC",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Seed",
+    "stage_raw": "pre_seed",
+    "amount": "₹2.5 Cr ($301K)",
+    "amount_usd": 301204.82,
+    "currency": "INR",
+    "announced_on": "2026-10-13",
+    "lead_investor": "AJVC",
+    "investors": [
+      "AJVC"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/ajvc-leads-pre-seed-round-in-home-furnishing-startup-wudhomes-12671248"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "KL Rahul-backed Boldfit",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$42M",
+    "amount_usd": 42000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-12",
+    "lead_investor": "Bharat Value Fund",
+    "investors": [
+      "Bharat Value Fund"
+    ],
+    "sources": [
+      "https://entrackr.com/news/kl-rahul-backed-boldfit-raises-over-rs-400-cr-in-series-b-round-led-by-bharat-value-fund-12669777"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
     "stage": "Pre-Series A",
@@ -15,28 +100,6 @@
     ],
     "sources": [
       "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-5-oct-10-12662210"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "NeoGrowth",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Debt",
-    "stage_raw": "debt",
-    "amount": "$20M",
-    "amount_usd": 20000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-09",
-    "lead_investor": "FMO",
-    "investors": [
-      "FMO",
-      "LeapFrog Investments. A"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/10/neogrowth-raises-rs-85-crore-led-by-fmo"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -88,64 +151,20 @@
     "city": ""
   },
   {
-    "company_name": "NeoGrowth",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$36M",
-    "amount_usd": 36000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-09",
-    "lead_investor": "FMO",
-    "investors": [
-      "FMO"
-    ],
-    "sources": [
-      "https://entrackr.com/news/msme-focused-digital-lender-neogrowth-raises-rs-85-cr-from-fmo-leapfrog-12658698"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Exclusive: Gramiyaa",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "₹19 Cr ($2.2M)",
-    "amount_usd": 2246987.95,
-    "currency": "INR",
-    "announced_on": "2026-10-09",
-    "lead_investor": "Homegrown Ventures",
-    "investors": [
-      "Campus Fund",
-      "Homegrown Ventures"
-    ],
-    "sources": [
-      "https://entrackr.com/exclusive/exclusive-gramiyaa-raises-fresh-capital-in-series-a-round-at-rs-110-cr-valuation-12658745"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "DailyObjects",
     "sector": "",
     "sector_raw": null,
     "stage": "Series C",
     "stage_raw": "series_c",
-    "amount": "$35M",
-    "amount_usd": 35000000.0,
-    "currency": "USD",
+    "amount": "₹332 Cr ($40M)",
+    "amount_usd": 40000000.0,
+    "currency": "INR",
     "announced_on": "2026-10-08",
     "lead_investor": "Xponentia Capital Partners",
     "investors": [
       "Xponentia Capital Partners"
     ],
     "sources": [
-      "https://entrackr.com/news/dailyobjects-raises-rs-332-cr-in-series-c-round-led-by-xponentia-anicut-axiom-asia-12638318",
       "https://yourstory.com/2026/10/dailyobjects-raises-rs-332-cr-in-series-c-funding-round"
     ],
     "confidence": 0.85,
@@ -153,63 +172,21 @@
     "city": ""
   },
   {
-    "company_name": "Lab-grown diamond brand Zinara",
+    "company_name": "Deeptech startup Quanfluence",
     "sector": "",
     "sector_raw": null,
-    "stage": "Pre-Seed",
-    "stage_raw": "pre_seed",
-    "amount": "₹3.6 Cr ($435K)",
-    "amount_usd": 434939.76,
-    "currency": "INR",
-    "announced_on": "2026-10-08",
-    "lead_investor": "Inflection Point Ventures",
-    "investors": [
-      "Inflection Point Ventures"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/lab-grown-diamond-brand-zinara-raises-pre-seed-funding-led-by-inflection-point-ventures-12636439"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Pet food startup TailBlaze Longevity",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$1.4M",
-    "amount_usd": 1400000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-08",
-    "lead_investor": "US-based VC",
-    "investors": [
-      "US-based VC"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/pet-food-startup-tailblaze-longevity-raises-pre-seed-funding-12637360"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Sachin Bansal’s Navi",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "$40M",
-    "amount_usd": 40000000.0,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "$10M",
+    "amount_usd": 10000000.0,
     "currency": "USD",
     "announced_on": "2026-10-07",
-    "lead_investor": "Flipkart",
+    "lead_investor": "Chiratae Ventures",
     "investors": [
-      "Flipkart"
+      "Chiratae Ventures"
     ],
     "sources": [
-      "https://www.moneycontrol.com/news/business/startup/sachin-bansal-s-navi-in-talks-to-raise-40-million-from-elevation-two-months-after-prosus-100-million-round-14046812.html"
+      "https://yourstory.com/2026/10/deeptech-startup-quanfluence-raises-10m-led-by-chiratae-ventures"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -237,29 +214,6 @@
     "city": ""
   },
   {
-    "company_name": "Deeptech startup Quanfluence",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$10M",
-    "amount_usd": 10000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-07",
-    "lead_investor": "Chiratae Ventures",
-    "investors": [
-      "Chiratae Ventures",
-      "Chiratae Ventures. Funds"
-    ],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/startup/quanfluence-raises-10-million-to-build-full-stack-quantum-computer-14046655.html",
-      "https://yourstory.com/2026/10/deeptech-startup-quanfluence-raises-10m-led-by-chiratae-ventures"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Consumer tech brand Lumio",
     "sector": "",
     "sector_raw": null,
@@ -281,50 +235,7 @@
     "city": ""
   },
   {
-    "company_name": "Beyond Appliances",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "₹110 Cr ($13.3M)",
-    "amount_usd": 13253012.05,
-    "currency": "INR",
-    "announced_on": "2026-10-06",
-    "lead_investor": "Fireside Ventures",
-    "investors": [
-      "Dharana Capital",
-      "Fireside Ventures"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/10/beyond-appliances-raises-rs-110-cr-series-b-fireside-ventures"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "TVS Automobile Solutions",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series D",
-    "stage_raw": "series_d",
-    "amount": "$3.0B",
-    "amount_usd": 3000000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-05",
-    "lead_investor": "CE-Invests",
-    "investors": [
-      "CE-Invests"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/10/tvs-automobile-solutions-raises-rs-425-cr-uae-investor-expand-mytvs"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Weekly Funding Roundup: The",
+    "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
     "stage": "Pre-Series A",
@@ -366,7 +277,7 @@
     "city": ""
   },
   {
-    "company_name": "Weekly Funding Roundup: The",
+    "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
     "stage": "Pre-Series A",
@@ -389,7 +300,7 @@
     "city": ""
   },
   {
-    "company_name": "Weekly Funding Roundup: The",
+    "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
     "stage": "Pre-Series A",
@@ -407,6 +318,46 @@
       "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-sep-14-sep-19-12551215"
     ],
     "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "ThinkMetal",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹27 Cr ($3.3M)",
+    "amount_usd": 3253012.05,
+    "currency": "INR",
+    "announced_on": "2026-10-13",
+    "lead_investor": "IAN Alpha Fund",
+    "investors": [
+      "IAN Alpha Fund"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/thinkmetal-raises-rs-27-cr-led-by-ian-alpha-fund-12671512"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "The Wealth Company AIF",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$16.0B",
+    "amount_usd": 16000000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-12",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/10/the-wealth-company-aif-invests-rs-400-crore-in-boldfit"
+    ],
+    "confidence": 0.8,
     "summary": "",
     "city": ""
   },
@@ -464,44 +415,6 @@
     ],
     "sources": [
       "https://entrackr.com/snippets/hero-electronixs-tessolve-semiconductor-raises-75-mn-led-by-vector-line-capital-12666679"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Weekly Funding Roundup: The",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$12M",
-    "amount_usd": 12000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-10",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/funding/weekly-funding-roundup-the-startup-deals-you-may-have-missed-in-week-of-october-11-14048975.html"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Flipkart ESOP",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "$4.0B",
-    "amount_usd": 4000000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-07",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/startup/flipkart-esop-tussle-former-cxos-seek-fair-treatment-from-walmart-amid-ipo-uncertainty-14046368.html"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -603,6 +516,44 @@
     "city": ""
   },
   {
+    "company_name": "Qualcomm",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹157 Cr ($18.9M)",
+    "amount_usd": 18949397.59,
+    "currency": "INR",
+    "announced_on": "2026-10-13",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/qualcomm-exits-shadowfax-with-rs-157-cr-stake-sale-12670748"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Fundamentum Frontier Advisors",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹3000 Cr ($361.4M)",
+    "amount_usd": 361445783.13,
+    "currency": "INR",
+    "announced_on": "2026-10-13",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/fundamentum-frontier-advisors-f2a-raises-rs-3000-cr-for-growth-stage-ai-and-deeptech-fund-12671518"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "NABVENTURES Fund II",
     "sector": "",
     "sector_raw": null,
@@ -616,44 +567,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/snippets/nabventures-fund-ii-secures-rs-450-cr-in-first-close-12659679"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Info Edge",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹822 Cr ($99.1M)",
-    "amount_usd": 99072289.16,
-    "currency": "INR",
-    "announced_on": "2026-10-08",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/info-edge-posts-rs-822-cr-q2-fy27-billings-12636257"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "GST Council",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹1.0 Cr ($120K)",
-    "amount_usd": 120481.93,
-    "currency": "INR",
-    "announced_on": "2026-10-08",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/gst-council-removes-arrest-powers-raises-prosecution-threshold-to-rs-5-cr-12657994"
     ],
     "confidence": 0.6,
     "summary": "",
@@ -679,25 +592,6 @@
     "city": ""
   },
   {
-    "company_name": "Fintech",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$45M",
-    "amount_usd": 45000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-06",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/startup/fintech-startup-oolka-in-talks-to-raise-45-million-from-bessemer-prosus-and-others-14045092.html"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Teachmint",
     "sector": "",
     "sector_raw": null,
@@ -711,6 +605,25 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/fintrackr/teachmint-revenue-jumps-28x-to-rs-205-cr-in-fy26-12612591"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "NeoGrowth",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹85 Cr ($10.2M)",
+    "amount_usd": 10240963.86,
+    "currency": "INR",
+    "announced_on": "",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/10/neogrowth-raises-rs-85-crore-led-by-fmo"
     ],
     "confidence": 0.6,
     "summary": "",
