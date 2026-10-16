@@ -1,5 +1,26 @@
 [
   {
+    "company_name": "Exclusive: CapGrid",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$4.9M",
+    "amount_usd": 4870000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-16",
+    "lead_investor": "Anicut Capital",
+    "investors": [
+      "Anicut Capital"
+    ],
+    "sources": [
+      "https://entrackr.com/exclusive/exclusive-capgrid-kicks-off-pre-series-b-round-at-50-valuation-premium-12680865"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Enterprise AI startup Shamrock AI",
     "sector": "",
     "sector_raw": null,
@@ -64,63 +85,43 @@
     "city": ""
   },
   {
-    "company_name": "Enterprise AI startup RevRag AI",
+    "company_name": "IntrCity SmartBus’ FY26",
     "sector": "",
     "sector_raw": null,
-    "stage": "Pre-Seed",
-    "stage_raw": "pre_seed",
-    "amount": "$2.5M",
-    "amount_usd": 2500000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-14",
-    "lead_investor": "Powerhouse Ventures",
-    "investors": [
-      "Powerhouse Ventures"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/enterprise-ai-startup-revrag-ai-raises-25-mn-in-seed-round-12674070"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Elevation Capital",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$10.5M",
-    "amount_usd": 10500000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-14",
-    "lead_investor": "Elevation Capital. Existing",
-    "investors": [
-      "Elevation Capital. Existing"
-    ],
-    "sources": [
-      "https://entrackr.com/news/elevation-capital-leads-105-mn-series-a-round-in-spill-games-12674083"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Supplements brand The Stack",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Seed",
-    "stage_raw": "pre_seed",
-    "amount": "₹22 Cr ($2.6M)",
-    "amount_usd": 2590361.45,
+    "stage": "Series D",
+    "stage_raw": "series_d",
+    "amount": "₹28 Cr ($3.4M)",
+    "amount_usd": 3373493.98,
     "currency": "INR",
-    "announced_on": "2026-10-14",
-    "lead_investor": "Sauce",
+    "announced_on": "2026-10-15",
+    "lead_investor": "A91 Partners",
     "investors": [
-      "Sauce"
+      "A91 Partners"
     ],
     "sources": [
-      "https://entrackr.com/snippets/supplements-brand-the-stack-raises-rs-215-cr-in-seed-round-12674836"
+      "https://entrackr.com/fintrackr/intrcity-smartbus-fy26-revenue-rises-40-to-rs-691-cr-losses-rise-76-12677924"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Construction robotics startup Origin",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "$20M",
+    "amount_usd": 20000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-15",
+    "lead_investor": "Accel",
+    "investors": [
+      "Accel",
+      "Unilazer Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/news/construction-robotics-startup-origin-raises-20-mn-led-by-accel-zacua-ventures-12680062"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -186,27 +187,6 @@
     ],
     "sources": [
       "https://yourstory.com/2026/10/agentic-video-startup-clueso-raises-series-a-funding"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Toothsi parent MakeO",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "$9.5M",
-    "amount_usd": 9500000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-13",
-    "lead_investor": "Singularity AMC. DSP",
-    "investors": [
-      "Singularity AMC. DSP"
-    ],
-    "sources": [
-      "https://entrackr.com/news/toothsi-parent-makeo-raises-rs-90-cr-led-by-singularity-amc-12673336"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -427,6 +407,84 @@
     "city": ""
   },
   {
+    "company_name": "NeoGrowth",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹591 Cr ($71.2M)",
+    "amount_usd": 71213253.01,
+    "currency": "INR",
+    "announced_on": "2026-10-16",
+    "lead_investor": "Dutch",
+    "investors": [
+      "Dutch"
+    ],
+    "sources": [
+      "https://entrackr.com/fintrackr/neogrowth-swings-to-rs-72-cr-loss-in-fy26-revenue-falls-21-12681229"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Banaraswala",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "$2M",
+    "amount_usd": 2000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-15",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/banaraswala-raises-2-mn-from-prax-impex-to-expand-across-india-12678454"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Tonbo Imaging",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "₹255 Cr ($30.8M)",
+    "amount_usd": 30766265.06,
+    "currency": "INR",
+    "announced_on": "2026-10-15",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/tonbo-imaging-raises-rs-255-cr-from-anchor-investors-ahead-of-ipo-12678412"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Udaan",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "$33M",
+    "amount_usd": 32970000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-15",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/udaan-posts-rs-5134-cr-gross-revenue-and-rs-852-cr-loss-in-fy26-12678883"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "The/Nudge",
     "sector": "",
     "sector_raw": null,
@@ -440,50 +498,6 @@
     "investors": [],
     "sources": [
       "https://yourstory.com/2026/10/thenudge-secures-15m-from-googleorg-to-develop-ai-tools-for-small-businesses"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Aum Ventures",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹17 Cr ($2M)",
-    "amount_usd": 2048192.77,
-    "currency": "INR",
-    "announced_on": "2026-10-14",
-    "lead_investor": "Aum Ventures",
-    "investors": [
-      "Aum Ventures",
-      "Skyroot Aerospace"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/aum-ventures-leads-rs-17-cr-round-in-oxg-space-12674360"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "RocketPay",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹10 Cr ($1.2M)",
-    "amount_usd": 1204819.28,
-    "currency": "INR",
-    "announced_on": "2026-10-14",
-    "lead_investor": "Sandeep Jain",
-    "investors": [
-      "IPV",
-      "Sandeep Jain"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/rocketpay-raises-rs-10-cr-led-by-sandeep-jain-and-group-12674425"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -587,59 +601,40 @@
     "city": ""
   },
   {
-    "company_name": "Indifi",
+    "company_name": "Goldman Sachs",
     "sector": "",
     "sector_raw": null,
-    "stage": "Debt",
-    "stage_raw": "debt",
-    "amount": "₹371 Cr ($44.7M)",
-    "amount_usd": 44710843.37,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹169 Cr ($20.3M)",
+    "amount_usd": 20321686.75,
     "currency": "INR",
-    "announced_on": "2026-10-05",
+    "announced_on": "2026-10-16",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/fintrackr/indifi-posts-rs-371-cr-revenue-in-fy26-turns-profitable-12624850"
+      "https://entrackr.com/news/goldman-sachs-offloads-rs-169-cr-worth-eternal-shares-bofa-securities-buys-12680811"
     ],
-    "confidence": 0.8,
+    "confidence": 0.6,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Kuku",
+    "company_name": "Flipkart Group",
     "sector": "",
     "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "₹1105 Cr ($133.1M)",
-    "amount_usd": 133132530.12,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹8468 Cr ($1.0B)",
+    "amount_usd": 1020240963.86,
     "currency": "INR",
-    "announced_on": "2026-10-01",
+    "announced_on": "2026-10-15",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/fintrackr/kuku-clocks-rs-1484-cr-revenue-and-rs-89-cr-pbt-in-fy26-splurges-rs-1100-cr-on-marketing-12613298"
+      "https://entrackr.com/fintrackr/flipkart-group-posts-rs-146-lakh-cr-revenue-in-fy26-losses-stand-at-rs-8468-cr-12679687"
     ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Netmeds",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "₹5.5 Cr ($663K)",
-    "amount_usd": 662650.6,
-    "currency": "INR",
-    "announced_on": "2026-09-30",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/netmeds-posts-flat-revenue-at-rs-45-cr-in-fy26-remains-profitable-12593652"
-    ],
-    "confidence": 0.8,
+    "confidence": 0.6,
     "summary": "",
     "city": ""
   },
@@ -714,25 +709,6 @@
     "investors": [],
     "sources": [
       "https://yourstory.com/2026/10/festive-season-bonanza-recur-club-launches-rs-500-cr-fund-for-d2c-brands"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Teachmint",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹200 Cr ($24.1M)",
-    "amount_usd": 24096385.54,
-    "currency": "INR",
-    "announced_on": "2026-10-01",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/teachmint-revenue-jumps-28x-to-rs-205-cr-in-fy26-12612591"
     ],
     "confidence": 0.6,
     "summary": "",
