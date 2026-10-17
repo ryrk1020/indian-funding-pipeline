@@ -1,5 +1,47 @@
 [
   {
+    "company_name": "Leverage Edu’s",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series C",
+    "stage_raw": "series_c",
+    "amount": "$90M",
+    "amount_usd": 90000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-17",
+    "lead_investor": "Blume Ventures",
+    "investors": [
+      "Blume Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/fintrackr/leverage-edus-revenue-jumps-over-2x-to-rs-364-cr-in-fy26-turns-ebitda-profitable-12683831"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Funding",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$302.9M",
+    "amount_usd": 302850000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-17",
+    "lead_investor": "Tessolve Semiconductor",
+    "investors": [
+      "Tessolve Semiconductor"
+    ],
+    "sources": [
+      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-12-oct-17-12683867"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Exclusive: CapGrid",
     "sector": "",
     "sector_raw": null,
@@ -15,6 +57,29 @@
     ],
     "sources": [
       "https://entrackr.com/exclusive/exclusive-capgrid-kicks-off-pre-series-b-round-at-50-valuation-premium-12680865"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "RapidCanvas",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$29M",
+    "amount_usd": 29000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-16",
+    "lead_investor": "Vertex Ventures Southeast Asia",
+    "investors": [
+      "Hitachi Ventures",
+      "Titanium Ventures",
+      "Vertex Ventures Southeast Asia"
+    ],
+    "sources": [
+      "https://entrackr.com/news/rapidcanvas-raises-29-mn-in-series-b-round-led-by-vertex-ventures-12681874"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -37,27 +102,6 @@
     ],
     "sources": [
       "https://entrackr.com/snippets/enterprise-ai-startup-shamrock-ai-raises-5-mn-led-by-endiya-partners-12677254"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Z47",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$12.5M",
-    "amount_usd": 12500000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-15",
-    "lead_investor": "Z47",
-    "investors": [
-      "Z47"
-    ],
-    "sources": [
-      "https://entrackr.com/news/z47-leads-125-mn-series-a-round-in-confido-health-12677262"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -122,27 +166,6 @@
     ],
     "sources": [
       "https://entrackr.com/news/construction-robotics-startup-origin-raises-20-mn-led-by-accel-zacua-ventures-12680062"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Pre-owned goods marketplace Circle",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "₹25 Cr ($3M)",
-    "amount_usd": 3012048.19,
-    "currency": "INR",
-    "announced_on": "2026-10-14",
-    "lead_investor": "Nexus Venture Partners. Existing",
-    "investors": [
-      "Nexus Venture Partners. Existing"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/pre-owned-goods-marketplace-circle-raises-rs-25-cr-led-by-nexus-venture-partners-12675485"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -385,24 +408,21 @@
     "city": ""
   },
   {
-    "company_name": "Funding",
+    "company_name": "Burma Burma",
     "sector": "",
     "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$61.8M",
-    "amount_usd": 61800000.0,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "$11M",
+    "amount_usd": 11000000.0,
     "currency": "USD",
-    "announced_on": "2026-09-19",
-    "lead_investor": "QED Investors. The",
-    "investors": [
-      "Claypond Capital",
-      "QED Investors. The"
-    ],
+    "announced_on": "2026-10-17",
+    "lead_investor": "",
+    "investors": [],
     "sources": [
-      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-sep-14-sep-19-12551215"
+      "https://entrackr.com/news/burma-burma-parent-hunger-pangs-files-drhp-for-rs-150-cr-fresh-issue-12683998"
     ],
-    "confidence": 0.85,
+    "confidence": 0.8,
     "summary": "",
     "city": ""
   },
@@ -422,6 +442,25 @@
     ],
     "sources": [
       "https://entrackr.com/fintrackr/neogrowth-swings-to-rs-72-cr-loss-in-fy26-revenue-falls-21-12681229"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Snabbit",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series D",
+    "stage_raw": "series_d",
+    "amount": "$112M",
+    "amount_usd": 112000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-16",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/snabbit-reports-rs-12-cr-revenue-and-rs-168-cr-loss-in-fy26-claims-75x-growth-in-core-biz-12681745"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -504,65 +543,6 @@
     "city": ""
   },
   {
-    "company_name": "Parallel Loop",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$6.6M",
-    "amount_usd": 6600000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-14",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/parallel-loop-raises-66-mn-seed-round-led-by-3one4-capital-12675732"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Scimplify",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$25M",
-    "amount_usd": 25000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-14",
-    "lead_investor": "Hitachi Ventures. Accel India",
-    "investors": [
-      "Hitachi Ventures. Accel India"
-    ],
-    "sources": [
-      "https://entrackr.com/news/scimplify-raises-25-mn-in-strategic-round-led-by-hitachi-ventures-12676144"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Zetwerk",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "₹5012 Cr ($603.9M)",
-    "amount_usd": 603855421.69,
-    "currency": "INR",
-    "announced_on": "2026-10-14",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/zetwerk-raises-rs-2251-cr-from-anchor-investors-ahead-of-ipo-12676491"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Amansa Investments, SBI Mutual Fund",
     "sector": "",
     "sector_raw": null,
@@ -620,6 +600,63 @@
     "city": ""
   },
   {
+    "company_name": "Urban Company",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹2500 Cr ($301.2M)",
+    "amount_usd": 301204819.28,
+    "currency": "INR",
+    "announced_on": "2026-10-16",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/urban-company-approves-rs-2500-cr-fundraise-amid-rising-competition-in-instahelp-12682445"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Urban Company",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$2.6B",
+    "amount_usd": 2560000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-16",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/urban-companys-instahelp-reports-rs-174-cr-adjusted-ebitda-loss-on-rs-21-cr-revenue-in-q2-fy27-12682465"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Snabbit",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹72 Cr ($8.7M)",
+    "amount_usd": 8674698.8,
+    "currency": "INR",
+    "announced_on": "2026-10-16",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/snabbit-matches-urban-companys-instahelp-in-ntv-burns-rs-32-cr-less-in-q2-fy27-12682647"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Flipkart Group",
     "sector": "",
     "sector_raw": null,
@@ -633,25 +670,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/fintrackr/flipkart-group-posts-rs-146-lakh-cr-revenue-in-fy26-losses-stand-at-rs-8468-cr-12679687"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Groww",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$12.9B",
-    "amount_usd": 12900000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-14",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/groww-makes-rs-725-cr-profit-on-rs-1502-cr-revenue-in-q2-fy27-12674759"
     ],
     "confidence": 0.6,
     "summary": "",
