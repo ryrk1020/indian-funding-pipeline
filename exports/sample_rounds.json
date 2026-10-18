@@ -42,6 +42,27 @@
     "city": ""
   },
   {
+    "company_name": "Exclusive: Battery Smart",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series C",
+    "stage_raw": "series_c",
+    "amount": "$19.5M",
+    "amount_usd": 19500000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-17",
+    "lead_investor": "",
+    "investors": [
+      "Ecosystem Integrity Fund"
+    ],
+    "sources": [
+      "https://entrackr.com/exclusive/exclusive-battery-smart-tops-up-series-c-round-with-10-mn-12684307"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Exclusive: CapGrid",
     "sector": "",
     "sector_raw": null,
@@ -123,27 +144,6 @@
     ],
     "sources": [
       "https://entrackr.com/snippets/space-robotics-startup-cosmochute-raises-15-mn-in-pre-seed-round-12677383"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "IntrCity SmartBus’ FY26",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series D",
-    "stage_raw": "series_d",
-    "amount": "₹28 Cr ($3.4M)",
-    "amount_usd": 3373493.98,
-    "currency": "INR",
-    "announced_on": "2026-10-15",
-    "lead_investor": "A91 Partners",
-    "investors": [
-      "A91 Partners"
-    ],
-    "sources": [
-      "https://entrackr.com/fintrackr/intrcity-smartbus-fy26-revenue-rises-40-to-rs-691-cr-losses-rise-76-12677924"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -577,6 +577,25 @@
       "https://yourstory.com/2026/10/the-wealth-company-aif-invests-rs-400-crore-in-boldfit"
     ],
     "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Ixigo",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹63 Cr ($7.6M)",
+    "amount_usd": 7640963.86,
+    "currency": "INR",
+    "announced_on": "2026-10-17",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/ixigo-posts-rs-63-cr-profit-in-q2-fy27-on-the-back-of-freshbus-exit-and-other-income-12684377"
+    ],
+    "confidence": 0.6,
     "summary": "",
     "city": ""
   },
