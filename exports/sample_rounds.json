@@ -1,20 +1,346 @@
 [
   {
-    "company_name": "Leverage Edu’s",
+    "company_name": "Skincare brand CHOSEN",
     "sector": "",
     "sector_raw": null,
-    "stage": "Series C",
-    "stage_raw": "series_c",
-    "amount": "$90M",
-    "amount_usd": 90000000.0,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$5M",
+    "amount_usd": 5000000.0,
     "currency": "USD",
-    "announced_on": "2026-10-17",
+    "announced_on": "2026-10-28",
+    "lead_investor": "Fireside Ventures",
+    "investors": [
+      "BOLD",
+      "Fireside Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/skincare-brand-chosen-raises-extended-series-a-round-from-wellbeing-nutrition-founders-12758881"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Rotoris",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$7.4M",
+    "amount_usd": 7400000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-27",
+    "lead_investor": "Blume Ventures. The",
+    "investors": [
+      "Blume Ventures. The"
+    ],
+    "sources": [
+      "https://entrackr.com/news/luxury-watch-brand-rotoris-raises-rs-70-cr-in-series-a-round-led-by-blume-ventures-12757062",
+      "https://yourstory.com/2026/10/rotoris-bags-rs-70-cr-to-expand-its-luxury-watch-business"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Healthtech startup Cent",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$15M",
+    "amount_usd": 15000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-27",
     "lead_investor": "Blume Ventures",
     "investors": [
       "Blume Ventures"
     ],
     "sources": [
-      "https://entrackr.com/fintrackr/leverage-edus-revenue-jumps-over-2x-to-rs-364-cr-in-fy26-turns-ebitda-profitable-12683831"
+      "https://yourstory.com/2026/10/healthtech-startup-cent-raises-15-million-in-series-a"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "AI startup Simplismart",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$14M",
+    "amount_usd": 14000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-27",
+    "lead_investor": "Dallas Venture Capital",
+    "investors": [
+      "Dallas Venture Capital",
+      "NVIDIA"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/10/ai-startup-simplismart-14-million-dallas-venture-capital-nvidia-others"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Healthy snack brand Troovy",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$5M",
+    "amount_usd": 5000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-27",
+    "lead_investor": "Fireside Ventures",
+    "investors": [
+      "Fireside Ventures",
+      "Sharrp Ventures"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/10/healthy-snack-brand-troovy-raises-rs-100-cr-series-b-fireside-ventures"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Trading platform Mochatrade",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "$5.5M",
+    "amount_usd": 5500000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-27",
+    "lead_investor": "CoinFund",
+    "investors": [
+      "CoinFund",
+      "Coinbase Ventures",
+      "Coinbase. Snippets. Follow Us Trading"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/trading-platform-mochatrade-raises-55-mn-in-seed-round-led-by-coinfund-12756221"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Physical AI",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "$2.2M",
+    "amount_usd": 2250000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-27",
+    "lead_investor": "Shastra VC",
+    "investors": [
+      "Equirus InnovateX Fund",
+      "Shastra VC"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/physical-ai-vision-company-nova-spectral-ai-raises-rs-2115-cr-led-by-shastra-vc-12756634"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Fireside Ventures",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$5M",
+    "amount_usd": 5000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-27",
+    "lead_investor": "Fireside Ventures",
+    "investors": [
+      "Fireside Ventures",
+      "Sharrp Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/news/fireside-ventures-leads-rs-100-cr-series-b-round-in-snack-brand-troovy-12755228"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Practo",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$15M",
+    "amount_usd": 15000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-27",
+    "lead_investor": "Blume Ventures",
+    "investors": [
+      "Blume Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/news/practo-co-founder-shashank-nds-startup-cent-raises-15-mn-led-by-blume-acquires-medsee-12757196"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "IvyCap Ventures",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$14M",
+    "amount_usd": 14000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-27",
+    "lead_investor": "IvyCap Ventures. The",
+    "investors": [
+      "IvyCap Ventures. The"
+    ],
+    "sources": [
+      "https://entrackr.com/news/ivycap-ventures-leads-rs-130-cr-pre-series-b-round-in-live2ai-12757291"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Child-care startup Maasi",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Seed",
+    "stage_raw": "pre_seed",
+    "amount": "₹6.0 Cr ($723K)",
+    "amount_usd": 722891.57,
+    "currency": "INR",
+    "announced_on": "2026-10-27",
+    "lead_investor": "Better Capital",
+    "investors": [
+      "Antler India. Angel",
+      "Better Capital"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/child-care-startup-maasi-raises-rs-6-cr-in-pre-seed-round-12757624"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "AI startup Simplismart",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$100M",
+    "amount_usd": 100000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-27",
+    "lead_investor": "Dallas Venture Capital",
+    "investors": [
+      "Dallas Venture Capital",
+      "NVIDIA"
+    ],
+    "sources": [
+      "https://entrackr.com/news/simplismart-raises-14-mn-from-dallas-venture-capital-nvidia-and-others-12758191"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Healthtech startup BioStack",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "$9.5M",
+    "amount_usd": 9500000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-26",
+    "lead_investor": "Peak XV Partners",
+    "investors": [
+      "Peak XV Partners"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/10/healthtech-startup-biostack-raises-seed-funding-led-by-peak-xv"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Matiks",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$10M",
+    "amount_usd": 10000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-26",
+    "lead_investor": "General Catalyst. The",
+    "investors": [
+      "General Catalyst. The"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/10/matiks-raises-10-million-pre-series-a-round-general-catalyst"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "CureBay",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series C",
+    "stage_raw": "series_c",
+    "amount": "₹100 Cr ($12M)",
+    "amount_usd": 12048192.77,
+    "currency": "INR",
+    "announced_on": "2026-10-22",
+    "lead_investor": "IvyCap Ventures. The",
+    "investors": [
+      "IvyCap Ventures. The"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/10/curebay-raises-rs-100-cr-in-pre-series-c-round-led-by-ivycap-ventures"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Hunar.AI",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "₹40 Cr ($4.8M)",
+    "amount_usd": 4819277.11,
+    "currency": "INR",
+    "announced_on": "2026-10-20",
+    "lead_investor": "Blume Ventures. The",
+    "investors": [
+      "Blume Ventures. The",
+      "Hyderabad Angels Fund"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/10/hunarai-raises-rs-40-crore-in-series-a-led-by-blume-ventures"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -42,201 +368,6 @@
     "city": ""
   },
   {
-    "company_name": "Exclusive: Battery Smart",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series C",
-    "stage_raw": "series_c",
-    "amount": "$19.5M",
-    "amount_usd": 19500000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-17",
-    "lead_investor": "",
-    "investors": [
-      "Ecosystem Integrity Fund"
-    ],
-    "sources": [
-      "https://entrackr.com/exclusive/exclusive-battery-smart-tops-up-series-c-round-with-10-mn-12684307"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Exclusive: CapGrid",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$4.9M",
-    "amount_usd": 4870000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-16",
-    "lead_investor": "Anicut Capital",
-    "investors": [
-      "Anicut Capital"
-    ],
-    "sources": [
-      "https://entrackr.com/exclusive/exclusive-capgrid-kicks-off-pre-series-b-round-at-50-valuation-premium-12680865"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "RapidCanvas",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$29M",
-    "amount_usd": 29000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-16",
-    "lead_investor": "Vertex Ventures Southeast Asia",
-    "investors": [
-      "Hitachi Ventures",
-      "Titanium Ventures",
-      "Vertex Ventures Southeast Asia"
-    ],
-    "sources": [
-      "https://entrackr.com/news/rapidcanvas-raises-29-mn-in-series-b-round-led-by-vertex-ventures-12681874"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Enterprise AI startup Shamrock AI",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$5M",
-    "amount_usd": 5000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-15",
-    "lead_investor": "Endiya Partners",
-    "investors": [
-      "Capria Ventures. The",
-      "Endiya Partners"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/enterprise-ai-startup-shamrock-ai-raises-5-mn-led-by-endiya-partners-12677254"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Space robotics startup Cosmochute",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Seed",
-    "stage_raw": "pre_seed",
-    "amount": "$1.5M",
-    "amount_usd": 1500000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-15",
-    "lead_investor": "Accel",
-    "investors": [
-      "Accel"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/space-robotics-startup-cosmochute-raises-15-mn-in-pre-seed-round-12677383"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Construction robotics startup Origin",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "$20M",
-    "amount_usd": 20000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-15",
-    "lead_investor": "Accel",
-    "investors": [
-      "Accel",
-      "Unilazer Ventures"
-    ],
-    "sources": [
-      "https://entrackr.com/news/construction-robotics-startup-origin-raises-20-mn-led-by-accel-zacua-ventures-12680062"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Former Dyson India MD Ankit",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Seed",
-    "stage_raw": "pre_seed",
-    "amount": "₹12 Cr ($1.4M)",
-    "amount_usd": 1445783.13,
-    "currency": "INR",
-    "announced_on": "2026-10-14",
-    "lead_investor": "BEENEXT",
-    "investors": [
-      "BEENEXT",
-      "Rishubh Satiya"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/former-dyson-india-md-ankit-jain-launches-foundry-with-rs-12-cr-pre-seed-round-12675854"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Agentic video startup Clueso",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$10M",
-    "amount_usd": 10000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-13",
-    "lead_investor": "Dharana Capital",
-    "investors": [
-      "Dharana Capital",
-      "Y Combinator"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/10/agentic-video-startup-clueso-raises-series-a-funding"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Nat Habit",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series C",
-    "stage_raw": "series_c",
-    "amount": "₹142 Cr ($17.1M)",
-    "amount_usd": 17108433.73,
-    "currency": "INR",
-    "announced_on": "2026-10-10",
-    "lead_investor": "Trident Growth Partners. Existing",
-    "investors": [
-      "Trident Growth Partners. Existing"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/10/nat-habit-raises-rs-142-cr-in-series-c-led-by-trident-growth-partners"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
@@ -252,91 +383,6 @@
     ],
     "sources": [
       "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-5-oct-10-12662210"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "NABARD-backed NABVENTURES",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$202M",
-    "amount_usd": 202000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-09",
-    "lead_investor": "NABVENTURES",
-    "investors": [
-      "NABVENTURES"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/10/nabventures-hits-rs-450-crore-first-close-for-second-fund"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "NeoGrowth",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Debt",
-    "stage_raw": "debt",
-    "amount": "$20M",
-    "amount_usd": 20000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-09",
-    "lead_investor": "FMO",
-    "investors": [
-      "FMO",
-      "LeapFrog Investments. A"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/10/neogrowth-raises-rs-85-crore-led-by-fmo"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "DailyObjects",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series C",
-    "stage_raw": "series_c",
-    "amount": "₹332 Cr ($40M)",
-    "amount_usd": 40000000.0,
-    "currency": "INR",
-    "announced_on": "2026-10-08",
-    "lead_investor": "Xponentia Capital Partners",
-    "investors": [
-      "Xponentia Capital Partners"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/10/dailyobjects-raises-rs-332-cr-in-series-c-funding-round"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Consumer tech brand Lumio",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$12M",
-    "amount_usd": 12000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-07",
-    "lead_investor": "Blume Ventures",
-    "investors": [
-      "Blume Ventures"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/10/consumer-tech-brand-lumio-raises-12-million-led-by-blume-ventures"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -408,344 +454,192 @@
     "city": ""
   },
   {
-    "company_name": "Burma Burma",
+    "company_name": "Jio Platforms",
     "sector": "",
     "sector_raw": null,
     "stage": "IPO",
     "stage_raw": "ipo",
-    "amount": "$11M",
-    "amount_usd": 11000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-17",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/burma-burma-parent-hunger-pangs-files-drhp-for-rs-150-cr-fresh-issue-12683998"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "NeoGrowth",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹591 Cr ($71.2M)",
-    "amount_usd": 71213253.01,
+    "amount": "₹12 L ($15K)",
+    "amount_usd": 15060.24,
     "currency": "INR",
-    "announced_on": "2026-10-16",
-    "lead_investor": "Dutch",
-    "investors": [
-      "Dutch"
-    ],
-    "sources": [
-      "https://entrackr.com/fintrackr/neogrowth-swings-to-rs-72-cr-loss-in-fy26-revenue-falls-21-12681229"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Snabbit",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series D",
-    "stage_raw": "series_d",
-    "amount": "$112M",
-    "amount_usd": 112000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-16",
+    "announced_on": "2026-10-28",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/fintrackr/snabbit-reports-rs-12-cr-revenue-and-rs-168-cr-loss-in-fy26-claims-75x-growth-in-core-biz-12681745"
+      "https://entrackr.com/news/jio-platforms-lists-at-21-premium-values-company-at-rs-125-lakh-crore-12759885"
     ],
     "confidence": 0.8,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Banaraswala",
+    "company_name": "HealthKart",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "$382M",
+    "amount_usd": 382000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-28",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/healthkart-crosses-rs-2000-cr-revenue-in-fy26-pbt-rises-30-12760330"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Live2.ai",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$14M",
+    "amount_usd": 14000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-27",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/10/live2ai-raises-rs-130-cr-to-expand-its-ai-led-social-commerce-platform"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Snapdeal",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "₹150 Cr ($18.1M)",
+    "amount_usd": 18072289.16,
+    "currency": "INR",
+    "announced_on": "2026-10-27",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/snapdeal-parent-acevector-posts-rs-151-cr-revenue-and-rs-176-cr-loss-in-q2-fy27-12756078"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "SoftBank",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "₹1000 Cr ($120.5M)",
+    "amount_usd": 120481927.71,
+    "currency": "INR",
+    "announced_on": "2026-10-27",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/softbank-sells-12-stake-in-ola-electric-amid-rs-1000-cr-rights-issue-12757080"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Trivia and puzzle app dubdub",
     "sector": "",
     "sector_raw": null,
     "stage": "Seed",
     "stage_raw": "seed",
-    "amount": "$2M",
-    "amount_usd": 2000000.0,
+    "amount": "$1.3M",
+    "amount_usd": 1300000.0,
     "currency": "USD",
-    "announced_on": "2026-10-15",
+    "announced_on": "2026-10-27",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/snippets/banaraswala-raises-2-mn-from-prax-impex-to-expand-across-india-12678454"
+      "https://entrackr.com/snippets/trivia-and-puzzle-app-dubdub-raises-seed-funding-led-by-3one4-capital-antler-and-stellaris-12758123"
     ],
     "confidence": 0.8,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Tonbo Imaging",
+    "company_name": "TravClan",
     "sector": "",
     "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "₹255 Cr ($30.8M)",
-    "amount_usd": 30766265.06,
-    "currency": "INR",
-    "announced_on": "2026-10-15",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/tonbo-imaging-raises-rs-255-cr-from-anchor-investors-ahead-of-ipo-12678412"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Udaan",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "$33M",
-    "amount_usd": 32970000.0,
+    "stage": "Debt",
+    "stage_raw": "debt",
+    "amount": "$5M",
+    "amount_usd": 5000000.0,
     "currency": "USD",
-    "announced_on": "2026-10-15",
+    "announced_on": "2026-10-22",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/fintrackr/udaan-posts-rs-5134-cr-gross-revenue-and-rs-852-cr-loss-in-fy26-12678883"
+      "https://yourstory.com/2026/10/travclan-raises-5-million-funding-flipkart-others"
     ],
     "confidence": 0.8,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "The/Nudge",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$15M",
-    "amount_usd": 15000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-14",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/10/thenudge-secures-15m-from-googleorg-to-develop-ai-tools-for-small-businesses"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Amansa Investments, SBI Mutual Fund",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "₹413 Cr ($49.8M)",
-    "amount_usd": 49759036.14,
-    "currency": "INR",
-    "announced_on": "2026-10-13",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/10/amansa-investments-sbi-mutual-fund-others-invest-rs-413-cr-tonbo-imaging-ahead-ipo"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "The Wealth Company AIF",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$16.0B",
-    "amount_usd": 16000000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-12",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/10/the-wealth-company-aif-invests-rs-400-crore-in-boldfit"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Ixigo",
+    "company_name": "Chapter Home",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
     "amount": "₹63 Cr ($7.6M)",
-    "amount_usd": 7640963.86,
+    "amount_usd": 7590361.45,
     "currency": "INR",
-    "announced_on": "2026-10-17",
+    "announced_on": "2026-10-22",
     "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/ixigo-posts-rs-63-cr-profit-in-q2-fy27-on-the-back-of-freshbus-exit-and-other-income-12684377"
+    "investors": [
+      "Bessemer Venture Partners"
     ],
-    "confidence": 0.6,
+    "sources": [
+      "https://yourstory.com/2026/10/chapter-home-raises-rs-63-cr-in-a-mix-of-equity-and-debt"
+    ],
+    "confidence": 0.8,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Goldman Sachs",
+    "company_name": "CarTrade",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "₹169 Cr ($20.3M)",
-    "amount_usd": 20321686.75,
-    "currency": "INR",
-    "announced_on": "2026-10-16",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/goldman-sachs-offloads-rs-169-cr-worth-eternal-shares-bofa-securities-buys-12680811"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Urban Company",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹2500 Cr ($301.2M)",
-    "amount_usd": 301204819.28,
-    "currency": "INR",
-    "announced_on": "2026-10-16",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/urban-company-approves-rs-2500-cr-fundraise-amid-rising-competition-in-instahelp-12682445"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Urban Company",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$2.6B",
-    "amount_usd": 2560000000.0,
+    "amount": "$1.2B",
+    "amount_usd": 1200000000.0,
     "currency": "USD",
-    "announced_on": "2026-10-16",
+    "announced_on": "2026-10-28",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/fintrackr/urban-companys-instahelp-reports-rs-174-cr-adjusted-ebitda-loss-on-rs-21-cr-revenue-in-q2-fy27-12682465"
+      "https://entrackr.com/fintrackr/cartrade-posts-rs-213-cr-revenue-and-rs-66-cr-profit-in-q2-fy27-12760382"
     ],
     "confidence": 0.6,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Snabbit",
+    "company_name": "WeWork India’s Q2 FY27",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "₹72 Cr ($8.7M)",
-    "amount_usd": 8674698.8,
+    "amount": "₹768 Cr ($92.5M)",
+    "amount_usd": 92530120.48,
     "currency": "INR",
-    "announced_on": "2026-10-16",
+    "announced_on": "2026-10-26",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/news/snabbit-matches-urban-companys-instahelp-in-ntv-burns-rs-32-cr-less-in-q2-fy27-12682647"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Flipkart Group",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹8468 Cr ($1.0B)",
-    "amount_usd": 1020240963.86,
-    "currency": "INR",
-    "announced_on": "2026-10-15",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/flipkart-group-posts-rs-146-lakh-cr-revenue-in-fy26-losses-stand-at-rs-8468-cr-12679687"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Google.org",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$15M",
-    "amount_usd": 15000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-14",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/googleorg-backs-thenudge-with-15-mn-to-digitise-indias-msmes-12676021"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Mesa School of Business",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹110 Cr ($13.3M)",
-    "amount_usd": 13253012.05,
-    "currency": "INR",
-    "announced_on": "2026-10-13",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/10/mesa-school-of-business-raises-rs-110-crore-co-led-dharana-capital-elevation-capital"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Recur Club",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹500 Cr ($60.2M)",
-    "amount_usd": 60240963.86,
-    "currency": "INR",
-    "announced_on": "2026-10-07",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/10/festive-season-bonanza-recur-club-launches-rs-500-cr-fund-for-d2c-brands"
+      "https://entrackr.com/fintrackr/wework-indias-q2-fy27-revenue-rises-34-to-rs-768-cr-profit-jumps-over-3x-12755184"
     ],
     "confidence": 0.6,
     "summary": "",
