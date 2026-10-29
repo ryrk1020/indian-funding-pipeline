@@ -1,5 +1,47 @@
 [
   {
+    "company_name": "Viridian Ingni Propulsion",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Seed",
+    "stage_raw": "pre_seed",
+    "amount": "₹1.5 Cr ($177K)",
+    "amount_usd": 177108.43,
+    "currency": "INR",
+    "announced_on": "2026-10-29",
+    "lead_investor": "Inflection Point Ventures",
+    "investors": [
+      "Inflection Point Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/viridian-ingni-propulsion-raises-rs-147-cr-in-pre-seed-round-led-by-ipv-12763438"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Servify",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series D",
+    "stage_raw": "series_d",
+    "amount": "$135M",
+    "amount_usd": 135000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-29",
+    "lead_investor": "Singularity Growth Opportunities Fund. In",
+    "investors": [
+      "Singularity Growth Opportunities Fund. In"
+    ],
+    "sources": [
+      "https://entrackr.com/fintrackr/servify-cuts-losses-to-rs-51-cr-in-fy26-us-contributes-60-of-business-12763684"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Skincare brand CHOSEN",
     "sector": "",
     "sector_raw": null,
@@ -22,22 +64,21 @@
     "city": ""
   },
   {
-    "company_name": "Rotoris",
+    "company_name": "Bijnis",
     "sector": "",
     "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$7.4M",
-    "amount_usd": 7400000.0,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$2.8M",
+    "amount_usd": 2840000.0,
     "currency": "USD",
-    "announced_on": "2026-10-27",
-    "lead_investor": "Blume Ventures. The",
+    "announced_on": "2026-10-28",
+    "lead_investor": "Sparrow Capital. Follow Us B2B",
     "investors": [
-      "Blume Ventures. The"
+      "Sparrow Capital. Follow Us B2B"
     ],
     "sources": [
-      "https://entrackr.com/news/luxury-watch-brand-rotoris-raises-rs-70-cr-in-series-a-round-led-by-blume-ventures-12757062",
-      "https://yourstory.com/2026/10/rotoris-bags-rs-70-cr-to-expand-its-luxury-watch-business"
+      "https://entrackr.com/news/bijnis-rebrands-as-zorit-raises-rs-27-cr-led-by-sparrow-capital-12762019"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -103,137 +144,6 @@
     ],
     "sources": [
       "https://yourstory.com/2026/10/healthy-snack-brand-troovy-raises-rs-100-cr-series-b-fireside-ventures"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Trading platform Mochatrade",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$5.5M",
-    "amount_usd": 5500000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-27",
-    "lead_investor": "CoinFund",
-    "investors": [
-      "CoinFund",
-      "Coinbase Ventures",
-      "Coinbase. Snippets. Follow Us Trading"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/trading-platform-mochatrade-raises-55-mn-in-seed-round-led-by-coinfund-12756221"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Physical AI",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$2.2M",
-    "amount_usd": 2250000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-27",
-    "lead_investor": "Shastra VC",
-    "investors": [
-      "Equirus InnovateX Fund",
-      "Shastra VC"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/physical-ai-vision-company-nova-spectral-ai-raises-rs-2115-cr-led-by-shastra-vc-12756634"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Fireside Ventures",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$5M",
-    "amount_usd": 5000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-27",
-    "lead_investor": "Fireside Ventures",
-    "investors": [
-      "Fireside Ventures",
-      "Sharrp Ventures"
-    ],
-    "sources": [
-      "https://entrackr.com/news/fireside-ventures-leads-rs-100-cr-series-b-round-in-snack-brand-troovy-12755228"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Practo",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$15M",
-    "amount_usd": 15000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-27",
-    "lead_investor": "Blume Ventures",
-    "investors": [
-      "Blume Ventures"
-    ],
-    "sources": [
-      "https://entrackr.com/news/practo-co-founder-shashank-nds-startup-cent-raises-15-mn-led-by-blume-acquires-medsee-12757196"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "IvyCap Ventures",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$14M",
-    "amount_usd": 14000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-27",
-    "lead_investor": "IvyCap Ventures. The",
-    "investors": [
-      "IvyCap Ventures. The"
-    ],
-    "sources": [
-      "https://entrackr.com/news/ivycap-ventures-leads-rs-130-cr-pre-series-b-round-in-live2ai-12757291"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Child-care startup Maasi",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Seed",
-    "stage_raw": "pre_seed",
-    "amount": "₹6.0 Cr ($723K)",
-    "amount_usd": 722891.57,
-    "currency": "INR",
-    "announced_on": "2026-10-27",
-    "lead_investor": "Better Capital",
-    "investors": [
-      "Antler India. Angel",
-      "Better Capital"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/child-care-startup-maasi-raises-rs-6-cr-in-pre-seed-round-12757624"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -454,6 +364,63 @@
     "city": ""
   },
   {
+    "company_name": "Freshworks",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "$237.4M",
+    "amount_usd": 237400000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-29",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/freshworks-acquires-ai-startup-robusta-to-strengthen-it-operations-platform-12763175"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "ISLAND Beauty",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "₹2.6 Cr ($311K)",
+    "amount_usd": 310843.37,
+    "currency": "INR",
+    "announced_on": "2026-10-29",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/island-beauty-raises-rs-258-cr-from-aj-vc-to-expand-skincare-range-12763206"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Nutrition startup Ace Blend",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$9.9M",
+    "amount_usd": 9910000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-29",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/nutrition-startup-ace-blend-raises-991-mn-led-by-3one4-capital-12763751"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Jio Platforms",
     "sector": "",
     "sector_raw": null,
@@ -492,6 +459,65 @@
     "city": ""
   },
   {
+    "company_name": "AI enterprise startup QwikBuild",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Seed",
+    "stage_raw": "pre_seed",
+    "amount": "$2.3M",
+    "amount_usd": 2300000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-28",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/ai-enterprise-startup-qwikbuild-raises-23-mn-in-pre-seed-round-12760872"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Let’s Game Now",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$3.8B",
+    "amount_usd": 3800000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-28",
+    "lead_investor": "Anand Mahindra",
+    "investors": [
+      "Anand Mahindra"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/lets-game-now-raises-rs-30-cr-led-by-anand-mahindra-and-bestvantage-investments-12761408"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Astrotalk’s",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "₹222 Cr ($26.7M)",
+    "amount_usd": 26746987.95,
+    "currency": "INR",
+    "announced_on": "2026-10-28",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/astrotalks-profit-jumps-10x-to-rs-222-cr-in-fy26-overseas-biz-grows-26x-12761666"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Live2.ai",
     "sector": "",
     "sector_raw": null,
@@ -511,57 +537,19 @@
     "city": ""
   },
   {
-    "company_name": "Snapdeal",
+    "company_name": "Rotoris",
     "sector": "",
     "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "₹150 Cr ($18.1M)",
-    "amount_usd": 18072289.16,
-    "currency": "INR",
-    "announced_on": "2026-10-27",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/snapdeal-parent-acevector-posts-rs-151-cr-revenue-and-rs-176-cr-loss-in-q2-fy27-12756078"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "SoftBank",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "₹1000 Cr ($120.5M)",
-    "amount_usd": 120481927.71,
-    "currency": "INR",
-    "announced_on": "2026-10-27",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/softbank-sells-12-stake-in-ola-electric-amid-rs-1000-cr-rights-issue-12757080"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Trivia and puzzle app dubdub",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$1.3M",
-    "amount_usd": 1300000.0,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$8.5M",
+    "amount_usd": 8500000.0,
     "currency": "USD",
     "announced_on": "2026-10-27",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/snippets/trivia-and-puzzle-app-dubdub-raises-seed-funding-led-by-3one4-capital-antler-and-stellaris-12758123"
+      "https://yourstory.com/2026/10/rotoris-bags-rs-70-cr-to-expand-its-luxury-watch-business"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -608,6 +596,25 @@
     "city": ""
   },
   {
+    "company_name": "Kissht’s Q2",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹732 Cr ($88.2M)",
+    "amount_usd": 88192771.08,
+    "currency": "INR",
+    "announced_on": "2026-10-29",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/kisshts-q2-profit-doubles-to-rs-125-cr-revenue-jumps-45-12763220"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "CarTrade",
     "sector": "",
     "sector_raw": null,
@@ -627,19 +634,38 @@
     "city": ""
   },
   {
-    "company_name": "WeWork India’s Q2 FY27",
+    "company_name": "Info Edge’s PAT",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "₹768 Cr ($92.5M)",
-    "amount_usd": 92530120.48,
+    "amount": "₹650 Cr ($78.3M)",
+    "amount_usd": 78313253.01,
     "currency": "INR",
-    "announced_on": "2026-10-26",
+    "announced_on": "2026-10-28",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/fintrackr/wework-indias-q2-fy27-revenue-rises-34-to-rs-768-cr-profit-jumps-over-3x-12755184"
+      "https://entrackr.com/fintrackr/info-edges-pat-rises-87-to-rs-650-cr-in-q2-fy27-other-income-at-rs-428-cr-12760770"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Meesho",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$11.1B",
+    "amount_usd": 11100000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-28",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/meesho-posts-rs-4132-cr-revenue-in-q2-fy27-narrows-losses-by-68-12761653"
     ],
     "confidence": 0.6,
     "summary": "",
