@@ -42,22 +42,84 @@
     "city": ""
   },
   {
-    "company_name": "Skincare brand CHOSEN",
+    "company_name": "Venttup",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$3M",
+    "amount_usd": 3000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-29",
+    "lead_investor": "Rainmatter",
+    "investors": [
+      "Rainmatter"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/industries-50-startup-venttup-raises-3-mn-in-pre-series-a-led-by-rainmatter-by-zerodha-and-unicorn-india-12764564"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "CureSkin",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "$26M",
+    "amount_usd": 26000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-29",
+    "lead_investor": "HealthQuad. Its",
+    "investors": [
+      "HealthQuad. Its"
+    ],
+    "sources": [
+      "https://entrackr.com/fintrackr/cureskin-posts-rs-133-cr-revenue-and-rs-35-cr-loss-in-fy26-12764575"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Coratia Technologies",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "₹18 Cr ($2.2M)",
+    "amount_usd": 2168674.7,
+    "currency": "INR",
+    "announced_on": "2026-10-29",
+    "lead_investor": "MGF Kavachh. The Odisha-based",
+    "investors": [
+      "MGF Kavachh. The Odisha-based"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/coratia-technologies-raises-rs-18-cr-in-bridge-round-led-by-mgf-kavachh-12764727"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Jagruti Rehabilitation Centre",
     "sector": "",
     "sector_raw": null,
     "stage": "Series A",
     "stage_raw": "series_a",
-    "amount": "$5M",
-    "amount_usd": 5000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-28",
-    "lead_investor": "Fireside Ventures",
+    "amount": "₹28 Cr ($3.4M)",
+    "amount_usd": 3373493.98,
+    "currency": "INR",
+    "announced_on": "2026-10-29",
+    "lead_investor": "Alkemi Growth Capital. Follow Us",
     "investors": [
-      "BOLD",
-      "Fireside Ventures"
+      "Alkemi Growth Capital. Follow Us"
     ],
     "sources": [
-      "https://entrackr.com/snippets/skincare-brand-chosen-raises-extended-series-a-round-from-wellbeing-nutrition-founders-12758881"
+      "https://entrackr.com/snippets/jagruti-rehabilitation-centre-raises-rs-28-cr-in-series-a-round-led-by-alkemi-12765269"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -235,28 +297,6 @@
     "city": ""
   },
   {
-    "company_name": "Hunar.AI",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "₹40 Cr ($4.8M)",
-    "amount_usd": 4819277.11,
-    "currency": "INR",
-    "announced_on": "2026-10-20",
-    "lead_investor": "Blume Ventures. The",
-    "investors": [
-      "Blume Ventures. The",
-      "Hyderabad Angels Fund"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/10/hunarai-raises-rs-40-crore-in-series-a-led-by-blume-ventures"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
@@ -364,6 +404,26 @@
     "city": ""
   },
   {
+    "company_name": "Ace Blend",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$9.9M",
+    "amount_usd": 9910000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-29",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/nutrition-startup-ace-blend-raises-991-mn-led-by-3one4-capital-12763751",
+      "https://yourstory.com/2026/10/ace-blend-bags-991m-as-it-looks-to-scale-science-led-nutrition"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Freshworks",
     "sector": "",
     "sector_raw": null,
@@ -402,19 +462,19 @@
     "city": ""
   },
   {
-    "company_name": "Nutrition startup Ace Blend",
+    "company_name": "Physical AI startup Tensrai",
     "sector": "",
     "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$9.9M",
-    "amount_usd": 9910000.0,
-    "currency": "USD",
+    "stage": "Pre-Seed",
+    "stage_raw": "pre_seed",
+    "amount": "₹3.4 Cr ($410K)",
+    "amount_usd": 409638.55,
+    "currency": "INR",
     "announced_on": "2026-10-29",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/snippets/nutrition-startup-ace-blend-raises-991-mn-led-by-3one4-capital-12763751"
+      "https://entrackr.com/snippets/physical-ai-startup-tensrai-raises-rs-34-cr-in-pre-seed-round-12764908"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -434,65 +494,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/news/jio-platforms-lists-at-21-premium-values-company-at-rs-125-lakh-crore-12759885"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "HealthKart",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "$382M",
-    "amount_usd": 382000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-28",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/healthkart-crosses-rs-2000-cr-revenue-in-fy26-pbt-rises-30-12760330"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "AI enterprise startup QwikBuild",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Seed",
-    "stage_raw": "pre_seed",
-    "amount": "$2.3M",
-    "amount_usd": 2300000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-28",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/ai-enterprise-startup-qwikbuild-raises-23-mn-in-pre-seed-round-12760872"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Let’s Game Now",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$3.8B",
-    "amount_usd": 3800000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-28",
-    "lead_investor": "Anand Mahindra",
-    "investors": [
-      "Anand Mahindra"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/lets-game-now-raises-rs-30-cr-led-by-anand-mahindra-and-bestvantage-investments-12761408"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -596,6 +597,44 @@
     "city": ""
   },
   {
+    "company_name": "Starbucks India",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$200M",
+    "amount_usd": 200000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-30",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/starbucks-india-brews-rs-1367-cr-revenue-in-fy26-cuts-losses-by-27-12766895"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Smartworks",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$575M",
+    "amount_usd": 575000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-30",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/smartworks-posts-rs-591-cr-revenue-and-rs-26-cr-profit-in-q2-fy27-12767129"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Kissht’s Q2",
     "sector": "",
     "sector_raw": null,
@@ -615,57 +654,76 @@
     "city": ""
   },
   {
-    "company_name": "CarTrade",
+    "company_name": "Pine Labs",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "$1.2B",
-    "amount_usd": 1200000000.0,
+    "amount": "$9.6B",
+    "amount_usd": 9600000000.0,
     "currency": "USD",
-    "announced_on": "2026-10-28",
+    "announced_on": "2026-10-29",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/fintrackr/cartrade-posts-rs-213-cr-revenue-and-rs-66-cr-profit-in-q2-fy27-12760382"
+      "https://entrackr.com/fintrackr/pine-labs-crosses-rs-800-cr-revenue-in-q2-fy27-profit-jumps-65x-12764550"
     ],
     "confidence": 0.6,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Info Edge’s PAT",
+    "company_name": "Shadowfax Q2 FY27",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "₹650 Cr ($78.3M)",
-    "amount_usd": 78313253.01,
+    "amount": "$1.8B",
+    "amount_usd": 1800000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-29",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/shadowfax-q2-fy27-profit-balloons-52x-to-rs-68-cr-revenue-grows-57-12764706"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "BlackBuck’s Q2 FY27",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹235 Cr ($28.3M)",
+    "amount_usd": 28313253.01,
     "currency": "INR",
-    "announced_on": "2026-10-28",
+    "announced_on": "2026-10-29",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/fintrackr/info-edges-pat-rises-87-to-rs-650-cr-in-q2-fy27-other-income-at-rs-428-cr-12760770"
+      "https://entrackr.com/fintrackr/blackbucks-q2-fy27-revenue-jumps-56-to-rs-235-cr-profit-grows-42-12764836"
     ],
     "confidence": 0.6,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Meesho",
+    "company_name": "Docterz",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "$11.1B",
-    "amount_usd": 11100000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-28",
+    "amount": "₹5.0 Cr ($602K)",
+    "amount_usd": 602409.64,
+    "currency": "INR",
+    "announced_on": "2026-10-29",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/fintrackr/meesho-posts-rs-4132-cr-revenue-in-q2-fy27-narrows-losses-by-68-12761653"
+      "https://entrackr.com/snippets/docterz-raises-rs-5-cr-from-vineeta-singh-avnish-anand-and-20-doctor-investors-12765193"
     ],
     "confidence": 0.6,
     "summary": "",
