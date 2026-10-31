@@ -1,41 +1,42 @@
 [
   {
-    "company_name": "Viridian Ingni Propulsion",
+    "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
-    "stage": "Pre-Seed",
-    "stage_raw": "pre_seed",
-    "amount": "₹1.5 Cr ($177K)",
-    "amount_usd": 177108.43,
-    "currency": "INR",
-    "announced_on": "2026-10-29",
-    "lead_investor": "Inflection Point Ventures",
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$115M",
+    "amount_usd": 115000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-31",
+    "lead_investor": "Simplismart",
     "investors": [
-      "Inflection Point Ventures"
+      "Info Edge",
+      "Simplismart"
     ],
     "sources": [
-      "https://entrackr.com/snippets/viridian-ingni-propulsion-raises-rs-147-cr-in-pre-seed-round-led-by-ipv-12763438"
+      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-26-oct-31-12770310"
     ],
     "confidence": 0.85,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Servify",
+    "company_name": "Qiroko",
     "sector": "",
     "sector_raw": null,
-    "stage": "Series D",
-    "stage_raw": "series_d",
-    "amount": "$135M",
-    "amount_usd": 135000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-29",
-    "lead_investor": "Singularity Growth Opportunities Fund. In",
+    "stage": "Pre-Seed",
+    "stage_raw": "pre_seed",
+    "amount": "₹1.5 Cr ($181K)",
+    "amount_usd": 180722.89,
+    "currency": "INR",
+    "announced_on": "2026-10-30",
+    "lead_investor": "ISV Capital",
     "investors": [
-      "Singularity Growth Opportunities Fund. In"
+      "ISV Capital"
     ],
     "sources": [
-      "https://entrackr.com/fintrackr/servify-cuts-losses-to-rs-51-cr-in-fy26-us-contributes-60-of-business-12763684"
+      "https://entrackr.com/snippets/qiroko-raises-rs-15-cr-in-pre-seed-round-led-by-isv-capital-12767774"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -234,27 +235,6 @@
     "city": ""
   },
   {
-    "company_name": "Healthtech startup BioStack",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$9.5M",
-    "amount_usd": 9500000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-26",
-    "lead_investor": "Peak XV Partners",
-    "investors": [
-      "Peak XV Partners"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/10/healthtech-startup-biostack-raises-seed-funding-led-by-peak-xv"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Matiks",
     "sector": "",
     "sector_raw": null,
@@ -276,21 +256,21 @@
     "city": ""
   },
   {
-    "company_name": "CureBay",
+    "company_name": "Healthtech startup BioStack",
     "sector": "",
     "sector_raw": null,
-    "stage": "Series C",
-    "stage_raw": "series_c",
-    "amount": "₹100 Cr ($12M)",
-    "amount_usd": 12048192.77,
-    "currency": "INR",
-    "announced_on": "2026-10-22",
-    "lead_investor": "IvyCap Ventures. The",
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "$9.5M",
+    "amount_usd": 9500000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-26",
+    "lead_investor": "Peak XV Partners",
     "investors": [
-      "IvyCap Ventures. The"
+      "Peak XV Partners"
     ],
     "sources": [
-      "https://yourstory.com/2026/10/curebay-raises-rs-100-cr-in-pre-series-c-round-led-by-ivycap-ventures"
+      "https://yourstory.com/2026/10/healthtech-startup-biostack-raises-seed-funding-led-by-peak-xv"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -381,25 +361,21 @@
     "city": ""
   },
   {
-    "company_name": "Funding",
+    "company_name": "TVS Capital",
     "sector": "",
     "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$188.5M",
-    "amount_usd": 188490000.0,
+    "stage": "Bridge",
+    "stage_raw": "bridge",
+    "amount": "$3.5B",
+    "amount_usd": 3500000000.0,
     "currency": "USD",
-    "announced_on": "2026-09-26",
-    "lead_investor": "Yali Capital",
-    "investors": [
-      "Walden International",
-      "Xeed Ventures",
-      "Yali Capital"
-    ],
+    "announced_on": "2026-10-31",
+    "lead_investor": "",
+    "investors": [],
     "sources": [
-      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-sep-21-sep-26-12577542"
+      "https://yourstory.com/2026/10/tvs-capital-enters-private-credit-with-rs-750-cr-fund-target"
     ],
-    "confidence": 0.85,
+    "confidence": 0.8,
     "summary": "",
     "city": ""
   },
@@ -416,46 +392,7 @@
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/snippets/nutrition-startup-ace-blend-raises-991-mn-led-by-3one4-capital-12763751",
       "https://yourstory.com/2026/10/ace-blend-bags-991m-as-it-looks-to-scale-science-led-nutrition"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Freshworks",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "$237.4M",
-    "amount_usd": 237400000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-29",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/freshworks-acquires-ai-startup-robusta-to-strengthen-it-operations-platform-12763175"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "ISLAND Beauty",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "₹2.6 Cr ($311K)",
-    "amount_usd": 310843.37,
-    "currency": "INR",
-    "announced_on": "2026-10-29",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/island-beauty-raises-rs-258-cr-from-aj-vc-to-expand-skincare-range-12763206"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -494,25 +431,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/news/jio-platforms-lists-at-21-premium-values-company-at-rs-125-lakh-crore-12759885"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Astrotalk’s",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "₹222 Cr ($26.7M)",
-    "amount_usd": 26746987.95,
-    "currency": "INR",
-    "announced_on": "2026-10-28",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/astrotalks-profit-jumps-10x-to-rs-222-cr-in-fy26-overseas-biz-grows-26x-12761666"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -597,6 +515,25 @@
     "city": ""
   },
   {
+    "company_name": "Yulu",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$93M",
+    "amount_usd": 93000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-31",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/yulu-reports-rs-281-cr-revenue-and-rs-97-cr-loss-in-fy26-12770548"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Starbucks India",
     "sector": "",
     "sector_raw": null,
@@ -635,19 +572,57 @@
     "city": ""
   },
   {
-    "company_name": "Kissht’s Q2",
+    "company_name": "Traya",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "₹732 Cr ($88.2M)",
-    "amount_usd": 88192771.08,
+    "amount": "₹600 Cr ($72.3M)",
+    "amount_usd": 72289156.63,
     "currency": "INR",
-    "announced_on": "2026-10-29",
+    "announced_on": "2026-10-30",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/fintrackr/kisshts-q2-profit-doubles-to-rs-125-cr-revenue-jumps-45-12763220"
+      "https://entrackr.com/fintrackr/traya-nears-rs-600-cr-revenue-in-fy26-posts-rs-30-cr-loss-12767776"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "PB Fintech Q2 FY27",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹2178 Cr ($262.4M)",
+    "amount_usd": 262409638.55,
+    "currency": "INR",
+    "announced_on": "2026-10-30",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/pb-fintech-q2-fy27-profit-rises-43-to-rs-192-cr-revenue-up-35-12769326"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Delhivery",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹3066 Cr ($369.4M)",
+    "amount_usd": 369397590.36,
+    "currency": "INR",
+    "announced_on": "2026-10-30",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/delhivery-reports-rs-3066-cr-revenue-and-rs-41-cr-profit-in-q2-fy27-12769561"
     ],
     "confidence": 0.6,
     "summary": "",
