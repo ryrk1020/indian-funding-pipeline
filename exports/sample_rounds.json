@@ -43,48 +43,6 @@
     "city": ""
   },
   {
-    "company_name": "CureSkin",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "$26M",
-    "amount_usd": 26000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-29",
-    "lead_investor": "HealthQuad. Its",
-    "investors": [
-      "HealthQuad. Its"
-    ],
-    "sources": [
-      "https://entrackr.com/fintrackr/cureskin-posts-rs-133-cr-revenue-and-rs-35-cr-loss-in-fy26-12764575"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Coratia Technologies",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "₹18 Cr ($2.2M)",
-    "amount_usd": 2168674.7,
-    "currency": "INR",
-    "announced_on": "2026-10-29",
-    "lead_investor": "MGF Kavachh. The Odisha-based",
-    "investors": [
-      "MGF Kavachh. The Odisha-based"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/coratia-technologies-raises-rs-18-cr-in-bridge-round-led-by-mgf-kavachh-12764727"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Jagruti Rehabilitation Centre",
     "sector": "",
     "sector_raw": null,
@@ -297,23 +255,65 @@
     "city": ""
   },
   {
-    "company_name": "Indian",
+    "company_name": "Two Point O",
     "sector": "",
     "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$3.0B",
-    "amount_usd": 3000000000.0,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$10M",
+    "amount_usd": 10000000.0,
     "currency": "USD",
-    "announced_on": "2026-10-01",
-    "lead_investor": "Entrackr",
+    "announced_on": "2026-11-02",
+    "lead_investor": "Transition Venture Capital. Existing",
     "investors": [
-      "Entrackr"
+      "Transition Venture Capital. Existing"
     ],
     "sources": [
-      "https://entrackr.com/report/quarterly-funding-report/indian-startups-raise-29-bn-in-q3-2026-as-ev-ai-drive-funding-12612860"
+      "https://yourstory.com/2026/11/two-point-o-raises-10-million-led-by-transition-venture-capital"
     ],
-    "confidence": 0.85,
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Clean",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$10M",
+    "amount_usd": 10000000.0,
+    "currency": "USD",
+    "announced_on": "2026-11-02",
+    "lead_investor": "Transition Venture Capital. Existing",
+    "investors": [
+      "Transition Venture Capital. Existing"
+    ],
+    "sources": [
+      "https://entrackr.com/news/clean-energy-deployment-platform-two-point-o-capital-raises-10-mn-led-by-transition-vc-12775140"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Beauty",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹7.0 Cr ($843K)",
+    "amount_usd": 843373.49,
+    "currency": "INR",
+    "announced_on": "2026-11-02",
+    "lead_investor": "Sauce. Giga Capital",
+    "investors": [
+      "Sauce. Giga Capital"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/beauty-and-personal-care-brand-hyeglo-beauty-raises-rs-7-cr-led-by-sauce-12775595"
+    ],
+    "confidence": 0.8,
     "summary": "",
     "city": ""
   },
@@ -356,38 +356,19 @@
     "city": ""
   },
   {
-    "company_name": "Physical AI startup Tensrai",
+    "company_name": "Rotoris",
     "sector": "",
     "sector_raw": null,
-    "stage": "Pre-Seed",
-    "stage_raw": "pre_seed",
-    "amount": "₹3.4 Cr ($410K)",
-    "amount_usd": 409638.55,
-    "currency": "INR",
-    "announced_on": "2026-10-29",
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$8.5M",
+    "amount_usd": 8500000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-27",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/snippets/physical-ai-startup-tensrai-raises-rs-34-cr-in-pre-seed-round-12764908"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Jio Platforms",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "₹12 L ($15K)",
-    "amount_usd": 15060.24,
-    "currency": "INR",
-    "announced_on": "2026-10-28",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/jio-platforms-lists-at-21-premium-values-company-at-rs-125-lakh-crore-12759885"
+      "https://yourstory.com/2026/10/rotoris-bags-rs-70-cr-to-expand-its-luxury-watch-business"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -413,40 +394,59 @@
     "city": ""
   },
   {
-    "company_name": "Rotoris",
+    "company_name": "ValueQuest Tristar Fund",
     "sector": "",
     "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$8.5M",
-    "amount_usd": 8500000.0,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$3.4B",
+    "amount_usd": 3400000000.0,
     "currency": "USD",
-    "announced_on": "2026-10-27",
+    "announced_on": "2026-11-02",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://yourstory.com/2026/10/rotoris-bags-rs-70-cr-to-expand-its-luxury-watch-business"
+      "https://yourstory.com/2026/11/funding-valuequest-tristar-fund-beats-target-greenshoe-15-months-first-close"
     ],
-    "confidence": 0.8,
+    "confidence": 0.6,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "TravClan",
+    "company_name": "Capillary Technologies",
     "sector": "",
     "sector_raw": null,
-    "stage": "Debt",
-    "stage_raw": "debt",
-    "amount": "$5M",
-    "amount_usd": 5000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-22",
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹22 Cr ($2.7M)",
+    "amount_usd": 2650602.41,
+    "currency": "INR",
+    "announced_on": "2026-11-02",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://yourstory.com/2026/10/travclan-raises-5-million-funding-flipkart-others"
+      "https://entrackr.com/fintrackr/capillary-technologies-posts-rs-271-cr-revenue-in-q2-fy27-swings-to-rs-22-cr-profit-after-q1-loss-12775612"
     ],
-    "confidence": 0.8,
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "MobiKwik",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹12 Cr ($1.4M)",
+    "amount_usd": 1421686.75,
+    "currency": "INR",
+    "announced_on": "2026-11-02",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/mobikwik-posts-highest-ever-quarterly-pat-of-rs-118-cr-in-q2-fy27-12775721"
+    ],
+    "confidence": 0.6,
     "summary": "",
     "city": ""
   },
@@ -578,44 +578,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/fintrackr/delhivery-reports-rs-3066-cr-revenue-and-rs-41-cr-profit-in-q2-fy27-12769561"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Shadowfax Q2 FY27",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$1.8B",
-    "amount_usd": 1800000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-29",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/shadowfax-q2-fy27-profit-balloons-52x-to-rs-68-cr-revenue-grows-57-12764706"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "BlackBuck’s Q2 FY27",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹235 Cr ($28.3M)",
-    "amount_usd": 28313253.01,
-    "currency": "INR",
-    "announced_on": "2026-10-29",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/blackbucks-q2-fy27-revenue-jumps-56-to-rs-235-cr-profit-grows-42-12764836"
     ],
     "confidence": 0.6,
     "summary": "",
