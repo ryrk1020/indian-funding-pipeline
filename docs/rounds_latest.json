@@ -1,5 +1,157 @@
 [
   {
+    "company_name": "PowerUp Money",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$10M",
+    "amount_usd": 10000000.0,
+    "currency": "USD",
+    "announced_on": "2026-11-03",
+    "lead_investor": "Flourish Ventures",
+    "investors": [
+      "Flourish Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/news/wealthtech-startup-powerup-money-raises-10-mn-led-by-flourish-ventures-12778285",
+      "https://yourstory.com/2026/11/powerup-money-raises-10m-expand-ai-led-wealth-management-india"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Vedantu",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "$11M",
+    "amount_usd": 11000000.0,
+    "currency": "USD",
+    "announced_on": "2026-11-03",
+    "lead_investor": "ABC World Asia",
+    "investors": [
+      "ABC World Asia",
+      "Accel"
+    ],
+    "sources": [
+      "https://entrackr.com/fintrackr/vedantu-revenue-grows-17-to-rs-267-cr-in-fy26-cuts-losses-before-exceptional-items-12778184"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Solgram",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Seed",
+    "stage_raw": "pre_seed",
+    "amount": "$1M",
+    "amount_usd": 1000000.0,
+    "currency": "USD",
+    "announced_on": "2026-11-03",
+    "lead_investor": "DSG Consumer Partners",
+    "investors": [
+      "DSG Consumer Partners"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/solgram-raises-over-1-mn-in-pre-seed-round-led-by-dsg-consumer-partners-saama-capital-12778298"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Exclusive: Armatrix",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Seed",
+    "stage_raw": "pre_seed",
+    "amount": "$2.1M",
+    "amount_usd": 2100000.0,
+    "currency": "USD",
+    "announced_on": "2026-11-03",
+    "lead_investor": "UK-based Crane Venture Partners",
+    "investors": [
+      "Inuka Capital",
+      "UK-based Crane Venture Partners"
+    ],
+    "sources": [
+      "https://entrackr.com/exclusive/exclusive-armatrix-kicks-off-rs-67-cr-seed-round-at-48x-valuation-premium-12778409"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Unify Foodworks",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "₹5.0 Cr ($602K)",
+    "amount_usd": 602409.64,
+    "currency": "INR",
+    "announced_on": "2026-11-03",
+    "lead_investor": "",
+    "investors": [
+      "India-focused"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/unify-foodworks-raises-rs-5-cr-in-seed-round-12779034"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Clinics On Cloud",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$12.5M",
+    "amount_usd": 12500000.0,
+    "currency": "USD",
+    "announced_on": "2026-11-02",
+    "lead_investor": "Blume Ventures",
+    "investors": [
+      "AI-assisted",
+      "Blume Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/news/health-tech-startup-clinics-on-cloud-raises-125-mn-in-series-a-round-12776580",
+      "https://yourstory.com/2026/11/clinics-on-cloud-raises-125m-expand-microclinic-network"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Antler India",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Seed",
+    "stage_raw": "pre_seed",
+    "amount": "₹5.0 Cr ($602K)",
+    "amount_usd": 602409.64,
+    "currency": "INR",
+    "announced_on": "2026-11-02",
+    "lead_investor": "Antler India",
+    "investors": [
+      "Antler India"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/antler-india-leads-pre-seed-round-in-last-mile-delivery-startup-dispatch-network-12775883"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
@@ -16,90 +168,6 @@
     ],
     "sources": [
       "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-26-oct-31-12770310"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Qiroko",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Seed",
-    "stage_raw": "pre_seed",
-    "amount": "₹1.5 Cr ($181K)",
-    "amount_usd": 180722.89,
-    "currency": "INR",
-    "announced_on": "2026-10-30",
-    "lead_investor": "ISV Capital",
-    "investors": [
-      "ISV Capital"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/qiroko-raises-rs-15-cr-in-pre-seed-round-led-by-isv-capital-12767774"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Jagruti Rehabilitation Centre",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "₹28 Cr ($3.4M)",
-    "amount_usd": 3373493.98,
-    "currency": "INR",
-    "announced_on": "2026-10-29",
-    "lead_investor": "Alkemi Growth Capital. Follow Us",
-    "investors": [
-      "Alkemi Growth Capital. Follow Us"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/jagruti-rehabilitation-centre-raises-rs-28-cr-in-series-a-round-led-by-alkemi-12765269"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Bijnis",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$2.8M",
-    "amount_usd": 2840000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-28",
-    "lead_investor": "Sparrow Capital. Follow Us B2B",
-    "investors": [
-      "Sparrow Capital. Follow Us B2B"
-    ],
-    "sources": [
-      "https://entrackr.com/news/bijnis-rebrands-as-zorit-raises-rs-27-cr-led-by-sparrow-capital-12762019"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Healthtech startup Cent",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$15M",
-    "amount_usd": 15000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-27",
-    "lead_investor": "Blume Ventures",
-    "investors": [
-      "Blume Ventures"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/10/healthtech-startup-cent-raises-15-million-in-series-a"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -128,6 +196,27 @@
     "city": ""
   },
   {
+    "company_name": "Healthtech startup Cent",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$15M",
+    "amount_usd": 15000000.0,
+    "currency": "USD",
+    "announced_on": "2026-10-27",
+    "lead_investor": "Blume Ventures",
+    "investors": [
+      "Blume Ventures"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/10/healthtech-startup-cent-raises-15-million-in-series-a"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Healthy snack brand Troovy",
     "sector": "",
     "sector_raw": null,
@@ -144,48 +233,6 @@
     ],
     "sources": [
       "https://yourstory.com/2026/10/healthy-snack-brand-troovy-raises-rs-100-cr-series-b-fireside-ventures"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Matiks",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$10M",
-    "amount_usd": 10000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-26",
-    "lead_investor": "General Catalyst. The",
-    "investors": [
-      "General Catalyst. The"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/10/matiks-raises-10-million-pre-series-a-round-general-catalyst"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Healthtech startup BioStack",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$9.5M",
-    "amount_usd": 9500000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-26",
-    "lead_investor": "Peak XV Partners",
-    "investors": [
-      "Peak XV Partners"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/10/healthtech-startup-biostack-raises-seed-funding-led-by-peak-xv"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -251,6 +298,48 @@
       "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-sep-28-oct-3-12618694"
     ],
     "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "The Croffle Guys",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹14 Cr ($1.7M)",
+    "amount_usd": 1686746.99,
+    "currency": "INR",
+    "announced_on": "2026-11-03",
+    "lead_investor": "V3 Ventures",
+    "investors": [
+      "N.A.N Partners",
+      "N.A.N. Snippets Follow Us Mumbai-based",
+      "V3 Ventures"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/the-croffle-guys-raises-rs-14-cr-from-v3-ventures-nan-partners-at-rs-100-cr-valuation-12778378"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Snitch",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$53M",
+    "amount_usd": 53000000.0,
+    "currency": "USD",
+    "announced_on": "2026-11-03",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/snitch-revenue-grows-68-to-rs-835-cr-in-fy26-posts-rs-27-cr-loss-12778648"
+    ],
+    "confidence": 0.8,
     "summary": "",
     "city": ""
   },
@@ -375,21 +464,21 @@
     "city": ""
   },
   {
-    "company_name": "Live2.ai",
+    "company_name": "VC",
     "sector": "",
     "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$14M",
-    "amount_usd": 14000000.0,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$581M",
+    "amount_usd": 581000000.0,
     "currency": "USD",
-    "announced_on": "2026-10-27",
+    "announced_on": "2026-11-03",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://yourstory.com/2026/10/live2ai-raises-rs-130-cr-to-expand-its-ai-led-social-commerce-platform"
+      "https://yourstory.com/2026/11/vc-funding-into-indian-startups-plunges-66-in-october"
     ],
-    "confidence": 0.8,
+    "confidence": 0.6,
     "summary": "",
     "city": ""
   },
@@ -451,6 +540,63 @@
     "city": ""
   },
   {
+    "company_name": "Fitness platform OBSESS",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹3.0 Cr ($361K)",
+    "amount_usd": 361445.78,
+    "currency": "INR",
+    "announced_on": "2026-11-02",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/fitness-platform-obsess-raises-rs-3-cr-in-angel-round-12775998"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "DeHaat",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹2715 Cr ($327.1M)",
+    "amount_usd": 327108433.73,
+    "currency": "INR",
+    "announced_on": "2026-11-02",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/dehaat-posts-rs-2715-cr-revenue-in-fy26-12776587"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "TBO Tek",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹76 Cr ($9.2M)",
+    "amount_usd": 9156626.51,
+    "currency": "INR",
+    "announced_on": "2026-11-02",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/tbo-tek-posts-rs-866-cr-revenue-and-rs-76-cr-profit-in-q2-fy27-12776755"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "UPI",
     "sector": "",
     "sector_raw": null,
@@ -464,139 +610,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/news/upi-hits-record-2547-bn-transactions-in-october-daily-value-crosses-rs-1-lakh-crore-12772871"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Yulu",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$93M",
-    "amount_usd": 93000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-31",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/yulu-reports-rs-281-cr-revenue-and-rs-97-cr-loss-in-fy26-12770548"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Starbucks India",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$200M",
-    "amount_usd": 200000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-30",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/starbucks-india-brews-rs-1367-cr-revenue-in-fy26-cuts-losses-by-27-12766895"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Smartworks",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$575M",
-    "amount_usd": 575000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-30",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/smartworks-posts-rs-591-cr-revenue-and-rs-26-cr-profit-in-q2-fy27-12767129"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Traya",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹600 Cr ($72.3M)",
-    "amount_usd": 72289156.63,
-    "currency": "INR",
-    "announced_on": "2026-10-30",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/traya-nears-rs-600-cr-revenue-in-fy26-posts-rs-30-cr-loss-12767776"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "PB Fintech Q2 FY27",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹2178 Cr ($262.4M)",
-    "amount_usd": 262409638.55,
-    "currency": "INR",
-    "announced_on": "2026-10-30",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/pb-fintech-q2-fy27-profit-rises-43-to-rs-192-cr-revenue-up-35-12769326"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Delhivery",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹3066 Cr ($369.4M)",
-    "amount_usd": 369397590.36,
-    "currency": "INR",
-    "announced_on": "2026-10-30",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/delhivery-reports-rs-3066-cr-revenue-and-rs-41-cr-profit-in-q2-fy27-12769561"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Docterz",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹5.0 Cr ($602K)",
-    "amount_usd": 602409.64,
-    "currency": "INR",
-    "announced_on": "2026-10-29",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/docterz-raises-rs-5-cr-from-vineeta-singh-avnish-anand-and-20-doctor-investors-12765193"
     ],
     "confidence": 0.6,
     "summary": "",
