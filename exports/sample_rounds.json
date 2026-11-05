@@ -1,5 +1,28 @@
 [
   {
+    "company_name": "Bio-tech startup Venomics AI",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$2.7M",
+    "amount_usd": 2700000.0,
+    "currency": "USD",
+    "announced_on": "2026-11-05",
+    "lead_investor": "Speciale Invest",
+    "investors": [
+      "Follow Us Venomics AI",
+      "Operators Studio. The",
+      "Speciale Invest"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/bio-tech-startup-venomics-ai-raises-27-mn-in-pre-seed-round-12785718"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "EloElo Group",
     "sector": "",
     "sector_raw": null,
@@ -12,13 +35,11 @@
     "lead_investor": "Hornbill Capital",
     "investors": [
       "Hornbill Capital",
-      "IPO-bound Kuku",
       "MIT Investment Co",
       "Master"
     ],
     "sources": [
       "https://entrackr.com/news/eloelo-group-raises-80-mn-in-series-c-led-by-hornbill-capital-nbcuniversal-12780928",
-      "https://www.moneycontrol.com/news/business/funding/eloelo-group-raises-80-million-led-by-hornbill-capital-nbcuniversal-to-fuel-microdrama-consumer-ai-ambitions-14068748.html",
       "https://yourstory.com/2026/11/eloelo-group-raises-80-million-series-c-led-by-hornbill-capital-nbcuniversal"
     ],
     "confidence": 0.85,
@@ -70,21 +91,21 @@
     "city": ""
   },
   {
-    "company_name": "Agrani Labs",
+    "company_name": "Eggoz’s",
     "sector": "",
     "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$100M",
-    "amount_usd": 100000000.0,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$32M",
+    "amount_usd": 32000000.0,
     "currency": "USD",
-    "announced_on": "2026-11-03",
-    "lead_investor": "",
+    "announced_on": "2026-11-04",
+    "lead_investor": "Gaja Capital",
     "investors": [
-      "Stargazer"
+      "Gaja Capital"
     ],
     "sources": [
-      "https://www.moneycontrol.com/news/business/startup/agrani-labs-in-talks-to-raise-100-million-from-groww-founders-stargazer-fund-google-hcltech-peak-xv-others-14067219.html"
+      "https://entrackr.com/fintrackr/eggozs-revenue-grows-39-to-rs-180-cr-in-fy26-losses-widen-to-rs-42-cr-12782759"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -94,8 +115,8 @@
     "company_name": "PowerUp Money",
     "sector": "",
     "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
+    "stage": "Series B",
+    "stage_raw": "series_b",
     "amount": "$10M",
     "amount_usd": 10000000.0,
     "currency": "USD",
@@ -105,7 +126,6 @@
       "Flourish Ventures"
     ],
     "sources": [
-      "https://entrackr.com/news/wealthtech-startup-powerup-money-raises-10-mn-led-by-flourish-ventures-12778285",
       "https://yourstory.com/2026/11/powerup-money-raises-10m-expand-ai-led-wealth-management-india"
     ],
     "confidence": 0.85,
@@ -156,28 +176,6 @@
     "city": ""
   },
   {
-    "company_name": "Vedantu",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "$11M",
-    "amount_usd": 11000000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-03",
-    "lead_investor": "ABC World Asia",
-    "investors": [
-      "ABC World Asia",
-      "Accel"
-    ],
-    "sources": [
-      "https://entrackr.com/fintrackr/vedantu-revenue-grows-17-to-rs-267-cr-in-fy26-cuts-losses-before-exceptional-items-12778184"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Solgram",
     "sector": "",
     "sector_raw": null,
@@ -193,28 +191,6 @@
     ],
     "sources": [
       "https://entrackr.com/snippets/solgram-raises-over-1-mn-in-pre-seed-round-led-by-dsg-consumer-partners-saama-capital-12778298"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Exclusive: Armatrix",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Seed",
-    "stage_raw": "pre_seed",
-    "amount": "$2.1M",
-    "amount_usd": 2100000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-03",
-    "lead_investor": "UK-based Crane Venture Partners",
-    "investors": [
-      "Inuka Capital",
-      "UK-based Crane Venture Partners"
-    ],
-    "sources": [
-      "https://entrackr.com/exclusive/exclusive-armatrix-kicks-off-rs-67-cr-seed-round-at-48x-valuation-premium-12778409"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -264,7 +240,7 @@
     "city": ""
   },
   {
-    "company_name": "Weekly Funding Roundup: The",
+    "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
     "stage": "Pre-Series A",
@@ -286,7 +262,7 @@
     "city": ""
   },
   {
-    "company_name": "Weekly Funding Roundup: The",
+    "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
     "stage": "Pre-Series A",
@@ -307,7 +283,7 @@
     "city": ""
   },
   {
-    "company_name": "Weekly Funding Roundup: The",
+    "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
     "stage": "Pre-Series A",
@@ -328,7 +304,7 @@
     "city": ""
   },
   {
-    "company_name": "Weekly Funding Roundup: The",
+    "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
     "stage": "Pre-Series A",
@@ -349,57 +325,20 @@
     "city": ""
   },
   {
-    "company_name": "M K Sons Fine Jewels",
+    "company_name": "altM",
     "sector": "",
     "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "₹966 Cr ($116.4M)",
-    "amount_usd": 116379518.07,
-    "currency": "INR",
-    "announced_on": "2026-11-04",
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$10.3M",
+    "amount_usd": 10300000.0,
+    "currency": "USD",
+    "announced_on": "2026-11-05",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://www.moneycontrol.com/news/business/ipo/m-k-sons-fine-jewels-shares-list-at-6-premium-on-bse-nse-should-you-buy-sell-or-hold-14068644.html"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Carver Roboweld",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "₹118 Cr ($14.2M)",
-    "amount_usd": 14208433.73,
-    "currency": "INR",
-    "announced_on": "2026-11-04",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/ipo/carver-roboweld-shares-list-at-12-5-premium-on-bse-sme-14068708.html"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Textile",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "₹40 Cr ($4.8M)",
-    "amount_usd": 4819277.11,
-    "currency": "INR",
-    "announced_on": "2026-11-04",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/ipo/textile-firm-sitaram-denims-india-files-draft-papers-with-sebi-for-ipo-14068648.html"
+      "https://entrackr.com/news/specialty-chemicals-startup-altm-raises-103-mn-led-by-rainmatter-mela-ventures-12784954",
+      "https://yourstory.com/2026/11/altm-raises-103m-series-a-funding-rainmatter-mela-ventures"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -444,175 +383,19 @@
     "city": ""
   },
   {
-    "company_name": "BLS Polymers",
+    "company_name": "Enrission India Capital",
     "sector": "",
     "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "₹930 Cr ($112.1M)",
-    "amount_usd": 112108433.73,
-    "currency": "INR",
-    "announced_on": "2026-11-03",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/ipo/bls-polymers-shares-make-blockbuster-debut-at-65-premium-on-nse-should-you-buy-sell-or-hold-14067261.html"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Coal India's Mahanadi Coalfields IPO",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "$1.0B",
-    "amount_usd": 1000000000.0,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$4.2M",
+    "amount_usd": 4200000.0,
     "currency": "USD",
-    "announced_on": "2026-11-03",
+    "announced_on": "2026-11-04",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://www.moneycontrol.com/news/business/ipo/coal-india-s-mahanadi-coalfields-ipo-may-launch-in-november-raise-up-to-1-billion-14067327.html"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Weekly Funding Roundup: The",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$10.5M",
-    "amount_usd": 10500000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-03",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/funding/weekly-funding-roundup-the-startup-deals-you-may-have-missed-in-the-week-of-november-1-14067287.html"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Sachin Tendulkar",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "$2M",
-    "amount_usd": 2000000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-03",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/funding/sachin-tendulkar-invests-in-hitwicket-maker-as-it-targets-100-million-downloads-globally-14067410.html"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Telugu",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$1M",
-    "amount_usd": 1000000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-03",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/funding/telugu-actor-mahesh-babu-backs-mumbai-based-pc-and-console-gaming-studio-shortgun-games-14067788.html"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "The Croffle Guys",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹14 Cr ($1.7M)",
-    "amount_usd": 1686746.99,
-    "currency": "INR",
-    "announced_on": "2026-11-03",
-    "lead_investor": "V3 Ventures",
-    "investors": [
-      "N.A.N Partners",
-      "N.A.N. Snippets Follow Us Mumbai-based",
-      "V3 Ventures"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/the-croffle-guys-raises-rs-14-cr-from-v3-ventures-nan-partners-at-rs-100-cr-valuation-12778378"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Snitch",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$53M",
-    "amount_usd": 53000000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-03",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/snitch-revenue-grows-68-to-rs-835-cr-in-fy26-posts-rs-27-cr-loss-12778648"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "GRSE",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "₹53866 Cr ($6.5B)",
-    "amount_usd": 6489879518.07,
-    "currency": "INR",
-    "announced_on": "2026-11-03",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/stocks/grse-shares-jump-over-4-on-rs-53-866-crore-indian-navy-warship-contract-win-14067274.html"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Pronto",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$45M",
-    "amount_usd": 45000000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-02",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/startup/pronto-founder-anjali-sardana-s-provision-labs-acquires-basilisk-industries-14066484.html"
+      "https://entrackr.com/snippets/enrission-india-capital-participates-in-ottonomys-rs-406-cr-funding-round-12782975"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -659,40 +442,59 @@
     "city": ""
   },
   {
-    "company_name": "Walmart",
+    "company_name": "Decathlon India’s",
     "sector": "",
     "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "$16M",
-    "amount_usd": 16000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-30",
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹4478 Cr ($539.5M)",
+    "amount_usd": 539518072.29,
+    "currency": "INR",
+    "announced_on": "2026-11-05",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://www.moneycontrol.com/news/business/startup/walmart-probes-flipkart-employees-over-kickbacks-exceeding-rs-150-crore-14063863.html"
+      "https://entrackr.com/fintrackr/decathlon-indias-total-income-crosses-rs-4500-cr-ebitda-stands-at-rs-424-cr-12785276"
     ],
-    "confidence": 0.8,
+    "confidence": 0.6,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Ace Blend",
+    "company_name": "Shiprocket",
     "sector": "",
     "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$9.9M",
-    "amount_usd": 9910000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-29",
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹60 L ($72K)",
+    "amount_usd": 72289.16,
+    "currency": "INR",
+    "announced_on": "2026-11-05",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://yourstory.com/2026/10/ace-blend-bags-991m-as-it-looks-to-scale-science-led-nutrition"
+      "https://entrackr.com/fintrackr/shiprocket-swings-to-profit-in-q2-fy27-revenue-rises-35-to-rs-674-cr-12785644"
     ],
-    "confidence": 0.8,
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Tonbo Imaging",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹183 Cr ($22.1M)",
+    "amount_usd": 22084337.35,
+    "currency": "INR",
+    "announced_on": "2026-11-05",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/tonbo-imaging-turns-profitable-in-q2-fy27-with-rs-235-cr-shares-hit-20-upper-circuit-12785666"
+    ],
+    "confidence": 0.6,
     "summary": "",
     "city": ""
   },
@@ -710,6 +512,101 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/fintrackr/freshworks-posts-245-mn-revenue-in-q3-cy26-turns-profitable-with-18-mn-net-profit-12782166"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "MapMyIndia’s Q2 FY27",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹38 Cr ($4.5M)",
+    "amount_usd": 4520481.93,
+    "currency": "INR",
+    "announced_on": "2026-11-04",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/mapmyindias-q2-fy27-profit-jumps-85-to-rs-375-cr-revenue-rises-16-12783065"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Lenskart Q2 FY27",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$12.6B",
+    "amount_usd": 12600000000.0,
+    "currency": "USD",
+    "announced_on": "2026-11-04",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/lenskart-q2-fy27-revenue-jumps-36-profit-rises-23x-to-rs-232-cr-12783222"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Nykaa's",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹3006 Cr ($362.2M)",
+    "amount_usd": 362168674.7,
+    "currency": "INR",
+    "announced_on": "2026-11-04",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/nykaas-profit-jumps-3x-to-rs-101-cr-in-q2-fy27-revenue-grows-28-12783253"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "PhysicsWallah",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹1242 Cr ($149.6M)",
+    "amount_usd": 149638554.22,
+    "currency": "INR",
+    "announced_on": "2026-11-04",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/physicswallah-revenue-rises-18-to-rs-1242-cr-in-q2-fy27-profit-jumps-21x-12783496"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Tracxn's",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹21 Cr ($2.6M)",
+    "amount_usd": 2566265.06,
+    "currency": "INR",
+    "announced_on": "2026-11-04",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/tracxns-revenue-remains-flat-at-rs-213-cr-in-q2-fy27-losses-narrow-257-12783523"
     ],
     "confidence": 0.6,
     "summary": "",
@@ -735,44 +632,6 @@
     "city": ""
   },
   {
-    "company_name": "Awfis",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$182M",
-    "amount_usd": 182000000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-03",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/awfis-reports-rs-439-cr-revenue-in-q2-fy27-profit-grows-93-12779978"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Indiqube",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹5.9 Cr ($711K)",
-    "amount_usd": 710843.37,
-    "currency": "INR",
-    "announced_on": "2026-11-03",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/indiqube-posts-rs-472-cr-revenue-in-q2-fy27-losses-narrow-80-12780345"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "ValueQuest Tristar Fund",
     "sector": "",
     "sector_raw": null,
@@ -786,44 +645,6 @@
     "investors": [],
     "sources": [
       "https://yourstory.com/2026/11/funding-valuequest-tristar-fund-beats-target-greenshoe-15-months-first-close"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Delhivery Q2: Revenues",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹41 Cr ($4.9M)",
-    "amount_usd": 4891566.27,
-    "currency": "INR",
-    "announced_on": "2026-10-30",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/earnings/delhivery-q2-revenues-increase-20-to-rs-3066-crore-profits-up-increases-growth-forecast-14064590.html"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Roti",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹1000 Cr ($120.5M)",
-    "amount_usd": 120481927.71,
-    "currency": "INR",
-    "announced_on": "2026-10-29",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/startup/roti-kapda-makan-vcs-prepare-to-invest-over-rs-1-000-crore-across-a-dozen-consumer-startups-14063060.html"
     ],
     "confidence": 0.6,
     "summary": "",
