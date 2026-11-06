@@ -1,5 +1,49 @@
 [
   {
+    "company_name": "Daksham Growth Ventures Fund",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "₹125 Cr ($15.1M)",
+    "amount_usd": 15060240.96,
+    "currency": "INR",
+    "announced_on": "2026-11-05",
+    "lead_investor": "",
+    "investors": [
+      "AI"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/11/daksham-capital-raises-rs-125-cr-first-close-rs-300-cr-fund"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Spacetech startup Cosmoserve",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Seed",
+    "stage_raw": "pre_seed",
+    "amount": "$6M",
+    "amount_usd": 6000000.0,
+    "currency": "USD",
+    "announced_on": "2026-11-05",
+    "lead_investor": "Alan Rutledge",
+    "investors": [
+      "AUM Ventures",
+      "Alan Rutledge"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/spacetech-startup-cosmoserve-space-raises-6-mn-in-seed-round-12787035",
+      "https://yourstory.com/2026/11/spacetech-startup-cosmoserve-raises-6-million-in-seed-round"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Bio-tech startup Venomics AI",
     "sector": "",
     "sector_raw": null,
@@ -112,27 +156,6 @@
     "city": ""
   },
   {
-    "company_name": "PowerUp Money",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$10M",
-    "amount_usd": 10000000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-03",
-    "lead_investor": "Flourish Ventures",
-    "investors": [
-      "Flourish Ventures"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/11/powerup-money-raises-10m-expand-ai-led-wealth-management-india"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Sachin Tendulkar",
     "sector": "",
     "sector_raw": null,
@@ -154,64 +177,21 @@
     "city": ""
   },
   {
-    "company_name": "Jewellery brand GIVA",
+    "company_name": "PowerUp Money",
     "sector": "",
     "sector_raw": null,
-    "stage": "Series C",
-    "stage_raw": "series_c",
-    "amount": "$100M",
-    "amount_usd": 100000000.0,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$10M",
+    "amount_usd": 10000000.0,
     "currency": "USD",
     "announced_on": "2026-11-03",
-    "lead_investor": "HPV CC1 Ltd",
+    "lead_investor": "Flourish Ventures",
     "investors": [
-      "HPV CC1 Ltd"
+      "Flourish Ventures"
     ],
     "sources": [
-      "https://entrackr.com/news/giva-raises-over-100-mn-in-funding-round-led-by-multiples-pe-12779542",
-      "https://yourstory.com/2026/11/jewellery-brand-giva-raises-100-million-from-multiples-pe"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Solgram",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Seed",
-    "stage_raw": "pre_seed",
-    "amount": "$1M",
-    "amount_usd": 1000000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-03",
-    "lead_investor": "DSG Consumer Partners",
-    "investors": [
-      "DSG Consumer Partners"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/solgram-raises-over-1-mn-in-pre-seed-round-led-by-dsg-consumer-partners-saama-capital-12778298"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Unify Foodworks",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "₹5.0 Cr ($602K)",
-    "amount_usd": 602409.64,
-    "currency": "INR",
-    "announced_on": "2026-11-03",
-    "lead_investor": "",
-    "investors": [
-      "India-focused"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/unify-foodworks-raises-rs-5-cr-in-seed-round-12779034"
+      "https://yourstory.com/2026/11/powerup-money-raises-10m-expand-ai-led-wealth-management-india"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -325,6 +305,25 @@
     "city": ""
   },
   {
+    "company_name": "Sleepy Owl’s",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series D",
+    "stage_raw": "series_d",
+    "amount": "$25M",
+    "amount_usd": 25000000.0,
+    "currency": "USD",
+    "announced_on": "2026-11-06",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/sleepy-owls-revenue-surges-86-to-rs-82-cr-in-fy26-nears-breakeven-12788034"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "altM",
     "sector": "",
     "sector_raw": null,
@@ -345,38 +344,19 @@
     "city": ""
   },
   {
-    "company_name": "Bakingo's",
+    "company_name": "Daksham Growth Ventures Fund",
     "sector": "",
     "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "$26.5M",
-    "amount_usd": 26500000.0,
+    "stage": "Pre-Series A",
+    "stage_raw": "pre_series_a",
+    "amount": "$1.0B",
+    "amount_usd": 1000000000.0,
     "currency": "USD",
-    "announced_on": "2026-11-04",
+    "announced_on": "2026-11-05",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/fintrackr/bakingos-revenue-crosses-rs-400-cr-in-fy26-losses-double-12776564"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Fractal",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "₹956 Cr ($115.2M)",
-    "amount_usd": 115180722.89,
-    "currency": "INR",
-    "announced_on": "2026-11-04",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/fractal-posts-rs-956-cr-revenue-in-q2-fy27-profit-surges-24x-to-rs-79-cr-12781901"
+      "https://entrackr.com/snippets/daksham-growth-ventures-raises-rs-125-cr-in-first-close-of-maiden-consumer-fund-12786041"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -423,21 +403,21 @@
     "city": ""
   },
   {
-    "company_name": "TVS Capital",
+    "company_name": "Mamaearth",
     "sector": "",
     "sector_raw": null,
-    "stage": "Bridge",
-    "stage_raw": "bridge",
-    "amount": "$3.5B",
-    "amount_usd": 3500000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-31",
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹73 Cr ($8.8M)",
+    "amount_usd": 8825301.2,
+    "currency": "INR",
+    "announced_on": "2026-11-06",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://yourstory.com/2026/10/tvs-capital-enters-private-credit-with-rs-750-cr-fund-target"
+      "https://entrackr.com/fintrackr/mamaearth-parent-honasa-profit-jumps-87-to-rs-73-cr-in-q2-fy27-revenue-grows-36-12788897"
     ],
-    "confidence": 0.8,
+    "confidence": 0.6,
     "summary": "",
     "city": ""
   },
@@ -499,19 +479,38 @@
     "city": ""
   },
   {
-    "company_name": "Freshworks",
+    "company_name": "Amagi's Q2 FY27",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "$245.4M",
-    "amount_usd": 245400000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-04",
+    "amount": "₹75 Cr ($9M)",
+    "amount_usd": 9036144.58,
+    "currency": "INR",
+    "announced_on": "2026-11-05",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://entrackr.com/fintrackr/freshworks-posts-245-mn-revenue-in-q3-cy26-turns-profitable-with-18-mn-net-profit-12782166"
+      "https://entrackr.com/fintrackr/amagis-q2-fy27-profit-jumps-nearly-29-times-to-rs-75-cr-total-income-crosses-rs-500-cr-12786053"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Moneyview's Q2 FY27",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹1120 Cr ($134.9M)",
+    "amount_usd": 134939759.04,
+    "currency": "INR",
+    "announced_on": "2026-11-05",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/moneyviews-q2-fy27-profit-jumps-515x-to-rs-201-cr-12786613"
     ],
     "confidence": 0.6,
     "summary": "",
@@ -626,6 +625,25 @@
     "investors": [],
     "sources": [
       "https://yourstory.com/2026/11/vc-funding-into-indian-startups-plunges-66-in-october"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Jewellery brand GIVA",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$100M",
+    "amount_usd": 100000000.0,
+    "currency": "USD",
+    "announced_on": "2026-11-03",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/11/jewellery-brand-giva-raises-100-million-from-multiples-pe"
     ],
     "confidence": 0.6,
     "summary": "",
