@@ -380,6 +380,44 @@
     "city": ""
   },
   {
+    "company_name": "DriveU’s",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹3.6 Cr ($434K)",
+    "amount_usd": 433734.94,
+    "currency": "INR",
+    "announced_on": "2026-11-09",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/driveus-net-profit-doubles-in-fy26-ntv-grows-to-rs-131-cr-12795093"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "FamApp’s",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$15M",
+    "amount_usd": 15000000.0,
+    "currency": "USD",
+    "announced_on": "2026-11-09",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/famapps-revenue-touches-rs-25-cr-in-fy26-profit-nosedives-99-12795245"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Mamaearth",
     "sector": "",
     "sector_raw": null,
@@ -488,44 +526,6 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/fintrackr/moneyviews-q2-fy27-profit-jumps-515x-to-rs-201-cr-12786613"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Lenskart Q2 FY27",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$12.6B",
-    "amount_usd": 12600000000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-04",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/lenskart-q2-fy27-revenue-jumps-36-profit-rises-23x-to-rs-232-cr-12783222"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Nykaa's",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹3006 Cr ($362.2M)",
-    "amount_usd": 362168674.7,
-    "currency": "INR",
-    "announced_on": "2026-11-04",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/nykaas-profit-jumps-3x-to-rs-101-cr-in-q2-fy27-revenue-grows-28-12783253"
     ],
     "confidence": 0.6,
     "summary": "",
