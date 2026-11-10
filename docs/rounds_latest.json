@@ -1,5 +1,26 @@
 [
   {
+    "company_name": "Festive",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$200M",
+    "amount_usd": 200000000.0,
+    "currency": "USD",
+    "announced_on": "2026-11-10",
+    "lead_investor": "Bharat Value Fund. Design",
+    "investors": [
+      "Bharat Value Fund. Design"
+    ],
+    "sources": [
+      "https://entrackr.com/report/festive-boost-d2c-startups-bag-every-third-funding-deal-in-october-12797327"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
@@ -112,44 +133,21 @@
     "city": ""
   },
   {
-    "company_name": "Peppermint Robotics",
+    "company_name": "PowerUp Money",
     "sector": "",
     "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$10.5M",
-    "amount_usd": 10500000.0,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$10M",
+    "amount_usd": 10000000.0,
     "currency": "USD",
-    "announced_on": "2026-11-04",
-    "lead_investor": "",
+    "announced_on": "2026-11-03",
+    "lead_investor": "Flourish Ventures",
     "investors": [
-      "Asiana Fund. The"
+      "Flourish Ventures"
     ],
     "sources": [
-      "https://entrackr.com/news/peppermint-robotics-raises-rs-100-cr-in-pre-series-b-led-by-pi-ventures-crane-venture-partners-12781643",
-      "https://yourstory.com/2026/11/peppermint-robotics-bags-rs-100-cr-in-pre-series-b-funding-round"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Fintech infra startup OneStack",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$2M",
-    "amount_usd": 2000000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-04",
-    "lead_investor": "Pentathlon Ventures",
-    "investors": [
-      "Pentathlon Ventures",
-      "Yatra Angel Network"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/fintech-infra-startup-onestack-raises-rs-125-cr-from-shepherds-hill-others-12782259"
+      "https://yourstory.com/2026/11/powerup-money-raises-10m-expand-ai-led-wealth-management-india"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -171,27 +169,6 @@
     ],
     "sources": [
       "https://yourstory.com/2026/11/sachin-tendulkar-backs-hitwicket-maker-metasports-interactive"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "PowerUp Money",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$10M",
-    "amount_usd": 10000000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-03",
-    "lead_investor": "Flourish Ventures",
-    "investors": [
-      "Flourish Ventures"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/11/powerup-money-raises-10m-expand-ai-led-wealth-management-india"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -263,23 +240,21 @@
     "city": ""
   },
   {
-    "company_name": "Funding",
+    "company_name": "PhysicsWallah",
     "sector": "",
     "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$113.3M",
-    "amount_usd": 113350000.0,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "$20M",
+    "amount_usd": 20000000.0,
     "currency": "USD",
-    "announced_on": "2026-10-10",
-    "lead_investor": "Xponentia Capital Partners",
-    "investors": [
-      "Xponentia Capital Partners"
-    ],
+    "announced_on": "2026-11-09",
+    "lead_investor": "",
+    "investors": [],
     "sources": [
-      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-5-oct-10-12662210"
+      "https://entrackr.com/news/physicswallah-cites-ai-efficiencies-for-job-cuts-offline-biz-faces-profit-pressure-earmarks-20-mn-for-ma-12795872"
     ],
-    "confidence": 0.85,
+    "confidence": 0.8,
     "summary": "",
     "city": ""
   },
@@ -361,6 +336,25 @@
     "city": ""
   },
   {
+    "company_name": "Peppermint Robotics",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$10.5M",
+    "amount_usd": 10500000.0,
+    "currency": "USD",
+    "announced_on": "2026-11-04",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/11/peppermint-robotics-bags-rs-100-cr-in-pre-series-b-funding-round"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Enrission India Capital",
     "sector": "",
     "sector_raw": null,
@@ -376,6 +370,44 @@
       "https://entrackr.com/snippets/enrission-india-capital-participates-in-ottonomys-rs-406-cr-funding-round-12782975"
     ],
     "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Arka Fincap",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹525 Cr ($63.3M)",
+    "amount_usd": 63253012.05,
+    "currency": "INR",
+    "announced_on": "2026-11-10",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/11/arka-fincap-raises-rs-525-crore-from-the-rise-funds-of-tpg"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "ShareChat",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹1016 Cr ($122.4M)",
+    "amount_usd": 122409638.55,
+    "currency": "INR",
+    "announced_on": "2026-11-10",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/sharechat-parent-crosses-rs-1000-cr-revenue-in-fy26-posts-rs-672-cr-loss-12797478"
+    ],
+    "confidence": 0.6,
     "summary": "",
     "city": ""
   },
@@ -532,63 +564,6 @@
     "city": ""
   },
   {
-    "company_name": "PhysicsWallah",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹1242 Cr ($149.6M)",
-    "amount_usd": 149638554.22,
-    "currency": "INR",
-    "announced_on": "2026-11-04",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/physicswallah-revenue-rises-18-to-rs-1242-cr-in-q2-fy27-profit-jumps-21x-12783496"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Tracxn's",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹21 Cr ($2.6M)",
-    "amount_usd": 2566265.06,
-    "currency": "INR",
-    "announced_on": "2026-11-04",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/tracxns-revenue-remains-flat-at-rs-213-cr-in-q2-fy27-losses-narrow-257-12783523"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "VC",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$581M",
-    "amount_usd": 581000000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-03",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/11/vc-funding-into-indian-startups-plunges-66-in-october"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Jewellery brand GIVA",
     "sector": "",
     "sector_raw": null,
@@ -608,19 +583,19 @@
     "city": ""
   },
   {
-    "company_name": "ValueQuest Tristar Fund",
+    "company_name": "VC",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "$3.4B",
-    "amount_usd": 3400000000.0,
+    "amount": "$581M",
+    "amount_usd": 581000000.0,
     "currency": "USD",
-    "announced_on": "2026-11-02",
+    "announced_on": "2026-11-03",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://yourstory.com/2026/11/funding-valuequest-tristar-fund-beats-target-greenshoe-15-months-first-close"
+      "https://yourstory.com/2026/11/vc-funding-into-indian-startups-plunges-66-in-october"
     ],
     "confidence": 0.6,
     "summary": "",
