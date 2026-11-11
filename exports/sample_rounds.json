@@ -112,8 +112,8 @@
     "company_name": "EloElo Group",
     "sector": "",
     "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
+    "stage": "Series C",
+    "stage_raw": "series_c",
     "amount": "$80M",
     "amount_usd": 80000000.0,
     "currency": "USD",
@@ -121,33 +121,10 @@
     "lead_investor": "Hornbill Capital",
     "investors": [
       "Hornbill Capital",
-      "MIT Investment Co",
-      "Master"
+      "MIT Investment Co"
     ],
     "sources": [
-      "https://entrackr.com/news/eloelo-group-raises-80-mn-in-series-c-led-by-hornbill-capital-nbcuniversal-12780928",
       "https://yourstory.com/2026/11/eloelo-group-raises-80-million-series-c-led-by-hornbill-capital-nbcuniversal"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "PowerUp Money",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$10M",
-    "amount_usd": 10000000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-03",
-    "lead_investor": "Flourish Ventures",
-    "investors": [
-      "Flourish Ventures"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/11/powerup-money-raises-10m-expand-ai-led-wealth-management-india"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -175,22 +152,21 @@
     "city": ""
   },
   {
-    "company_name": "Clinics On Cloud",
+    "company_name": "PowerUp Money",
     "sector": "",
     "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$12.5M",
-    "amount_usd": 12500000.0,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$10M",
+    "amount_usd": 10000000.0,
     "currency": "USD",
-    "announced_on": "2026-11-02",
-    "lead_investor": "Blume Ventures",
+    "announced_on": "2026-11-03",
+    "lead_investor": "Flourish Ventures",
     "investors": [
-      "AI-assisted",
-      "Blume Ventures"
+      "Flourish Ventures"
     ],
     "sources": [
-      "https://yourstory.com/2026/11/clinics-on-cloud-raises-125m-expand-microclinic-network"
+      "https://yourstory.com/2026/11/powerup-money-raises-10m-expand-ai-led-wealth-management-india"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -236,6 +212,46 @@
       "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-12-oct-17-12683867"
     ],
     "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Kissht",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Bridge",
+    "stage_raw": "bridge",
+    "amount": "₹832 Cr ($100.3M)",
+    "amount_usd": 100265060.24,
+    "currency": "INR",
+    "announced_on": "2026-11-11",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/kissht-parent-onemi-completes-rs-832-cr-preferential-issue-12800355"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "IIFL Finance",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$686M",
+    "amount_usd": 686000000.0,
+    "currency": "USD",
+    "announced_on": "2026-11-10",
+    "lead_investor": "",
+    "investors": [
+      "Blackstone"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/11/iifl-finance-to-raise-rs-6414-crore-with-blackstone-leading-rs-5000-crore-primary-infusion"
+    ],
+    "confidence": 0.8,
     "summary": "",
     "city": ""
   },
@@ -374,6 +390,25 @@
     "city": ""
   },
   {
+    "company_name": "Kutumb",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$30M",
+    "amount_usd": 30000000.0,
+    "currency": "USD",
+    "announced_on": "2026-11-11",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/kutumb-parent-posts-rs-405-cr-total-income-in-fy26-profit-surges-6x-12800245"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Arka Fincap",
     "sector": "",
     "sector_raw": null,
@@ -406,6 +441,25 @@
     "investors": [],
     "sources": [
       "https://entrackr.com/fintrackr/sharechat-parent-crosses-rs-1000-cr-revenue-in-fy26-posts-rs-672-cr-loss-12797478"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Blue Tokai",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹500 Cr ($60.2M)",
+    "amount_usd": 60240963.86,
+    "currency": "INR",
+    "announced_on": "2026-11-10",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/blue-tokai-crosses-rs-500-cr-revenue-in-fy26-losses-up-54-12798434"
     ],
     "confidence": 0.6,
     "summary": "",
@@ -469,63 +523,6 @@
     "city": ""
   },
   {
-    "company_name": "Decathlon India’s",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹4478 Cr ($539.5M)",
-    "amount_usd": 539518072.29,
-    "currency": "INR",
-    "announced_on": "2026-11-05",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/decathlon-indias-total-income-crosses-rs-4500-cr-ebitda-stands-at-rs-424-cr-12785276"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Shiprocket",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹60 L ($72K)",
-    "amount_usd": 72289.16,
-    "currency": "INR",
-    "announced_on": "2026-11-05",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/shiprocket-swings-to-profit-in-q2-fy27-revenue-rises-35-to-rs-674-cr-12785644"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Tonbo Imaging",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹183 Cr ($22.1M)",
-    "amount_usd": 22084337.35,
-    "currency": "INR",
-    "announced_on": "2026-11-05",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/tonbo-imaging-turns-profitable-in-q2-fy27-with-rs-235-cr-shares-hit-20-upper-circuit-12785666"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Amagi's Q2 FY27",
     "sector": "",
     "sector_raw": null,
@@ -564,25 +561,6 @@
     "city": ""
   },
   {
-    "company_name": "Jewellery brand GIVA",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$100M",
-    "amount_usd": 100000000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-03",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/11/jewellery-brand-giva-raises-100-million-from-multiples-pe"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "VC",
     "sector": "",
     "sector_raw": null,
@@ -596,6 +574,25 @@
     "investors": [],
     "sources": [
       "https://yourstory.com/2026/11/vc-funding-into-indian-startups-plunges-66-in-october"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Jewellery brand GIVA",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$100M",
+    "amount_usd": 100000000.0,
+    "currency": "USD",
+    "announced_on": "2026-11-03",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/11/jewellery-brand-giva-raises-100-million-from-multiples-pe"
     ],
     "confidence": 0.6,
     "summary": "",
