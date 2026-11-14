@@ -1,5 +1,28 @@
 [
   {
+    "company_name": "Funding",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$31.3M",
+    "amount_usd": 31300000.0,
+    "currency": "USD",
+    "announced_on": "2026-11-14",
+    "lead_investor": "Amazon",
+    "investors": [
+      "Amazon",
+      "Rainmatter",
+      "Seafund. Creator"
+    ],
+    "sources": [
+      "https://entrackr.com/report/funding-and-acquisitions-in-indian-startups-this-week-nov-09-nov-14-12808553"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Exclusive: Baaz Bikes",
     "sector": "",
     "sector_raw": null,
@@ -15,50 +38,6 @@
     ],
     "sources": [
       "https://entrackr.com/exclusive/exclusive-baaz-bikes-to-kick-off-series-b-round-led-by-big-capital-12805522"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Exclusive: Olyv",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series C",
-    "stage_raw": "series_c",
-    "amount": "$23M",
-    "amount_usd": 23000000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-12",
-    "lead_investor": "Fundamentum Partnership Fund",
-    "investors": [
-      "Fundamentum Partnership Fund",
-      "SMBC Asia"
-    ],
-    "sources": [
-      "https://entrackr.com/exclusive/exclusive-olyv-raises-rs-58-cr-in-extended-series-c-round-led-by-nippon-india-digital-12803184"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Hundo Pizza",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "₹7.5 Cr ($904K)",
-    "amount_usd": 903614.46,
-    "currency": "INR",
-    "announced_on": "2026-11-12",
-    "lead_investor": "Titan Capital",
-    "investors": [
-      "Indian Silicon Valley Capital",
-      "Titan Capital"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/hundo-pizza-raises-maiden-institutional-round-led-by-titan-capital-12803425"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -123,28 +102,6 @@
     ],
     "sources": [
       "https://entrackr.com/snippets/mgf-kavachh-leads-rs-18-cr-seed-round-in-climate-startup-misteo-12803941"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Greenjoules",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$2.5M",
-    "amount_usd": 2500000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-11",
-    "lead_investor": "Amazon",
-    "investors": [
-      "Amazon",
-      "Rainmatter"
-    ],
-    "sources": [
-      "https://entrackr.com/news/greenjoules-raises-rs-150-cr-in-series-b-led-by-amazon-funds-secures-rs-100-cr-loan-from-tdb-12801123"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -279,27 +236,6 @@
     "city": ""
   },
   {
-    "company_name": "Funding",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$302.9M",
-    "amount_usd": 302850000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-17",
-    "lead_investor": "Tessolve Semiconductor",
-    "investors": [
-      "Tessolve Semiconductor"
-    ],
-    "sources": [
-      "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-12-oct-17-12683867"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Desible.ai",
     "sector": "",
     "sector_raw": null,
@@ -340,6 +276,44 @@
     "city": ""
   },
   {
+    "company_name": "Zetwerk",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "₹4599 Cr ($554.1M)",
+    "amount_usd": 554096385.54,
+    "currency": "INR",
+    "announced_on": "2026-11-13",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/zetwerk-touches-rs-4600-cr-revenue-threshold-in-q2-fy27-12806935"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "SoftBank",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "$12.5B",
+    "amount_usd": 12500000000.0,
+    "currency": "USD",
+    "announced_on": "2026-11-13",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/news/softbank-sells-165-stake-in-meesho-for-rs-1885-cr-through-block-deal-12807590"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Norwest",
     "sector": "",
     "sector_raw": null,
@@ -356,66 +330,6 @@
     "sources": [
       "https://entrackr.com/snippets/norwest-closes-4-bn-global-fund-takes-aum-to-18-bn-12803831",
       "https://yourstory.com/2026/11/norwest-closes-4b-fund-to-back-ai-healthcare-and-financial-infra"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "D2C menswear brand QB MEN",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Seed",
-    "stage_raw": "pre_seed",
-    "amount": "",
-    "amount_usd": null,
-    "currency": "",
-    "announced_on": "2026-11-12",
-    "lead_investor": "BeyondSeed",
-    "investors": [
-      "BeyondSeed",
-      "Rajkot Ventures"
-    ],
-    "sources": [
-      "https://entrackr.com/snippets/d2c-menswear-brand-qb-men-raises-pre-seed-funding-led-by-beyondseed-12802802"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "HomeLane’s FY26",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "₹738 Cr ($88.9M)",
-    "amount_usd": 88915662.65,
-    "currency": "INR",
-    "announced_on": "2026-11-12",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/homelanes-fy26-revenue-stays-flat-at-rs-738-cr-losses-up-23-12802926"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Kissht",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Bridge",
-    "stage_raw": "bridge",
-    "amount": "₹832 Cr ($100.3M)",
-    "amount_usd": 100265060.24,
-    "currency": "INR",
-    "announced_on": "2026-11-11",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/kissht-parent-onemi-completes-rs-832-cr-preferential-issue-12800355"
     ],
     "confidence": 0.8,
     "summary": "",
