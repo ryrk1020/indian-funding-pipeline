@@ -44,27 +44,6 @@
     "city": ""
   },
   {
-    "company_name": "Exclusive: Dhruva Space",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$15.5M",
-    "amount_usd": 15500000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-12",
-    "lead_investor": "IndusBridge Ventures",
-    "investors": [
-      "IndusBridge Ventures"
-    ],
-    "sources": [
-      "https://entrackr.com/exclusive/exclusive-dhruva-space-to-raise-155-mn-in-pre-series-b-revenue-surges-8x-12803436"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Neeman’s",
     "sector": "",
     "sector_raw": null,
@@ -410,6 +389,25 @@
       "https://yourstory.com/2026/11/peppermint-robotics-bags-rs-100-cr-in-pre-series-b-funding-round"
     ],
     "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "FirstCry",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹2396 Cr ($288.7M)",
+    "amount_usd": 288674698.8,
+    "currency": "INR",
+    "announced_on": "2026-11-14",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/firstcry-nears-rs-2400-cr-revenue-in-q2-fy27-losses-narrow-75-12809625"
+    ],
+    "confidence": 0.6,
     "summary": "",
     "city": ""
   },
