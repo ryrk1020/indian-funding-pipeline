@@ -1,5 +1,50 @@
 [
   {
+    "company_name": "Bharat Semi",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Seed",
+    "stage_raw": "seed",
+    "amount": "$24M",
+    "amount_usd": 24000000.0,
+    "currency": "USD",
+    "announced_on": "2026-11-16",
+    "lead_investor": "Info Edge",
+    "investors": [
+      "Info Edge",
+      "Info Edge Group",
+      "Micromax"
+    ],
+    "sources": [
+      "https://entrackr.com/news/bharat-semi-raises-24-mn-in-seed-round-from-info-edge-south-park-common-others-12812801",
+      "https://yourstory.com/2026/11/bharat-semi-raises-24m-to-develop-ai-enabled-sensors"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Exclusive: Xpressbees",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series E+",
+    "stage_raw": "series_e_plus",
+    "amount": "$10M",
+    "amount_usd": 10000000.0,
+    "currency": "USD",
+    "announced_on": "2026-11-16",
+    "lead_investor": "Blackstone Growth",
+    "investors": [
+      "Blackstone Growth"
+    ],
+    "sources": [
+      "https://entrackr.com/exclusive/exclusive-xpressbees-raises-rs-100-cr-debt-from-blacksoil-12813197"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
@@ -38,27 +83,6 @@
     ],
     "sources": [
       "https://entrackr.com/exclusive/exclusive-baaz-bikes-to-kick-off-series-b-round-led-by-big-capital-12805522"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Neeman’s",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series A",
-    "stage_raw": "series_a",
-    "amount": "$17M",
-    "amount_usd": 17000000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-12",
-    "lead_investor": "Verlinvest",
-    "investors": [
-      "Verlinvest"
-    ],
-    "sources": [
-      "https://entrackr.com/fintrackr/neemans-revenue-jumps-73-to-rs-180-cr-in-fy26-losses-narrow-30-12803572"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -150,49 +174,6 @@
     "city": ""
   },
   {
-    "company_name": "EloElo Group",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series C",
-    "stage_raw": "series_c",
-    "amount": "$80M",
-    "amount_usd": 80000000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-04",
-    "lead_investor": "Hornbill Capital",
-    "investors": [
-      "Hornbill Capital",
-      "MIT Investment Co"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/11/eloelo-group-raises-80-million-series-c-led-by-hornbill-capital-nbcuniversal"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Sachin Tendulkar",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "$20M",
-    "amount_usd": 20000000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-03",
-    "lead_investor": "Elevation Capital",
-    "investors": [
-      "Elevation Capital"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/11/sachin-tendulkar-backs-hitwicket-maker-metasports-interactive"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
@@ -211,6 +192,25 @@
       "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-26-oct-31-12770310"
     ],
     "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Spice",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "$7M",
+    "amount_usd": 7000000.0,
+    "currency": "USD",
+    "announced_on": "2026-11-16",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/spice-brand-zoff-crosses-rs-150-cr-revenue-in-fy26-losses-widen-to-rs-21-cr-12813527"
+    ],
+    "confidence": 0.8,
     "summary": "",
     "city": ""
   },
@@ -296,8 +296,8 @@
     "company_name": "Norwest",
     "sector": "",
     "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
     "amount": "$4.0B",
     "amount_usd": 4000000000.0,
     "currency": "USD",
@@ -307,7 +307,6 @@
       "Flourish Ventures"
     ],
     "sources": [
-      "https://entrackr.com/snippets/norwest-closes-4-bn-global-fund-takes-aum-to-18-bn-12803831",
       "https://yourstory.com/2026/11/norwest-closes-4b-fund-to-back-ai-healthcare-and-financial-infra"
     ],
     "confidence": 0.8,
@@ -393,6 +392,44 @@
     "city": ""
   },
   {
+    "company_name": "Oister Global",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹600 Cr ($72.3M)",
+    "amount_usd": 72289156.63,
+    "currency": "INR",
+    "announced_on": "2026-11-16",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://yourstory.com/2026/11/oister-global-launches-rs-600-crore-deeptech-fund"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Oister Global",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "$3.0B",
+    "amount_usd": 3000000000.0,
+    "currency": "USD",
+    "announced_on": "2026-11-16",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/oister-global-launches-rs-600-cr-deep-tech-fund-to-back-growth-stage-startups-12813755"
+    ],
+    "confidence": 0.6,
+    "summary": "",
+    "city": ""
+  },
+  {
     "company_name": "FirstCry",
     "sector": "",
     "sector_raw": null,
@@ -444,25 +481,6 @@
     "investors": [],
     "sources": [
       "https://yourstory.com/2026/11/valuequest-commits-rs-775-cr-to-advance-indias-defence-manufacturing-push"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Canonicus Capital",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹192 Cr ($23.1M)",
-    "amount_usd": 23132530.12,
-    "currency": "INR",
-    "announced_on": "2026-11-12",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/canonicus-capital-raises-rs-192-cr-in-first-close-of-rs-500-cr-special-situations-fund-12803632"
     ],
     "confidence": 0.6,
     "summary": "",
@@ -558,25 +576,6 @@
     "investors": [],
     "sources": [
       "https://yourstory.com/2026/11/arka-fincap-raises-rs-525-crore-from-the-rise-funds-of-tpg"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Jewellery brand GIVA",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$100M",
-    "amount_usd": 100000000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-03",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/11/jewellery-brand-giva-raises-100-million-from-multiples-pe"
     ],
     "confidence": 0.6,
     "summary": "",
