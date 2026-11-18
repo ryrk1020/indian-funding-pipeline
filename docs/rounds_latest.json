@@ -1,22 +1,214 @@
 [
   {
-    "company_name": "Former Freshworks",
+    "company_name": "Botsync",
     "sector": "",
     "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$53M",
-    "amount_usd": 53000000.0,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$11M",
+    "amount_usd": 11000000.0,
     "currency": "USD",
-    "announced_on": "2026-11-16",
-    "lead_investor": "Accel",
+    "announced_on": "2026-11-18",
+    "lead_investor": "IvyCap Ventures",
     "investors": [
-      "Accel",
-      "Dreamteam"
+      "IvyCap Ventures"
     ],
     "sources": [
-      "https://www.moneycontrol.com/news/business/funding/former-freshworks-executives-ai-startup-dreamteam-raises-53-million-from-accel-premji-invest-together-fund-14081569.html",
-      "https://yourstory.com/2026/11/ex-freshworks-executives-founded-ai-native-crm-startup-dreamteam-raises-53-million-in-funding"
+      "https://yourstory.com/2026/11/botsync-raises-11m-to-expand-industrial-automation"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Egg brand Henfruit",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$15M",
+    "amount_usd": 15000000.0,
+    "currency": "USD",
+    "announced_on": "2026-11-18",
+    "lead_investor": "Lok Capital",
+    "investors": [
+      "Lok Capital"
+    ],
+    "sources": [
+      "https://entrackr.com/news/egg-brand-henfruit-raises-15-mn-from-lok-capital-dsg-and-rpsg-capital-12818932"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "FirstClub",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$55M",
+    "amount_usd": 55000000.0,
+    "currency": "USD",
+    "announced_on": "2026-11-18",
+    "lead_investor": "Peak XV Partners",
+    "investors": [
+      "Peak XV Partners"
+    ],
+    "sources": [
+      "https://entrackr.com/fintrackr/firstclub-reports-rs-64-cr-revenue-and-rs-97-cr-loss-in-fy26-12819732"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "IvyCap Ventures",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$11M",
+    "amount_usd": 11000000.0,
+    "currency": "USD",
+    "announced_on": "2026-11-18",
+    "lead_investor": "IvyCap Ventures. The",
+    "investors": [
+      "Capital",
+      "IvyCap Ventures. The"
+    ],
+    "sources": [
+      "https://entrackr.com/news/ivycap-ventures-leads-11-mn-series-b-round-in-robotics-company-botsync-12819998"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Redbrick Offices",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$72M",
+    "amount_usd": 72000000.0,
+    "currency": "USD",
+    "announced_on": "2026-11-17",
+    "lead_investor": "Abakkus",
+    "investors": [
+      "Abakkus"
+    ],
+    "sources": [
+      "https://yourstory.com/2026/11/redbrick-offices-rs-630-crore-india-sme-investments-abakkus"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "AI infra startup JohnAIC",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Pre-Seed",
+    "stage_raw": "pre_seed",
+    "amount": "$1.9M",
+    "amount_usd": 1900000.0,
+    "currency": "USD",
+    "announced_on": "2026-11-17",
+    "lead_investor": "Crane Venture Partners",
+    "investors": [
+      "Crane Venture Partners",
+      "Neon Fund. Follow Us Bengaluru-based",
+      "Neon Fund. The"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/ai-infra-startup-johnaic-raises-19-mn-in-pre-seed-round-12815778"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Equirus InnovateX Fund",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "$8M",
+    "amount_usd": 8000000.0,
+    "currency": "USD",
+    "announced_on": "2026-11-17",
+    "lead_investor": "Equirus InnovateX Fund. The",
+    "investors": [
+      "Equirus InnovateX Fund. The",
+      "SIG Tattva"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/equirus-innovatex-fund-leads-rs-10-cr-seed-round-in-deep-tech-startup-countai-12816386"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Sneaker",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series B",
+    "stage_raw": "series_b",
+    "amount": "₹74 Cr ($8.9M)",
+    "amount_usd": 8915662.65,
+    "currency": "INR",
+    "announced_on": "2026-11-17",
+    "lead_investor": "Belgium-based",
+    "investors": [
+      "Belgium-based"
+    ],
+    "sources": [
+      "https://entrackr.com/fintrackr/sneaker-brand-comet-clocks-26x-revenue-growth-to-rs-74-cr-in-fy26-12816546"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "AI video production startup Lemonpeel",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$1M",
+    "amount_usd": 1000000.0,
+    "currency": "USD",
+    "announced_on": "2026-11-17",
+    "lead_investor": "Shastra VC",
+    "investors": [
+      "Rukam Sitara",
+      "Shastra VC"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/ai-video-production-startup-lemonpeel-raises-1-mn-in-pre-seed-round-led-by-shastra-vc-12816726"
+    ],
+    "confidence": 0.85,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Exclusive: Shree Anandhaas",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "₹110 Cr ($13.3M)",
+    "amount_usd": 13253012.05,
+    "currency": "INR",
+    "announced_on": "2026-11-17",
+    "lead_investor": "A91 Partners. Founded",
+    "investors": [
+      "A91 Partners. Founded"
+    ],
+    "sources": [
+      "https://entrackr.com/exclusive/exclusive-shree-anandhaas-raises-rs-110-cr-valuation-jumps-to-rs-1900-cr-12817177"
     ],
     "confidence": 0.85,
     "summary": "",
@@ -34,12 +226,9 @@
     "announced_on": "2026-11-16",
     "lead_investor": "Info Edge",
     "investors": [
-      "Info Edge",
-      "Info Edge Group",
-      "Micromax"
+      "Info Edge"
     ],
     "sources": [
-      "https://entrackr.com/news/bharat-semi-raises-24-mn-in-seed-round-from-info-edge-south-park-common-others-12812801",
       "https://yourstory.com/2026/11/bharat-semi-raises-24m-to-develop-ai-enabled-sensors"
     ],
     "confidence": 0.85,
@@ -47,49 +236,7 @@
     "city": ""
   },
   {
-    "company_name": "Exclusive: Xpressbees",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series E+",
-    "stage_raw": "series_e_plus",
-    "amount": "$10M",
-    "amount_usd": 10000000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-16",
-    "lead_investor": "Blackstone Growth",
-    "investors": [
-      "Blackstone Growth"
-    ],
-    "sources": [
-      "https://entrackr.com/exclusive/exclusive-xpressbees-raises-rs-100-cr-debt-from-blacksoil-12813197"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "AI CRM startup Dreamteam",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "$53M",
-    "amount_usd": 53000000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-16",
-    "lead_investor": "",
-    "investors": [
-      "Together Fund"
-    ],
-    "sources": [
-      "https://entrackr.com/news/ai-crm-startup-dreamteam-raises-53-mn-from-accel-premji-invest-others-12814853"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Weekly Funding Roundup: The",
+    "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
     "stage": "Series A",
@@ -133,7 +280,7 @@
     "city": ""
   },
   {
-    "company_name": "Weekly Funding Roundup: The",
+    "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
     "stage": "Pre-Series A",
@@ -154,72 +301,7 @@
     "city": ""
   },
   {
-    "company_name": "Daksham Growth Ventures Fund",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "₹125 Cr ($15.1M)",
-    "amount_usd": 15060240.96,
-    "currency": "INR",
-    "announced_on": "2026-11-05",
-    "lead_investor": "",
-    "investors": [
-      "AI"
-    ],
-    "sources": [
-      "https://yourstory.com/2026/11/daksham-capital-raises-rs-125-cr-first-close-rs-300-cr-fund"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "EloElo Group",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series C",
-    "stage_raw": "series_c",
-    "amount": "$80M",
-    "amount_usd": 80000000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-04",
-    "lead_investor": "Hornbill Capital",
-    "investors": [
-      "Hornbill Capital",
-      "IPO-bound Kuku",
-      "MIT Investment Co"
-    ],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/funding/eloelo-group-raises-80-million-led-by-hornbill-capital-nbcuniversal-to-fuel-microdrama-consumer-ai-ambitions-14068748.html"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Agrani Labs",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$100M",
-    "amount_usd": 100000000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-03",
-    "lead_investor": "",
-    "investors": [
-      "Stargazer"
-    ],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/startup/agrani-labs-in-talks-to-raise-100-million-from-groww-founders-stargazer-fund-google-hcltech-peak-xv-others-14067219.html"
-    ],
-    "confidence": 0.85,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Weekly Funding Roundup: The",
+    "company_name": "Funding",
     "sector": "",
     "sector_raw": null,
     "stage": "Pre-Series A",
@@ -241,21 +323,118 @@
     "city": ""
   },
   {
-    "company_name": "RBI",
+    "company_name": "Oxyzo’s H1 FY27",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "₹910 Cr ($109.6M)",
+    "amount_usd": 109638554.22,
+    "currency": "INR",
+    "announced_on": "2026-11-18",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/oxyzos-h1-fy27-revenue-grows-31-to-rs-910-cr-with-rs-218-cr-pat-12818116"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Circular economy startup Recove Ventures",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "$30.0B",
-    "amount_usd": 30000000000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-16",
-    "lead_investor": "India",
+    "amount": "₹56 Cr ($6.8M)",
+    "amount_usd": 6777108.43,
+    "currency": "INR",
+    "announced_on": "2026-11-18",
+    "lead_investor": "",
     "investors": [
-      "India"
+      "Samara Capital"
     ],
     "sources": [
-      "https://www.moneycontrol.com/news/business/rbi-may-raise-interest-rates-to-6-25-but-this-time-the-pain-could-be-greater-for-india-14080706.html"
+      "https://entrackr.com/snippets/circular-economy-startup-recove-ventures-raises-rs-5625-cr-through-equity-and-debt-12818941"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Moglix",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "IPO",
+    "stage_raw": "ipo",
+    "amount": "₹6129 Cr ($738.4M)",
+    "amount_usd": 738433734.94,
+    "currency": "INR",
+    "announced_on": "2026-11-18",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/moglix-posts-rs-6129-cr-revenue-and-rs-160-cr-loss-in-fy26-12818948"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Serri AI",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Acquisition",
+    "stage_raw": "acquisition",
+    "amount": "$2M",
+    "amount_usd": 2000000.0,
+    "currency": "USD",
+    "announced_on": "2026-11-18",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/snippets/serri-ai-crosses-2-mn-arr-doubles-revenue-run-rate-in-three-months-12820187"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Wealthtech startup finny.club",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Undisclosed",
+    "stage_raw": "undisclosed",
+    "amount": "₹5.3 Cr ($639K)",
+    "amount_usd": 638554.22,
+    "currency": "INR",
+    "announced_on": "2026-11-17",
+    "lead_investor": "",
+    "investors": [
+      "Ramanathan RV"
+    ],
+    "sources": [
+      "https://entrackr.com/snippets/wealthtech-startup-finnyclub-raises-rs-53-cr-in-angel-round-12814337"
+    ],
+    "confidence": 0.8,
+    "summary": "",
+    "city": ""
+  },
+  {
+    "company_name": "Handpickd",
+    "sector": "",
+    "sector_raw": null,
+    "stage": "Series A",
+    "stage_raw": "series_a",
+    "amount": "$15M",
+    "amount_usd": 15000000.0,
+    "currency": "USD",
+    "announced_on": "2026-11-17",
+    "lead_investor": "",
+    "investors": [],
+    "sources": [
+      "https://entrackr.com/fintrackr/handpickd-posts-rs-286-cr-revenue-and-rs-43-cr-loss-in-fy26-12815932"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -281,116 +460,21 @@
     "city": ""
   },
   {
-    "company_name": "Spice",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "$7M",
-    "amount_usd": 7000000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-16",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/spice-brand-zoff-crosses-rs-150-cr-revenue-in-fy26-losses-widen-to-rs-21-cr-12813527"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "FRND",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "₹367 Cr ($44.2M)",
-    "amount_usd": 44216867.47,
-    "currency": "INR",
-    "announced_on": "2026-11-16",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/frnd-posts-rs-367-cr-revenue-in-fy26-profit-jumps-10x-12814582"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Weekly Funding Roundup: The",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Series B",
-    "stage_raw": "series_b",
-    "amount": "$4M",
-    "amount_usd": 4000000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-14",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/funding/weekly-funding-roundup-the-startup-deals-you-may-have-missed-in-week-of-november-15-14080210.html"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Superhealth's Rs 100-crore",
+    "company_name": "Former Freshworks",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "$10M",
-    "amount_usd": 10000000.0,
+    "amount": "$53M",
+    "amount_usd": 53000000.0,
     "currency": "USD",
-    "announced_on": "2026-11-13",
-    "lead_investor": "Blume Ventures",
+    "announced_on": "2026-11-16",
+    "lead_investor": "",
     "investors": [
-      "Blume Ventures"
+      "Dreamteam"
     ],
     "sources": [
-      "https://www.moneycontrol.com/news/business/funding/superhealth-s-rs-100-crore-fundraise-sees-ronnie-screwvala-drop-out-techu-ventures-step-in-14078952.html"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Zetwerk",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "₹4599 Cr ($554.1M)",
-    "amount_usd": 554096385.54,
-    "currency": "INR",
-    "announced_on": "2026-11-13",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/zetwerk-touches-rs-4600-cr-revenue-threshold-in-q2-fy27-12806935"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "SoftBank",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "$12.5B",
-    "amount_usd": 12500000000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-13",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/softbank-sells-165-stake-in-meesho-for-rs-1885-cr-through-block-deal-12807590"
+      "https://yourstory.com/2026/11/ex-freshworks-executives-founded-ai-native-crm-startup-dreamteam-raises-53-million-in-funding"
     ],
     "confidence": 0.8,
     "summary": "",
@@ -411,7 +495,6 @@
       "Flourish Ventures"
     ],
     "sources": [
-      "https://www.moneycontrol.com/news/business/startup/norwest-raises-4-billion-for-18th-global-fund-sharpens-india-focus-on-manufacturing-mechatronics-14078350.html",
       "https://yourstory.com/2026/11/norwest-closes-4b-fund-to-back-ai-healthcare-and-financial-infra"
     ],
     "confidence": 0.8,
@@ -440,215 +523,39 @@
     "city": ""
   },
   {
-    "company_name": "Amagi Q2",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "IPO",
-    "stage_raw": "ipo",
-    "amount": "$1M",
-    "amount_usd": 1000000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-06",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/startup/amagi-q2-net-profit-jumps-nearly-30-fold-to-rs-75-crore-revenue-rises-27-14071904.html"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "FPIs",
+    "company_name": "Fatehpuria Hygiene",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "₹14258 Cr ($1.7B)",
-    "amount_usd": 1717831325.3,
+    "amount": "₹100 Cr ($12M)",
+    "amount_usd": 12048192.77,
     "currency": "INR",
-    "announced_on": "2026-11-06",
-    "lead_investor": "SBI Mutual Fund",
-    "investors": [
-      "SBI Mutual Fund"
-    ],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/startup/fpis-sell-rs-21-000-crore-worth-of-new-age-shares-in-2026-as-mfs-turn-buyers-14072416.html"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Lenskart Q2",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "$394M",
-    "amount_usd": 394000000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-05",
+    "announced_on": "2026-11-18",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://www.moneycontrol.com/news/business/earnings/lenskart-q2-results-net-profit-rises-2x-to-rs-232-5-crore-revenue-up-36-14069327.html",
-      "https://www.moneycontrol.com/news/business/startup/lenskart-investments-in-manufacturing-ai-r-d-creating-deeper-profit-pools-ceo-peyush-bansal-after-robust-q2-14070879.html"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Spacetech startup Cosmoserve",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$6M",
-    "amount_usd": 6000000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-05",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://yourstory.com/2026/11/spacetech-startup-cosmoserve-raises-6-million-in-seed-round"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Sachin Tendulkar",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Acquisition",
-    "stage_raw": "acquisition",
-    "amount": "$2M",
-    "amount_usd": 2000000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-03",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/funding/sachin-tendulkar-invests-in-hitwicket-maker-as-it-targets-100-million-downloads-globally-14067410.html"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Telugu",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Seed",
-    "stage_raw": "seed",
-    "amount": "$1M",
-    "amount_usd": 1000000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-03",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/funding/telugu-actor-mahesh-babu-backs-mumbai-based-pc-and-console-gaming-studio-shortgun-games-14067788.html"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Weekly Funding Roundup: The",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Pre-Series A",
-    "stage_raw": "pre_series_a",
-    "amount": "$10.5M",
-    "amount_usd": 10500000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-03",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/funding/weekly-funding-roundup-the-startup-deals-you-may-have-missed-in-the-week-of-november-1-14067287.html"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Peak XV Partners, Lightspeed, Activate",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$20M",
-    "amount_usd": 20000000.0,
-    "currency": "USD",
-    "announced_on": "2026-10-27",
-    "lead_investor": "",
-    "investors": [
-      "Lightspeed",
-      "Stellaris Venture Partners. For Pathnovo"
-    ],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/startup/peak-xv-partners-lightspeed-activate-general-catalyst-in-talks-to-invest-in-half-a-dozen-indian-ai-startups-14060568.html"
-    ],
-    "confidence": 0.8,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Hindalco",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$265M",
-    "amount_usd": 265000000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-16",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/markets/hindalco-shares-fall-1-after-novelis-announces-265-million-sale-of-china-units-14080784.html"
+      "https://entrackr.com/news/fatehpuria-hygiene-raises-rs-100-cr-in-maiden-equity-round-led-by-madhu-kela-12819616",
+      "https://yourstory.com/2026/11/fatehpuria-hygiene-secures-rs-100-cr-first-equity-fundraise"
     ],
     "confidence": 0.6,
     "summary": "",
     "city": ""
   },
   {
-    "company_name": "Oister Global",
+    "company_name": "Ribbit Capital",
     "sector": "",
     "sector_raw": null,
     "stage": "Undisclosed",
     "stage_raw": "undisclosed",
-    "amount": "$4.0B",
-    "amount_usd": 4000000000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-16",
+    "amount": "₹1905 Cr ($229.5M)",
+    "amount_usd": 229518072.29,
+    "currency": "INR",
+    "announced_on": "2026-11-18",
     "lead_investor": "",
     "investors": [],
     "sources": [
-      "https://www.moneycontrol.com/news/business/startup/oister-global-launches-rs-600-crore-deep-tech-fund-to-back-growth-stage-startups-14080697.html"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Social",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$4.0B",
-    "amount_usd": 4000000000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-16",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/startup/social-networking-startup-frnd-nearly-doubles-fy26-revenue-to-rs-367-crore-net-profit-jumps-14081147.html"
+      "https://entrackr.com/news/ribbit-capital-sells-rs-1905-cr-stake-in-groww-through-block-deal-12819027"
     ],
     "confidence": 0.6,
     "summary": "",
@@ -674,101 +581,6 @@
     "city": ""
   },
   {
-    "company_name": "Oister Global",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$3.0B",
-    "amount_usd": 3000000000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-16",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/snippets/oister-global-launches-rs-600-cr-deep-tech-fund-to-back-growth-stage-startups-12813755"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Urban Company",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹2500 Cr ($301.2M)",
-    "amount_usd": 301204819.28,
-    "currency": "INR",
-    "announced_on": "2026-11-16",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/news/urban-company-opens-rs-2500-cr-qip-sets-floor-price-at-rs-16103-per-share-12814907"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "FirstCry",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹2396 Cr ($288.7M)",
-    "amount_usd": 288674698.8,
-    "currency": "INR",
-    "announced_on": "2026-11-14",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://entrackr.com/fintrackr/firstcry-nears-rs-2400-cr-revenue-in-q2-fy27-losses-narrow-75-12809625"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Festive",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹1 L ($2K)",
-    "amount_usd": 1698.8,
-    "currency": "INR",
-    "announced_on": "2026-11-12",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/startup/festive-online-sales-rise-17-to-rs-1-41-lakh-crore-slowest-growth-since-2023-14077755.html"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Chennai-based Adyar Ananda Bhavan",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$180M",
-    "amount_usd": 180000000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-12",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/funding/chennai-based-adyar-ananda-bhavan-sells-majority-stake-to-bodhi-tree-systems-for-180-million-14078464.html"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
     "company_name": "ValueQuest",
     "sector": "",
     "sector_raw": null,
@@ -782,25 +594,6 @@
     "investors": [],
     "sources": [
       "https://yourstory.com/2026/11/valuequest-commits-rs-775-cr-to-advance-indias-defence-manufacturing-push"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "WestBridge Capital",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "$500M",
-    "amount_usd": 500000000.0,
-    "currency": "USD",
-    "announced_on": "2026-11-11",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/startup/westbridge-capital-sees-six-investment-team-exits-this-year-as-it-slows-fresh-bets-14072658.html"
     ],
     "confidence": 0.6,
     "summary": "",
@@ -822,63 +615,6 @@
       "https://yourstory.com/2026/11/arka-fincap-raises-rs-525-crore-from-the-rise-funds-of-tpg"
     ],
     "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Honasa Consumer Q2",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹73 Cr ($8.8M)",
-    "amount_usd": 8819277.11,
-    "currency": "INR",
-    "announced_on": "2026-11-06",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/earnings/honasa-consumer-q2-results-mamaearth-parent-s-net-profit-rises-87-yoy-to-rs-73-crore-revenue-up-36-14072900.html"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "PhysicsWallah Q2: Net",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "₹144 Cr ($17.3M)",
-    "amount_usd": 17301204.82,
-    "currency": "INR",
-    "announced_on": "2026-11-04",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/earnings/physicswallah-q2-net-profit-doubles-yoy-to-rs-143-6-crore-revenue-rises-18-yoy-14069827.html"
-    ],
-    "confidence": 0.6,
-    "summary": "",
-    "city": ""
-  },
-  {
-    "company_name": "Jimmy Tata",
-    "sector": "",
-    "sector_raw": null,
-    "stage": "Undisclosed",
-    "stage_raw": "undisclosed",
-    "amount": "",
-    "amount_usd": null,
-    "currency": "",
-    "announced_on": "2026-11-16",
-    "lead_investor": "",
-    "investors": [],
-    "sources": [
-      "https://www.moneycontrol.com/news/business/jimmy-tata-backs-chandrasekaran-s-third-term-tata-sons-listing-amid-rift-with-noel-tata-report-14080759.html"
-    ],
-    "confidence": 0.4,
     "summary": "",
     "city": ""
   }
